@@ -1,0 +1,92 @@
+[
+    {
+        "Sl no.": 1,
+        "Name": "Woodstock School",
+        "Address": "Mussoorie, Uttarakhand",
+        "Gender": "Co-Ed School",
+        "Board": "IGCSE",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹18,05,000"
+    },
+    {
+        "Sl no.": 2,
+        "Name": "Canadian International School",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IGCSE",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹13,00,000"
+    },
+    {
+        "Sl no.": 3,
+        "Name": "Lancers International School",
+        "Address": "Gurugram, Haryana",
+        "Gender": "Co-Ed School",
+        "Board": "IGCSE",
+        "Grade": "Class 1 - 12",
+        "Fees": "₹11,26,800"
+    },
+    {
+        "Sl no.": 4,
+        "Name": "The Doon School",
+        "Address": "Dehradun, Uttarakhand",
+        "Gender": "Boys School",
+        "Board": "IGCSE",
+        "Grade": "Class 7 - 12",
+        "Fees": "₹11,20,000"
+    },
+    {
+        "Sl no.": 5,
+        "Name": "The International School Bangalore",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IGCSE",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹10,90,000"
+    },
+    {
+        "Sl no.": 6,
+        "Name": "Good Shepherd International School",
+        "Address": "Ooty, Tamil Nadu",
+        "Gender": "Co-Ed School",
+        "Board": "IGCSE",
+        "Grade": "Class 3 - 12",
+        "Fees": "₹9,50,000"
+    },
+    {
+        "Sl no.": 7,
+        "Name": "Unison World School",
+        "Address": "Dehradun, Uttarakhand",
+        "Gender": "Girls School",
+        "Board": "IGCSE",
+        "Grade": "Class 5 - 12",
+        "Fees": "₹8,90,000"
+    },
+    {
+        "Sl no.": 8,
+        "Name": "G. D. Goenka World School",
+        "Address": "Gurugram, Haryana",
+        "Gender": "Co-Ed School",
+        "Board": "IGCSE",
+        "Grade": "Class 3 - 12",
+        "Fees": "₹7,90,630"
+    },
+    {
+        "Sl no.": 9,
+        "Name": "Hopetown Girls School",
+        "Address": "Dehradun, Uttarakhand",
+        "Gender": "Girls School",
+        "Board": "IGCSE",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹7,90,000"
+    },
+    {
+        "Sl no.": 10,
+        "Name": "Sarala Birla Academy",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Boys School",
+        "Board": "IGCSE",
+        "Grade": "Class 5 - 12",
+        "Fees": "₹7,22,200"
+    }
+]
