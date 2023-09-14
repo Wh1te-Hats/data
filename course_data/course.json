@@ -1,290 +1,296 @@
 [
-    {
-        "stream": "pcb",
-        "1": {
-          "course name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
-          "course description": "MBBS is a professional undergraduate degree that prepares students for careers as medical doctors.",
-          "course duration": "5.5 years (including internship)",
-          "career opportunities": "Medical doctor, physician, surgeon, researcher",
-          "eligibility requirements": "10+2 with PCB subjects and qualifying medical entrance exam",
-          "course curriculum": "Anatomy, Physiology, Biochemistry, Pharmacology, Clinical Medicine, Surgery, etc.",
-          "course structure": "Divided into pre-clinical and clinical phases, including internship."
-        },
-        "2": {
-          "course name": "Bachelor of Dental Surgery",
-          "course description": "This program focuses on dental science and prepares students for careers as dentists.",
-          "course duration": "5 years",
-          "career opportunities": "Dentist, oral surgeon, orthodontist, periodontist",
-          "eligibility requirements": "10+2 with PCB subjects and qualifying dental entrance exam",
-          "course curriculum": "Dental Anatomy, Oral Medicine, Surgery, Orthodontics, etc.",
-          "course structure": "Includes clinical training and practice."
-        },
-        "3": {
-          "course name": "Bachelor of Pharmacy",
-          "course description": "BPharm covers pharmaceutical sciences and prepares students for careers in the pharmaceutical industry.",
-          "course duration": "4 years",
-          "career opportunities": "Pharmacist, pharmaceutical researcher, drug developer",
-          "eligibility requirements": "10+2 with PCB or PCM subjects and qualifying pharmacy entrance exam",
-          "course curriculum": "Pharmacology, Medicinal Chemistry, Pharmaceutics, Pharmacognosy, etc.",
-          "course structure": "Includes theory, lab work, and practical training."
-        },
-        "4": {
-          "course name": "Bachelor of Medical Lab Technology",
-          "course description": "BMLT equips students with the skills needed to work in medical laboratories and conduct tests.",
-          "course duration": "3 years",
-          "career opportunities": "Medical lab technologist, lab supervisor, research assistant",
-          "eligibility requirements": "10+2 with PCB subjects",
-          "course curriculum": "Clinical Biochemistry, Hematology, Microbiology, Pathology, etc.",
-          "course structure": "Includes lab work and clinical training."
-        },
-        "5": {
-          "course name": "Diploma courses in operation theatre technology, medical laboratory, x-ray technology",
-          "course description": "Diploma programs provide specialized training for healthcare support roles in various fields.",
-          "course duration": "2-3 years (vary by program)",
-          "career opportunities": "Operation theatre technician, lab technician, radiology technician",
-          "eligibility requirements": "10+2 with PCB subjects (may vary by program)",
-          "course curriculum": "Program-specific coursework and practical training",
-          "course structure": "Short-term intensive training programs."
-        }
-      },
-      {
-        "stream": "pcm",
-        "1": {
-          "course name": "Bachelor of Technology",
-          "course description": "BTech programs offer specialized training in engineering and technology.",
-          "course duration": "4 years",
-          "career opportunities": "Engineer, software developer, IT consultant",
-          "eligibility requirements": "10+2 with PCM subjects and qualifying engineering entrance exam",
-          "course curriculum": "Core engineering subjects, electives, and practical labs",
-          "course structure": "Semester-based coursework and project work."
-        },
-        "2": {
-          "course name": "Bachelor of Science",
-          "course description": "BSc programs provide a broad-based education in science, including physics, chemistry, and mathematics.",
-          "course duration": "3 years",
-          "career opportunities": "Scientist, research assistant, educator",
-          "eligibility requirements": "10+2 with PCM subjects",
-          "course curriculum": "Physics, Chemistry, Mathematics, and electives",
-          "course structure": "Semester-based coursework and lab experiments."
-        },
-        "3": {
-          "course name": "BSc Nuclear Medicine Technology",
-          "course description": "This program focuses on nuclear medicine technology for diagnosis and therapy.",
-          "course duration": "3 years",
-          "career opportunities": "Nuclear medicine technologist, radiopharmacist",
-          "eligibility requirements": "10+2 with PCM or PCB subjects",
-          "course curriculum": "Radiopharmaceuticals, Imaging Techniques, Nuclear Medicine Procedures, etc.",
-          "course structure": "Combination of theory and practical training."
-        },
-        "4": {
-          "course name": "Merchant Navy",
-          "course description": "Merchant Navy courses prepare individuals for careers in the maritime industry as officers or crew members.",
-          "course duration": "Varies by program (e.g., 3-year BSc Nautical Science)",
-          "career opportunities": "Deck officer, marine engineer, navigation officer",
-          "eligibility requirements": "Varies by program, typically 10+2 with PCM subjects",
-          "course curriculum": "Navigation, Marine Engineering, Seamanship, etc.",
-          "course structure": "Combination of academic study and sea training."
-        },
-        "5": {
-          "course name": "Forensic Science",
-          "course description": "Forensic science programs teach students the principles and techniques of solving crimes through scientific analysis.",
-          "course duration": "3 years (BSc in Forensic Science)",
-          "career opportunities": "Forensic scientist, crime scene investigator, forensic analyst",
-          "eligibility requirements": "10+2 with PCM or PCB subjects",
-          "course curriculum": "Forensic chemistry, DNA analysis, crime scene investigation, etc.",
-          "course structure": "Includes laboratory work and fieldwork."
-        },
-        "6": {
-          "course name": "Criminology",
-          "course description": "Criminology programs study the causes and consequences of crime, as well as criminal justice systems.",
-          "course duration": "3 years (BSc in Criminology)",
-          "career opportunities": "Criminologist, law enforcement, criminal profiler",
-          "eligibility requirements": "10+2 with any stream",
-          "course curriculum": "Criminological theories, criminal law, criminal justice systems, etc.",
-          "course structure": "Combines theory, research, and practical aspects."
-        }
-      },
-      {
-        "stream": "pcmb",
-        "1": {
-          "course name": "Bachelor of Technology",
-          "course description": "BTech programs offer specialized training in engineering and technology.",
-          "course duration": "4 years",
-          "career opportunities": "Biochemical engineer, biotechnologist, research scientist",
-          "eligibility requirements": "10+2 with PCM or PCB subjects and qualifying engineering entrance exam",
-          "course curriculum": "Core engineering subjects, biotechnology courses, and practical labs",
-          "course structure": "Semester-based coursework and research projects."
-        },
-        "2": {
-          "course name": "Molecular Biologist",
-          "course description": "Molecular biology programs focus on the study of biological molecules and genetic processes.",
-          "course duration": "3 years (BSc in Molecular Biology)",
-          "career opportunities": "Molecular biologist, geneticist, biotechnology researcher",
-          "eligibility requirements": "10+2 with PCB subjects",
-          "course curriculum": "Molecular genetics, DNA analysis, cellular biology, etc.",
-          "course structure": "Combines theory and laboratory work."
-        },
-        "3": {
-          "course name": "Forensic Science",
-          "course description": "Forensic science programs teach students the principles and techniques of solving crimes through scientific analysis.",
-          "course duration": "3 years (BSc in Forensic Science)",
-          "career opportunities": "Forensic scientist, crime scene investigator, forensic analyst",
-          "eligibility requirements": "10+2 with PCM or PCB subjects",
-          "course curriculum": "Forensic chemistry, DNA analysis, crime scene investigation, etc.",
-          "course structure": "Includes laboratory work and fieldwork."
-        },
-        "4": {
-          "course name": "Biochemical Engineer",
-          "course description": "Biochemical engineering programs combine biology and engineering principles for biotechnology applications.",
-          "course duration": "4 years",
-          "career opportunities": "Biochemical engineer, bioprocess engineer, pharmaceutical researcher",
-          "eligibility requirements": "10+2 with PCM or PCB subjects",
-          "course curriculum": "Biochemical kinetics, Bioprocess engineering, Bioinformatics, etc.",
-          "course structure": "Incorporates engineering and biological sciences."
-        },
-        "5": {
-          "course name": "Bio-Chemist",
-          "course description": "Biochemists study the chemical processes and substances within living organisms.",
-          "course duration": "3 years (BSc in Biochemistry)",
-          "career opportunities": "Biochemist, research scientist, pharmaceutical researcher",
-          "eligibility requirements": "10+2 with PCB subjects",
-          "course curriculum": "Biochemical pathways, Enzyme kinetics, Molecular biology, etc.",
-          "course structure": "Focuses on biochemistry principles and lab work."
-        },
-        "6": {
-          "course name": "Dentist",
-          "course description": "Dentistry programs train students to become dental professionals who diagnose and treat oral health issues.",
-          "course duration": "5 years (Bachelor of Dental Surgery)",
-          "career opportunities": "Dentist, oral surgeon, orthodontist",
-          "eligibility requirements": "10+2 with PCB subjects and qualifying dental entrance exam",
-          "course curriculum": "Dental Anatomy, Oral Medicine, Surgery, Orthodontics, etc.",
-          "course structure": "Includes clinical training and practice."
-        },
-        "7": {
-          "course name": "Doctor",
-          "course description": "Medical programs leading to a Doctor of Medicine (MD) or equivalent degree, preparing students to become medical doctors.",
-          "course duration": "5.5 years (including internship)",
-          "career opportunities": "Medical doctor, physician, surgeon, researcher",
-          "eligibility requirements": "10+2 with PCB subjects and qualifying medical entrance exam",
-          "course curriculum": "Anatomy, Physiology, Biochemistry, Pharmacology, Clinical Medicine, Surgery, etc.",
-          "course structure": "Divided into pre-clinical and clinical phases, including internship."
-        }
-      },
+  {
+    "stream": "pcb",
+    "1": {
+      "course name": "Bachelor of Medicine and Bachelor of Surgery (MBBS)",
+      "course description": "MBBS is a comprehensive 5.5-year undergraduate program, including a mandatory internship, aimed at preparing students for fulfilling careers as medical doctors. Students gain in-depth knowledge of subjects such as Anatomy, Physiology, Biochemistry, Pharmacology, Clinical Medicine, Surgery, and more.",
+      "course duration": "5.5 years (including internship)",
+      "career opportunities": "Graduates can pursue careers as medical doctors, physicians, surgeons, or researchers, contributing to healthcare and medical advancements.",
+      "eligibility requirements": "To be eligible, students must have completed 10+2 with PCB subjects and cleared a qualifying medical entrance exam.",
+      "course curriculum": "The program's curriculum covers a wide range of medical subjects, offering a strong foundation in both theory and practical skills necessary for medical practice.",
+      "course structure": "It is divided into pre-clinical and clinical phases, with the latter including hands-on clinical training and an internship period."
+    },
+    "2": {
+      "course name": "Bachelor of Dental Surgery",
+      "course description": "This 5-year program is dedicated to dental science and prepares students for careers as dentists, oral surgeons, orthodontists, and periodontists. The curriculum includes comprehensive coursework in Dental Anatomy, Oral Medicine, Surgery, Orthodontics, and related fields.",
+      "course duration": "5 years",
+      "career opportunities": "Graduates can pursue careers as dentists, oral surgeons, orthodontists, or periodontists, focusing on oral health and dental care.",
+      "eligibility requirements": "To be eligible, students must have completed 10+2 with PCB subjects and successfully cleared a qualifying dental entrance exam.",
+      "course curriculum": "The program's curriculum emphasizes dental science and practice, equipping students with the knowledge and skills required for dental care and surgery.",
+      "course structure": "It includes clinical training and practice, allowing students to work with patients and gain practical experience."
+    },
+    "3": {
+      "course name": "Bachelor of Pharmacy",
+      "course description": "BPharm is a 4-year program dedicated to pharmaceutical sciences, preparing students for careers as pharmacists, pharmaceutical researchers, and drug developers. The curriculum covers a range of subjects, including Pharmacology, Medicinal Chemistry, Pharmaceutics, Pharmacognosy, and more.",
+      "course duration": "4 years",
+      "career opportunities": "Graduates can work as pharmacists, pharmaceutical researchers, or drug developers, contributing to the pharmaceutical industry.",
+      "eligibility requirements": "Eligibility requires completing 10+2 with PCB or PCM subjects and successfully clearing a qualifying pharmacy entrance exam.",
+      "course curriculum": "The program's curriculum focuses on pharmaceutical sciences, teaching students about drugs, medications, and their applications in healthcare.",
+      "course structure": "It includes a mix of theoretical classes, laboratory work, and practical training to ensure students are well-prepared for pharmacy-related roles."
+    },
+    "4": {
+      "course name": "Bachelor of Medical Lab Technology",
+      "course description": "BMLT is a 3-year program designed to equip students with the skills needed for roles as medical lab technologists, lab supervisors, and research assistants. The curriculum covers essential subjects like Clinical Biochemistry, Hematology, Microbiology, and Pathology.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can pursue careers as medical lab technologists, lab supervisors, or research assistants, playing a crucial role in diagnostic healthcare.",
+      "eligibility requirements": "To be eligible, students must have completed 10+2 with PCB subjects.",
+      "course curriculum": "The program's curriculum emphasizes laboratory sciences, providing students with the knowledge and hands-on skills necessary for medical testing and analysis.",
+      "course structure": "It includes extensive lab work and clinical training to ensure students are proficient in performing various medical tests and procedures."
+    },
+    "5": {
+      "course name": "Diploma courses in operation theatre technology, medical laboratory, x-ray technology",
+      "course description": "Diploma programs, typically lasting 2-3 years, offer specialized training for healthcare support roles such as operation theatre technicians, lab technicians, and radiology technicians. These programs include program-specific coursework and hands-on practical training.",
+      "course duration": "2-3 years (duration varies by program)",
+      "career opportunities": "Graduates can find opportunities as operation theatre technicians, lab technicians, or radiology technicians, supporting healthcare professionals in critical roles.",
+      "eligibility requirements": "Eligibility requirements typically involve completing 10+2 with PCB subjects, although specific requirements may vary by program.",
+      "course curriculum": "Each program offers a focused curriculum tailored to the respective healthcare support role, ensuring that students acquire the necessary skills for their specific field.",
+      "course structure": "These programs are characterized by short-term, intensive training that combines classroom learning with hands-on practical experience to quickly prepare students for their roles."
+    }
+  }
+  
+  ,
+  {
+    "stream": "pcm",
+    "1": {
+      "course name": "Bachelor of Technology",
+      "course description": "BTech programs offer specialized training in engineering and technology. These 4-year programs encompass a wide range of engineering disciplines, fostering problem-solving skills and technological innovation. Students gain expertise in subjects like Electronics, Computer Science, and Mechanical Engineering.",
+      "course duration": "4 years",
+      "career opportunities": "Engineer, software developer, IT consultant",
+      "eligibility requirements": "10+2 with PCM subjects and qualifying engineering entrance exam",
+      "course curriculum": "The curriculum includes core engineering subjects, specialized electives, and hands-on practical labs, enabling students to apply theoretical knowledge to real-world engineering challenges.",
+      "course structure": "The program follows a semester-based structure, with each year focusing on specific engineering disciplines. It culminates in project work that encourages innovative problem-solving."
+    },
+    "2": {
+      "course name": "Bachelor of Science",
+      "course description": "BSc programs provide a broad-based education in science, encompassing physics, chemistry, and mathematics. These 3-year programs lay the foundation for scientific inquiry and research, equipping students with critical thinking and analytical skills.",
+      "course duration": "3 years",
+      "career opportunities": "Scientist, research assistant, educator",
+      "eligibility requirements": "10+2 with PCM subjects",
+      "course curriculum": "The curriculum covers Physics, Chemistry, Mathematics, and allows for elective courses. It fosters scientific inquiry, laboratory experimentation, and theoretical exploration.",
+      "course structure": "The program adopts a semester-based approach, with a focus on hands-on laboratory experiments. It encourages students to engage in scientific research and exploration."
+    },
+    "3": {
+      "course name": "BSc Nuclear Medicine Technology",
+      "course description": "This 3-year program specializes in nuclear medicine technology for diagnosis and therapy. Students delve into the principles of nuclear medicine, radiopharmaceuticals, and medical imaging techniques.",
+      "course duration": "3 years",
+      "career opportunities": "Nuclear medicine technologist, radiopharmacist",
+      "eligibility requirements": "10+2 with PCM or PCB subjects",
+      "course curriculum": "The curriculum emphasizes radiopharmaceuticals, Imaging Techniques, Nuclear Medicine Procedures, and patient care. It integrates theoretical knowledge with practical skills.",
+      "course structure": "The program offers a comprehensive blend of theory and practical training, including clinical rotations, to ensure graduates are well-prepared for the healthcare industry."
+    },
+    "4": {
+      "course name": "Merchant Navy",
+      "course description": "Merchant Navy courses prepare individuals for careers in the maritime industry as officers or crew members. Programs vary in duration but often include a 3-year BSc Nautical Science program that focuses on navigation, marine engineering, and seamanship.",
+      "course duration": "Varies by program (e.g., 3-year BSc Nautical Science)",
+      "career opportunities": "Deck officer, marine engineer, navigation officer",
+      "eligibility requirements": "Varies by program, typically 10+2 with PCM subjects",
+      "course curriculum": "The curriculum covers Navigation, Marine Engineering, Seamanship, and maritime regulations. It emphasizes practical training aboard ships.",
+      "course structure": "Programs combine academic study with extensive sea training, ensuring graduates are well-prepared for roles in the maritime industry."
+    },
+    "5": {
+      "course name": "Forensic Science",
+      "course description": "Forensic science programs teach students the principles and techniques of solving crimes through scientific analysis. The 3-year BSc in Forensic Science covers forensic chemistry, DNA analysis, and crime scene investigation.",
+      "course duration": "3 years (BSc in Forensic Science)",
+      "career opportunities": "Forensic scientist, crime scene investigator, forensic analyst",
+      "eligibility requirements": "10+2 with PCM or PCB subjects",
+      "course curriculum": "The curriculum encompasses Forensic Chemistry, DNA Analysis, Crime Scene Investigation, and courtroom procedures. It focuses on both theoretical knowledge and practical application.",
+      "course structure": "The program includes laboratory work, fieldwork, and mock crime scene investigations, providing hands-on experience in forensic analysis."
+    },
+    "6": {
+      "course name": "Criminology",
+      "course description": "Criminology programs study the causes and consequences of crime, as well as criminal justice systems. The 3-year BSc in Criminology covers criminological theories, criminal law, criminal justice systems, and criminal profiling.",
+      "course duration": "3 years (BSc in Criminology)",
+      "career opportunities": "Criminologist, law enforcement, criminal profiler",
+      "eligibility requirements": "10+2 with any stream",
+      "course curriculum": "The curriculum delves into Criminological Theories, Criminal Law, Criminal Justice Systems, and criminal profiling techniques. It blends theory, research, and practical aspects.",
+      "course structure": "The program encourages students to engage in hands-on research, internships with law enforcement agencies, and field studies to gain practical insights into criminology."
+    }
+  }
+  ,
+  {
+    "stream": "pcmb",
+    "1": {
+      "course name": "Bachelor of Technology",
+      "course description": "BTech programs offer specialized training in engineering and technology. This 4-year program provides a strong foundation in core engineering subjects while offering a focus on biotechnology. Graduates can pursue careers as biochemical engineers, biotechnologists, or research scientists.",
+      "course duration": "4 years",
+      "career opportunities": "Graduates can work in roles such as biochemical engineers, biotechnologists, or research scientists, contributing to advancements in biotechnology.",
+      "eligibility requirements": "Eligibility requires completing 10+2 with PCM or PCB subjects and successfully clearing a qualifying engineering entrance exam.",
+      "course curriculum": "The curriculum encompasses core engineering subjects, biotechnology courses, and hands-on practical labs, providing students with a comprehensive understanding of engineering and biotechnology principles.",
+      "course structure": "It follows a semester-based structure with a focus on research projects, allowing students to engage in practical applications of their knowledge."
+    },
+    "2": {
+      "course name": "Molecular Biologist",
+      "course description": "Molecular biology programs focus on the study of biological molecules and genetic processes. The 3-year BSc in Molecular Biology program provides students with knowledge in molecular genetics, DNA analysis, cellular biology, and related fields.",
+      "course duration": "3 years (BSc in Molecular Biology)",
+      "career opportunities": "Graduates can pursue careers as molecular biologists, geneticists, or biotechnology researchers, contributing to advancements in genetics and molecular biology.",
+      "eligibility requirements": "To be eligible, students must have completed 10+2 with PCB subjects.",
+      "course curriculum": "The program's curriculum delves into molecular genetics, DNA analysis, cellular biology, and related topics, providing students with a deep understanding of molecular processes.",
+      "course structure": "It combines theoretical classes with laboratory work, allowing students to apply molecular biology principles in practical settings."
+    },
+    "3": {
+      "course name": "Forensic Science",
+      "course description": "Forensic science programs teach students the principles and techniques of solving crimes through scientific analysis. The 3-year BSc in Forensic Science program covers forensic chemistry, DNA analysis, and crime scene investigation.",
+      "course duration": "3 years (BSc in Forensic Science)",
+      "career opportunities": "Graduates can pursue careers as forensic scientists, crime scene investigators, or forensic analysts, playing crucial roles in solving crimes.",
+      "eligibility requirements": "Eligibility requires completing 10+2 with PCM or PCB subjects.",
+      "course curriculum": "The curriculum encompasses forensic chemistry, DNA analysis, crime scene investigation, and legal aspects of forensics, preparing students for forensic analysis and investigation.",
+      "course structure": "It includes laboratory work, fieldwork, and mock crime scene investigations, providing hands-on experience in forensic analysis."
+    },
+    "4": {
+      "course name": "Biochemical Engineer",
+      "course description": "Biochemical engineering programs combine biology and engineering principles for biotechnology applications. This 4-year program equips students with the knowledge and skills needed to work as biochemical engineers, bioprocess engineers, or pharmaceutical researchers.",
+      "course duration": "4 years",
+      "career opportunities": "Graduates can pursue careers as biochemical engineers, bioprocess engineers, or pharmaceutical researchers, contributing to biotechnology and pharmaceutical industries.",
+      "eligibility requirements": "Eligibility requires completing 10+2 with PCM or PCB subjects.",
+      "course curriculum": "The curriculum covers biochemical kinetics, bioprocess engineering, bioinformatics, and related topics, bridging the gap between biology and engineering.",
+      "course structure": "It incorporates both engineering and biological sciences, allowing students to apply their knowledge to biotechnology processes."
+    },
+    "5": {
+      "course name": "Bio-Chemist",
+      "course description": "Biochemists study the chemical processes and substances within living organisms. The 3-year BSc in Biochemistry program focuses on biochemical pathways, enzyme kinetics, molecular biology, and related subjects.",
+      "course duration": "3 years (BSc in Biochemistry)",
+      "career opportunities": "Graduates can work as biochemists, research scientists, or pharmaceutical researchers, contributing to our understanding of biochemical processes.",
+      "eligibility requirements": "Eligibility requires completing 10+2 with PCB subjects.",
+      "course curriculum": "The program's curriculum delves into biochemical pathways, enzyme kinetics, molecular biology, and other biochemical topics, enabling students to explore the intricacies of living organisms.",
+      "course structure": "It emphasizes biochemistry principles and laboratory work, allowing students to conduct experiments and gain insights into biochemical processes."
+    },
+    "6": {
+      "course name": "Dentist",
+      "course description": "Dentistry programs train students to become dental professionals who diagnose and treat oral health issues. The 5-year Bachelor of Dental Surgery program covers Dental Anatomy, Oral Medicine, Surgery, Orthodontics, and related subjects.",
+      "course duration": "5 years (Bachelor of Dental Surgery)",
+      "career opportunities": "Graduates can work as dentists, oral surgeons, or orthodontists, specializing in oral healthcare and dental treatments.",
+      "eligibility requirements": "To be eligible, students must have completed 10+2 with PCB subjects and successfully cleared a qualifying dental entrance exam.",
+      "course curriculum": "The curriculum encompasses Dental Anatomy, Oral Medicine, Surgery, Orthodontics, and other dental subjects, providing students with comprehensive dental knowledge and skills.",
+      "course structure": "It includes clinical training and practice, allowing students to gain hands-on experience in diagnosing and treating oral health issues."
+    },
+    "7": {
+      "course name": "Doctor",
+      "course description": "Medical programs leading to a Doctor of Medicine (MD) or equivalent degree prepare students to become medical doctors. These 5.5-year programs, including an internship, cover subjects like Anatomy, Physiology, Biochemistry, Pharmacology, Clinical Medicine, and Surgery.",
+      "course duration": "5.5 years (including internship)",
+      "career opportunities": "Graduates can pursue careers as medical doctors, physicians, surgeons, or researchers, contributing to healthcare and medical advancements.",
+      "eligibility requirements": "Eligibility requires completing 10+2 with PCB subjects and successfully clearing a qualifying medical entrance exam.",
+      "course curriculum": "The curriculum covers a wide range of medical subjects, offering a strong foundation in both theory and practical skills necessary for medical practice.",
+      "course structure": "It is divided into pre-clinical and clinical phases, with the latter including hands-on clinical training and an internship period."
+    }
+  }
+  ,
       
-      {
-        "stream": "commerce",
-        "1": {
-          "course name": "Bachelors in Commerce",
-          "course description": "BCom programs provide a strong foundation in commerce and business studies.",
-          "course duration": "3 years",
-          "career opportunities": "Accountant, financial analyst, business consultant",
-          "eligibility requirements": "10+2 in any stream",
-          "course curriculum": "Accounting, Business Management, Economics, etc.",
-          "course structure": "Semester-based coursework and projects."
-        },
-        "2": {
-          "course name": "Chartered Accountant",
-          "course description": "Chartered Accountancy is a professional accounting qualification.",
-          "course duration": "Varies (typically 4-5 years)",
-          "career opportunities": "Chartered accountant, auditor, tax consultant",
-          "eligibility requirements": "10+2 in any stream (Foundation course) or graduate degree (Direct Entry)",
-          "course curriculum": "Financial reporting, taxation, audit and assurance, etc.",
-          "course structure": "Consists of multiple levels of exams."
-        },
-        "3": {
-          "course name": "Cost Accountant",
-          "course description": "Cost Accountancy focuses on costing and financial management.",
-          "course duration": "Varies (typically 3-4 years)",
-          "career opportunities": "Cost accountant, financial analyst, budget analyst",
-          "eligibility requirements": "10+2 in any stream (Foundation course) or graduate degree (Direct Entry)",
-          "course curriculum": "Cost accounting, financial management, business strategy, etc.",
-          "course structure": "Involves multiple levels of exams and practical training."
-        },
-        "4": {
-          "course name": "Bachelor in Business Administration",
-          "course description": "BBA programs provide a comprehensive understanding of business management.",
-          "course duration": "3 years",
-          "career opportunities": "Business manager, marketing specialist, entrepreneur",
-          "eligibility requirements": "10+2 in any stream",
-          "course curriculum": "Business management, marketing, finance, human resources, etc.",
-          "course structure": "Semester-based coursework and internships."
-        },
-        "5": {
-          "course name": "Bachelors of Economics",
-          "course description": "BEcon programs focus on economics principles and their applications.",
-          "course duration": "3 years",
-          "career opportunities": "Economist, financial analyst, policy analyst",
-          "eligibility requirements": "10+2 in any stream",
-          "course curriculum": "Microeconomics, Macroeconomics, Economic Policy, etc.",
-          "course structure": "Semester-based coursework and research projects."
-        },
-        "6": {
-          "course name": "Journalism and Mass Communication",
-          "course description": "Journalism and mass communication programs prepare students for careers in media, journalism, and communication.",
-          "course duration": "3 years",
-          "career opportunities": "Journalist, public relations specialist, media producer",
-          "eligibility requirements": "10+2 in any stream",
-          "course curriculum": "Journalism ethics, media production, communication theory, etc.",
-          "course structure": "Combines theory, practical training, and internships."
-        }
-      },
-      {
-        "stream": "arts",
-        "1": {
-          "course name": "Bachelor of Arts (B.A.)",
-          "course description": "BA programs offer a broad-based education in the arts and humanities.",
-          "course duration": "3 years",
-          "career opportunities": "Writer, teacher, counselor, historian",
-          "eligibility requirements": "10+2 in any stream",
-          "course curriculum": "Literature, History, Sociology, Psychology, etc.",
-          "course structure": "Semester-based coursework and research projects."
-        },
-        "2": {
-          "course name": "Bachelor of Fine Arts (B.F.A.)",
-          "course description": "BFA programs focus on various forms of visual and performing arts.",
-          "course duration": "4 years",
-          "career opportunities": "Visual artist, actor, designer, art teacher",
-          "eligibility requirements": "10+2 in any stream (specific art entrance exam may be required)",
-          "course curriculum": "Drawing, painting, theater, sculpture, etc.",
-          "course structure": "Combines studio practice, theory, and exhibitions."
-        },
-        "3": {
-          "course name": "Bachelor of Business Administration (B.B.A.)",
-          "course description": "BBA programs provide a comprehensive understanding of business management.",
-          "course duration": "3 years",
-          "career opportunities": "Business manager, marketing specialist, entrepreneur",
-          "eligibility requirements": "10+2 in any stream",
-          "course curriculum": "Business management, marketing, finance, human resources, etc.",
-          "course structure": "Semester-based coursework and internships."
-        },
-        "4": {
-          "course name": "Bachelor of Journalism and Mass Communication (B.J.M.)",
-          "course description": "Journalism and mass communication programs prepare students for careers in media, journalism, and communication.",
-          "course duration": "3 years",
-          "career opportunities": "Journalist, public relations specialist, media producer",
-          "eligibility requirements": "10+2 in any stream",
-          "course curriculum": "Journalism ethics, media production, communication theory, etc.",
-          "course structure": "Combines theory, practical training, and internships."
-        },
-        "5": {
-          "course name": "Bachelor of Fashion Design (B.F.D.)",
-          "course description": "BFD programs focus on fashion design, garment creation, and fashion industry knowledge.",
-          "course duration": "4 years",
-          "career opportunities": "Fashion designer, fashion stylist, apparel merchandiser",
-          "eligibility requirements": "10+2 in any stream (specific fashion design entrance exam may be required)",
-          "course curriculum": "Fashion sketching, textile design, fashion marketing, etc.",
-          "course structure": "Combines design studio work, theory, and fashion shows."
-        },
-        "6": {
-          "course name": "Bachelor of Hotel Management (B.H.M.)",
-          "course description": "BHM programs prepare students for careers in the hospitality and hotel industry.",
-          "course duration": "3 years",
-          "career opportunities": "Hotel manager, event planner, restaurant manager",
-          "eligibility requirements": "10+2 in any stream",
-          "course curriculum": "Hospitality management, food and beverage service, hotel operations, etc.",
-          "course structure": "Includes practical training in hotels and internships."
-        }
-      }
+  {
+    "stream": "commerce",
+    "1": {
+      "course name": "Bachelors in Commerce",
+      "course description": "BCom programs provide a strong foundation in commerce and business studies. This 3-year program equips students with knowledge in accounting, business management, and economics.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can pursue careers as accountants, financial analysts, or business consultants, contributing to financial management and analysis.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream.",
+      "course curriculum": "The curriculum includes courses in accounting, business management, economics, and related subjects, providing students with a well-rounded commerce education.",
+      "course structure": "It follows a semester-based structure with coursework and projects that enhance practical skills."
+    },
+    "2": {
+      "course name": "Chartered Accountant",
+      "course description": "Chartered Accountancy is a professional accounting qualification that offers specialized training in financial reporting, taxation, and audit and assurance.",
+      "course duration": "Varies (typically 4-5 years)",
+      "career opportunities": "Graduates can become chartered accountants, auditors, or tax consultants, playing key roles in financial compliance and advisory.",
+      "eligibility requirements": "Eligibility for the Foundation course requires completing 10+2 in any stream, while Direct Entry is available for graduates.",
+      "course curriculum": "The curriculum covers financial reporting, taxation, audit and assurance, and other advanced accounting topics, preparing students for accounting and audit roles.",
+      "course structure": "It consists of multiple levels of exams that assess candidates' accounting and auditing expertise."
+    },
+    "3": {
+      "course name": "Cost Accountant",
+      "course description": "Cost Accountancy focuses on costing and financial management, enabling graduates to work as cost accountants, financial analysts, or budget analysts.",
+      "course duration": "Varies (typically 3-4 years)",
+      "career opportunities": "Graduates can pursue careers in cost accounting, financial analysis, or budgeting, contributing to efficient financial management.",
+      "eligibility requirements": "Eligibility for the Foundation course requires completing 10+2 in any stream, while Direct Entry is available for graduates.",
+      "course curriculum": "The curriculum covers cost accounting, financial management, business strategy, and related topics, equipping students with expertise in cost analysis.",
+      "course structure": "It involves multiple levels of exams and practical training, allowing students to apply cost accounting principles."
+    },
+    "4": {
+      "course name": "Bachelor in Business Administration",
+      "course description": "BBA programs provide a comprehensive understanding of business management, preparing graduates for roles as business managers, marketing specialists, or entrepreneurs.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can work in various business management roles, including business managers, marketing specialists, or entrepreneurs, contributing to effective business operations.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream.",
+      "course curriculum": "The curriculum includes courses in business management, marketing, finance, human resources, and related subjects, offering a holistic business education.",
+      "course structure": "It follows a semester-based structure with coursework and internships that provide practical insights into business management."
+    },
+    "5": {
+      "course name": "Bachelors of Economics",
+      "course description": "BEcon programs focus on economics principles and their applications, preparing graduates for careers as economists, financial analysts, or policy analysts.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can work as economists, financial analysts, or policy analysts, contributing to economic research and analysis.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream.",
+      "course curriculum": "The curriculum covers microeconomics, macroeconomics, economic policy, and other economics-related subjects, providing students with a deep understanding of economic principles.",
+      "course structure": "It follows a semester-based structure with coursework and research projects that allow students to explore economic theories and applications."
+    },
+    "6": {
+      "course name": "Journalism and Mass Communication",
+      "course description": "Journalism and mass communication programs prepare students for careers in media, journalism, and communication. This 3-year program covers journalism ethics, media production, communication theory, and more.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can pursue careers as journalists, public relations specialists, or media producers, contributing to effective communication and storytelling.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream.",
+      "course curriculum": "The curriculum encompasses journalism ethics, media production techniques, communication theory, and related subjects, providing students with communication skills and media expertise.",
+      "course structure": "It combines theory, practical training, and internships, allowing students to gain hands-on experience in journalism and mass communication."
+    }
+  }
+  ,
+  {
+    "stream": "arts",
+    "1": {
+      "course name": "Bachelor of Arts (B.A.)",
+      "course description": "BA programs offer a broad-based education in the arts and humanities, spanning literature, history, sociology, psychology, and more. This 3-year program prepares students for roles as writers, teachers, counselors, or historians.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can pursue careers as writers, teachers, counselors, or historians, contributing to various fields in the arts and humanities.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream.",
+      "course curriculum": "The curriculum includes courses in literature, history, sociology, psychology, and other arts and humanities subjects, providing students with a well-rounded education.",
+      "course structure": "It follows a semester-based structure with coursework and research projects that allow students to explore their chosen disciplines."
+    },
+    "2": {
+      "course name": "Bachelor of Fine Arts (B.F.A.)",
+      "course description": "BFA programs focus on various forms of visual and performing arts, including drawing, painting, theater, and sculpture. This 4-year program prepares students for careers as visual artists, actors, designers, or art teachers.",
+      "course duration": "4 years",
+      "career opportunities": "Graduates can work as visual artists, actors, designers, or art teachers, contributing to the world of arts and creativity.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream, although specific art entrance exams may be required.",
+      "course curriculum": "The curriculum encompasses courses in drawing, painting, theater, sculpture, and other forms of artistic expression, providing students with comprehensive arts education.",
+      "course structure": "It combines studio practice, theoretical learning, and opportunities for exhibitions to foster creativity and artistic development."
+    },
+    "3": {
+      "course name": "Bachelor of Business Administration (B.B.A.)",
+      "course description": "BBA programs provide a comprehensive understanding of business management, including areas like business management, marketing, finance, and human resources. This 3-year program prepares graduates for roles as business managers, marketing specialists, or entrepreneurs.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can pursue careers as business managers, marketing specialists, or entrepreneurs, contributing to effective business operations.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream.",
+      "course curriculum": "The curriculum includes courses in business management, marketing, finance, human resources, and related subjects, offering a well-rounded business education.",
+      "course structure": "It follows a semester-based structure with coursework and internships that provide practical insights into business management."
+    },
+    "4": {
+      "course name": "Bachelor of Journalism and Mass Communication (B.J.M.)",
+      "course description": "Journalism and mass communication programs prepare students for careers in media, journalism, and communication. This 3-year program covers journalism ethics, media production, communication theory, and more, equipping graduates for roles as journalists, public relations specialists, or media producers.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can work as journalists, public relations specialists, or media producers, contributing to effective communication and storytelling.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream.",
+      "course curriculum": "The curriculum encompasses journalism ethics, media production techniques, communication theory, and related subjects, providing students with communication skills and media expertise.",
+      "course structure": "It combines theory, practical training, and internships, allowing students to gain hands-on experience in journalism and mass communication."
+    },
+    "5": {
+      "course name": "Bachelor of Fashion Design (B.F.D.)",
+      "course description": "BFD programs focus on fashion design, garment creation, and fashion industry knowledge. This 4-year program covers fashion sketching, textile design, fashion marketing, and more, preparing graduates for roles as fashion designers, stylists, or apparel merchandisers.",
+      "course duration": "4 years",
+      "career opportunities": "Graduates can pursue careers as fashion designers, fashion stylists, or apparel merchandisers, contributing to the dynamic fashion industry.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream, although specific fashion design entrance exams may be required.",
+      "course curriculum": "The curriculum includes courses in fashion sketching, textile design, fashion marketing, and other aspects of fashion design, offering students a comprehensive fashion education.",
+      "course structure": "It combines design studio work, theoretical learning, and opportunities for fashion shows to nurture creative and innovative design skills."
+    },
+    "6": {
+      "course name": "Bachelor of Hotel Management (B.H.M.)",
+      "course description": "BHM programs prepare students for careers in the hospitality and hotel industry. This 3-year program covers hospitality management, food and beverage service, hotel operations, and more, equipping graduates for roles as hotel managers, event planners, or restaurant managers.",
+      "course duration": "3 years",
+      "career opportunities": "Graduates can work as hotel managers, event planners, or restaurant managers, contributing to the hospitality and service industry.",
+      "eligibility requirements": "Eligibility requires completing 10+2 in any stream.",
+      "course curriculum": "The curriculum encompasses hospitality management, food and beverage service, hotel operations, and related subjects, providing students with the skills needed for the hospitality industry.",
+      "course structure": "It includes practical training in hotels and internships, allowing students to gain hands-on experience in various aspects of hospitality management."
+    }
+  }
+  
       
       
 ]
