@@ -1,0 +1,227 @@
+[
+    {
+        "Sl no.": 1,
+        "Name": "Kodaikanal International School",
+        "Address": "kodaikanal, Tamil Nadu",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 5 - 12",
+        "Fees": "₹12,84,000"
+    },
+    {
+        "Sl no.": 2,
+        "Name": "Pathways World School Gurgaon",
+        "Address": "Gurugram, Haryana",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 3 - 12",
+        "Fees": "₹10,00,000"
+    },
+    {
+        "Sl no.": 3,
+        "Name": "Woodstock School",
+        "Address": "Mussoorie, Uttarakhand",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹18,05,000"
+    },
+    {
+        "Sl no.": 4,
+        "Name": "The International School Bangalore",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹10,90,000"
+    },
+    {
+        "Sl no.": 5,
+        "Name": "Sarala Birla Academy",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Boys School",
+        "Board": "IB",
+        "Grade": "Class 5 - 12",
+        "Fees": "₹7,22,200"
+    },
+    {
+        "Sl no.": 6,
+        "Name": "Sharanya Narayani International School",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 1 - 12",
+        "Fees": "₹4,20,000"
+    },
+    {
+        "Sl no.": 7,
+        "Name": "UWC Mahindra College",
+        "Address": "Pune, Maharashtra",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹23,00,000"
+    },
+    {
+        "Sl no.": 8,
+        "Name": "The Aga Khan Academy",
+        "Address": "Hyderabad, Telangana",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹9,71,000"
+    },
+    {
+        "Sl no.": 9,
+        "Name": "Good Shepherd International School",
+        "Address": "Ooty, Tamil Nadu",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 3 - 12",
+        "Fees": "₹9,50,000"
+    },
+    {
+        "Sl no.": 10,
+        "Name": "Genesis Global School",
+        "Address": "Noida, Uttar Pradesh",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 3 - 12",
+        "Fees": "₹8,20,000"
+    },
+    {
+        "Sl no.": 11,
+        "Name": "MIT Pune's Vishwashanti Gurukul - An IB World School",
+        "Address": "Pune, Maharashtra",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 1 - 12",
+        "Fees": "₹5,70,000"
+    },
+    {
+        "Sl no.": 12,
+        "Name": "Mussoorie International School",
+        "Address": "Mussoorie, Uttarakhand",
+        "Gender": "Girls School",
+        "Board": "IB",
+        "Grade": "Class 1 - 12",
+        "Fees": "₹6,47,000"
+    },
+    {
+        "Sl no.": 13,
+        "Name": "Treamis World School",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 3 - 12",
+        "Fees": "₹3,75,000"
+    },
+    {
+        "Sl no.": 14,
+        "Name": "JAIN International Residential School",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 5 - 12",
+        "Fees": "₹8,50,000"
+    },
+    {
+        "Sl no.": 15,
+        "Name": "Oakridge International School",
+        "Address": "VISAKHAPATNAM, Andhra Pradesh",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 4 - 12",
+        "Fees": "₹6,00,000"
+    },
+    {
+        "Sl no.": 16,
+        "Name": "Trivandrum International School",
+        "Address": "Trivandrum, Kerala",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Nursery - 12",
+        "Fees": "₹4,10,000"
+    },
+    {
+        "Sl no.": 17,
+        "Name": "Christ Junior College - Residential",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Boys School",
+        "Board": "IB",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹5,50,000"
+    },
+    {
+        "Sl no.": 18,
+        "Name": "Chinmaya International Residential School",
+        "Address": "Coimbatore, Tamil Nadu",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 5 - 12",
+        "Fees": "₹5,24,400"
+    },
+    {
+        "Sl no.": 19,
+        "Name": "KIIT International School",
+        "Address": "Bhubaneswar, Odisha",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 1 - 12",
+        "Fees": "₹3,17,000"
+    },
+    {
+        "Sl no.": 20,
+        "Name": "Neerja Modi School",
+        "Address": "Jaipur, Rajasthan",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 4 - 12",
+        "Fees": "₹5,00,000"
+    },
+    {
+        "Sl no.": 21,
+        "Name": "Sreenidhi International School",
+        "Address": "Hyderabad, Telangana",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 5 - 12",
+        "Fees": "₹6,83,500"
+    },
+    {
+        "Sl no.": 22,
+        "Name": "BGS International Academia School",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 1 - 12",
+        "Fees": "₹4,00,000"
+    },
+    {
+        "Sl no.": 23,
+        "Name": "Stonehill International School",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹15,00,000"
+    },
+    {
+        "Sl no.": 24,
+        "Name": "Canadian International School",
+        "Address": "Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 6 - 12",
+        "Fees": "₹13,00,000"
+    },
+    {
+        "Sl no.": 25,
+        "Name": "Lancers International School",
+        "Address": "Gurugram, Haryana",
+        "Gender": "Co-Ed School",
+        "Board": "IB",
+        "Grade": "Class 1 - 12",
+        "Fees": "₹11,26,800"
+    }
+]
