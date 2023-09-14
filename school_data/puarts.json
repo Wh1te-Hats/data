@@ -1,0 +1,82 @@
+[
+    {
+        "Sl no.": 1,
+        "Name": "ST JOSEPHS GIRLS PU COLLEGE",
+        "Address": "N0. 49, Promenade Road, Fraser Town, 560005, Bengaluru, Karnataka",
+        "Gender": "Girls School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹74,000"
+    },
+    {
+        "Sl no.": 2,
+        "Name": "Baldwin Girls PU College",
+        "Address": "#90, Richmond Rd, Richmond Town, Bengaluru, Karnataka",
+        "Gender": "Girls School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹60,000"
+    },
+    {
+        "Sl no.": 3,
+        "Name": "St. Josephs Pre-Universtiy College",
+        "Address": "F. M. Cariappa Road(Museum Road), Bengaluru, Karnataka",
+        "Gender": "Boys School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹60,000"
+    },
+    {
+        "Sl no.": 4,
+        "Name": "JYOTI NIVAS PU COLLEGE",
+        "Address": "Hosur Rd, 5th Block, Koramangala, Bengaluru, Karnataka, Bengaluru, Karnataka",
+        "Gender": "Girls School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹52,000"
+    },
+    {
+        "Sl no.": 5,
+        "Name": "Baldwin Boys PU College",
+        "Address": "14, Hosur Rd, Richmond Town, Bengaluru, Karnataka",
+        "Gender": "Boys School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹49,000"
+    },
+    {
+        "Sl no.": 6,
+        "Name": "GR Pre University College",
+        "Address": "B.M.KAVAL, AGARA, TATAGUNI POST, Kanakapura Main Road, Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹45,000"
+    },
+    {
+        "Sl no.": 7,
+        "Name": "National Pre University College",
+        "Address": "Pampa Mahakavi Road, Basavanagudi Bangalore, Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹38,000"
+    },
+    {
+        "Sl no.": 8,
+        "Name": "MES PU COLLEGE",
+        "Address": "M.E.S INSTITUTIONS Prof.M.P.L.Sastry Road 15th cross, 10th Main Rd, Malleshwaram, Bangalore, Karnataka , Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹27,000"
+    },
+    {
+        "Sl no.": 9,
+        "Name": "ST JOSEPH'S PU COLLEGE",
+        "Address": "Attibele - Anekal Rd, oppcourt, KSRTC Colony, Anekal, Karnataka 562106, Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹27,000"
+    },
+    {
+        "Sl no.": 10,
+        "Name": "VV PURAM PU COLLEGE OF ARTS & COMMERCE",
+        "Address": "Krishna Rajendra Road V V Puram, Bengaluru, Karnataka",
+        "Gender": "Co-Ed School",
+        "Grade": "Class 11 - 12",
+        "Fees": "₹15,000"
+    }
+]
