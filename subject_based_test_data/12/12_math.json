@@ -1,0 +1,303 @@
+{
+    "1": {
+      "Question": "What is the inverse of a relation?",
+      "options": ["a. A function", "b. A matrix", "c. Another relation", "d. Not defined"],
+      "correct option": "c",
+      "category": "Relations and Functions"
+    },
+    "2": {
+      "Question": "Which trigonometric function is the inverse of sine?",
+      "options": ["a. Cosine", "b. Tangent", "c. Cosecant", "d. Secant"],
+      "correct option": "c",
+      "category": "Inverse Trigonometric Functions"
+    },
+    "3": {
+      "Question": "What is the order of a square matrix?",
+      "options": ["a. Number of rows", "b. Number of columns", "c. Number of elements", "d. None of the above"],
+      "correct option": "a",
+      "category": "Matrices"
+    },
+    "4": {
+      "Question": "What is the determinant of a 2x2 matrix [a b; c d]?",
+      "options": ["a. ad - bc", "b. ab - cd", "c. a² + b²", "d. (a + d)(b + c)"],
+      "correct option": "a",
+      "category": "Determinants"
+    },
+    "5": {
+      "Question": "What is the limit of a function as it approaches a specific value called?",
+      "options": ["a. Derivative", "b. Integral", "c. Continuity", "d. Limit"],
+      "correct option": "d",
+      "category": "Continuity and Differentiability"
+    },
+    "6": {
+      "Question": "What does the derivative of a function represent?",
+      "options": ["a. Slope of the tangent to the curve", "b. Area under the curve", "c. Total change in the function", "d. Integral of the function"],
+      "correct option": "a",
+      "category": "Applications of Derivatives"
+    },
+    "7": {
+      "Question": "What is the integral of a function?",
+      "options": ["a. Area under the curve", "b. Slope of the tangent to the curve", "c. Derivative of the function", "d. Inverse of the function"],
+      "correct option": "a",
+      "category": "Integrals"
+    },
+    "8": {
+      "Question": "What is the definite integral of a function over a closed interval?",
+      "options": ["a. Zero", "b. A real number", "c. Infinity", "d. Not defined"],
+      "correct option": "b",
+      "category": "Applications of Integrals"
+    },
+    "9": {
+      "Question": "What type of equation involves the derivatives of a function?",
+      "options": ["a. Integral equation", "b. Differential equation", "c. Linear equation", "d. Quadratic equation"],
+      "correct option": "b",
+      "category": "Differential Equations"
+    },
+    "10": {
+      "Question": "What is the dot product of two vectors?",
+      "options": ["a. A scalar", "b. A vector", "c. A matrix", "d. A complex number"],
+      "correct option": "a",
+      "category": "Vector Algebra"
+    },
+    "11": {
+      "Question": "In three-dimensional space, how many coordinates are needed to specify a point?",
+      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+      "correct option": "c",
+      "category": "Three Dimensional Geometry"
+    },
+    "12": {
+      "Question": "What is the graphical representation of a linear programming problem?",
+      "options": ["a. Line", "b. Circle", "c. Polygon", "d. Parabola"],
+      "correct option": "c",
+      "category": "Linear Programming"
+    },
+    "13": {
+      "Question": "In a probability distribution, what is the sum of all probabilities?",
+      "options": ["a. 0", "b. 1", "c. 2", "d. -1"],
+      "correct option": "b",
+      "category": "Probability"
+    },
+    "14": {
+      "Question": "What is the inverse of a relation?",
+      "options": ["a. A function", "b. A matrix", "c. Another relation", "d. Not defined"],
+      "correct option": "c",
+      "category": "Relations and Functions"
+    },
+    "15": {
+      "Question": "Which trigonometric function is the inverse of sine?",
+      "options": ["a. Cosine", "b. Tangent", "c. Cosecant", "d. Secant"],
+      "correct option": "c",
+      "category": "Inverse Trigonometric Functions"
+    },
+    "16": {
+      "Question": "What is the order of a square matrix?",
+      "options": ["a. Number of rows", "b. Number of columns", "c. Number of elements", "d. None of the above"],
+      "correct option": "a",
+      "category": "Matrices"
+    },
+    "17": {
+      "Question": "What is the determinant of a 2x2 matrix [a b; c d]?",
+      "options": ["a. ad - bc", "b. ab - cd", "c. a² + b²", "d. (a + d)(b + c)"],
+      "correct option": "a",
+      "category": "Determinants"
+    },
+    "18": {
+      "Question": "What is the limit of a function as it approaches a specific value called?",
+      "options": ["a. Derivative", "b. Integral", "c. Continuity", "d. Limit"],
+      "correct option": "d",
+      "category": "Continuity and Differentiability"
+    },
+    "19": {
+      "Question": "What does the derivative of a function represent?",
+      "options": ["a. Slope of the tangent to the curve", "b. Area under the curve", "c. Total change in the function", "d. Integral of the function"],
+      "correct option": "a",
+      "category": "Applications of Derivatives"
+    },
+    "20": {
+      "Question": "What is the integral of a function?",
+      "options": ["a. Area under the curve", "b. Slope of the tangent to the curve", "c. Derivative of the function", "d. Inverse of the function"],
+      "correct option": "a",
+      "category": "Integrals"
+    },
+    "21": {
+      "Question": "What is the definite integral of a function over a closed interval?",
+      "options": ["a. Zero", "b. A real number", "c. Infinity", "d. Not defined"],
+      "correct option": "b",
+      "category": "Applications of Integrals"
+    },
+    "22": {
+      "Question": "What type of equation involves the derivatives of a function?",
+      "options": ["a. Integral equation", "b. Differential equation", "c. Linear equation", "d. Quadratic equation"],
+      "correct option": "b",
+      "category": "Differential Equations"
+    },
+    "23": {
+      "Question": "What is the dot product of two vectors?",
+      "options": ["a. A scalar", "b. A vector", "c. A matrix", "d. A complex number"],
+      "correct option": "a",
+      "category": "Vector Algebra"
+    },
+    "24": {
+      "Question": "In three-dimensional space, how many coordinates are needed to specify a point?",
+      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+      "correct option": "c",
+      "category": "Three Dimensional Geometry"
+    },
+    "25": {
+      "Question": "What is the graphical representation of a linear programming problem?",
+      "options": ["a. Line", "b. Circle", "c. Polygon", "d. Parabola"],
+      "correct option": "c",
+      "category": "Linear Programming"
+    },
+    "26": {
+      "Question": "In a probability distribution, what is the sum of all probabilities?",
+      "options": ["a. 0", "b. 1", "c. 2", "d. -1"],
+      "correct option": "b",
+      "category": "Probability"
+    },
+    "27": {
+      "Question": "What is the inverse of a relation?",
+      "options": ["a. A function", "b. A matrix", "c. Another relation", "d. Not defined"],
+      "correct option": "c",
+      "category": "Relations and Functions"
+    },
+    "28": {
+      "Question": "Which trigonometric function is the inverse of sine?",
+      "options": ["a. Cosine", "b. Tangent", "c. Cosecant", "d. Secant"],
+      "correct option": "c",
+      "category": "Inverse Trigonometric Functions"
+    },
+    "29": {
+      "Question": "What is the order of a square matrix?",
+      "options": ["a. Number of rows", "b. Number of columns", "c. Number of elements", "d. None of the above"],
+      "correct option": "a",
+      "category": "Matrices"
+    },
+    "30": {
+      "Question": "What is the determinant of a 2x2 matrix [a b; c d]?",
+      "options": ["a. ad - bc", "b. ab - cd", "c. a² + b²", "d. (a + d)(b + c)"],
+      "correct option": "a",
+      "category": "Determinants"
+    },
+    "31": {
+      "Question": "What is the limit of a function as it approaches a specific value called?",
+      "options": ["a. Derivative", "b. Integral", "c. Continuity", "d. Limit"],
+      "correct option": "d",
+      "category": "Continuity and Differentiability"
+    },
+    "32": {
+      "Question": "What does the derivative of a function represent?",
+      "options": ["a. Slope of the tangent to the curve", "b. Area under the curve", "c. Total change in the function", "d. Integral of the function"],
+      "correct option": "a",
+      "category": "Applications of Derivatives"
+    },
+    "33": {
+      "Question": "What is the integral of a function?",
+      "options": ["a. Area under the curve", "b. Slope of the tangent to the curve", "c. Derivative of the function", "d. Inverse of the function"],
+      "correct option": "a",
+      "category": "Integrals"
+    },
+    "34": {
+      "Question": "What is the definite integral of a function over a closed interval?",
+      "options": ["a. Zero", "b. A real number", "c. Infinity", "d. Not defined"],
+      "correct option": "b",
+      "category": "Applications of Integrals"
+    },
+    "35": {
+      "Question": "What type of equation involves the derivatives of a function?",
+      "options": ["a. Integral equation", "b. Differential equation", "c. Linear equation", "d. Quadratic equation"],
+      "correct option": "b",
+      "category": "Differential Equations"
+    },
+    "36": {
+      "Question": "What is the dot product of two vectors?",
+      "options": ["a. A scalar", "b. A vector", "c. A matrix", "d. A complex number"],
+      "correct option": "a",
+      "category": "Vector Algebra"
+    },
+    "37": {
+      "Question": "In three-dimensional space, how many coordinates are needed to specify a point?",
+      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+      "correct option": "c",
+      "category": "Three Dimensional Geometry"
+    },
+    "38": {
+      "Question": "What is the graphical representation of a linear programming problem?",
+      "options": ["a. Line", "b. Circle", "c. Polygon", "d. Parabola"],
+      "correct option": "c",
+      "category": "Linear Programming"
+    },
+    "39": {
+      "Question": "In a probability distribution, what is the sum of all probabilities?",
+      "options": ["a. 0", "b. 1", "c. 2", "d. -1"],
+      "correct option": "b",
+      "category": "Probability"
+    },
+    "40": {
+      "Question": "What is the inverse of a relation?",
+      "options": ["a. A function", "b. A matrix", "c. Another relation", "d. Not defined"],
+      "correct option": "c",
+      "category": "Relations and Functions"
+    },
+    "41": {
+      "Question": "Which trigonometric function is the inverse of sine?",
+      "options": ["a. Cosine", "b. Tangent", "c. Cosecant", "d. Secant"],
+      "correct option": "c",
+      "category": "Inverse Trigonometric Functions"
+    },
+    "42": {
+      "Question": "What is the order of a square matrix?",
+      "options": ["a. Number of rows", "b. Number of columns", "c. Number of elements", "d. None of the above"],
+      "correct option": "a",
+      "category": "Matrices"
+    },
+    "43": {
+      "Question": "What is the determinant of a 2x2 matrix [a b; c d]?",
+      "options": ["a. ad - bc", "b. ab - cd", "c. a² + b²", "d. (a + d)(b + c)"],
+      "correct option": "a",
+      "category": "Determinants"
+    },
+    "44": {
+      "Question": "What is the limit of a function as it approaches a specific value called?",
+      "options": ["a. Derivative", "b. Integral", "c. Continuity", "d. Limit"],
+      "correct option": "d",
+      "category": "Continuity and Differentiability"
+    },
+    "45": {
+      "Question": "What does the derivative of a function represent?",
+      "options": ["a. Slope of the tangent to the curve", "b. Area under the curve", "c. Total change in the function", "d. Integral of the function"],
+      "correct option": "a",
+      "category": "Applications of Derivatives"
+    },
+    "46": {
+      "Question": "What is the integral of a function?",
+      "options": ["a. Area under the curve", "b. Slope of the tangent to the curve", "c. Derivative of the function", "d. Inverse of the function"],
+      "correct option": "a",
+      "category": "Integrals"
+    },
+    "47": {
+      "Question": "What is the definite integral of a function over a closed interval?",
+      "options": ["a. Zero", "b. A real number", "c. Infinity", "d. Not defined"],
+      "correct option": "b",
+      "category": "Applications of Integrals"
+    },
+    "48": {
+      "Question": "What type of equation involves the derivatives of a function?",
+      "options": ["a. Integral equation", "b. Differential equation", "c. Linear equation", "d. Quadratic equation"],
+      "correct option": "b",
+      "category": "Differential Equations"
+    },
+    "49": {
+      "Question": "What is the dot product of two vectors?",
+      "options": ["a. A scalar", "b. A vector", "c. A matrix", "d. A complex number"],
+      "correct option": "a",
+      "category": "Vector Algebra"
+    },
+    "50": {
+      "Question": "In three-dimensional space, how many coordinates are needed to specify a point?",
+      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+      "correct option": "c",
+      "category": "Three Dimensional Geometry"
+    }
+  }
+  

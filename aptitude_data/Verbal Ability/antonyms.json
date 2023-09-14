@@ -1,0 +1,1216 @@
+[
+    {
+        "topic": "Antonyms",
+        "Question description": "In the following questions choose the word which is the exact OPPOSITE of the given words.",
+        "1": {
+            "Question": "ENORMOUS",
+            "options": [
+                "Soft",
+                "Average",
+                "Tiny",
+                "Weak"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "2": {
+            "Question": "COMMISSIONED",
+            "options": [
+                "Started",
+                "Closed",
+                "Finished",
+                "Terminated"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "3": {
+            "Question": "ARTIFICIAL",
+            "options": [
+                "Red",
+                "Natural",
+                "Truthful",
+                "Solid"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "4": {
+            "Question": "EXODUS",
+            "options": [
+                "Influx",
+                "Home-coming",
+                "Return",
+                "Restoration"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "5": {
+            "Question": "RELINQUISH",
+            "options": [
+                "Abdicate",
+                "Renounce",
+                "Possess",
+                "Deny"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "6": {
+            "Question": "EXPAND",
+            "options": [
+                "Convert",
+                "Condense",
+                "Congest",
+                "Conclude"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "7": {
+            "Question": "MORTAL",
+            "options": [
+                "Divine",
+                "Immortal",
+                "Spiritual",
+                "Eternal"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "8": {
+            "Question": "QUIESCENT",
+            "options": [
+                "ACTIVE",
+                "Dormant",
+                "Weak",
+                "Unconcerned"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "9": {
+            "Question": "OBEYING",
+            "options": [
+                "Ordering",
+                "Following",
+                "Refusing",
+                "Contradicting"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "10": {
+            "Question": "FRAUDULENT",
+            "options": [
+                "Candid",
+                "Direct",
+                "Forthright",
+                "Genuine"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "11": {
+            "Question": "FLAGITIOUS",
+            "options": [
+                "Innocent",
+                "Vapid",
+                "Ignorant",
+                "Frivolous"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "12": {
+            "Question": "BELITTLE",
+            "options": [
+                "Criticize",
+                "Flatter",
+                "Exaggerate",
+                "Adore"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "13": {
+            "Question": "STARTLED",
+            "options": [
+                "Amused",
+                "Relaxed",
+                "Endless",
+                "Astonished"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "14": {
+            "Question": "BUSY",
+            "options": [
+                "Occupied",
+                "Engrossed",
+                "Relaxed",
+                "Engaged"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "15": {
+            "Question": "FRESH",
+            "options": [
+                "Faulty",
+                "Sluggish",
+                "Disgraceful",
+                "Stale"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "16": {
+            "Question": "CULPABLE",
+            "options": [
+                "Defendable",
+                "Blameless",
+                "Careless",
+                "Irresponsible"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "17": {
+            "Question": "EVASIVE",
+            "options": [
+                "Free",
+                "Honest",
+                "Liberal",
+                "Frank"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "18": {
+            "Question": "GREGARIOUS",
+            "options": [
+                "Antisocial",
+                "Glorious",
+                "Horrendous",
+                "Similar"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "19": {
+            "Question": "AWARE",
+            "options": [
+                "Uncertain",
+                "Ignorant",
+                "Sure",
+                "Doubtful"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "20": {
+            "Question": "HIRSUTE",
+            "options": [
+                "Scaly",
+                "Bald",
+                "Erudite",
+                "Quiet"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "21": {
+            "Question": "SHRINK",
+            "options": [
+                "Contract",
+                "Spoil",
+                "Expand",
+                "Stretch"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "22": {
+            "Question": "COMMON",
+            "options": [
+                "Rare",
+                "Small",
+                "Petty",
+                "Poor"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "23": {
+            "Question": "COMFORT",
+            "options": [
+                "Uncomfort",
+                "Miscomfort",
+                "Discomfort",
+                "None Of These"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "24": {
+            "Question": "DEAR",
+            "options": [
+                "Priceless",
+                "Free",
+                "Worthless",
+                "Cheap"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "25": {
+            "Question": "ARROGANT",
+            "options": [
+                "Humble",
+                "Cowardly",
+                "Egotistic",
+                "Gentlemanly"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "26": {
+            "Question": "VICTORIOUS",
+            "options": [
+                "Defeated",
+                "Annexed",
+                "Destroyed",
+                "Vanquished"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "27": {
+            "Question": "GRACEFUL",
+            "options": [
+                "Rough",
+                "Expert",
+                "Miserable",
+                "Awkward"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "28": {
+            "Question": "NADIR",
+            "options": [
+                "Modernity",
+                "Zenith",
+                "Liberty",
+                "Progress"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "29": {
+            "Question": "EXTRAVAGANCE",
+            "options": [
+                "Luxury",
+                "Poverty",
+                "Economical",
+                "Cheapness"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "30": {
+            "Question": "PERTINENT",
+            "options": [
+                "Irrational",
+                "Irregular",
+                "Insistent",
+                "Irrelevant"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "31": {
+            "Question": "OBSCURE",
+            "options": [
+                "Implicit",
+                "Obnoxious",
+                "Explicit",
+                "Pedantic"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "32": {
+            "Question": "URBANE",
+            "options": [
+                "Illiterate",
+                "Backward",
+                "Discourteous",
+                "Orthodox"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "33": {
+            "Question": "VANITY",
+            "options": [
+                "Pride",
+                "Humility",
+                "Conceit",
+                "Ostentatious"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "34": {
+            "Question": "RARELY",
+            "options": [
+                "Hardly",
+                "Definately",
+                "Frequently",
+                "Periodically"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "35": {
+            "Question": "MALICIOUS",
+            "options": [
+                "Kind",
+                "Boastful",
+                "Generous",
+                "Indifferent"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "36": {
+            "Question": "EPILOGUE",
+            "options": [
+                "Dialogue",
+                "Prelude",
+                "Post script",
+                "Epigram"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "37": {
+            "Question": "CAPACIOUS",
+            "options": [
+                "Limited",
+                "Caring",
+                "Foolish",
+                "Changeable"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "38": {
+            "Question": "CONDENSE",
+            "options": [
+                "Expand",
+                "Distribute",
+                "Interpret",
+                "Lengthen"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "39": {
+            "Question": "ADAPTABLE",
+            "options": [
+                "Adoptable",
+                "Flexible",
+                "Yielding",
+                "Rigid"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "40": {
+            "Question": "SACROSANCT",
+            "options": [
+                "Irreligious",
+                "Unethical",
+                "Irreverent",
+                "Unholy"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "41": {
+            "Question": "INDISCREET",
+            "options": [
+                "Reliable",
+                "Honest",
+                "Prudent",
+                "Stupid"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "42": {
+            "Question": "FAMILIAR",
+            "options": [
+                "Unpleasant",
+                "Dangerous",
+                "Friendly",
+                "Strange"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "43": {
+            "Question": "TANGIBLE",
+            "options": [
+                "Ethereal",
+                "Concrete",
+                "Actual",
+                "Solid"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "44": {
+            "Question": "LOVE",
+            "options": [
+                "Villainy",
+                "Hatred",
+                "Compulsion",
+                "Force"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "45": {
+            "Question": "FAMOUS",
+            "options": [
+                "Disgraced",
+                "Unknown",
+                "Evil",
+                "Popular"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "46": {
+            "Question": "ABSOLUTE",
+            "options": [
+                "Deficient",
+                "Faulty",
+                "Limited",
+                "Scarce"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "47": {
+            "Question": "FRUGAL",
+            "options": [
+                "Copious",
+                "Extravagant",
+                "Generous",
+                "Ostentatious"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "48": {
+            "Question": "INSIPID",
+            "options": [
+                "Tasty",
+                "Stupid",
+                "Discreet",
+                "Feast"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "49": {
+            "Question": "ABLE",
+            "options": [
+                "Disable",
+                "Inable",
+                "Unable",
+                "Misable"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "50": {
+            "Question": "HOSTILITY",
+            "options": [
+                "Courtesy",
+                "Hospitality",
+                "Relationship",
+                "Friendliness"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "51": {
+            "Question": "CROWDED",
+            "options": [
+                "Busy",
+                "Congested",
+                "Quiet",
+                "Deserted"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "52": {
+            "Question": "COMIC",
+            "options": [
+                "Emotional",
+                "Tragic",
+                "Fearful",
+                "Painful"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "53": {
+            "Question": "HAPLESS",
+            "options": [
+                "Cheerful",
+                "Consistent",
+                "Fortunate",
+                "Shapely"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "54": {
+            "Question": "FLIMSY",
+            "options": [
+                "Frail",
+                "Filthy",
+                "Firm",
+                "Flippant"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "55": {
+            "Question": "EQUANIMITY",
+            "options": [
+                "Resentment",
+                "Dubiousness",
+                "Duplicity",
+                "Excitement"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "56": {
+            "Question": "ADDITION",
+            "options": [
+                "Division",
+                "Enumeration",
+                "Subtraction",
+                "Multiplication"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "57": {
+            "Question": "ZENITH",
+            "options": [
+                "Acme",
+                "Top",
+                "Nadir",
+                "Pinnacle"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "58": {
+            "Question": "DOUBTFUL",
+            "options": [
+                "Famous",
+                "Certain",
+                "Fixed",
+                "Important"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "59": {
+            "Question": "PERENNIAL",
+            "options": [
+                "Frequent",
+                "Regular",
+                "Lasting",
+                "Rare"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "60": {
+            "Question": "BENIGN",
+            "options": [
+                "Malevolent",
+                "Soft",
+                "Friendly",
+                "Unwise"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "61": {
+            "Question": "HINDRANCE",
+            "options": [
+                "Aid",
+                "Persuasion",
+                "Cooperation",
+                "Agreement"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "62": {
+            "Question": "EXTRICATE",
+            "options": [
+                "Manifest",
+                "Palpable",
+                "Release",
+                "Entangle"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "63": {
+            "Question": "REPRESS",
+            "options": [
+                "Inhibit",
+                "Liberate",
+                "Curb",
+                "Quell"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "64": {
+            "Question": "ACQUITTED",
+            "options": [
+                "Freed",
+                "Burdened",
+                "Convicted",
+                "Entrusted"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "65": {
+            "Question": "PROVOCATION",
+            "options": [
+                "Vocation",
+                "Pacification",
+                "Peace",
+                "Destruction"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "66": {
+            "Question": "SUBSERVIENT",
+            "options": [
+                "Aggressive",
+                "Straightforward",
+                "Dignified",
+                "Supercilious"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "67": {
+            "Question": "LEND",
+            "options": [
+                "Borrow",
+                "Cheat",
+                "Pawn",
+                "Hire"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "68": {
+            "Question": "FAINT-HEARTED",
+            "options": [
+                "Warm-hearted",
+                "Full-blooded",
+                "Hot-blooded",
+                "Stout-hearted"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "69": {
+            "Question": "REMISS",
+            "options": [
+                "Forgetful",
+                "Watchful",
+                "Dutiful",
+                "Harmful"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "70": {
+            "Question": "TRANSPARENT",
+            "options": [
+                "Semi-transparent",
+                "Muddy",
+                "Opaque",
+                "Dark"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "71": {
+            "Question": "HONORARY",
+            "options": [
+                "Dishonorable",
+                "Reputed",
+                "Paid",
+                "Official"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "72": {
+            "Question": "METICULOUS",
+            "options": [
+                "Mutual",
+                "Shaggy",
+                "Meretricious",
+                "Slovenly"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "73": {
+            "Question": "LOQUACIOUS",
+            "options": [
+                "Reticent",
+                "Talkative",
+                "Garrulous",
+                "Verbose"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "74": {
+            "Question": "CONFESS",
+            "options": [
+                "Deny",
+                "Refuse",
+                "Contest",
+                "Contend"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "75": {
+            "Question": "ANNOY",
+            "options": [
+                "Praise",
+                "Rejoice",
+                "Please",
+                "Reward"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "76": {
+            "Question": "REPEL",
+            "options": [
+                "Attend",
+                "Concentrate",
+                "Continue",
+                "Attract"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "77": {
+            "Question": "SUPPRESS",
+            "options": [
+                "Encourage",
+                "Allow",
+                "Praise",
+                "Permit"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "78": {
+            "Question": "NIGGARDLY",
+            "options": [
+                "Frugal",
+                "Thrifty",
+                "Stingy",
+                "Generous"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "79": {
+            "Question": "IMPASSE",
+            "options": [
+                "Resurgence",
+                "Breakthrough",
+                "Continuation",
+                "Combination"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "80": {
+            "Question": "HAPHAZARD",
+            "options": [
+                "Fortuitous",
+                "Indifferent",
+                "Deliberate",
+                "Accidental"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "81": {
+            "Question": "DENSITY",
+            "options": [
+                "Rarity",
+                "Intelligence",
+                "Clarity",
+                "Brightness"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "82": {
+            "Question": "ADHERENT",
+            "options": [
+                "Detractor",
+                "Enemy",
+                "Alien",
+                "Rival"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "83": {
+            "Question": "BASE",
+            "options": [
+                "Climax",
+                "Height",
+                "Top",
+                "Roof"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "84": {
+            "Question": "PATCHY",
+            "options": [
+                "Attractive",
+                "Uniform",
+                "Simple",
+                "Clear"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "85": {
+            "Question": "ENMITY",
+            "options": [
+                "Important",
+                "Unnecessary",
+                "Friendship",
+                "Likeness"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "86": {
+            "Question": "HOLLOW",
+            "options": [
+                "Filled",
+                "Solid",
+                "Strong",
+                "Substantial"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "87": {
+            "Question": "VALUABLE",
+            "options": [
+                "Invaluable",
+                "Worthless",
+                "Inferior",
+                "Lowly"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "88": {
+            "Question": "GULLIBLE",
+            "options": [
+                "Incredulous",
+                "Fickle",
+                "Easy",
+                "Stylish"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "89": {
+            "Question": "INDUSTRIOUS",
+            "options": [
+                "Indifferent",
+                "Indolent",
+                "Casual",
+                "Passive"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "90": {
+            "Question": "AUTONOMY",
+            "options": [
+                "Slavery",
+                "Subordination",
+                "Dependence",
+                "Submissiveness"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "91": {
+            "Question": "ALIEN",
+            "options": [
+                "Native",
+                "Domiciled",
+                "Natural",
+                "Resident"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "92": {
+            "Question": "SYNTHETIC",
+            "options": [
+                "Affable",
+                "Natural",
+                "Plastic",
+                "Cosmetic"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "93": {
+            "Question": "BALANCE",
+            "options": [
+                "Disbalance",
+                "Misbalance",
+                "Debalance",
+                "Imbalance"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "94": {
+            "Question": "LIABILITY",
+            "options": [
+                "Property",
+                "Assets",
+                "Debt",
+                "Treasure"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "95": {
+            "Question": "MOUNTAIN",
+            "options": [
+                "Plain",
+                "Plateau",
+                "Precipice",
+                "Valley"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "96": {
+            "Question": "STATIONARY",
+            "options": [
+                "Active",
+                "Mobile",
+                "Rapid",
+                "Busy"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "97": {
+            "Question": "CONCEDE",
+            "options": [
+                "Object",
+                "Refuse",
+                "Grant",
+                "Accede"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "98": {
+            "Question": "VIOLENT",
+            "options": [
+                "Humble",
+                "Harmless",
+                "Gentle",
+                "Tame"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "99": {
+            "Question": "VIRTUOUS",
+            "options": [
+                "Wicked",
+                "Corrupt",
+                "Vicious",
+                "Scandalous"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "100": {
+            "Question": "GAIN",
+            "options": [
+                "Loose",
+                "Fall",
+                "Lost",
+                "Lose"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "101": {
+            "Question": "PRELIMINARY",
+            "options": [
+                "Final",
+                "First",
+                "Secondary",
+                "Initial"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "102": {
+            "Question": "DEFIANCE",
+            "options": [
+                "Anxiety",
+                "Obedience",
+                "Suspicion",
+                "Dismay"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "103": {
+            "Question": "ENCOURAGE",
+            "options": [
+                "Dampen",
+                "Disapprove",
+                "Discourage",
+                "Warn"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "104": {
+            "Question": "LUCID",
+            "options": [
+                "Glory",
+                "Noisy",
+                "Obscure",
+                "Distinct"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "105": {
+            "Question": "STRINGENT",
+            "options": [
+                "General",
+                "Vehement",
+                "Lenient",
+                "Magnanimous"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "106": {
+            "Question": "MINOR",
+            "options": [
+                "Big",
+                "Major",
+                "Tall",
+                "Heavy"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "107": {
+            "Question": "REVEALED",
+            "options": [
+                "Denied",
+                "Concealed",
+                "Ignored",
+                "Overlooked"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "108": {
+            "Question": "ESSENTIAL",
+            "options": [
+                "Extra",
+                "Noughts",
+                "Minors",
+                "Trivial"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "109": {
+            "Question": "HYPOCRITICAL",
+            "options": [
+                "Gentle",
+                "Sincere",
+                "Amiable",
+                "Dependable"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "110": {
+            "Question": "FICKLE",
+            "options": [
+                "Courageous",
+                "Sincere",
+                "Steadfast",
+                "Humble"
+            ],
+            "correct option": "c",
+            "category": "general"
+        }
+    }
+]

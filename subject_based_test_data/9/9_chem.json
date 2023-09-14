@@ -1,0 +1,303 @@
+{
+    "1": {
+      "Question": "Which of the following is not a state of matter?",
+      "options": ["a. Solid", "b. Liquid", "c. Energy", "d. Gas"],
+      "correct option": "c",
+      "chapter": "Matter in Our Surroundings"
+    },
+    "2": {
+      "Question": "Which method of separation is best suited for separating a soluble solid from a liquid?",
+      "options": ["a. Distillation", "b. Filtration", "c. Evaporation", "d. Sublimation"],
+      "correct option": "c",
+      "chapter": "Is Matter Around Us Pure"
+    },
+    "3": {
+      "Question": "H2O is the chemical formula for which compound?",
+      "options": ["a. Hydrogen Peroxide", "b. Hydrochloric Acid", "c. Water", "d. Sodium Chloride"],
+      "correct option": "c",
+      "chapter": "Atoms and Molecules"
+    },
+    "4": {
+      "Question": "Which subatomic particle carries a positive charge?",
+      "options": ["a. Electron", "b. Neutron", "c. Proton", "d. Photon"],
+      "correct option": "c",
+      "chapter": "Structure of the Atom"
+    },
+    "5": {
+      "Question": "What is the smallest unit of an element that retains its properties?",
+      "options": ["a. Compound", "b. Atom", "c. Molecule", "d. Isotope"],
+      "correct option": "b",
+      "chapter": "Atoms and Molecules"
+    },
+    "6": {
+      "Question": "Which organelle is known as the 'powerhouse of the cell'?",
+      "options": ["a. Nucleus", "b. Mitochondria", "c. Ribosome", "d. Endoplasmic Reticulum"],
+      "correct option": "b",
+      "chapter": "The Fundamental Unit of Life"
+    },
+    "7": {
+      "Question": "What is the chemical formula for ozone?",
+      "options": ["a. O2", "b. CO2", "c. O3", "d. H2O"],
+      "correct option": "c",
+      "chapter": "Atoms and Molecules"
+    },
+    "8": {
+      "Question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Nitrogen", "d. Hydrogen"],
+      "correct option": "c",
+      "chapter": "Natural Resources"
+    },
+    "9": {
+      "Question": "What is the SI unit of density?",
+      "options": ["a. Kilogram per cubic meter", "b. Gram per milliliter", "c. Kilogram per liter", "d. Gram per liter"],
+      "correct option": "a",
+      "chapter": "Matter - Its Composition and Properties"
+    },
+    "10": {
+      "Question": "Which of the following is a physical change?",
+      "options": ["a. Burning of paper", "b. Rusting of iron", "c. Melting of ice", "d. Digestion of food"],
+      "correct option": "c",
+      "chapter": "Matter - Its Composition and Properties"
+    },
+    "11": {
+      "Question": "What is the chemical symbol for gold?",
+      "options": ["a. Au", "b. Ag", "c. Ge", "d. Go"],
+      "correct option": "a",
+      "chapter": "Atoms and Molecules"
+    },
+    "12": {
+      "Question": "Which gas is responsible for the greenhouse effect on Earth?",
+      "options": ["a. Oxygen", "b. Methane", "c. Carbon dioxide", "d. Hydrogen"],
+      "correct option": "c",
+      "chapter": "Natural Resources"
+    },
+    "13": {
+      "Question": "Which of the following is a compound?",
+      "options": ["a. Oxygen", "b. Gold", "c. Sodium", "d. Water"],
+      "correct option": "d",
+      "chapter": "Atoms and Molecules"
+    },
+    "14": {
+      "Question": "What is the chemical formula for sulfuric acid?",
+      "options": ["a. H2SO4", "b. SO2", "c. H2O", "d. NaCl"],
+      "correct option": "a",
+      "chapter": "Atoms and Molecules"
+    },
+    "15": {
+      "Question": "Which gas is essential for respiration?",
+      "options": ["a. Carbon dioxide", "b. Nitrogen", "c. Oxygen", "d. Hydrogen"],
+      "correct option": "c",
+      "chapter": "Natural Resources"
+    },
+    "16": {
+      "Question": "Which of the following is a chemical change?",
+      "options": ["a. Boiling of water", "b. Mixing salt in water", "c. Digesting food", "d. Cutting paper"],
+      "correct option": "c",
+      "chapter": "Matter - Its Composition and Properties"
+    },
+    "17": {
+      "Question": "What is the chemical formula for methane?",
+      "options": ["a. CH2O", "b. H2O", "c. CH4", "d. CO2"],
+      "correct option": "c",
+      "chapter": "Atoms and Molecules"
+    },
+    "18": {
+      "Question": "Which of the following is not a greenhouse gas?",
+      "options": ["a. Carbon dioxide", "b. Methane", "c. Nitrogen", "d. Water vapor"],
+      "correct option": "c",
+      "chapter": "Natural Resources"
+    },
+    "19": {
+      "Question": "What is the process of conversion of water into vapor called?",
+      "options": ["a. Condensation", "b. Evaporation", "c. Sublimation", "d. Freezing"],
+      "correct option": "b",
+      "chapter": "Matter in Our Surroundings"
+    },
+    "20": {
+      "Question": "Which of the following is a pure substance?",
+      "options": ["a. Air", "b. Saltwater", "c. Sugar", "d. Sand"],
+      "correct option": "c",
+      "chapter": "Is Matter Around Us Pure"
+    },
+    "21": {
+      "Question": "The atomic number of an element is determined by the number of _____ in its nucleus.",
+      "options": ["a. Electrons", "b. Neutrons", "c. Protons", "d. Isotopes"],
+      "correct option": "c",
+      "chapter": "Structure of the Atom"
+    },
+    "22": {
+      "Question": "What is the chemical symbol for carbon?",
+      "options": ["a. Ca", "b. C", "c. Co", "d. Cr"],
+      "correct option": "b",
+      "chapter": "Atoms and Molecules"
+    },
+    "23": {
+      "Question": "Which gas is used in photosynthesis by plants?",
+      "options": ["a. Carbon dioxide", "b. Oxygen", "c. Nitrogen", "d. Helium"],
+      "correct option": "a",
+      "chapter": "Natural Resources"
+    },
+    "24": {
+      "Question": "What is the chemical formula for table salt?",
+      "options": ["a. NaOH", "b. H2SO4", "c. NaCl", "d. HCl"],
+      "correct option": "c",
+      "chapter": "Atoms and Molecules"
+    },
+    "25": {
+      "Question": "Which of the following is a chemical formula for a diatomic molecule?",
+      "options": ["a. H2O", "b. O2", "c. CO2", "d. NaCl"],
+      "correct option": "b",
+      "chapter": "Atoms and Molecules"
+    },
+    "26": {
+      "Question": "What is the chemical formula for carbon dioxide?",
+      "options": ["a. CO", "b. CO2", "c. C2O4", "d. CH4"],
+      "correct option": "b",
+      "chapter": "Atoms and Molecules"
+    },
+    "27": {
+      "Question": "Which gas is responsible for the blue color of the Earth's sky?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Nitrogen", "d. Oxygen and nitrogen mixture"],
+      "correct option": "d",
+      "chapter": "Matter in Our Surroundings"
+    },
+    "28": {
+      "Question": "Which of the following is an example of a heterogeneous mixture?",
+      "options": ["a. Saltwater", "b. Air", "c. Milk", "d. Sugar solution"],
+      "correct option": "c",
+      "chapter": "Is Matter Around Us Pure"
+    },
+    "29": {
+      "Question": "Which gas is used for the preparation of soft drinks?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Nitrogen", "d. Hydrogen"],
+      "correct option": "b",
+      "chapter": "Matter in Our Surroundings"
+    },
+    "30": {
+      "Question": "What is the process of conversion of a gas into a liquid called?",
+      "options": ["a. Sublimation", "b. Condensation", "c. Evaporation", "d. Melting"],
+      "correct option": "b",
+      "chapter": "Matter in Our Surroundings"
+    },
+    "31": {
+      "Question": "Which of the following is a chemical reaction?",
+      "options": ["a. Cutting paper", "b. Burning wood", "c. Dissolving sugar in water", "d. Mixing salt in water"],
+      "correct option": "b",
+      "chapter": "Matter - Its Composition and Properties"
+    },
+    "32": {
+      "Question": "What is the chemical symbol for iron?",
+      "options": ["a. Ir", "b. Fe", "c. In", "d. Fr"],
+      "correct option": "b",
+      "chapter": "Atoms and Molecules"
+    },
+    "33": {
+      "Question": "Which gas is responsible for the reddish-brown color of Mars?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Nitrogen", "d. Methane"],
+      "correct option": "b",
+      "chapter": "Natural Resources"
+    },
+    "34": {
+      "Question": "Which of the following is a homogeneous mixture?",
+      "options": ["a. Sand and water", "b. Orange juice with pulp", "c. Trail mix", "d. Granite"],
+      "correct option": "b",
+      "chapter": "Is Matter Around Us Pure"
+    },
+    "35": {
+      "Question": "What is the chemical formula for water?",
+      "options": ["a. H2O2", "b. CO2", "c. H2O", "d. NaCl"],
+      "correct option": "c",
+      "chapter": "Atoms and Molecules"
+    },
+    "36": {
+      "Question": "Which gas is used in fire extinguishers to put out fires?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Nitrogen", "d. Helium"],
+      "correct option": "b",
+      "chapter": "Matter in Our Surroundings"
+    },
+    "37": {
+      "Question": "What is the chemical formula for hydrogen peroxide?",
+      "options": ["a. H2O2", "b. HO", "c. H2O", "d. HCl"],
+      "correct option": "a",
+      "chapter": "Atoms and Molecules"
+    },
+    "38": {
+      "Question": "Which gas is responsible for the Earth's protective ozone layer?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Ozone", "d. Helium"],
+      "correct option": "c",
+      "chapter": "Natural Resources"
+    },
+    "39": {
+      "Question": "What is the chemical formula for ammonia?",
+      "options": ["a. HNO3", "b. NH3", "c. H2O", "d. NaOH"],
+      "correct option": "b",
+      "chapter": "Atoms and Molecules"
+    },
+    "40": {
+      "Question": "Which gas is commonly used as a fuel for vehicles?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Carbon dioxide", "d. Methane"],
+      "correct option": "b",
+      "chapter": "Natural Resources"
+    },
+    "41": {
+      "Question": "What is the chemical formula for sulfur dioxide?",
+      "options": ["a. SO", "b. SO3", "c. SO2", "d. SO4"],
+      "correct option": "c",
+      "chapter": "Atoms and Molecules"
+    },
+    "42": {
+      "Question": "Which gas is produced during the process of respiration?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Nitrogen", "d. Hydrogen"],
+      "correct option": "b",
+      "chapter": "The Fundamental Unit of Life"
+    },
+    "43": {
+      "Question": "What is the chemical symbol for silver?",
+      "options": ["a. Si", "b. Ag", "c. Au", "d. Sr"],
+      "correct option": "b",
+      "chapter": "Atoms and Molecules"
+    },
+    "44": {
+      "Question": "Which gas is responsible for the production of food by plants through photosynthesis?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Nitrogen", "d. Hydrogen"],
+      "correct option": "b",
+      "chapter": "The Fundamental Unit of Life"
+    },
+    "45": {
+      "Question": "What is the chemical formula for carbon monoxide?",
+      "options": ["a. CO2", "b. CO", "c. C2O4", "d. CH4"],
+      "correct option": "b",
+      "chapter": "Atoms and Molecules"
+    },
+    "46": {
+      "Question": "Which of the following is an example of a chemical change?",
+      "options": ["a. Boiling water", "b. Burning paper", "c. Dissolving sugar in water", "d. Melting ice"],
+      "correct option": "b",
+      "chapter": "Matter - Its Composition and Properties"
+    },
+    "47": {
+      "Question": "What is the chemical symbol for calcium?",
+      "options": ["a. Ca", "b. Co", "c. Cu", "d. Ci"],
+      "correct option": "a",
+      "chapter": "Atoms and Molecules"
+    },
+    "48": {
+      "Question": "Which gas is responsible for the formation of acid rain?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Sulfur dioxide", "d. Hydrogen"],
+      "correct option": "c",
+      "chapter": "Natural Resources"
+    },
+    "49": {
+      "Question": "What is the chemical formula for sodium chloride?",
+      "options": ["a. NaOH", "b. H2SO4", "c. NaCl", "d. HCl"],
+      "correct option": "c",
+      "chapter": "Atoms and Molecules"
+    },
+    "50": {
+      "Question": "Which of the following is a mixture?",
+      "options": ["a. Iron", "b. Salt", "c. Air", "d. Gold"],
+      "correct option": "c",
+      "chapter": "Is Matter Around Us Pure"
+    }
+  }
+  

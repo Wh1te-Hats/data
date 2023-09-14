@@ -1,0 +1,303 @@
+{
+    "1": {
+      "Question": "What is the fundamental property of an object that gives rise to electric forces?",
+      "options": ["a. Mass", "b. Charge", "c. Speed", "d. Density"],
+      "correct option": "b",
+      "category": "Electric Charges and Fields"
+    },
+    "2": {
+      "Question": "Which law describes the force between two point charges?",
+      "options": ["a. Newton's First Law", "b. Coulomb's Law", "c. Faraday's Law", "d. Ampere's Law"],
+      "correct option": "b",
+      "category": "Electric Charges and Fields"
+    },
+    "3": {
+      "Question": "What is the SI unit of electric field?",
+      "options": ["a. Joule", "b. Coulomb", "c. Volt", "d. Newton per coulomb"],
+      "correct option": "d",
+      "category": "Electric Charges and Fields"
+    },
+    "4": {
+      "Question": "What is the electric field inside a charged conductor at equilibrium?",
+      "options": ["a. Zero", "b. Infinity", "c. Variable", "d. Constant"],
+      "correct option": "a",
+      "category": "Electric Charges and Fields"
+    },
+    "5": {
+      "Question": "What is the work done in moving a test charge of 2C through a potential difference of 12V?",
+      "options": ["a. 6 J", "b. 12 J", "c. 24 J", "d. 0.5 J"],
+      "correct option": "c",
+      "category": "Electrostatic Potential and Capacitance"
+    },
+    "6": {
+      "Question": "What is the energy stored in a capacitor with capacitance C and potential difference V?",
+      "options": ["a. CV²", "b. 0.5 CV²", "c. 0.5 CV", "d. C/V"],
+      "correct option": "b",
+      "category": "Electrostatic Potential and Capacitance"
+    },
+    "7": {
+      "Question": "Which of the following materials is a good conductor of electricity?",
+      "options": ["a. Rubber", "b. Wood", "c. Copper", "d. Glass"],
+      "correct option": "c",
+      "category": "Current Electricity"
+    },
+    "8": {
+      "Question": "What is the SI unit of electric current?",
+      "options": ["a. Ampere", "b. Volt", "c. Coulomb", "d. Ohm"],
+      "correct option": "a",
+      "category": "Current Electricity"
+    },
+    "9": {
+      "Question": "In a series circuit, how are the currents in different components related?",
+      "options": ["a. They are the same.", "b. They add up.", "c. They subtract from each other.", "d. They are inversely proportional to resistance."],
+      "correct option": "a",
+      "category": "Current Electricity"
+    },
+    "10": {
+      "Question": "What is the phenomenon of a changing magnetic field inducing an electromotive force (emf) in a conductor called?",
+      "options": ["a. Faraday's Law of Electromagnetism", "b. Coulomb's Law", "c. Ampere's Law", "d. Ohm's Law"],
+      "correct option": "a",
+      "category": "Electromagnetic Induction"
+    },
+    "11": {
+      "Question": "What is the direction of the induced current in a coil when the magnetic field passing through it decreases?",
+      "options": ["a. Clockwise", "b. Counterclockwise", "c. No current is induced.", "d. It depends on the coil's resistance."],
+      "correct option": "a",
+      "category": "Electromagnetic Induction"
+    },
+    "12": {
+      "Question": "What is the frequency of an alternating current with a period of 0.02 seconds?",
+      "options": ["a. 20 Hz", "b. 40 Hz", "c. 50 Hz", "d. 100 Hz"],
+      "correct option": "c",
+      "category": "Alternating Current"
+    },
+    "13": {
+      "Question": "What is the wavelength of an electromagnetic wave with a frequency of 3 × 10⁸ Hz?",
+      "options": ["a. 1 m", "b. 2 m", "c. 3 m", "d. 1/3 m"],
+      "correct option": "a",
+      "category": "Electromagnetic Waves"
+    },
+    "14": {
+      "Question": "What is the phenomenon of bending of light when it passes from one medium to another with a different refractive index called?",
+      "options": ["a. Reflection", "b. Dispersion", "c. Refraction", "d. Diffraction"],
+      "correct option": "c",
+      "category": "Ray Optics and Optical Instruments"
+    },
+    "15": {
+      "Question": "What is the critical angle for total internal reflection when light travels from glass to air (n_glass = 1.5)?",
+      "options": ["a. 30 degrees", "b. 45 degrees", "c. 60 degrees", "d. 90 degrees"],
+      "correct option": "c",
+      "category": "Ray Optics and Optical Instruments"
+    },
+    "16": {
+      "Question": "Which of the following colors of light has the shortest wavelength?",
+      "options": ["a. Red", "b. Blue", "c. Green", "d. Violet"],
+      "correct option": "d",
+      "category": "Wave Optics"
+    },
+    "17": {
+      "Question": "What is the energy of a photon of light with a wavelength of 400 nm?",
+      "options": ["a. 2.5 × 10⁻¹⁹ J", "b. 3.0 × 10⁻¹⁹ J", "c. 4.8 × 10⁻¹⁹ J", "d. 6.6 × 10⁻³⁴ J"],
+      "correct option": "b",
+      "category": "Dual Nature of Radiation and Matter"
+    },
+    "18": {
+      "Question": "What is the number of electrons in one mole of an element?",
+      "options": ["a. 6.022 × 10²³", "b. 1.602 × 10⁻¹⁹", "c. 9.8 m/s²", "d. 12 J"],
+      "correct option": "a",
+      "category": "Atoms"
+    },
+    "19": {
+      "Question": "What is the mass number of an element?",
+      "options": ["a. The number of protons in the nucleus", "b. The number of protons plus neutrons in the nucleus", "c. The number of electrons in the atom", "d. The atomic number minus the number of neutrons"],
+      "correct option": "b",
+      "category": "Nuclei"
+    },
+    "20": {
+      "Question": "Which of the following particles is not a part of the nucleus of an atom?",
+      "options": ["a. Proton", "b. Neutron", "c. Electron", "d. Alpha particle"],
+      "correct option": "c",
+      "category": "Nuclei"
+    },
+    "21": {
+      "Question": "What is the function of a transistor in electronic circuits?",
+      "options": ["a. To produce sound waves", "b. To amplify or switch electronic signals", "c. To generate electromagnetic waves", "d. To store digital data"],
+      "correct option": "b",
+      "category": "Semiconductor Electronics"
+    },
+    "22": {
+      "Question": "Which of the following is not a type of modulation used in communication systems?",
+      "options": ["a. AM (Amplitude Modulation)", "b. FM (Frequency Modulation)", "c. PM (Phase Modulation)", "d. DM (Density Modulation)"],
+      "correct option": "d",
+      "category": "Communication Systems"
+    },
+    "23": {
+      "Question": "What is the SI unit of capacitance?",
+      "options": ["a. Ohm", "b. Volt", "c. Farad", "d. Weber"],
+      "correct option": "c",
+      "category": "Electrostatic Potential and Capacitance"
+    },
+    "24": {
+      "Question": "In a simple circuit, what is the relationship between current, voltage, and resistance according to Ohm's law?",
+      "options": ["a. I = V + R", "b. V = I/R", "c. R = I/V", "d. V = I + R"],
+      "correct option": "b",
+      "category": "Current Electricity"
+    },
+    "25": {
+      "Question": "What is the direction of the magnetic field lines outside a bar magnet?",
+      "options": ["a. From north pole to south pole", "b. From south pole to north pole", "c. They are not well-defined outside.", "d. Radial and outward"],
+      "correct option": "a",
+      "category": "Magnetism and Matter"
+    },
+    "26": {
+      "Question": "Which of the following materials is typically used as a core in electromagnets?",
+      "options": ["a. Wood", "b. Rubber", "c. Iron", "d. Glass"],
+      "correct option": "c",
+      "category": "Magnetism and Matter"
+    },
+    "27": {
+      "Question": "What is the SI unit of magnetic susceptibility?",
+      "options": ["a. Hertz", "b. Henry", "c. Ampere", "d. Dimensionless"],
+      "correct option": "d",
+      "category": "Magnetism and Matter"
+    },
+    "28": {
+      "Question": "What is the direction of the magnetic field inside a current-carrying solenoid?",
+      "options": ["a. From north to south", "b. From south to north", "c. It depends on the current direction.", "d. Radial and outward"],
+      "correct option": "b",
+      "category": "Electromagnetic Induction"
+    },
+    "29": {
+      "Question": "What is the power factor in an AC circuit when the phase difference between voltage and current is zero?",
+      "options": ["a. 0", "b. 1", "c. -1", "d. 0.5"],
+      "correct option": "b",
+      "category": "Alternating Current"
+    },
+    "30": {
+      "Question": "What is the speed of light in a vacuum?",
+      "options": ["a. 3 × 10⁸ m/s", "b. 2.5 × 10⁷ m/s", "c. 4 × 10⁷ m/s", "d. 2.99 × 10⁸ m/s"],
+      "correct option": "a",
+      "category": "Electromagnetic Waves"
+    },
+    "31": {
+      "Question": "Which optical instrument is used to correct nearsightedness or farsightedness?",
+      "options": ["a. Microscope", "b. Telescope", "c. Camera", "d. Eyeglasses"],
+      "correct option": "d",
+      "category": "Ray Optics and Optical Instruments"
+    },
+    "32": {
+      "Question": "What is the phenomenon of dispersion of light?",
+      "options": ["a. Bending of light when it passes through a medium with a different refractive index", "b. Breaking of light into its component colors", "c. Total internal reflection of light", "d. Reflection of light from a rough surface"],
+      "correct option": "b",
+      "category": "Ray Optics and Optical Instruments"
+    },
+    "33": {
+      "Question": "What is the formula for the focal length of a lens?",
+      "options": ["a. f = R/2", "b. f = 2R", "c. f = 1/R", "d. f = 2/R"],
+      "correct option": "c",
+      "category": "Ray Optics and Optical Instruments"
+    },
+    "34": {
+      "Question": "What is the interference pattern produced when two identical waves with a phase difference of 180 degrees superpose?",
+      "options": ["a. Constructive interference", "b. Destructive interference", "c. No interference pattern", "d. Diffraction pattern"],
+      "correct option": "b",
+      "category": "Wave Optics"
+    },
+    "35": {
+      "Question": "What is the SI unit of the Planck constant (h)?",
+      "options": ["a. Joule", "b. Second", "c. Ampere", "d. Joule-second"],
+      "correct option": "d",
+      "category": "Dual Nature of Radiation and Matter"
+    },
+    "36": {
+      "Question": "What is the concept of wave-particle duality in quantum mechanics?",
+      "options": ["a. Particles can exist in multiple places at once.", "b. Particles can have both wave-like and particle-like properties.", "c. Particles cannot exist in a wave-like state.", "d. Particles cannot exhibit interference patterns."],
+      "correct option": "b",
+      "category": "Dual Nature of Radiation and Matter"
+    },
+    "37": {
+      "Question": "What is the energy of a photon of light with a frequency of 6 × 10¹⁴ Hz?",
+      "options": ["a. 2.5 × 10⁻¹⁹ J", "b. 3.0 × 10⁻¹⁹ J", "c. 4.8 × 10⁻¹⁹ J", "d. 6.6 × 10⁻³⁴ J"],
+      "correct option": "a",
+      "category": "Dual Nature of Radiation and Matter"
+    },
+    "38": {
+      "Question": "What is the half-life of a radioactive substance?",
+      "options": ["a. The time it takes for all the substance to decay", "b. The time it takes for half of the substance to decay", "c. The time it takes for the substance to become stable", "d. The time it takes for the substance to emit radiation"],
+      "correct option": "b",
+      "category": "Nuclei"
+    },
+    "39": {
+      "Question": "What is the SI unit of activity (radioactive decay rate)?",
+      "options": ["a. Becquerel", "b. Curie", "c. Gray", "d. Sievert"],
+      "correct option": "a",
+      "category": "Nuclear Physics"
+    },
+    "40": {
+      "Question": "Which of the following particles carries a positive charge?",
+      "options": ["a. Electron", "b. Neutron", "c. Proton", "d. Photon"],
+      "correct option": "c",
+      "category": "Nuclear Physics"
+    },
+    "41": {
+      "Question": "What is the purpose of a cyclotron in particle physics?",
+      "options": ["a. To detect cosmic rays", "b. To accelerate charged particles", "c. To study electromagnetic waves", "d. To generate X-rays"],
+      "correct option": "b",
+      "category": "Nuclear Physics"
+    },
+    "42": {
+      "Question": "What is the fundamental particle of a chemical element?",
+      "options": ["a. Molecule", "b. Atom", "c. Ion", "d. Neutron"],
+      "correct option": "b",
+      "category": "Particle Physics"
+    },
+    "43": {
+      "Question": "Which of the following phenomena is related to interference of light?",
+      "options": ["a. Photoelectric effect", "b. Compton scattering", "c. Young's double-slit experiment", "d. Rutherford scattering"],
+      "correct option": "c",
+      "category": "Optics"
+    },
+    "44": {
+      "Question": "What is the principle of conservation of momentum?",
+      "options": ["a. The total energy of an isolated system is constant.", "b. The total angular momentum of an isolated system is constant.", "c. The total linear momentum of an isolated system is constant.", "d. The total charge of an isolated system is constant."],
+      "correct option": "c",
+      "category": "Systems of Particles and Rotational Motion"
+    },
+    "45": {
+      "Question": "What is the acceleration due to gravity near the surface of the Earth?",
+      "options": ["a. 9.8 m/s²", "b. 6.674 × 10⁻¹¹ Nm²/kg²", "c. 3 × 10⁸ m/s", "d. 1.6 × 10⁻¹⁹ C"],
+      "correct option": "a",
+      "category": "Gravitation"
+    },
+    "46": {
+      "Question": "What is the Pascal's principle?",
+      "options": ["a. The pressure applied at any point in an incompressible fluid is transmitted undiminished throughout the fluid.", "b. The velocity of a fluid in a pipe increases when the pipe narrows.", "c. The volume of a gas is inversely proportional to its pressure at constant temperature.", "d. The buoyant force on an object in a fluid is equal to the weight of the fluid displaced by the object."],
+      "correct option": "a",
+      "category": "Fluid Mechanics"
+    },
+    "47": {
+      "Question": "What is the SI unit of frequency?",
+      "options": ["a. Hertz", "b. Watt", "c. Pascal", "d. Weber"],
+      "correct option": "a",
+      "category": "Waves"
+    },
+    "48": {
+      "Question": "Which of the following statements is true for an incompressible fluid?",
+      "options": ["a. Its density changes with pressure.", "b. Its volume changes with pressure.", "c. Its pressure changes with volume.", "d. Its density remains constant."],
+      "correct option": "d",
+      "category": "Fluid Mechanics"
+    },
+    "49": {
+      "Question": "What is the phenomenon of dispersion of light?",
+      "options": ["a. Bending of light when it passes through a medium with a different refractive index", "b. Breaking of light into its component colors", "c. Total internal reflection of light", "d. Reflection of light from a rough surface"],
+      "correct option": "b",
+      "category": "Optics"
+    },
+    "50": {
+      "Question": "What is the SI unit of magnetic flux?",
+      "options": ["a. Weber", "b. Ampere", "c. Tesla", "d. Hertz"],
+      "correct option": "a",
+      "category": "Electromagnetic Induction"
+    }
+  }
+  

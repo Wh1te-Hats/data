@@ -1,0 +1,714 @@
+[
+    {
+        "topic": "Analogies Type-1",
+        "Question description": "A good way to figure out the relationship in a given question is to make up a sentence that describes the relationship between the first two words. Then, try to use the same sentence to find out which of the answer choices completes the same relationship with the third word.",
+        "1": {
+            "Question": "Odometer is to mileage as compass is to",
+            "options": [
+                "speed",
+                "hiking",
+                "needle",
+                "direction"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "2": {
+            "Question": "Marathon is to race as hibernation is to",
+            "options": [
+                "winter",
+                "bear",
+                "dream",
+                "sleep"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "3": {
+            "Question": "Window is to pane as book is to",
+            "options": [
+                "novel",
+                "glass",
+                "cover",
+                "page"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "4": {
+            "Question": "Cup is to coffee as bowl is to",
+            "options": [
+                "dish",
+                "soup",
+                "spoon",
+                "food"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "5": {
+            "Question": "Yard is to inch as quart is to",
+            "options": [
+                "gallon",
+                "ounce",
+                "milk",
+                "liquid"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "6": {
+            "Question": "Elated is to despondent as enlightened is to",
+            "options": [
+                "aware",
+                "ignorant",
+                "miserable",
+                "tolerant"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "7": {
+            "Question": "Optimist is to cheerful as pessimist is to",
+            "options": [
+                "gloomy",
+                "mean",
+                "petty",
+                "helpful"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "8": {
+            "Question": "Reptile is to lizard as flower is to",
+            "options": [
+                "petal",
+                "stem",
+                "daisy",
+                "alligator"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "9": {
+            "Question": "Play is to actor as concert is to",
+            "options": [
+                "symphony",
+                "musician",
+                "piano",
+                "percussion"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "10": {
+            "Question": "Sponge is to porous as rubber is to",
+            "options": [
+                "massive",
+                "solid",
+                "elastic",
+                "inflexible"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "11": {
+            "Question": "Careful is to cautious as boastful is to",
+            "options": [
+                "arrogant",
+                "humble",
+                "joyful",
+                "suspicious"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "12": {
+            "Question": "Pen is to poet as needle is to",
+            "options": [
+                "thread",
+                "button",
+                "sewing",
+                "tailor"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "13": {
+            "Question": "Secretly is to openly as silently is to",
+            "options": [
+                "scarcely",
+                "impolitely",
+                "noisily",
+                "quietly"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "14": {
+            "Question": "Embarrassed is to humiliated as frightened is to",
+            "options": [
+                "terrified",
+                "agitated",
+                "courageous",
+                "reckless"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "15": {
+            "Question": "Pride is to lion as shoal is to",
+            "options": [
+                "teacher",
+                "student",
+                "self-respect",
+                "fish"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "16": {
+            "Question": "Artist is to painting as senator is to",
+            "options": [
+                "attorney",
+                "law",
+                "politician",
+                "constituents"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "17": {
+            "Question": "Exercise is to gym as eating is to",
+            "options": [
+                "food",
+                "dieting",
+                "fitness",
+                "restaurant"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "18": {
+            "Question": "Candid is to indirect as honest is to",
+            "options": [
+                "frank",
+                "wicked",
+                "truthful",
+                "untruthful"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "19": {
+            "Question": "Guide is to direct as reduce is to",
+            "options": [
+                "decrease",
+                "maintain",
+                "increase",
+                "preserve"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "20": {
+            "Question": "Oar is to rowboat as foot is to",
+            "options": [
+                "running",
+                "sneaker",
+                "skateboard",
+                "jumping"
+            ],
+            "correct option": "c",
+            "category": "general"
+        }
+    },
+    {
+        "topic": "Analogies Type-2",
+        "Question description": "Every one of the following questions consists of a related pair of words, followed by five pairs of words. Choose the pair that best represents a similar relationship to the one expressed in the original pair of words.",
+        "1": {
+            "Question": "BINDING : BOOK",
+            "options": [
+                "criminal : gang",
+                "display : museum",
+                "artist : carpenter",
+                "nail : hammer",
+                "frame : picture"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "2": {
+            "Question": "EXPLORE : DISCOVER",
+            "options": [
+                "read : skim",
+                "research : learn",
+                "write : print",
+                "think : relate",
+                "sleep : wake"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "3": {
+            "Question": "SIAMESE : CAT",
+            "options": [
+                "type : breed",
+                "dog : puppy",
+                "mark : spot",
+                "romaine : lettuce",
+                "collar : leash"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "4": {
+            "Question": "FINCH : BIRD",
+            "options": [
+                "frog :toad",
+                "elephant : reptile",
+                "Dalmatian : dog",
+                "collie : marsupial",
+                "ant : ladybug"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "5": {
+            "Question": "PETAL : FLOWER",
+            "options": [
+                "salt : pepper",
+                "tire : bicycle",
+                "base : ball",
+                "sandals : shoes",
+                "puppy : dog"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "6": {
+            "Question": "COTTON : BALE",
+            "options": [
+                "butter : churn",
+                "wine : ferment",
+                "grain : shock",
+                "curd : cheese",
+                "beef : steak"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "7": {
+            "Question": "ELEPHANT : PACHYDERM",
+            "options": [
+                "mantis : rodent",
+                "poodle : feline",
+                "kangaroo : marsupial",
+                "zebra : horse",
+                "tuna : mollusk"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "8": {
+            "Question": "PSYCHOLOGIST : NEUROSIS",
+            "options": [
+                "ophthalmologist : cataract",
+                "dermatologist : fracture",
+                "infant : pediatrician",
+                "rash : orthopedist",
+                "oncologist : measles"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "9": {
+            "Question": "PASTORAL : RURAL",
+            "options": [
+                "metropolitan : urban",
+                "harvest : autumn",
+                "agrarian : benevolent",
+                "sleepy : nocturnal",
+                "wild : agricultural"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "10": {
+            "Question": "TAILOR : SUIT",
+            "options": [
+                "scheme : agent",
+                "edit : manuscript",
+                "revise : writer",
+                "mention : opinion",
+                "implode : building"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "11": {
+            "Question": "PEDAL : BICYCLE",
+            "options": [
+                "inch : yardstick",
+                "walk : skip",
+                "tire : automobile",
+                "buckle : belt",
+                "oar : canoe"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "12": {
+            "Question": "DIVISION : SECTION",
+            "options": [
+                "layer : tier",
+                "tether : bundle",
+                "chapter : verse",
+                "riser : stage",
+                "dais : speaker"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "13": {
+            "Question": "DEPRESSED : SAD",
+            "options": [
+                "neat : considerate",
+                "towering : cringing",
+                "rapid : plodding",
+                "progressive : regressive",
+                "exhausted : tired"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "14": {
+            "Question": "BRISTLE : BRUSH",
+            "options": [
+                "arm : leg",
+                "stage : curtain",
+                "recline : chair",
+                "key : piano",
+                "art : sculpture"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "15": {
+            "Question": "RAIN : DRIZZLE",
+            "options": [
+                "swim :dive",
+                "hop : shuffle",
+                "juggle : bounce",
+                "walk : run",
+                "run : jog"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "16": {
+            "Question": "PULSATE : THROB",
+            "options": [
+                "walk : run",
+                "tired : sleep",
+                "examine : scrutinize",
+                "ballet : dancer",
+                "find : lose"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "17": {
+            "Question": "FISH : SHOAL",
+            "options": [
+                "wolf : pack",
+                "elephant : jungle",
+                "beagle : clan",
+                "herd : peacock",
+                "cow : farm"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "18": {
+            "Question": "ODOMETER : DISTANCE",
+            "options": [
+                "scale : weight",
+                "length : width",
+                "inch : foot",
+                "mileage : speed",
+                "area : size"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "19": {
+            "Question": "WAITRESS : RESTAURANT",
+            "options": [
+                "doctor : diagnosis",
+                "actor : role",
+                "driver : truck",
+                "teacher : school",
+                "author : book"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "20": {
+            "Question": "SKEIN : YARN",
+            "options": [
+                "squeeze : lemon",
+                "fire : coal",
+                "ream : paper",
+                "tree : lumber",
+                "plow : acre"
+            ],
+            "correct option": "c",
+            "category": "general"
+        }
+    },
+    {
+        "topic": "Analogies Type-3",
+        "Question description": "Every one of the following questions consists of a related pair of words, followed by five pairs of words. Choose the pair that best represents a similar relationship to the one expressed in the original pair of words.",
+        "1": {
+            "Question": "MONK : DEVOTION",
+            "options": [
+                "maniac : pacifism",
+                "explorer : contentment",
+                "visionary : complacency",
+                "rover : wanderlust",
+                "philistine : culture"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "2": {
+            "Question": "SLAPSTICK : LAUGHTER",
+            "options": [
+                "fallacy : dismay",
+                "genre : mystery",
+                "satire : anger",
+                "mimicry : tears",
+                "horror : fear"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "3": {
+            "Question": "VERVE : ENTHUSIASM",
+            "options": [
+                "loyalty : duplicity",
+                "devotion : reverence",
+                "intensity : color",
+                "eminence : anonymity",
+                "generosity : elation"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "4": {
+            "Question": "SPY : CLANDESTINE",
+            "options": [
+                "accountant : meticulous",
+                "furrier : rambunctious",
+                "lawyer : ironic",
+                "shepherd : garrulous",
+                "astronaut : opulent"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "5": {
+            "Question": "COBBLER : SHOE",
+            "options": [
+                "jockey : horse",
+                "contractor : building",
+                "mason : stone",
+                "cowboy : boot",
+                "potter : paint"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "6": {
+            "Question": "UMBRAGE : OFFENSE",
+            "options": [
+                "confusion : penance",
+                "infinity : meaning",
+                "decorum : decoration",
+                "elation : jubilance",
+                "outrage : consideration"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "7": {
+            "Question": "DIRGE : FUNERAL",
+            "options": [
+                "chain : letter",
+                "bell : church",
+                "telephone : call",
+                "jingle : commercial",
+                "hymn : concerto"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "8": {
+            "Question": "DOMINANCE : HEGEMONY",
+            "options": [
+                "romance : sympathy",
+                "furtherance : melancholy",
+                "independence : autonomy",
+                "tolerance : philanthropy",
+                "recompense : hilarity"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "9": {
+            "Question": "PHOBIC : FEARFUL",
+            "options": [
+                "finicky : thoughtful",
+                "cautious : emotional",
+                "envious : desiring",
+                "shy : familiar",
+                "asinine : silly"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "10": {
+            "Question": "FERAL : TAME",
+            "options": [
+                "rancid : rational",
+                "repetitive : recurrent",
+                "nettlesome : annoying",
+                "repentant : honorable",
+                "ephemeral : immortal"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "11": {
+            "Question": "METAPHOR : SYMBOL",
+            "options": [
+                "pentameter : poem",
+                "rhythm : melody",
+                "nuance : song",
+                "slang : usage",
+                "analogy : comparison"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "12": {
+            "Question": "INTEREST : OBSESSION",
+            "options": [
+                "mood : feeling",
+                "weeping : sadness",
+                "dream : fantasy",
+                "plan : negation",
+                "highlight : indication"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "13": {
+            "Question": "CONDUCTOR : ORCHESTRA",
+            "options": [
+                "jockey : mount",
+                "thrasher : hay",
+                "driver : tractor",
+                "skipper : crew",
+                "painter : house"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "14": {
+            "Question": "FROND : PALM",
+            "options": [
+                "quill : porcupine",
+                "blade : evergreen",
+                "scale : wallaby",
+                "tusk : alligator",
+                "blade : fern"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "15": {
+            "Question": "SOUND : CACOPHONY",
+            "options": [
+                "taste : style",
+                "touch : massage",
+                "smell : stench",
+                "sight : panorama",
+                "speech : oration"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "16": {
+            "Question": "AERIE : EAGLE",
+            "options": [
+                "capital : government",
+                "bridge : architect",
+                "unit : apartment",
+                "kennel : veterinarian",
+                "house : person"
+            ],
+            "correct option": "e",
+            "category": "general"
+        },
+        "17": {
+            "Question": "PROFESSOR : ERUDITE",
+            "options": [
+                "aviator : licensed",
+                "inventor : imaginative",
+                "procrastinator : conscientious",
+                "overseer : wealthy",
+                "moderator : vicious"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "18": {
+            "Question": "DELTOID : MUSCLE",
+            "options": [
+                "radius : bone",
+                "brain : nerve",
+                "tissue : organ",
+                "blood : vein",
+                "scalpel : incision"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "19": {
+            "Question": "JAUNDICE : LIVER",
+            "options": [
+                "rash : skin",
+                "dialysis : kidney",
+                "smog : lung",
+                "valentine : heart",
+                "imagination : brain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "20": {
+            "Question": "CONVICTION : INCARCERATION",
+            "options": [
+                "reduction : diminution",
+                "induction : amelioration",
+                "radicalization : estimation",
+                "marginalization : intimidation",
+                "proliferation : alliteration"
+            ],
+            "correct option": "a",
+            "category": "general"
+        }
+    }
+]

@@ -1,0 +1,303 @@
+{
+    "1": {
+      "Question": "Which gas is essential for photosynthesis in plants?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correct option": "b",
+      "category": "The Fundamental Unit of Life"
+    },
+    "2": {
+      "Question": "What is the structural and functional unit of life in organisms?",
+      "options": ["Cell", "Tissue", "Organ", "Organ system"],
+      "correct option": "a",
+      "category": "The Fundamental Unit of Life"
+    },
+    "3": {
+      "Question": "Which organelle is responsible for energy production in a cell?",
+      "options": ["Nucleus", "Mitochondrion", "Chloroplast", "Endoplasmic reticulum"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "4": {
+      "Question": "What type of tissue covers the surface of the body and lines internal organs?",
+      "options": ["Muscle tissue", "Nervous tissue", "Epithelial tissue", "Connective tissue"],
+      "correct option": "c",
+      "category": "Tissues"
+    },
+    "5": {
+      "Question": "What is the function of the nucleus in a cell?",
+      "options": ["Energy production", "Cell division", "Protein synthesis", "Storage of water"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "6": {
+      "Question": "Which of the following is not a characteristic of living organisms?",
+      "options": ["Reproduction", "Growth and development", "Response to stimuli", "Inanimate"],
+      "correct option": "d",
+      "category": "Diversity in Living Organisms"
+    },
+    "7": {
+      "Question": "Which kingdom includes multicellular eukaryotic organisms that lack cell walls?",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "8": {
+      "Question": "Which process involves the breakdown of complex food substances into simpler ones with the release of energy?",
+      "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "9": {
+      "Question": "Which gas is released during respiration?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "10": {
+      "Question": "What is the primary function of the chloroplast in plant cells?",
+      "options": ["Energy production", "Photosynthesis", "Cell division", "Storage of water"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "11": {
+      "Question": "Which cell organelle is known as the 'powerhouse' of the cell?",
+      "options": ["Nucleus", "Mitochondrion", "Chloroplast", "Endoplasmic reticulum"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "12": {
+      "Question": "What type of tissue is responsible for transmitting electrical impulses in the body?",
+      "options": ["Muscle tissue", "Nervous tissue", "Epithelial tissue", "Connective tissue"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "13": {
+      "Question": "What is the function of the cell membrane?",
+      "options": ["Regulation of cell activities", "Storage of genetic material", "Energy production", "Synthesis of proteins"],
+      "correct option": "a",
+      "category": "Diversity in Living Organisms"
+    },
+    "14": {
+      "Question": "Which of the following is not a characteristic of living organisms?",
+      "options": ["Reproduction", "Growth and development", "Response to stimuli", "Inanimate"],
+      "correct option": "d",
+      "category": "Diversity in Living Organisms"
+    },
+    "15": {
+      "Question": "Which kingdom includes multicellular eukaryotic organisms that lack cell walls?",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "16": {
+      "Question": "Which process involves the breakdown of complex food substances into simpler ones with the release of energy?",
+      "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "17": {
+      "Question": "Which gas is released during respiration?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "18": {
+      "Question": "What is the primary function of the chloroplast in plant cells?",
+      "options": ["Energy production", "Photosynthesis", "Cell division", "Storage of water"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "19": {
+      "Question": "Which cell organelle is known as the 'powerhouse' of the cell?",
+      "options": ["Nucleus", "Mitochondrion", "Chloroplast", "Endoplasmic reticulum"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "20": {
+      "Question": "What type of tissue is responsible for transmitting electrical impulses in the body?",
+      "options": ["Muscle tissue", "Nervous tissue", "Epithelial tissue", "Connective tissue"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "21": {
+      "Question": "What is the function of the cell membrane?",
+      "options": ["Regulation of cell activities", "Storage of genetic material", "Energy production", "Synthesis of proteins"],
+      "correct option": "a",
+      "category": "Diversity in Living Organisms"
+    },
+    "22": {
+      "Question": "Which of the following is not a characteristic of living organisms?",
+      "options": ["Reproduction", "Growth and development", "Response to stimuli", "Inanimate"],
+      "correct option": "d",
+      "category": "Diversity in Living Organisms"
+    },
+    "23": {
+      "Question": "Which kingdom includes multicellular eukaryotic organisms that lack cell walls?",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "24": {
+      "Question": "Which process involves the breakdown of complex food substances into simpler ones with the release of energy?",
+      "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "25": {
+      "Question": "Which gas is released during respiration?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "26": {
+      "Question": "What is the primary function of the chloroplast in plant cells?",
+      "options": ["Energy production", "Photosynthesis", "Cell division", "Storage of water"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "27": {
+      "Question": "Which cell organelle is known as the 'powerhouse' of the cell?",
+      "options": ["Nucleus", "Mitochondrion", "Chloroplast", "Endoplasmic reticulum"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "28": {
+      "Question": "What type of tissue is responsible for transmitting electrical impulses in the body?",
+      "options": ["Muscle tissue", "Nervous tissue", "Epithelial tissue", "Connective tissue"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "29": {
+      "Question": "What is the function of the cell membrane?",
+      "options": ["Regulation of cell activities", "Storage of genetic material", "Energy production", "Synthesis of proteins"],
+      "correct option": "a",
+      "category": "Diversity in Living Organisms"
+    },
+    "30": {
+      "Question": "Which of the following is not a characteristic of living organisms?",
+      "options": ["Reproduction", "Growth and development", "Response to stimuli", "Inanimate"],
+      "correct option": "d",
+      "category": "Diversity in Living Organisms"
+    },
+    "31": {
+      "Question": "Which kingdom includes multicellular eukaryotic organisms that lack cell walls?",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "32": {
+      "Question": "Which process involves the breakdown of complex food substances into simpler ones with the release of energy?",
+      "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "33": {
+      "Question": "Which gas is released during respiration?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "34": {
+      "Question": "What is the primary function of the chloroplast in plant cells?",
+      "options": ["Energy production", "Photosynthesis", "Cell division", "Storage of water"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "35": {
+      "Question": "Which cell organelle is known as the 'powerhouse' of the cell?",
+      "options": ["Nucleus", "Mitochondrion", "Chloroplast", "Endoplasmic reticulum"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "36": {
+      "Question": "What type of tissue is responsible for transmitting electrical impulses in the body?",
+      "options": ["Muscle tissue", "Nervous tissue", "Epithelial tissue", "Connective tissue"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "37": {
+      "Question": "What is the function of the cell membrane?",
+      "options": ["Regulation of cell activities", "Storage of genetic material", "Energy production", "Synthesis of proteins"],
+      "correct option": "a",
+      "category": "Diversity in Living Organisms"
+    },
+    "38": {
+      "Question": "Which of the following is not a characteristic of living organisms?",
+      "options": ["Reproduction", "Growth and development", "Response to stimuli", "Inanimate"],
+      "correct option": "d",
+      "category": "Diversity in Living Organisms"
+    },
+    "39": {
+      "Question": "Which kingdom includes multicellular eukaryotic organisms that lack cell walls?",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "40": {
+      "Question": "Which process involves the breakdown of complex food substances into simpler ones with the release of energy?",
+      "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "41": {
+      "Question": "Which gas is released during respiration?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "42": {
+      "Question": "What is the primary function of the chloroplast in plant cells?",
+      "options": ["Energy production", "Photosynthesis", "Cell division", "Storage of water"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "43": {
+      "Question": "Which cell organelle is known as the 'powerhouse' of the cell?",
+      "options": ["Nucleus", "Mitochondrion", "Chloroplast", "Endoplasmic reticulum"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "44": {
+      "Question": "What type of tissue is responsible for transmitting electrical impulses in the body?",
+      "options": ["Muscle tissue", "Nervous tissue", "Epithelial tissue", "Connective tissue"],
+      "correct option": "b",
+      "category": "Tissues"
+    },
+    "45": {
+      "Question": "What is the function of the cell membrane?",
+      "options": ["Regulation of cell activities", "Storage of genetic material", "Energy production", "Synthesis of proteins"],
+      "correct option": "a",
+      "category": "Diversity in Living Organisms"
+    },
+    "46": {
+      "Question": "Which of the following is not a characteristic of living organisms?",
+      "options": ["Reproduction", "Growth and development", "Response to stimuli", "Inanimate"],
+      "correct option": "d",
+      "category": "Diversity in Living Organisms"
+    },
+    "47": {
+      "Question": "Which kingdom includes multicellular eukaryotic organisms that lack cell walls?",
+      "options": ["Monera", "Protista", "Fungi", "Plantae"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "48": {
+      "Question": "Which process involves the breakdown of complex food substances into simpler ones with the release of energy?",
+      "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
+      "correct option": "b",
+      "category": "Diversity in Living Organisms"
+    },
+    "49": {
+      "Question": "Which gas is released during respiration?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    },
+    "50": {
+      "Question": "What is the primary function of the chloroplast in plant cells?",
+      "options": ["Energy production", "Photosynthesis", "Cell division", "Storage of water"],
+      "correct option": "b",
+      "category": "Cell: The Basic Unit of Life"
+    }
+  }
+  

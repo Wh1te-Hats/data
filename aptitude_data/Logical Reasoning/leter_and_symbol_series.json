@@ -1,0 +1,292 @@
+[
+    {
+        "topic": "Letter and Symbol Series",
+        "Question description": "In these series, you will be looking at both the letter pattern and the number pattern. Fill the blank in the middle of the series or end of the series..",
+        "1": {
+            "Question": "SCD, TEF, UGH, ____, WKL",
+            "options": [
+                "CMN",
+                "UJI",
+                "VIJ",
+                "IJT"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "2": {
+            "Question": "B2CD, _____, BCD4, B5CD, BC6D",
+            "options": [
+                "B2C2D",
+                "BC3D",
+                "B2C3D",
+                "BCD7"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "3": {
+            "Question": "FAG, GAF, HAI, IAH, ____",
+            "options": [
+                "JAK",
+                "HAL",
+                "HAK",
+                "JAI"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "4": {
+            "Question": "ELFA, GLHA, ILJA, _____, MLNA",
+            "options": [
+                "OLPA",
+                "KLMA",
+                "LLMA",
+                "KLLA"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "5": {
+            "Question": "CMM, EOO, GQQ, _____, KUU",
+            "options": [
+                "GRR",
+                "GSS",
+                "ISS",
+                "ITT"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "6": {
+            "Question": "ZA5, Y4B, XC6, W3D, _____",
+            "options": [
+                "E7V",
+                "V2E",
+                "VE5",
+                "VE7"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "7": {
+            "Question": "QPO, NML, KJI, _____, EDC",
+            "options": [
+                "HGF",
+                "CAB",
+                "JKL",
+                "GHI"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "8": {
+            "Question": "JAK, KBL, LCM, MDN, _____",
+            "options": [
+                "OEP",
+                "NEO",
+                "MEN",
+                "PFQ"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "9": {
+            "Question": "BCB, DED, FGF, HIH, ___",
+            "options": [
+                "JKJ",
+                "HJH",
+                "IJI",
+                "JHJ"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "10": {
+            "Question": "P5QR, P4QS, P3QT, _____, P1QV",
+            "options": [
+                "PQW",
+                "PQV2",
+                "P2QU",
+                "PQ3U"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "11": {
+            "Question": "QAR, RAS, SAT, TAU, _____",
+            "options": [
+                "UAV",
+                "UAT",
+                "TAS",
+                "TAT"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "12": {
+            "Question": "DEF, DEF2, DE2F2, _____, D2E2F3",
+            "options": [
+                "DEF3",
+                "D3EF3",
+                "D2E3F",
+                "D2E2F2"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "13": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "14": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "15": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "16": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "17": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "18": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "19": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "20": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "21": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "22": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "23": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "24": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "25": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "26": {
+            "Question": "",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "correct option": "b",
+            "category": "general"
+        }
+    }
+]

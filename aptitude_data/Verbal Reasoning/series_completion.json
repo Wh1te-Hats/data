@@ -1,0 +1,534 @@
+[
+    {
+        "topic": "Series Completion",
+        "Question description": "Choose the correct alternative that will continue the same pattern and replace the question mark in the given series.",
+        "1": {
+            "Question": "120, 99, 80, 63, 48, ?",
+            "options": [
+                "35",
+                "38",
+                "39",
+                "40"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "2": {
+            "Question": "589654237, 89654237, 8965423, 965423, ?",
+            "options": [
+                "58965",
+                "65423",
+                "89654",
+                "96542"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "3": {
+            "Question": "3, 10, 101,?",
+            "options": [
+                "10101",
+                "10201",
+                "10202",
+                "11012"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "4": {
+            "Question": "In the series 2, 6, 18, 54, ...... what will be the 8th term ?",
+            "options": [
+                "4370",
+                "4374",
+                "7443",
+                "7434"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "5": {
+            "Question": "125,80,45,20,?",
+            "options": [
+                "5",
+                "8",
+                "10",
+                "12"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "6": {
+            "Question": "1, 1, 4, 8, 9, 27, 16, ?",
+            "options": [
+                "32",
+                "64",
+                "81",
+                "256"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "7": {
+            "Question": "1, 2, 3, 6, 9, 18, ?, 54",
+            "options": [
+                "18",
+                "27",
+                "36",
+                "81"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "8": {
+            "Question": "6, 13, 25, 51, 101, ?",
+            "options": [
+                "201",
+                "202",
+                "203",
+                "205"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "9": {
+            "Question": "5, 6, 9, 15, ?, 40",
+            "options": [
+                "21",
+                "25",
+                "27",
+                "33"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "10": {
+            "Question": "1, 3, 4, 8, 15, 27, ?",
+            "options": [
+                "37",
+                "44",
+                "50",
+                "55"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "11": {
+            "Question": "3, 4, 7, 7, 13, 13, 21, 22, 31, 34, ?",
+            "options": [
+                "42",
+                "43",
+                "51",
+                "52"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "12": {
+            "Question": "198, 194, 185, 169, ?",
+            "options": [
+                "92",
+                "112",
+                "136",
+                "144"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "13": {
+            "Question": "2, 3, 5,7,11,?, 17",
+            "options": [
+                "12",
+                "13",
+                "14",
+                "15"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "14": {
+            "Question": "6, 12, 21, ?, 48",
+            "options": [
+                "33",
+                "38",
+                "40",
+                "45"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "15": {
+            "Question": "Which term of the series 5, 10, 20, 40, ..... is 1280?",
+            "options": [
+                "10th",
+                "9th",
+                "8th",
+                "None of these"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "16": {
+            "Question": "2, 5, 9, ?, 20, 27",
+            "options": [
+                "14",
+                "16",
+                "18",
+                "24"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "17": {
+            "Question": "2, 3, 3, 5, 10, 13, ?, 43, 172, 177",
+            "options": [
+                "23",
+                "38",
+                "39",
+                "40"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "18": {
+            "Question": "9, 27, 31, 155, 161, 1127, ?",
+            "options": [
+                "316",
+                "1135",
+                "1288",
+                "2254"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "19": {
+            "Question": "2, 1, 2, 4, 4, 5, 6, 7, 8, 8, 10, 11, ?",
+            "options": [
+                "9",
+                "10",
+                "11",
+                "12"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "20": {
+            "Question": "Which of the following will not be a number of the series 1, 8, 27, 64, 125,.....?",
+            "options": [
+                "256",
+                "512",
+                "729",
+                "1000"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "21": {
+            "Question": "13, 32, 24, 43, 35, ?, 46, 65, 57, 76",
+            "options": [
+                "45",
+                "52",
+                "54",
+                "55"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "22": {
+            "Question": "22, 24, 28, ?, 52, 84",
+            "options": [
+                "36",
+                "38",
+                "42",
+                "46"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "23": {
+            "Question": "3, 15, ?, 63, 99, 143",
+            "options": [
+                "27",
+                "35",
+                "45",
+                "56"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "24": {
+            "Question": "90, 180, 12, 50, 100, 200, ?, 3, 50, 4, 25, 2, 6, 30, 3",
+            "options": [
+                "150",
+                "175",
+                "225",
+                "250"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "25": {
+            "Question": "48, 24, 96, 48, 192, ?",
+            "options": [
+                "76",
+                "90",
+                "96",
+                "98"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "26": {
+            "Question": "2,15,41,80,?",
+            "options": [
+                "111",
+                "120",
+                "121",
+                "132"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "27": {
+            "Question": "6, 11, 21, 36, 56, ?",
+            "options": [
+                "42",
+                "51",
+                "81",
+                "91"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "28": {
+            "Question": "563, 647, 479, 815, ?",
+            "options": [
+                "672",
+                "386",
+                "279",
+                "143"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "29": {
+            "Question": "13, 35, 57, 79, 911, ?",
+            "options": [
+                "1110",
+                "1112",
+                "1113",
+                "1315"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "30": {
+            "Question": "1, 4, 10, 22, 46, ?",
+            "options": [
+                "64",
+                "86",
+                "94",
+                "122"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "31": {
+            "Question": "66, 36, 18, ?",
+            "options": [
+                "3",
+                "6",
+                "8",
+                "9"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "32": {
+            "Question": "In the series 3, 9, 15, ...... what will be the 21st term?",
+            "options": [
+                "117",
+                "121",
+                "123",
+                "129"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "33": {
+            "Question": "28, 33, 31, 36, ?, 39",
+            "options": [
+                "32",
+                "34",
+                "38",
+                "40"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "34": {
+            "Question": "1, 9, 25, 49, 81, ?",
+            "options": [
+                "100",
+                "112",
+                "121",
+                "144"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "35": {
+            "Question": "1, 9, 25, 49, ?, 121",
+            "options": [
+                "64",
+                "81",
+                "91",
+                "100"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "36": {
+            "Question": "2,2,5, 13,28,?",
+            "options": [
+                "49",
+                "50",
+                "51",
+                "52"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "37": {
+            "Question": "0, 2, 8, 14, ?, 34",
+            "options": [
+                "20",
+                "23",
+                "24.",
+                "25"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "38": {
+            "Question": "1, 5, 14, 30, 55, 91, ?",
+            "options": [
+                "130",
+                "140",
+                "150",
+                "160"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "39": {
+            "Question": "In the series 10, 17, 24, 31, 38,.....which of the following will be a number of the series ?",
+            "options": [
+                "48",
+                "346",
+                "574",
+                "1003"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "40": {
+            "Question": "240, ?, 120, 40, 10, 2",
+            "options": [
+                "180",
+                "240",
+                "420",
+                "480"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "41": {
+            "Question": "2,3,8,27, 112,?",
+            "options": [
+                "226",
+                "339",
+                "452",
+                "565"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "42": {
+            "Question": "6, 17, 39, 72, ?",
+            "options": [
+                "83",
+                "94",
+                "116",
+                "127"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "43": {
+            "Question": "20, 20, 19, 16, 17, 13, 14, 11, ?, ?",
+            "options": [
+                "10, 10",
+                "10, 11",
+                "13, 14",
+                "13, 16"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "44": {
+            "Question": "24, 60, 120, 210, ?",
+            "options": [
+                "300",
+                "336",
+                "420",
+                "525"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "45": {
+            "Question": "625, 5, 125, 25, 25, ?, 5",
+            "options": [
+                "5",
+                "25",
+                "125",
+                "625"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "46": {
+            "Question": "10, 100, 200, 310, ?",
+            "options": [
+                "400",
+                "410",
+                "420",
+                "430"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "47": {
+            "Question": "11, 10, ?, 100, 1001, 1000, 10001",
+            "options": [
+                "101",
+                "110",
+                "111",
+                "None of these"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "48": {
+            "Question": "2, 7, 27, 107, 427, ?",
+            "options": [
+                "1262",
+                "1707",
+                "4027",
+                "4207"
+            ],
+            "correct option": "b",
+            "category": "general"
+        }
+    }
+]

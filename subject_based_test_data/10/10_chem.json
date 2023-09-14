@@ -1,0 +1,303 @@
+{
+    "1": {
+      "Question": "What is the chemical formula for methane?",
+      "options": ["a. CH2O", "b. H2O", "c. CH4", "d. CO2"],
+      "correct option": "c",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "2": {
+      "Question": "Which gas is produced when hydrochloric acid reacts with zinc?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Nitrogen", "d. Carbon dioxide"],
+      "correct option": "b",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "3": {
+      "Question": "What is the pH value of a neutral solution?",
+      "options": ["a. 0", "b. 7", "c. 14", "d. 1"],
+      "correct option": "b",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "4": {
+      "Question": "What type of reaction is the burning of natural gas (methane) in the presence of oxygen?",
+      "options": ["a. Combination reaction", "b. Decomposition reaction", "c. Displacement reaction", "d. Double displacement reaction"],
+      "correct option": "a",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "5": {
+      "Question": "What is the chemical formula for sulfuric acid?",
+      "options": ["a. H2SO4", "b. SO2", "c. H2O", "d. NaCl"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "6": {
+      "Question": "What gas is evolved when sodium bicarbonate (baking soda) reacts with acetic acid (vinegar)?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Hydrogen", "d. Nitrogen"],
+      "correct option": "b",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "7": {
+      "Question": "Which of the following is a decomposition reaction?",
+      "options": ["a. 2H2 + O2 → 2H2O", "b. 2Mg + O2 → 2MgO", "c. CaCO3 → CaO + CO2", "d. NaOH + HCl → NaCl + H2O"],
+      "correct option": "c",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "8": {
+      "Question": "What is the product of the reaction between sodium hydroxide (NaOH) and hydrochloric acid (HCl)?",
+      "options": ["a. NaCl + H2O", "b. NaOH + HCl2", "c. Na2O + H2O", "d. Na2Cl + H2"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "9": {
+      "Question": "What gas is produced when calcium carbonate (CaCO3) is heated strongly?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Hydrogen", "d. Chlorine"],
+      "correct option": "b",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "10": {
+      "Question": "What happens when an acid is added to a base?",
+      "options": ["a. A neutralization reaction", "b. Formation of a gas", "c. Explosion", "d. Formation of a solid"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "11": {
+      "Question": "What is the chemical formula for hydrochloric acid?",
+      "options": ["a. H2SO4", "b. SO2", "c. HCl", "d. NaCl"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "12": {
+      "Question": "Which gas is responsible for the sour taste of vinegar?",
+      "options": ["a. Oxygen", "b. Carbon dioxide", "c. Hydrogen", "d. Nitrogen"],
+      "correct option": "b",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "13": {
+      "Question": "What is the product of the reaction between sulfuric acid (H2SO4) and sodium hydroxide (NaOH)?",
+      "options": ["a. Na2SO4 + H2O", "b. H2SO3 + NaOH", "c. Na2SO3 + H2O", "d. NaHSO4 + H2O"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "14": {
+      "Question": "What is the chemical formula for calcium hydroxide?",
+      "options": ["a. CaOH", "b. Ca(OH)2", "c. CaO", "d. CaCO3"],
+      "correct option": "b",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "15": {
+      "Question": "What type of reaction is the formation of water from hydrogen and oxygen?",
+      "options": ["a. Combination reaction", "b. Decomposition reaction", "c. Displacement reaction", "d. Double displacement reaction"],
+      "correct option": "a",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "16": {
+      "Question": "Which gas is evolved when dilute sulfuric acid reacts with zinc?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Nitrogen", "d. Carbon dioxide"],
+      "correct option": "b",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "17": {
+      "Question": "What is the chemical formula for sodium carbonate?",
+      "options": ["a. Na2CO4", "b. NaHCO3", "c. Na2CO3", "d. NaCO3"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "18": {
+      "Question": "What happens when a base is added to an acid?",
+      "options": ["a. A neutralization reaction", "b. Formation of a gas", "c. Explosion", "d. Formation of a solid"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "19": {
+      "Question": "What is the chemical formula for nitric acid?",
+      "options": ["a. HNO4", "b. NO2", "c. HNO3", "d. NaNO3"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "20": {
+      "Question": "What gas is evolved when dilute hydrochloric acid reacts with magnesium?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Nitrogen", "d. Carbon dioxide"],
+      "correct option": "b",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "21": {
+      "Question": "What is the chemical formula for sodium chloride?",
+      "options": ["a. NaOH", "b. H2SO4", "c. NaCl", "d. HCl"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "22": {
+      "Question": "What type of reaction is the reaction between an acid and a metal?",
+      "options": ["a. Combination reaction", "b. Decomposition reaction", "c. Displacement reaction", "d. Double displacement reaction"],
+      "correct option": "c",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "23": {
+      "Question": "Which gas is evolved when calcium reacts with water?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Nitrogen", "d. Carbon dioxide"],
+      "correct option": "b",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "24": {
+      "Question": "What is the chemical formula for sulfur dioxide?",
+      "options": ["a. SO", "b. SO3", "c. SO2", "d. SO4"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "25": {
+      "Question": "What is the chemical formula for potassium hydroxide?",
+      "options": ["a. KOH", "b. K2OH", "c. KHO", "d. KH2O"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "26": {
+      "Question": "What happens when carbon dioxide gas is passed through lime water?",
+      "options": ["a. Formation of a white precipitate", "b. No change", "c. Formation of a yellow precipitate", "d. Formation of a red precipitate"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "27": {
+      "Question": "What is the chemical formula for hydrobromic acid?",
+      "options": ["a. HBr", "b. H2Br2", "c. HBr2", "d. H2Br"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "28": {
+      "Question": "What is the product of the reaction between nitric acid (HNO3) and potassium hydroxide (KOH)?",
+      "options": ["a. KNO2 + H2O", "b. HNO2 + KOH", "c. KNO3 + H2O", "d. KNO + H2O"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "29": {
+      "Question": "What is the chemical formula for phosphoric acid?",
+      "options": ["a. H3PO4", "b. H2PO3", "c. HPO4", "d. H4PO3"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "30": {
+      "Question": "What type of reaction is the reaction between lead nitrate (Pb(NO3)2) and potassium iodide (KI)?",
+      "options": ["a. Combination reaction", "b. Decomposition reaction", "c. Displacement reaction", "d. Double displacement reaction"],
+      "correct option": "d",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "31": {
+      "Question": "Which gas is evolved when dilute hydrochloric acid reacts with calcium carbonate?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Nitrogen", "d. Carbon dioxide"],
+      "correct option": "d",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "32": {
+      "Question": "What is the chemical formula for magnesium hydroxide?",
+      "options": ["a. MgOH", "b. Mg(OH)2", "c. MgO", "d. MgCO3"],
+      "correct option": "b",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "33": {
+      "Question": "What happens when copper sulfate solution reacts with iron filings?",
+      "options": ["a. No reaction", "b. Formation of copper filings", "c. Formation of iron sulfate and copper", "d. Formation of iron sulfate and copper filings"],
+      "correct option": "d",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "34": {
+      "Question": "What is the chemical formula for hydrochloric acid?",
+      "options": ["a. H2SO4", "b. SO2", "c. HCl", "d. NaCl"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "35": {
+      "Question": "Which gas is evolved when dilute sulfuric acid reacts with potassium chloride?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Nitrogen", "d. Chlorine"],
+      "correct option": "d",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "36": {
+      "Question": "What is the chemical formula for sodium hydrogen carbonate?",
+      "options": ["a. Na2HCO4", "b. NaHCO2", "c. Na2CO3", "d. NaCO3"],
+      "correct option": "b",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "37": {
+      "Question": "What is the product of the reaction between hydrochloric acid (HCl) and sodium carbonate (Na2CO3)?",
+      "options": ["a. NaCl + H2O", "b. Na2CO4 + H2O", "c. Na2Cl2 + H2O", "d. Na2CO3 + H2O + CO2"],
+      "correct option": "d",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "38": {
+      "Question": "What happens when sodium hydroxide solution reacts with hydrochloric acid?",
+      "options": ["a. A neutralization reaction", "b. Formation of a gas", "c. Explosion", "d. Formation of a solid"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "39": {
+      "Question": "What is the chemical formula for nitrous acid?",
+      "options": ["a. HNO4", "b. NO2", "c. HNO2", "d. NaNO2"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "40": {
+      "Question": "Which gas is evolved when zinc reacts with dilute sulfuric acid?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Nitrogen", "d. Carbon dioxide"],
+      "correct option": "b",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "41": {
+      "Question": "What is the chemical formula for acetic acid?",
+      "options": ["a. CH3OH", "b. C2H5OH", "c. CH3COOH", "d. C6H12O6"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "42": {
+      "Question": "What type of reaction is the reaction between sodium chloride (NaCl) and silver nitrate (AgNO3)?",
+      "options": ["a. Combination reaction", "b. Decomposition reaction", "c. Displacement reaction", "d. Double displacement reaction"],
+      "correct option": "d",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "43": {
+      "Question": "What is the chemical formula for sulfuric acid?",
+      "options": ["a. H2SO4", "b. SO2", "c. H2O", "d. NaCl"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "44": {
+      "Question": "What gas is evolved when sodium carbonate (Na2CO3) reacts with hydrochloric acid (HCl)?",
+      "options": ["a. Oxygen", "b. Hydrogen", "c. Nitrogen", "d. Carbon dioxide"],
+      "correct option": "d",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "45": {
+      "Question": "What is the chemical formula for nitric acid?",
+      "options": ["a. HNO4", "b. NO2", "c. HNO3", "d. NaNO3"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "46": {
+      "Question": "What happens when sodium carbonate (Na2CO3) reacts with hydrochloric acid (HCl)?",
+      "options": ["a. Formation of sodium chloride and water", "b. Formation of sodium hydroxide and carbon dioxide", "c. No reaction", "d. Formation of sodium sulfate and water"],
+      "correct option": "b",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "47": {
+      "Question": "What is the chemical formula for carbonic acid?",
+      "options": ["a. HCO3", "b. CO2", "c. H2CO3", "d. C2H4O2"],
+      "correct option": "c",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "48": {
+      "Question": "What type of reaction is the reaction between lead nitrate (Pb(NO3)2) and sodium chloride (NaCl)?",
+      "options": ["a. Combination reaction", "b. Decomposition reaction", "c. Displacement reaction", "d. Double displacement reaction"],
+      "correct option": "d",
+      "chapter": "Chemical Reactions and Equations"
+    },
+    "49": {
+      "Question": "What is the chemical formula for hydroiodic acid?",
+      "options": ["a. HI", "b. H2I2", "c. H2I", "d. H3I"],
+      "correct option": "a",
+      "chapter": "Acids, Bases, and Salts"
+    },
+    "50": {
+      "Question": "What happens when silver nitrate solution reacts with sodium chloride?",
+      "options": ["a. Formation of silver chloride precipitate", "b. Formation of sodium nitrate solution", "c. No reaction", "d. Formation of silver sulfate precipitate"],
+      "correct option": "a",
+      "chapter": "Chemical Reactions and Equations"
+    }
+  }
+  

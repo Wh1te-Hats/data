@@ -1,0 +1,501 @@
+[
+    {
+        "topic": "Spellings",
+        "Question description": "Find the correctly spelt words.",
+        "1": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Efficient",
+                "Treatmeant",
+                "Beterment",
+                "Employd"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "2": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Foreign",
+                "Foreine",
+                "Fariegn",
+                "Forein"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "3": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Ommineous",
+                "Omineous",
+                "Ominous",
+                "Omenous"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "4": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Pessenger",
+                "Passenger",
+                "Pasanger",
+                "Pesanger"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "5": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Benefitted",
+                "Benifited",
+                "Benefited",
+                "Benefeted"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "6": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Treachrous",
+                "Trecherous",
+                "Trechearous",
+                "Treacherous"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "7": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Forcast",
+                "Forecaste",
+                "Forcaust",
+                "Forecast"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "8": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Rigerous",
+                "Rigourous",
+                "Regerous",
+                "Rigorous"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "9": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Palete",
+                "Palet",
+                "Palate",
+                "Pelate"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "10": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Bouquete",
+                "Bouquette",
+                "Bouquet",
+                "Boqquet"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "11": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Vetarinary",
+                "Veteninary",
+                "Vetinary",
+                "Veterinary"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "12": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Chancelary",
+                "Chancellery",
+                "Chancelery",
+                "Chancellary"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "13": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Excessive",
+                "Exccessive",
+                "Exxcesive",
+                "Excesive"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "14": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Indipensable",
+                "Indipenseble",
+                "Indispansible",
+                "Indispensable"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "15": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Humorous",
+                "Ganerous",
+                "Pupolous",
+                "Maretorious"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "16": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Itinarery",
+                "Itinerary",
+                "Itenary",
+                "Itinarary"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "17": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Survaillance",
+                "Surveillance",
+                "Survellance",
+                "Surveilance"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "18": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Sepulchral",
+                "Sepilchrle",
+                "Sepalchrul",
+                "Sepalchrl"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "19": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Acommodation",
+                "Accomodaton",
+                "Accommodation",
+                "Acomodation"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "20": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Faithfuly",
+                "Sincerely",
+                "Truely",
+                "Affectionatly"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "21": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Klaptomania",
+                "Klepptomania",
+                "Kleptemania",
+                "Kleptomania"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "22": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Schedulle",
+                "Schedeule",
+                "Schdule",
+                "Schedule"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "23": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Skillful",
+                "Skillfull",
+                "Skilfull",
+                "Skilpull"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "24": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Judicious",
+                "Cancious",
+                "Dilicous",
+                "Gracous"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "25": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Gaurantee",
+                "Guarantee",
+                "Garuntee",
+                "Guaruntee"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "26": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Friming",
+                "Burnning",
+                "Running",
+                "Fryng"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "27": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Dammage",
+                "Damaige",
+                "Dammege",
+                "Damage"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "28": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Accomplish",
+                "Acomplush",
+                "Ackmplesh",
+                "Accompalish"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "29": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Puerrile",
+                "Puerrille",
+                "Purrile",
+                "Puerile"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "30": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Satelite",
+                "Sattelite",
+                "Satellite",
+                "Sattellite"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "31": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Inoculation",
+                "Innoculation",
+                "Inocculation",
+                "Inocullation"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "32": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Velnerable",
+                "Vulnarable",
+                "Vulnerable",
+                "Valnerable"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "33": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Simpal",
+                "Bannar",
+                "Pattren",
+                "Modern"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "34": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Scripher",
+                "Scripture",
+                "Skripture",
+                "Scriptur"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "35": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Comitte",
+                "Commitee",
+                "Committee",
+                "Comiittee"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "36": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Exaggerate",
+                "Exeggrate",
+                "Exagerate",
+                "Exadgerate"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "37": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Asspersion",
+                "Voluptuous",
+                "Voguei",
+                "Equestrain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "38": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Hindrance",
+                "Hinderrance",
+                "Hindrence",
+                "Hinderence"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "39": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Parallelled",
+                "Parralleled",
+                "Paralleled",
+                "Paraleled"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "40": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Lckadaisicle",
+                "Lackdaisical",
+                "Lackadisical",
+                "Lackadaisical"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "41": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Equanimity",
+                "Equannimity",
+                "Equanimmity",
+                "Equinimity"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "42": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Occured",
+                "Occurad",
+                "Ocurred",
+                "Occurred"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "43": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Swelte",
+                "Filpant",
+                "Licentious",
+                "Puessile"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "44": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Grief",
+                "Breif",
+                "Recieve",
+                "Diceive"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "45": {
+            "Question": "(solve as per the direction given above)",
+            "options": [
+                "Furnituer",
+                "Exampel",
+                "Medicine",
+                "Sampal"
+            ],
+            "correct option": "c",
+            "category": "general"
+        }
+    }
+]

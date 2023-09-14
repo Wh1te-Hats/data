@@ -1,0 +1,574 @@
+[
+    {
+        "topic": "Logical Problems Type-1",
+        "Question description": "Each problem consists of three statements. Based on the first two statements, the third statement may be true, false, or uncertain.",
+        "1": {
+            "Question": "Tanya is older than Eric.\nCliff is older than Tanya.\nEric is older than Cliff.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "2": {
+            "Question": "Blueberries cost more than strawberries.\nBlueberries cost less than raspberries.\nRaspberries cost more than strawberries and blueberries.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "3": {
+            "Question": "All the trees in the park are flowering trees.\nSome of the trees in the park are dogwoods.\nAll dogwoods in the park are flowering trees.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "4": {
+            "Question": "Mara runs faster than Gail.\nLily runs faster than Mara.\nGail runs faster than Lily.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "5": {
+            "Question": "Apartments in the Riverdale Manor cost less than apartments in The Gaslight Commons.\nApartments in the Livingston Gate cost more than apartments in the The Gaslight Commons.\nOf the three apartment buildings, the Livingston Gate costs the most.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "6": {
+            "Question": "The Kingston Mall has more stores than the Galleria.\nThe Four Corners Mall has fewer stores than the Galleria.\nThe Kingston Mall has more stores than the Four Corners Mall.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "7": {
+            "Question": "All the tulips in Zoe's garden are white.\nAll the pansies in Zoe's garden are yellow.\nAll the flowers in Zoe's garden are either white or yellow\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "8": {
+            "Question": "During the past year, Josh saw more movies than Stephen.\nStephen saw fewer movies than Darren.\nDarren saw more movies than Josh.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "9": {
+            "Question": "Rover weighs less than Fido.\nRover weighs more than Boomer.\nOf the three dogs, Boomer weighs the least.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "10": {
+            "Question": "All the offices on the 9th floor have wall-to-wall carpeting.\nNo wall-to-wall carpeting is pink.\nNone of the offices on the 9th floor has pink wall-to-wall carpeting.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "11": {
+            "Question": "Class A has a higher enrollment than Class B.\nClass C has a lower enrollment than Class B.\nClass A has a lower enrollment than Class C.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "12": {
+            "Question": "A fruit basket contains more apples than lemons.\nThere are more lemons in the basket than there are oranges.\nThe basket contains more apples than oranges.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "13": {
+            "Question": "The Shop and Save Grocery is south of Greenwood Pharmacy.\nRebecca's house is northeast of Greenwood Pharmacy.\nRebecca's house is west of the Shop and Save Grocery.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "14": {
+            "Question": "Joe is younger than Kathy.\nMark was born after Joe.\nKathy is older than Mark.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "15": {
+            "Question": "On the day the Barton triplets are born,\nJenna weighs more than Jason.\nJason weighs less than Jasmine.\nOf the three babies, Jasmine weighs the most.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "16": {
+            "Question": "The temperature on Monday was lower than on Tuesday.\nThe temperature on Wednesday was lower than on Tuesday.\nThe temperature on Monday was higher than on Wednesday\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "17": {
+            "Question": "Oat cereal has more fiber than corn cereal but less fiber than bran cereal.\nCorn cereal has more fiber than rice cereal but less fiber than wheat cereal.\nOf the three kinds of cereal, rice cereal has the least amount of fiber.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "18": {
+            "Question": "Martina is sitting in the desk behind Jerome.\nJerome is sitting in the desk behind Bryant.\nBryant is sitting in the desk behind Martina.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "19": {
+            "Question": "Battery X lasts longer than Battery Y.\nBattery Y doesn't last as long as Battery Z.\nBattery Z lasts longer than Battery X.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "20": {
+            "Question": "Spot is bigger than King and smaller than Sugar.\nRalph is smaller than Sugar and bigger than Spot.\nKing is bigger than Ralph.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "21": {
+            "Question": "Middletown is north of Centerville.\nCenterville is east of Penfield.\nPenfield is northwest of Middletown.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "22": {
+            "Question": "All spotted Gangles have long tails.\nShort-haired Gangles always have short tails.\nLong-tailed Gangles never have short hair.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "23": {
+            "Question": "All Lamels are Signots with buttons.\nNo yellow Signots have buttons.\nNo Lamels are yellow.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "24": {
+            "Question": "The hotel is two blocks east of the drugstore.\nThe market is one block west of the hotel.\nThe drugstore is west of the market.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "25": {
+            "Question": "A toothpick is useful.\nUseful things are valuable.\nA toothpick is valuable.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "26": {
+            "Question": "Tom puts on his socks before he puts on his shoes.\nHe puts on his shirt before he puts on his jacket.\nTom puts on his shoes before he puts on his shirt.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "27": {
+            "Question": "Three pencils cost the same as two erasers.\nFour erasers cost the same as one ruler.\nPencils are more expensive than rulers.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "28": {
+            "Question": "Taking the train across town is quicker than taking the bus.\nTaking the bus across town is slower than driving a car.\nTaking the train across town is quicker than driving a car.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "29": {
+            "Question": "Cloudy days tend to be more windy than sunny days.\nFoggy days tend to be less windy than cloudy days.\nSunny days tend to be less windy than foggy days.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "30": {
+            "Question": "At a parking lot, a sedan is parked to the right of a pickup and to the left of a sport utility vehicle.\nA minivan is parked to the left of the pickup.\nThe minivan is parked between the pickup and the sedan.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "31": {
+            "Question": "The bookstore has a better selection of postcards than the newsstand does.\nThe selection of postcards at the drugstore is better than at the bookstore.\nThe drugstore has a better selection of postcards than the bookstore or the newsstand.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "32": {
+            "Question": "A jar of jelly beans contains more red beans than green.\nThere are more yellow beans than red.\nThe jar contains fewer yellow jelly beans than green ones.\nIf the first two statements are true, the third statement is",
+            "options": [
+                "true",
+                "false",
+                "uncertain"
+            ],
+            "correct option": "b",
+            "category": "general"
+        }
+    },
+    {
+        "topic": "Logical Problems Type-2",
+        "Question description": "The logic problems in this set present you with three true statements: Fact 1, Fact 2, and Fact 3. Then, you are given three more statements (labeled I, II, and III), and you must determine which of these, if any, is also a fact. One or two of the statements could be true; all of the statements could be true; or none of the statements could be true. Choose your answer based solely on the information given in the first three facts.",
+        "1": {
+            "Question": "Fact 1: All dogs like to run.\nFact 2: Some dogs like to swim.\nFact 3: Some dogs look like their masters.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: All dogs who like to swim look like their masters.\nII: Dogs who like to swim also like to run.\nIII: Dogs who like to run do not look like their masters.",
+            "options": [
+                "I only",
+                "II only",
+                "II and III only"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "2": {
+            "Question": "Fact 1: Jessica has four children\nFact 2: Two of the children have blue eyes and two of the children have brown eyes.\nFact 3: Half of the children are girls.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: At least one girl has blue eyes.\nII: Two of the children are boys.\nIII: The boys have brown eyes.",
+            "options": [
+                "I only",
+                "II only",
+                "II and III only"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "3": {
+            "Question": "Fact 1: All drink mixes are beverages.\nFact 2: All beverages are drinkable.\nFact 3: Some beverages are red.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: Some drink mixes are red.\nII: All beverages are drink mixes.\nIII: All red drink mixes are drinkable.",
+            "options": [
+                "I and II only",
+                "II only",
+                "I and III only"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "4": {
+            "Question": "Fact 1: All chickens are birds.\nFact 2: Some chickens are hens.\nFact 3: Female birds lay eggs.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: All birds lay eggs.\nII: Some Hens are birds.\nIII: Some chickens are not hens.",
+            "options": [
+                "I only",
+                "II only",
+                "II and III only"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "5": {
+            "Question": "Fact 1: All hats have brims.\nFact 2: There are black hats and blue hats.\nFact 3: Baseball caps are hats.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: All caps have brims.\nII: Some baseball caps are blue.\nIII: Baseball caps have no brims.",
+            "options": [
+                "I only",
+                "II only",
+                "II and III only"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "6": {
+            "Question": "Fact 1: Eyeglass frames cost between $35 and $350.\nFact 2: Some eyeglass frames are made of titanium.\nFact 3: Some eyeglass frames are made of plastic.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: Titanium eyeglass frames cost more than plastic frames.\nII: Expensive eyeglass frames last longer than cheap frames.\nIII: Only a few eyeglass frames cost less than $35.",
+            "options": [
+                "I only",
+                "II only",
+                "II and III only"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "7": {
+            "Question": "Fact 1: Most stuffed toys are stuffed with beans.\nFact 2: There are stuffed bears and stuffed tigers.\nFact 3: Some chairs are stuffed with beans.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: Only children's chairs are stuffed with beans.\nII: All stuffed tigers are stuffed with beans.\nIII: Stuffed monkeys are not stuffed with beans.",
+            "options": [
+                "I only",
+                "II only",
+                "II and III only"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "8": {
+            "Question": "Fact 1: Mary said, \"Ann and I both have cats.\"\nFact 2: Ann said, \"I don't have a cat.\"\nFact 3: Mary always tells the truth, but Ann sometimes lies.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: Ann has a cat.\nII: Mary has a cat.\nIII: Ann is lying.",
+            "options": [
+                "I only",
+                "II only",
+                "I and II only"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "9": {
+            "Question": "Fact 1: Pictures can tell a story.\nFact 2: All storybooks have pictures.\nFact 3: Some storybooks have words.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: Pictures can tell a story better than words can.\nII: The stories in storybooks are very simple.\nIII: Some storybooks have both words and pictures.",
+            "options": [
+                "I only",
+                "II only",
+                "III only"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "10": {
+            "Question": "Fact 1: Some pens don't write.\nFact 2: All blue pens write.\nFact 3: Some writing utensils are pens.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: Some writing utensils don't write.\nII: Some writing utensils are blue.\nIII: Some blue writing utensils don't write.",
+            "options": [
+                "I only",
+                "I and II only",
+                "II and III only"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "11": {
+            "Question": "Fact 1: Islands are surrounded by water.\nFact 2: Maui is an island.\nFact 3: Maui was formed by a volcano.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: Maui is surrounded by water.\nII: All islands are formed by volcanoes.\nIII: All volcanoes are on islands.",
+            "options": [
+                "I only",
+                "II only",
+                "II and III only"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "12": {
+            "Question": "Fact 1: Robert has four vehicles.\nFact 2: Two of the vehicles are red.\nFact 3: One of the vehicles is a minivan.\nIf the first three statements are facts, which of the following statements must also be a fact?\nI: Robert has a red minivan.\nII: Robert has three cars.\nIII: Robert's favorite color is red.",
+            "options": [
+                "I only",
+                "II only",
+                "II and III only"
+            ],
+            "correct option": "d",
+            "category": "general"
+        }
+    },
+    {
+        "topic": "Logical Problems Type-3",
+        "Question description": "Read the question carefully and choose the correct answer.",
+        "1": {
+            "Question": "Four defensive football players are chasing the opposing wide receiver, who has the ball. Calvin is directly behind the ball carrier. Jenkins and Burton are side by side behind Calvin. Zeller is behind Jenkins and Burton. Calvin tries for the tackle but misses and falls. Burton trips. Which defensive player tackles the receiver?",
+            "options": [
+                "Burton",
+                "Zeller",
+                "Jenkins"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "2": {
+            "Question": "A four-person crew from Classic Colors is painting Mr. Field's house. Michael is painting the front of the house. Ross is in the alley behind the house painting the back. Jed is painting the window frames on the north side, Shawn is on the south. If Michael switches places with Jed, and Jed then switches places with Shawn, where is Shawn?",
+            "options": [
+                "in the alley behind the house",
+                "on the north side of the house",
+                "in front of the house"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "3": {
+            "Question": "In a four-day period Monday through Thursday each of the following temporary office workers worked only one day, each a different day. Ms. Johnson was scheduled to work on Monday, but she traded with Mr. Carter, who was originally scheduled to work on Wednesday. Ms. Falk traded with Mr. Kirk, who was originally scheduled to work on Thursday. After all the switching was done, who worked on Tuesday?",
+            "options": [
+                "Mr. Carter",
+                "Ms. Falk",
+                "Ms. Johnson"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "4": {
+            "Question": "Four people witnessed a mugging. Each gave a different description of the mugger. Which description is probably right?",
+            "options": [
+                "He was average height, thin, and middle-aged.",
+                "He was tall, thin, and middle-aged.",
+                "He was tall, thin, and young."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "5": {
+            "Question": "Ms. Forest likes to let her students choose who their partners will be; however, no pair of students may work together more than seven class periods in a row. Adam and Baxter have studied together seven class periods in a row. Carter and Dennis have worked together three class periods in a row. Carter does not want to work with Adam. Who should be assigned to work with Baxter?",
+            "options": [
+                "Carter",
+                "Adam",
+                "Dennis"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "6": {
+            "Question": "At the baseball game, Henry was sitting in seat 253. Marla was sitting to the right of Henry in seat 254. In the seat to the left of Henry was George. Inez was sitting to the left of George. Which seat is Inez sitting in?",
+            "options": [
+                "251",
+                "254",
+                "255"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "7": {
+            "Question": "As they prepare for the state championships, one gymnast must be moved from the Level 2 team to the Level 1 team. The coaches will move the gymnast who has won the biggest prize and who has the most experience. In the last competition, Roberta won a bronze medal and has competed seven times before. Jamie has won a silver medal and has competed fewer times than Roberta. Beth has won a higher medal than Jamie and has competed more times than Roberta. Michele has won a bronze medal, and it is her third time competing. Who will be moved to the Level 1 team?",
+            "options": [
+                "Roberta",
+                "Beth",
+                "Michele"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "8": {
+            "Question": "Four friends in the sixth grade were sharing a pizza. They decided that the oldest friend would get the extra piece. Randy is two months older than Greg, who is three months younger than Ned. Kent is one month older than Greg. Who should get the extra piece of pizza?",
+            "options": [
+                "Randy",
+                "Greg",
+                "Ned"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "9": {
+            "Question": "The high school math department needs to appoint a new chairperson, which will be based on seniority. Ms. West has less seniority than Mr. Temple, but more than Ms. Brody. Mr. Rhodes has more seniority than Ms. West, but less than Mr. Temple. Mr. Temple doesn't want the job. Who will be the new math department chairperson?",
+            "options": [
+                "Mr. Rhodes",
+                "Mr. Temple",
+                "Ms.West"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "10": {
+            "Question": "Danielle has been visiting friends in Ridge-wood for the past two weeks. She is leaving tomorrow morning and her flight is very early. Most of her friends live fairly close to the airport. Madison lives ten miles away. Frances lives five miles away, Samantha, seven miles. Alexis is farther away than Frances, but closer than Samantha. Approximately how far away from the airport is Alexis?",
+            "options": [
+                "nine miles",
+                "seven miles",
+                "eight miles"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "11": {
+            "Question": "Nurse Kemp has worked more night shifts in a row than Nurse Rogers, who has worked five. Nurse Miller has worked fifteen night shifts in a row, more than Nurses Kemp and Rogers combined. Nurse Calvin has worked eight night shifts in a row, less than Nurse Kemp. How many night shifts in a row has Nurse Kemp worked?",
+            "options": [
+                "eight",
+                "nine",
+                "ten"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "12": {
+            "Question": "Children are in pursuit of a dog whose leash has broken. James is directly behind the dog. Ruby is behind James. Rachel is behind Ruby. Max is ahead of the dog walking down the street in the opposite direction. As the children and dog pass, Max turns around and joins the pursuit. He runs in behind Ruby. James runs faster and is alongside the dog on the left. Ruby runs faster and is alongside the dog on the right. Which child is directly behind the dog?",
+            "options": [
+                "James",
+                "Ruby",
+                "Rachel"
+            ],
+            "correct option": "d",
+            "category": "general"
+        }
+    }
+]

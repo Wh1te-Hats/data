@@ -1,0 +1,2426 @@
+[
+    {
+        "topic": "Spotting errors",
+        "Question description": "Read each sentence to find out whether there is any grammatical error in it. The error, if any will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D' .(Ignore the errors of punctuation, if any).",
+        "1": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "We discussed about the problem so thoroughly",
+                "on the eve of the examination",
+                "that I found it very easy to work it out",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "2": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "An Indian ship",
+                "laden with merchandise",
+                "got drowned in the Pacific Ocean.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "3": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I could not put up in a hotel",
+                "because the boarding and lodging charges",
+                "were exorbitant.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "4": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The Indian radio",
+                "which was previously controlled by the British rulers",
+                "is free now from the narrow vested interests.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "5": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If I had known",
+                "this yesterday",
+                "I will have helped him.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "6": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "A lot of travel delay is caused",
+                "due to the inefficiency and lack of good management",
+                "on behalf of the railways.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "7": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "One of the members",
+                "expressed doubt if",
+                "the Minister was an atheist.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "8": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I have got",
+                "my M.Sc. degree",
+                "in 1988.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "9": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Having received your letter",
+                "this morning, we are writing",
+                "to thank you for the same.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "10": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If you lend him a book",
+                "he will lend it to some one else",
+                "and never you will get it back.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "11": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "According to the Bible",
+                "it is meek and humble",
+                "who shall inherit the earth.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "12": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Do the roses in your garden smell",
+                "more sweetly",
+                "than those in ours?",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "13": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Block of Residential flats",
+                "are coming up",
+                "near our house.",
+                "No error"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "14": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "You can get",
+                "all the information that you want",
+                "in this book.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "15": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The students were",
+                "awaiting for",
+                "the arrival of the chief guest.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "16": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Sixty miles",
+                "are",
+                "a good distance.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "17": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "They have been",
+                "very close friends",
+                "until they quarrelled.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "18": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "When the dentist came in",
+                "my tooth was stopped aching",
+                "out of fear that I might lose my tooth.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "19": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is the duty of every citizen to do his utmost",
+                "to defend the hardly-won",
+                "freedom of the country.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "20": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "No sooner did I open the door",
+                "when the rain, heavy and stormy, rushed in",
+                "making us shiver from head to foot",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "21": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If a man diligently seeks to come into the contact",
+                "with the best that has been thought and said in this world",
+                "he will become simple and unselfish.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "22": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "You must",
+                "remember me",
+                "to post this letter.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "23": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I shall certainly",
+                "write you",
+                "when I shall reach NewDelhi.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "24": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "On the busy Ring Road",
+                "we witnessed a collusion",
+                "between a truck and an auto.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "25": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Mr.Praful Patel",
+                "is not attending his office",
+                "for the last month.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "26": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He couldn't but help",
+                "shedding tears at the plight of the villagers",
+                "rendered homeless by a devastating cyclone.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "27": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He will certainly help you",
+                "if you will ask him",
+                "in a pleasant manner.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "28": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The brand propositon now therefore had to be that Keokarpin Antiseptic Cream is more effective",
+                "because it penetrates deepdown (beinglight and non-sticky) and works from within",
+                "(because of its ayurvedic ingredients) to keep skin blemish, free and helps cope with cuts nicks, burns and nappy rash.",
+                "No error"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "29": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Will you please buy",
+                "some jaggery for me",
+                "if you go to the market?",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "30": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Most of the members at the meeting felt",
+                "that the group appointed for investigating the case",
+                "were not competent to do the job efficiently.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "31": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "In these days of inflation,",
+                "a ten rupee's note will not buy you",
+                "even an ordinary meal.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "32": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He persisted",
+                "to do it",
+                "in spite of my advice",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "33": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The long-awaited moment at last came,",
+                "and we set out for the station",
+                "as merry a band of children as I have ever seen before or since.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "34": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Our conception of",
+                "what should a science of mental life be",
+                "has changed considerably since James' time.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "35": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He is not coming tomorrow",
+                "as he is having a pain in the chest",
+                "and has to see a doctor.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "36": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Many times the news has been published",
+                "in the papers that the end of the world will be certain",
+                "if a nuclear war breaks out.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "37": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The reason Ram",
+                "is absent from his duty",
+                "is because he is unwell.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "38": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Azharuddin is one of the finest batsmen",
+                "that India have produced",
+                "over the decades.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "39": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The thief broke in the",
+                "house at the",
+                "dead of night",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "40": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "May I",
+                "know who you want",
+                "to see please",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "41": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He said that he",
+                "will mind if",
+                "I refused his offer.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "42": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Arun's parents died when he was young and",
+                "he looked after his aunt",
+                "who had no children.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "43": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Though child marriage",
+                "has been banned.",
+                "the custom still prevailed among some groups in India.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "44": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "My papa is",
+                "in bad mood",
+                "today",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "45": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The warden",
+                "forbade the student",
+                "from leaving the hostel.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "46": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "In spite of several reminders,",
+                "he did not so far send",
+                "any reply to me, letters.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "47": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "As much as I admire him for his sterling qualities.",
+                "I cannot excuse him for",
+                "being unfair to his friends.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "48": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Please try to understand",
+                "that the dispute on this issue is between my brother and myself,",
+                "and concerns nobody else.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "49": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "All the furnitures have been",
+                "sent to the new house",
+                "located in a village.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "50": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It does not matter how you do it;",
+                "what I want is that",
+                "you should finish the work within a month.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "51": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Though senior in age,",
+                "his father is junior than",
+                "my father in service.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "52": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "While walking slowly in the park",
+                "on a quiet summer afternoon",
+                "a mad dog suddenly attacked him from behind",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "53": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Everyone visiting the house asked the young girl",
+                "how could she kill the wolf",
+                "single handed and without a weapon.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "54": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Many health-conscious people",
+                "prefer margarine",
+                "than butter.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "55": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The retiring principal asked his old pupils",
+                "to take the interest in the school",
+                "after he has retired.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "56": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "At present juncture",
+                "however, the supercomputer",
+                "would be a costly toy.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "57": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The crew were on board,",
+                "and they soon busied themselves",
+                "in preparing to meet the storm.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "58": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Troy was taken by Greeks",
+                "this formed the basis of a story",
+                "which has become famous.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "59": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I am much pleased",
+                "to know that",
+                "you have topped the list.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "60": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He has not been attending",
+                "English classes",
+                "since one month",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "61": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is time",
+                "we should accept all our people as equals",
+                "and as partners in the task of building a strong and united nation.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "62": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Twice twelve",
+                "makes",
+                "twenty-four",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "63": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Regretfully, profits earned by your company",
+                "fell by 20 per cent last year",
+                "despite higher sales.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "64": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "In a report issued by Indian Statistical Institute,",
+                "the Iron and Steel Industry is investing more than any other",
+                "Indian industry in fighting pollution.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "65": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He is going everyday",
+                "for a morning walk",
+                "with his friends and neighbours",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "66": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "My father goes",
+                "to the office",
+                "five day week.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "67": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If she will be promoted",
+                "she will get",
+                "a higher salary.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "68": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If I were him,",
+                "I would have taught",
+                "those cheats a lesson.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "69": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Looking back, I find that among the many impressions ofthe people of India,",
+                "absorbed while I lived among them,",
+                "are their reverence for great men and women.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "70": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If you work hard,",
+                "you will get good grades",
+                "in examinations.",
+                "No error"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "71": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He managed to make sense of the book",
+                "even though it was the first time",
+                "he read anything on the subject.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "72": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "She reluctantly said that",
+                "if nobody else was doing it",
+                "she will do it.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "73": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I fail to understand",
+                "why he replied in negative",
+                "when the proposal was in his favour.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "74": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I have",
+                "an appointment",
+                "on the 9th September on five o'clock",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "75": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "They",
+                "enjoyed thoroughly",
+                "at the party.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "76": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The method suggested in the lecture",
+                "enables a student to learn more quickly",
+                "and to have remembered for a longer period of time.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "77": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "My friend asked me",
+                "if I can lend him my Parker pen",
+                "for a few days.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "78": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The test will not need",
+                "more than one and half hour",
+                "to finish.",
+                "No error"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "79": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The school is",
+                "within hundred yards",
+                "from the church.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "80": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "His father died of cholera",
+                "but his mother also,",
+                "though very weak, is out of danger.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "81": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The police broke upon the robbers",
+                "when they were in the lonely place",
+                "to divide their booty.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "82": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Since it was his first election campaign, the candidate was confused;",
+                "none could clearly understand",
+                "either the principles he stood for or the benefits he promised.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "83": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Jayesh is getting",
+                "fatter because he",
+                "does not take exercise at all",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "84": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He loved",
+                "none but",
+                "his neighbour's daughter.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "85": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The criminal was",
+                "caught, convicted the hung",
+                "in a short period of time.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "86": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I am thinking of",
+                "to go to Agra",
+                "for my cousin's marriage.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "87": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "In management, as you rise higher,",
+                "the problems you face becomemore and more unstructured and you can't just fall back on",
+                "the tools you had been",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "88": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Neeraj said",
+                "that he would rather fail than copying",
+                "in the examination",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "89": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I had hoped to have met him yesterday",
+                "to discuss the matter with him",
+                "but he was not in his house, and so I could not meet him.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "90": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "You will come",
+                "to my party tomorrow,",
+                "isn't it?",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "91": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I wonder",
+                "how am I",
+                "to do it",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "92": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He is not to blame",
+                "for what has happened",
+                "for he is in no way connected with it.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "93": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Had you not",
+                "reached in time",
+                "he would have lost allour belongings.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "94": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The man told to her",
+                "that he had not brought his dog",
+                "out for a walk as he was afraid that it would rain.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "95": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If I am you",
+                "I would have seen to it",
+                "that I won the prize.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "96": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is unfortunate that",
+                "many youngsters get",
+                "addicted to gamble.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "97": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Kamala's fountain-pen",
+                "is as expensive",
+                "as Shyama.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "98": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "When we consider all the factors, which are many,",
+                "the number of school dropouts",
+                "are quite disturbing.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "99": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "She has never",
+                "approve of him",
+                "working as a clerk.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "100": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "At the station,",
+                "I'll hire a coolie",
+                "to carry my baggages",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "101": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The number of marks carried by each question",
+                "are indicated",
+                "at the end of the question",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "102": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "There is no question",
+                "of my failing",
+                "in the examination.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "103": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "She is",
+                "no longer popular as she has",
+                "a friends",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "104": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is necessary",
+                "that everybody",
+                "must have a house.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "105": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Students should not take part",
+                "in party politics and political demonstrations",
+                "as they interfere in serious study",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "106": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "To facilitate exports and improve sales in the domestic market",
+                "some of the improvised fabrics and garments fabricated out from them",
+                "are displayed in the main pavilion.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "107": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Both of you two",
+                "can come with me",
+                "to the play tonight",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "108": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "No sooner did the sun rise",
+                "when we took a hasty breakfast",
+                "and resumed the journey.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "109": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The charges in this hospital",
+                "are less than",
+                "the hospital near my house.",
+                "No error"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "110": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The brakes and steering failed",
+                "and the bus ran down the hill",
+                "without anyone being able control it.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "111": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The tall three girls",
+                "had left",
+                "the day before.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "112": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "When he was asked what is wrong with him.",
+                "he said that he was not well.",
+                "and asked for leave of absence for one day.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "113": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Wherever they go",
+                "Indians easily adapt to",
+                "local circumstances.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "114": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Remember that you are part of",
+                "the team and your success depends on the support",
+                "you are able to give and get from your other team members.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "115": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is an established fact that the transcendental American poets and philosophers.",
+                "who lived in the latter half of the nineteenth century.",
+                "were more influenced by Indian philosophy, in particular by Upanishadic Philosophy.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "116": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "That house",
+                "is costing me",
+                "ten thousand rupees",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "117": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Firstly you should",
+                "think over the meaning of the words",
+                "and then use them.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "118": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is true",
+                "that God helps those",
+                "who helps themselves.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "119": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Happily, zoos were",
+                "unwilling to cooperate",
+                "in a scheme that was potentially harmful to animal welfare",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "120": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Neither he",
+                "nor his father is interested",
+                "in joining the party.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "121": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "With little patience",
+                "you will be able to",
+                "cross this hurdle",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "122": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "She was told",
+                "to give the award to whosoever",
+                "she thought has done the most for the downtrodden.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "123": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "At the end of the year",
+                "every student who had done adequate work",
+                "was automatically promoted.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "124": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The reason why",
+                "he was rejected",
+                "was because he was too young.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "125": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Since we are friends",
+                "there should be no secret",
+                "between you and I.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "126": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Since the attachment of airconditioned sleeping cars to all important trains,",
+                "travelling became very pleasant,",
+                "especially during the summer season.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "127": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If I will have the time",
+                "I shall try and make it",
+                "to the zoo this afternoon.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "128": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "We are four brothers and sisters living in this house",
+                "but neither of us is",
+                "satisfied with it.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "129": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "A leading textile manufacturer, one of the fastest growing in the industry.",
+                "is looking for a marketing manager",
+                "to look up the marketing network of the company",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "130": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Not one of the hundreds",
+                "of striking workers.",
+                "were allowed to go near the factory.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "131": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The single biggest gainer in this process",
+                "was ITC's Gold Flake Kings sales are estimated",
+                "to have moved up from 50 million to 200 million sticks per month during 1987 and last year.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "132": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "They left",
+                "their luggages",
+                "at the railway station.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "133": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Salim and Antony are such good friends",
+                "that one won't go to the pictures.",
+                "without his coming too.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "134": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "She is",
+                "five years",
+                "senior than me.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "135": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The President had hardly spoken",
+                "a few words",
+                "when the microphone stopped functioning.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "136": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Locke's treatises on government toleration and education",
+                "show a mind fully awake in",
+                "the possibilities of social reconstruction.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "137": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "You will get",
+                "all the information",
+                "if you read this booklet carefully.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "138": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "None of the students attending your class",
+                "answered your questions",
+                "did they?",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "139": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "An animal",
+                "can be just as unhappy in a vast area",
+                "or in a small one",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "140": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He is working in",
+                "a bank in New Delhi",
+                "for the past several months.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "141": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The scientist must follow",
+                "his hunches and his data",
+                "wherever it may lead.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "142": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Each one of the boys",
+                "have paid",
+                "the tuition-fee.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "143": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "A large scale exchange of nuclear weapons",
+                "will produce unprecedented amounts of radiation",
+                "that can penetrate into the biological tissue.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "144": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Had I",
+                "known it earlier",
+                "I would contact you.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "145": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He asked me",
+                "why did I call",
+                "him a rogue.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "146": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Were you",
+                "given a choice",
+                "or you had to do it?",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "147": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The person which was",
+                "recommended for the position",
+                "did not fulfil the prescribed qualifications.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "148": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "What does Professor Dhavan",
+                "spend so many hours",
+                "in the laboratory?",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "149": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The presumption that the average investor does not understand",
+                "or take interest in the affairs of the company",
+                "is not correct.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "150": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Shanghai is",
+                "bigger than any city",
+                "of the world",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "151": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Sheela has scored a first class",
+                "in her final exams,",
+                "isn't it?",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "152": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "At the moment the house",
+                "was burgled the family",
+                "attended a night party in the neighbourhood.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "153": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Scarcely had",
+                "I arrived than",
+                "the train left.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "154": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Though he stoutly persisted in denying his involvement in the case,",
+                "the facts made it very clear",
+                "that he had hand in the cruel murder of his wife.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "155": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "One of my favourite actor",
+                "is acting",
+                "in this play also.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "156": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Emphasis on equality of life ensures",
+                "for the health and happiness",
+                "of every individual.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "157": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "There was very heavy rain last night,",
+                "and the rivers have overflown their banks",
+                "causing severe hardship to the people living by them.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "158": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Every motorist knows",
+                "road signs---whether symbols or colour codes--- have an immediacy",
+                "that neither the spoken nor the written word can match.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "159": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Supposing if",
+                "there is no bus.",
+                "how will you get there?",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "160": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Because of the emergency help",
+                "that the patient received",
+                "he would have died",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "161": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He was in such hurry",
+                "that he didn't",
+                "wait for me",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "162": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Will you be",
+                "at Board meeting",
+                "on next Wednesday?",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "163": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Do you know",
+                "to play",
+                "the guitar?",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "164": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Few scientists changed",
+                "people's ideas as much as",
+                "Darwin with his Theory of Evolution.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "165": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The course provide",
+                "not only theoretical inputs",
+                "but also practical training",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "166": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "After the humiliating exposure",
+                "he hanged his head",
+                "in shame.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "167": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The eminent speaker's speech",
+                "was broadcasted over",
+                "all the major radio-stations.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "168": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The meeting adjourned abruptly",
+                "by the Chairman after",
+                "about three hours of deliberation.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "169": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The company has put up an advertisement",
+                "in newspapers",
+                "all over the country.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "170": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Will you lend me",
+                "little money",
+                "to tide over this crisis.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "171": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He gave them no money",
+                "nor did help them",
+                "in any way.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "172": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The Sharmas",
+                "are living in this colony",
+                "for the last eight years.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "173": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "My wife has got",
+                "a new job",
+                "a month ago.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "174": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The ability to plan,",
+                "organise and coordinate work is all fundamental",
+                "to working within deadline.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "175": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "A group of friends",
+                "want to visit",
+                "the new plant as early as possible.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "176": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "After leaving his office",
+                "he went directly",
+                "to a restaurant.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "177": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He was in a hurry",
+                "because he had an appointment",
+                "with the company's director.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "178": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "A body of volunteers",
+                "have been organised",
+                "to spread the message of the saint.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "179": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "When I get a cold",
+                "it takes me weeks",
+                "to shake it off.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "180": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Another reason for pharmaceutical companies beefing up their",
+                "OTC (Over the Country) divisions is that prescription drugs with proven safety records which have been reached",
+                "the end of the their patent protection periodare",
+                "allowed to be sold without a prescription. No error"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "181": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "There is still",
+                "little tea",
+                "left in the cup.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "182": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He says that",
+                "his car does",
+                "eight kilometers in a litre",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "183": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "After opening the door",
+                "we entered into the room",
+                "next to the kitchen",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "184": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Can I lend",
+                "your pencil",
+                "for a minute, please?",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "185": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Last month we celebrated",
+                "the wedding of our sister for whom",
+                "we have been looking for a suitable alliance for three years.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "186": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "In an English paper",
+                "examiners should give as much weightage to language",
+                "as they give to contents.",
+                "No error"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "187": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I am hearing",
+                "a lot about",
+                "the problem of AIDS these days.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "188": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Unless you stop to make noise at once",
+                "I will have no option but to",
+                "bring the matter to the attention of the police.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "189": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He is generally",
+                "more hungry",
+                "than she is .",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "190": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Since India has gained Independence",
+                "49 years ago.",
+                "much progress has been made in almost every field.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "191": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He ensured his bank manager",
+                "that he would soon",
+                "repay the loan.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "192": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "A free press is not a privilege",
+                "but the organic necessity",
+                "in a free society.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "193": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He explained the matter",
+                "at great length",
+                "but I was not the wiser",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "194": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He will end up his work",
+                "in the city",
+                "by the end of the year.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "195": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Even though the shirt is rather expensive",
+                "but I wish to",
+                "purchase it with my own money.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "196": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He enquired me",
+                "why I had not seen him the previous day",
+                "as I had promised to do.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "197": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I was there",
+                "many a time",
+                "in the past.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "198": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "All the four sons",
+                "of the old man",
+                "quarrelled between themselves.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "199": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He wanted to work all night",
+                "but we saw that he was completely worn out",
+                "and so we persuaded him to stop.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "200": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Mr.Smith was accused for murder",
+                "but the court found him not guilty",
+                "and acquitted him.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "201": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "She sang",
+                "very well",
+                "isn't it?",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "202": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I am sure that all my monthly expenses",
+                "would exceed the income",
+                "If I do not economic",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "203": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Whenever you go to a temple",
+                "you must put off",
+                "your shoes at the entrance.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "204": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Having read a number of stories",
+                "about space travel",
+                "his dream now is about to visit the moon",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "205": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The party chief made it a point to state that",
+                "the Prime Minister and the Union Home Minister should also come.",
+                "and they see what his party men had seen.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "206": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is easy to see that",
+                "a lawyer's demeanour in court",
+                "may be prejudicial against the interests of his client.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "207": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He is wiring",
+                "for the",
+                "last four hours",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "208": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "She walked in",
+                "the room where the murder",
+                "had taken place.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "209": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Were he",
+                "to see you,",
+                "he would have been surprised.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "210": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I could not convince them",
+                "because they persisted to suggest",
+                "that I was lying.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "211": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "If you listen with",
+                "the question carefully",
+                "you will be able to answer them easily",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "212": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is difficult",
+                "for anyone",
+                "to past time thus.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "213": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "The customer handed over",
+                "a hundred-rupees note",
+                "to the shopkeeper.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "214": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "Myself and Gopal",
+                "will take care of",
+                "the function on sunday.",
+                "No error."
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "215": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "It is the newspaper",
+                "that exposes us to the widest range",
+                "of human experiences and behaviour.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "216": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "A small baby breathes about",
+                "45 times per minute while",
+                "a child of about six years breathes about 25 times per minute.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "217": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "I have read",
+                "too many books",
+                "by R . K . Narayan.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "218": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He was sure",
+                "that he should",
+                "win the Prize.",
+                "No error."
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "219": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He is",
+                "too intelligent",
+                "to make a mistake.",
+                "No error."
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "220": {
+            "Question": "(solve as per the description given above)",
+            "options": [
+                "He fell from a running train",
+                "and would have died",
+                "if the villagers did not get him admitted in the nearby hospital immediately.",
+                "No error."
+            ],
+            "correct option": "c",
+            "category": "general"
+        }
+    }
+]

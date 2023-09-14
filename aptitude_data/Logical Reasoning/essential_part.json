@@ -1,0 +1,637 @@
+[
+    {
+        "topic": "Essential Part",
+        "Question description": "Each question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "1": {
+            "Question": "harvest",
+            "options": [
+                "autumn",
+                "stockpile",
+                "tractor",
+                "crop"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "2": {
+            "Question": "desert",
+            "options": [
+                "cactus",
+                "arid",
+                "oasis",
+                "flat"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "3": {
+            "Question": "book",
+            "options": [
+                "fiction",
+                "pages",
+                "pictures",
+                "learning"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "4": {
+            "Question": "language",
+            "options": [
+                "tongue",
+                "slang",
+                "writing",
+                "words"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "5": {
+            "Question": "school",
+            "options": [
+                "student",
+                "report card",
+                "test",
+                "learning"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "6": {
+            "Question": "pain",
+            "options": [
+                "cut",
+                "burn",
+                "nuisance",
+                "hurt"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "7": {
+            "Question": "gala",
+            "options": [
+                "celebration",
+                "tuxedo",
+                "appetizer",
+                "orator"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "8": {
+            "Question": "monopoly",
+            "options": [
+                "corrupt",
+                "exclusive",
+                "rich",
+                "gigantic"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "9": {
+            "Question": "guitar",
+            "options": [
+                "band",
+                "teacher",
+                "songs",
+                "strings"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "10": {
+            "Question": "election",
+            "options": [
+                "president",
+                "voter",
+                "November",
+                "nation"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "11": {
+            "Question": "shoe",
+            "options": [
+                "sole",
+                "leather",
+                "laces",
+                "walking"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "12": {
+            "Question": "swimming",
+            "options": [
+                "pool",
+                "bathing suit",
+                "water",
+                "life jacket"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "13": {
+            "Question": "lightning",
+            "options": [
+                "electricity",
+                "thunder",
+                "brightness",
+                "rain"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "14": {
+            "Question": "ovation",
+            "options": [
+                "outburst",
+                "bravo",
+                "applause",
+                "encore"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "15": {
+            "Question": "bonus",
+            "options": [
+                "reward",
+                "raise",
+                "cash",
+                "employer"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "16": {
+            "Question": "antique",
+            "options": [
+                "rarity",
+                "artifact",
+                "aged",
+                "prehistoric"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "17": {
+            "Question": "culture",
+            "options": [
+                "civility",
+                "education",
+                "agriculture",
+                "customs"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "18": {
+            "Question": "knowledge",
+            "options": [
+                "school",
+                "teacher",
+                "textbook",
+                "learning"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "19": {
+            "Question": "domicile",
+            "options": [
+                "tenant",
+                "dwelling",
+                "kitchen",
+                "house"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "20": {
+            "Question": "vertebrate",
+            "options": [
+                "backbone",
+                "reptile",
+                "mammal",
+                "animal"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "21": {
+            "Question": "itinerary",
+            "options": [
+                "map",
+                "route",
+                "travel",
+                "guidebook"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "22": {
+            "Question": "orchestra",
+            "options": [
+                "violin",
+                "stage",
+                "musician",
+                "soloist"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "23": {
+            "Question": "facsimile",
+            "options": [
+                "picture",
+                "image",
+                "mimeograph",
+                "copier"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "24": {
+            "Question": "provisions",
+            "options": [
+                "groceries",
+                "supplies",
+                "gear",
+                "caterers"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "25": {
+            "Question": "sustenance",
+            "options": [
+                "nourishment",
+                "water",
+                "grains",
+                "menu"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "26": {
+            "Question": "infirmary",
+            "options": [
+                "surgery",
+                "disease",
+                "patient",
+                "receptionist"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "27": {
+            "Question": "purchase",
+            "options": [
+                "trade",
+                "money",
+                "bank",
+                "acquisition"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "28": {
+            "Question": "dimension",
+            "options": [
+                "compass",
+                "ruler",
+                "inch",
+                "measure"
+            ],
+            "correct option": "d",
+            "category": "general"
+        }
+    },
+    {
+        "topic": "Essential Part",
+        "Question description": "Each question has an underlined word followed by four answer choices. You will choose the word that is a necessary part of the underlined word.",
+        "14": {
+            "Question": "ovation",
+            "options": [
+                "outburst",
+                "bravo",
+                "applause",
+                "encore"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "15": {
+            "Question": "bonus",
+            "options": [
+                "reward",
+                "raise",
+                "cash",
+                "employer"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "16": {
+            "Question": "antique",
+            "options": [
+                "rarity",
+                "artifact",
+                "aged",
+                "prehistoric"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "17": {
+            "Question": "culture",
+            "options": [
+                "civility",
+                "education",
+                "agriculture",
+                "customs"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "18": {
+            "Question": "knowledge",
+            "options": [
+                "school",
+                "teacher",
+                "textbook",
+                "learning"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "19": {
+            "Question": "domicile",
+            "options": [
+                "tenant",
+                "dwelling",
+                "kitchen",
+                "house"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "20": {
+            "Question": "vertebrate",
+            "options": [
+                "backbone",
+                "reptile",
+                "mammal",
+                "animal"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "21": {
+            "Question": "itinerary",
+            "options": [
+                "map",
+                "route",
+                "travel",
+                "guidebook"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "22": {
+            "Question": "orchestra",
+            "options": [
+                "violin",
+                "stage",
+                "musician",
+                "soloist"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "23": {
+            "Question": "facsimile",
+            "options": [
+                "picture",
+                "image",
+                "mimeograph",
+                "copier"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "24": {
+            "Question": "provisions",
+            "options": [
+                "groceries",
+                "supplies",
+                "gear",
+                "caterers"
+            ],
+            "correct option": "b",
+            "category": "general"
+        },
+        "25": {
+            "Question": "sustenance",
+            "options": [
+                "nourishment",
+                "water",
+                "grains",
+                "menu"
+            ],
+            "correct option": "a",
+            "category": "general"
+        },
+        "26": {
+            "Question": "infirmary",
+            "options": [
+                "surgery",
+                "disease",
+                "patient",
+                "receptionist"
+            ],
+            "correct option": "c",
+            "category": "general"
+        },
+        "27": {
+            "Question": "purchase",
+            "options": [
+                "trade",
+                "money",
+                "bank",
+                "acquisition"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "28": {
+            "Question": "dimension",
+            "options": [
+                "compass",
+                "ruler",
+                "inch",
+                "measure"
+            ],
+            "correct option": "d",
+            "category": "general"
+        },
+        "29": {
+                "Question": "wedding",
+                "options": [
+                    "love",
+                    "church",
+                    "ring",
+                    "marriage"
+                ],
+                "correct option": "d",
+                "category": "general"
+            },
+            "30": {
+                "Question": "faculty",
+                "options": [
+                    "buildings",
+                    "textbooks",
+                    "teachers",
+                    "meetings"
+                ],
+                "correct option": "c",
+                "category": "general"
+            },
+            "31": {
+                "Question": "recipe",
+                "options": [
+                    "desserts",
+                    "directions",
+                    "cookbook",
+                    "utensils"
+                ],
+                "correct option": "b",
+                "category": "general"
+            },
+            "32": {
+                "Question": "autograph",
+                "options": [
+                    "athlete",
+                    "actor",
+                    "signature",
+                    "pen"
+                ],
+                "correct option": "c",
+                "category": "general"
+            },
+            "33": {
+                "Question": "cage",
+                "options": [
+                    "enclosure",
+                    "prisoner",
+                    "animal",
+                    "zoo"
+                ],
+                "correct option": "a",
+                "category": "general"
+            },
+            "34": {
+                "Question": "champion",
+                "options": [
+                    "running",
+                    "swimming",
+                    "winning",
+                    "speaking"
+                ],
+                "correct option": "c",
+                "category": "general"
+            },
+            "35": {
+                "Question": "saddle",
+                "options": [
+                    "horse",
+                    "seat",
+                    "stirrups",
+                    "horn"
+                ],
+                "correct option": "b",
+                "category": "general"
+            },
+            "36": {
+                "Question": "dome",
+                "options": [
+                    "rounded",
+                    "geodesic",
+                    "governmental",
+                    "coppery"
+                ],
+                "correct option": "a",
+                "category": "general"
+            },
+            "37": {
+                "Question": "glacier",
+                "options": [
+                    "mountain",
+                    "winter",
+                    "prehistory",
+                    "ice"
+                ],
+                "correct option": "d",
+                "category": "general"
+            },
+            "38": {
+                "Question": "directory",
+                "options": [
+                    "telephone",
+                    "listing",
+                    "computer",
+                    "names"
+                ],
+                "correct option": "b",
+                "category": "general"
+            },
+            "39": {
+                "Question": "contract",
+                "options": [
+                    "agreement",
+                    "document",
+                    "written",
+                    "attorney"
+                ],
+                "correct option": "a",
+                "category": "general"
+            },
+            "40": {
+                "Question": "hurricane",
+                "options": [
+                    "beach",
+                    "cyclone",
+                    "damage",
+                    "wind"
+                ],
+                "correct option": "d",
+                "category": "general"
+            },
+            "41": {
+                "Question": "town",
+                "options": [
+                    "residents",
+                    "skyscrapers",
+                    "parks",
+                    "libraries"
+                ],
+                "correct option": "a",
+                "category": "general"
+            },
+            "42": {
+                "Question": "vibration",
+                "options": [
+                    "motion",
+                    "electricity",
+                    "science",
+                    "sound"
+                ],
+                "correct option": "a",
+                "category": "general"
+            }
+        }
+]
