@@ -1,0 +1,290 @@
+[
+  {
+    "Sl no.": 1,
+    "Name": "Jamnabai Narsee School",
+    "Address": "Narsee Monjee Bhavan, N.S. Road No. 7, JVPD Scheme, Vile Parle (West), Mumbai, Maharashtra",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹7,00,000"
+  },
+  {
+    "Sl no.": 2,
+    "Name": "Mallya Aditi International School",
+    "Address": "Behind NIPCCD building, Yelahanka New Town, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹5,00,000"
+  },
+  {
+    "Sl no.": 3,
+    "Name": "The Valley School",
+    "Address": "Thatguni Post, Kanakapura Road, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹3,65,000"
+  },
+  {
+    "Sl no.": 4,
+    "Name": "La Martiniere For Boys",
+    "Address": "11, Dr. U. N. Brahmachari Street (Loudon Street), kolkata, West Bengal",
+    "Gender": "Boys School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹2,90,000"
+  },
+  {
+    "Sl no.": 5,
+    "Name": "Abacus Montessori School",
+    "Address": "3, Thirumalai Nagar Annexe, III Main Road, Perungudi, Chennai, Tamil Nadu",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹2,70,000"
+  },
+  {
+    "Sl no.": 6,
+    "Name": "Hiranandani Foundation School",
+    "Address": "Orchard Avenue, Hiranandani Gardens, Mumbai, Maharashtra",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹2,50,000"
+  },
+  {
+    "Sl no.": 7,
+    "Name": "Shikshantar School",
+    "Address": "J Block , South City I, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Pre-Nursery - 12",
+    "Fees": "₹2,22,570"
+  },
+  {
+    "Sl no.": 8,
+    "Name": "Bishop Cotton Boys School",
+    "Address": "15, Residency Road, Bengaluru, Karnataka",
+    "Gender": "Boys School",
+    "Board": "ICSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹2,05,000"
+  },
+  {
+    "Sl no.": 9,
+    "Name": "Bishop Cotton Girls School",
+    "Address": "#1, St. Mark’s Road, Bengaluru, Karnataka",
+    "Gender": "Girls School",
+    "Board": "ICSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹2,00,000"
+  },
+  {
+    "Sl no.": 10,
+    "Name": "The Shri Ram School",
+    "Address": "V-37, Moulsari Avenue, Phase III, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,80,000"
+  },
+  {
+    "Sl no.": 14,
+    "Name": "THE HYDERABAD PUBLIC SCHOOL",
+    "Address": "1-11-87 & 88, SP ROAD, BEGUMPET, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹1,60,000"
+  },
+  {
+    "Sl no.": 18,
+    "Name": "Vaels International School",
+    "Address": "Valmiki Street, Injambakkam, Chennai, Tamil Nadu",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Class 4 - 12",
+    "Fees": "₹1,50,000"
+  },
+  {
+    "Sl no.": 20,
+    "Name": "Vibgyor High",
+    "Address": "Sr. No. 28/2, Sus Village, Behind Kirloskar Brothers Corp Office, Mumbai-Bengaluru Highway, Balewadi, Pune, Maharashtra",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,43,400"
+  },
+  {
+    "Sl no.": 21,
+    "Name": "St. Germain High School",
+    "Address": "Promenade Road, Cleveland Town, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,40,000"
+  },
+  {
+    "Sl no.": 23,
+    "Name": "La Martiniere Girls School",
+    "Address": "14, Rawdon Street, kolkata, West Bengal",
+    "Gender": "Girls School",
+    "Board": "ICSE",
+    "Grade": "KG - 12",
+    "Fees": "₹1,35,000"
+  },
+  {
+    "Sl no.": 24,
+    "Name": "St. Josephs Boys High School",
+    "Address": "27, Museum Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka",
+    "Gender": "Boys School",
+    "Board": "ICSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹1,25,000"
+  },
+  {
+    "Sl no.": 25,
+    "Name": "SOPHIA HIGH SCHOOL",
+    "Address": "70, PLACE ROAD, Bengaluru, Karnataka",
+    "Gender": "Girls School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,20,000"
+  },
+  {
+    "Sl no.": 27,
+    "Name": "THE FRANK ANTONY PUBLIC SCHOOL",
+    "Address": "# 13 CAMBRIDGE ROAD, ULSOOR, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,09,800"
+  },
+  {
+    "Sl no.": 30,
+    "Name": "ST. JOSEPHS SCHOOL",
+    "Address": "No 8-11, Ravindra nagar st.no:8 hubsiguda, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "KG - 12",
+    "Fees": "₹1,00,000"
+  },
+  {
+    "Sl no.": 33,
+    "Name": "Sri Sri Academy",
+    "Address": "37A Alipore road, kolkata, West Bengal",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹88,400"
+  },
+  {
+    "Sl no.": 34,
+    "Name": "Garden High School",
+    "Address": "318, Rajdanga Main Rd, Ravindra Pally, Kasba, kolkata, West Bengal",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹81,600"
+  },
+  {
+    "Sl no.": 35,
+    "Name": "The Shriram Millennium School",
+    "Address": "Plot S-1, Sector 135 off Greater NOIDA Expressway, Noida, Uttar Pradesh",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Pre-Nursery - 12",
+    "Fees": "₹80,088"
+  },
+  {
+    "Sl no.": 36,
+    "Name": "Julien Day School",
+    "Address": "Old Jessore Road, Ganganagar, Madhyamgram, kolkata, West Bengal",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹80,000"
+  },
+  {
+    "Sl no.": 38,
+    "Name": "Johnson Grammar School",
+    "Address": "Street No.3, Kakatiya Nagar, Habsiguda, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹73,000"
+  },
+  {
+    "Sl no.": 40,
+    "Name": "ST JOSEPH PUBLIC SCHOOL",
+    "Address": "3-5-781 & 781/A, Old MLA Quarters, KING KOTI ROAD, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹70,000"
+  },
+  {
+    "Sl no.": 44,
+    "Name": "Modern High School for Girls",
+    "Address": "78, Syed Amir Ali Avenue, kolkata, West Bengal",
+    "Gender": "Girls School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹60,300"
+  },
+  {
+    "Sl no.": 45,
+    "Name": "Bombay Scottish School",
+    "Address": "153, Swatantrya Veer Savarkar Marg, Mahim West, Mumbai, Maharashtra",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "KG - 12",
+    "Fees": "₹60,000"
+  },
+  {
+    "Sl no.": 46,
+    "Name": "Akshar School",
+    "Address": "35, Diamond Harbour Road, kolkata, West Bengal",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Class 2 - 12",
+    "Fees": "₹60,000"
+  },
+  {
+    "Sl no.": 47,
+    "Name": "The Frank Anthony Public School",
+    "Address": "Lajpat Nagar - IV, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹57,540"
+  },
+  {
+    "Sl no.": 48,
+    "Name": "MP Birla Foundation Higher Secondary School",
+    "Address": "James Long Sarani, kolkata, West Bengal",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹55,200"
+  },
+  {
+    "Sl no.": 51,
+    "Name": "Ramadevi Public School",
+    "Address": "Off # Nh9, (Near) Ramoji Film City Main Gate, Ramoji Film City, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹31,500"
+  },
+  {
+    "Sl no.": 52,
+    "Name": "The Mussorie Girls & Boys School",
+    "Address": "Camel Back Road, Kulri, Mussoorie, Dehradun, Uttarakhand",
+    "Gender": "Co-Ed School",
+    "Board": "ICSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹9,600"
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "Sl no.": 1,
+    "Name": "Shiv Nadar School",
+    "Address": "DLF City, Phase -1, Block -E, Pahari Road, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹3,35,500"
+  },
+  {
+    "Sl no.": 2,
+    "Name": "Shiv Nadar School",
+    "Address": "Plot No -SS -1 Sector -168, Expressway, Noida, Uttar Pradesh",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹2,82,000"
+  },
+  {
+    "Sl no.": 3,
+    "Name": "MERIDIAN SCHOOL",
+    "Address": "8-2-541, Road No.7, Banjara Hills, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹2,44,000"
+  },
+  {
+    "Sl no.": 4,
+    "Name": "Delhi Public School",
+    "Address": "Sector-C, Pocket-V, Vasant Kunj, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,90,000"
+  },
+  {
+    "Sl no.": 5,
+    "Name": "The Mothers International School",
+    "Address": "Sri Aurobindo Marg, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,89,000"
+  },
+  {
+    "Sl no.": 6,
+    "Name": "Vasant Valley School",
+    "Address": "Sector C, Vasant Kunj, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,87,980"
+  },
+  {
+    "Sl no.": 7,
+    "Name": "Blue Bells Model School",
+    "Address": "Sector -4, Urban Estate , Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹1,79,760"
+  },
+  {
+    "Sl no.": 8,
+    "Name": "Lotus Valley International School",
+    "Address": "M-Block, South City-II, Nirvana Country, Sector-50, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Pre-Nursery - 12",
+    "Fees": "₹1,74,240"
+  },
+  {
+    "Sl no.": 9,
+    "Name": "Shalom Hills International School",
+    "Address": "Block C Sushant Lok Phase I, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Pre-Nursery - 12",
+    "Fees": "₹1,73,080"
+  },
+  {
+    "Sl no.": 10,
+    "Name": "Manav Rachna International School",
+    "Address": "Block – F, Greenwood City, Sector 46, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,69,200"
+  },
+  {
+    "Sl no.": 11,
+    "Name": "Sanskriti School",
+    "Address": "Dr. S. Radhakrishnan Marg, Chanakyapuri, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,68,000"
+  },
+  {
+    "Sl no.": 12,
+    "Name": "Suchitra Academy",
+    "Address": "Suchitra Junction, Qutubullapur (M), RR(Dist), Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,59,000"
+  },
+  {
+    "Sl no.": 13,
+    "Name": "Delhi Public School",
+    "Address": "Site No. I, Sector-45 Urban Estate, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,56,947"
+  },
+  {
+    "Sl no.": 14,
+    "Name": "DPS RK Puram (Delhi Public School)",
+    "Address": "Sector XII, R. K. Puram, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,50,000"
+  },
+  {
+    "Sl no.": 15,
+    "Name": "Amity International School",
+    "Address": "Sector 46, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹1,35,160"
+  },
+  {
+    "Sl no.": 16,
+    "Name": "Treamis World School",
+    "Address": "Near Electronics City, Hulimangala Post, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,30,000"
+  },
+  {
+    "Sl no.": 17,
+    "Name": "Sushila Birla Girls School",
+    "Address": "7, Moira Street, kolkata, West Bengal",
+    "Gender": "Girls School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,25,000"
+  },
+  {
+    "Sl no.": 18,
+    "Name": "SARDAR PATEL VIDYALAYA",
+    "Address": "Lodi Estate, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,24,580"
+  },
+  {
+    "Sl no.": 19,
+    "Name": "PRERANA WALDORF SCHOOL",
+    "Address": "Survey No.47/9, Janardhan Hills, Opposite NCC Urban Apartments, Sherilingampally Mandal, Gachibowli, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,20,000"
+  },
+  {
+    "Sl no.": 20,
+    "Name": "The Deens Academy",
+    "Address": "NO/ 64/1 & 65/2, E.C.C. ROAD, WHITE FIELD, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Pre-Nursery - 12",
+    "Fees": "₹1,18,000"
+  },
+  {
+    "Sl no.": 21,
+    "Name": "DAV Public School",
+    "Address": "Sector 14, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,14,000"
+  },
+  {
+    "Sl no.": 22,
+    "Name": "Birla High School",
+    "Address": "1, Moira Street, kolkata, West Bengal",
+    "Gender": "Boys School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,12,020"
+  },
+  {
+    "Sl no.": 23,
+    "Name": "MODERN SCHOOL",
+    "Address": "Barakhamba Road, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Class 5 - 12",
+    "Fees": "₹1,11,245"
+  },
+  {
+    "Sl no.": 24,
+    "Name": "Bluebells School International",
+    "Address": "Kailash (Opp.) Lady Shriram College, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹1,04,000"
+  },
+  {
+    "Sl no.": 25,
+    "Name": "Lakshmipat Singhania Academy",
+    "Address": "12B, ALIPORE ROAD, kolkata, West Bengal",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹99,300"
+  },
+  {
+    "Sl no.": 26,
+    "Name": "Amity International School",
+    "Address": "Mayur Vihar Phase 1, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹96,000"
+  },
+  {
+    "Sl no.": 27,
+    "Name": "Apeejay School",
+    "Address": "Plot No. 10, Road No. 42, Sainik Vihar, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹96,000"
+  },
+  {
+    "Sl no.": 28,
+    "Name": "Ahlcon International School",
+    "Address": "Mayur Vihar, Phase I, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹94,380"
+  },
+  {
+    "Sl no.": 29,
+    "Name": "Salwan Public School",
+    "Address": "Sector 15, Part-II, Gurugram, Haryana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹92,784"
+  },
+  {
+    "Sl no.": 30,
+    "Name": "Springdales School",
+    "Address": "Upper Ridge Road Junction, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹89,300"
+  },
+  {
+    "Sl no.": 31,
+    "Name": "SPRINGDALES SCHOOL",
+    "Address": "Benito Juarez Marg, Dhaula Kuan, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹81,420"
+  },
+  {
+    "Sl no.": 32,
+    "Name": "Sri Kumaran Public School",
+    "Address": "Survey No. 44 - 50, Mallasandra Village, Uttarahalli Hobli, Off Kanakapura Main Road, Bangalore South Taluk, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹81,000"
+  },
+  {
+    "Sl no.": 33,
+    "Name": "Sri Kumaran Public School",
+    "Address": "Survey No. 44 - 50, Mallasandra Village, Uttarahalli Hobli, Off Kanakapura Main Road, Bangalore South Taluk, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹81,000"
+  },
+  {
+    "Sl no.": 34,
+    "Name": "Bal Bharati Public School",
+    "Address": "Ganga Ram Hospital Marg, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Pre-Nursery - 12",
+    "Fees": "₹80,760"
+  },
+  {
+    "Sl no.": 35,
+    "Name": "Laxman Public School",
+    "Address": "Near Hauz Khas Metro Station, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹80,000"
+  },
+  {
+    "Sl no.": 36,
+    "Name": "THE ARMY PUBLIC SCHOOL",
+    "Address": "Ridge Road, Dhaula Kuan, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹76,865"
+  },
+  {
+    "Sl no.": 37,
+    "Name": "Bhavans Sri Ramakrishna Vidyalaya",
+    "Address": "Sainikpuri, Secunderabad, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "KG - 12",
+    "Fees": "₹75,000"
+  },
+  {
+    "Sl no.": 38,
+    "Name": "Padma Seshadri Bala Bhavan Senior Secondary School",
+    "Address": "No.15, Lake 1st Main Road, Nungambakkam, Chennai, Tamil Nadu",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹75,000"
+  },
+  {
+    "Sl no.": 39,
+    "Name": "D.A.V. Boys Senior Secondary School",
+    "Address": "R-45, 120 feet road, Mogappair, Chennai, Tamil Nadu",
+    "Gender": "Boys School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹70,000"
+  },
+  {
+    "Sl no.": 40,
+    "Name": "Chettinad Vidyashram",
+    "Address": "Rajah Annamalaipuram, Chennai, Tamil Nadu",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹60,000"
+  },
+  {
+    "Sl no.": 41,
+    "Name": "ST COLUMBAS SCHOOL",
+    "Address": "1, Ashok Place, Near Gole Dakhana, Gole Market, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹57,184"
+  },
+  {
+    "Sl no.": 42,
+    "Name": "Salwan Public School",
+    "Address": "Mayur Vihar-III, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹55,716"
+  },
+  {
+    "Sl no.": 43,
+    "Name": "D.A.V Girls Senior Secondary School",
+    "Address": "182, Lloyds Road, Gopalapuram, Chennai, Tamil Nadu",
+    "Gender": "Girls School",
+    "Board": "CBSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹55,000"
+  },
+  {
+    "Sl no.": 44,
+    "Name": "Don Bosco School",
+    "Address": "Alaknanda, Kakakaji, Delhi",
+    "Gender": "Boys School",
+    "Board": "CBSE",
+    "Grade": "KG - 12",
+    "Fees": "₹55,000"
+  },
+  {
+    "Sl no.": 45,
+    "Name": "DPS BANGALORE SOUTH SCHOOL",
+    "Address": "11th KM, Bikaspura Main Road, Kanakapura Road, Konanakunte, Bangalore, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹54,000"
+  },
+  {
+    "Sl no.": 46,
+    "Name": "DAV Public School",
+    "Address": "Vivekananda Nagar, Kukatpally, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "KG - 12",
+    "Fees": "₹43,000"
+  },
+  {
+    "Sl no.": 47,
+    "Name": "Modern School",
+    "Address": "Poorvi Marg, Vasant Vihar, Delhi",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹39,280"
+  },
+  {
+    "Sl no.": 48,
+    "Name": "Army Public School",
+    "Address": "Bolarum, Secunderabad, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹35,575"
+  },
+  {
+    "Sl no.": 49,
+    "Name": "Mahadevi Birla World Academy",
+    "Address": "17A, Darga Road, kolkata, West Bengal",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Nursery - 12",
+    "Fees": "₹35,440"
+  },
+  {
+    "Sl no.": 50,
+    "Name": "Bharatiya Vidya Bhavans Public School",
+    "Address": "Road No.71, Film Nagar, Hyderabad, Telangana",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "KG - 12",
+    "Fees": "₹30,000"
+  },
+  {
+    "Sl no.": 51,
+    "Name": "Maharishi Vidya Mandir",
+    "Address": "Avigna Township, 92, Eachankaranai Village, Kunnavakkam Post, Chengalpattu, Chennai, Tamil Nadu",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "LKG - 12",
+    "Fees": "₹30,000"
+  },
+  {
+    "Sl no.": 52,
+    "Name": "Army Public School",
+    "Address": "K. Kamaraj Road, Bengaluru, Karnataka",
+    "Gender": "Co-Ed School",
+    "Board": "CBSE",
+    "Grade": "Class 1 - 12",
+    "Fees": "₹20,800"
+  }
+]
