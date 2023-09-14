@@ -1,0 +1,502 @@
+[
+    {
+        "Sl no.": 1,
+        "Name": "Harvard University",
+        "Course": " M.Eng Design Engineering",
+        "Address": "Massachusetts, USA",
+        "Tuition Fees": "₹44.47L/Yr",
+        "Living Fees": "₹26.21L/Yr",
+        "Fees": "₹50.72L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1090_30-14:58_harvard.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 2,
+        "Name": "Stanford University",
+        "Course": " M.S Design Impact",
+        "Address": "California, USA",
+        "Tuition Fees": "₹43.58L/Yr",
+        "Living Fees": "₹25.32L/Yr",
+        "Fees": "₹33.15L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72102 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 3,
+        "Name": "Massachusetts Institute of Technology",
+        "Course": " M.S Computation for Design and O...",
+        "Address": "Massachusetts, USA",
+        "Tuition Fees": "₹59.55L/Yr",
+        "Living Fees": "₹13.56L/Yr",
+        "Fees": "₹68.09L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1087_29-14:42_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 4,
+        "Name": "University of California",
+        "Course": " M.L.A",
+        "Address": "California, USA",
+        "Tuition Fees": "₹13.36L/Yr",
+        "Living Fees": "₹34.19L/Yr",
+        "Fees": "₹13.36L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_982_24-16:13_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 5,
+        "Name": "Yale University",
+        "Course": " M.F.A Graphic Design",
+        "Address": "Connecticut, USA",
+        "Tuition Fees": "₹38.93L/Yr",
+        "Living Fees": "₹21.34L/Yr",
+        "Fees": "₹38.93L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72204 Logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 6,
+        "Name": "Imperial College London",
+        "Course": " M.Eng Design Engineering",
+        "Address": "England, UK",
+        "Tuition Fees": "₹39.69L/Yr",
+        "Living Fees": "₹12.08L/Yr",
+        "Fees": "₹39.69L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_835_24-12:25_implogo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 7,
+        "Name": "Johns Hopkins University",
+        "Course": " M.S Bioengineering Innovation an...",
+        "Address": "Maryland, USA",
+        "Tuition Fees": "₹50.03L/Yr",
+        "Living Fees": "₹14.59L/Yr",
+        "Fees": "₹50.03L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_958_12-11:54_JHU_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 8,
+        "Name": "National University of Singapore",
+        "Course": " M.S Engineering Design and Innov...",
+        "Address": "Singapore, Singapore",
+        "Tuition Fees": "₹17.91L/Yr",
+        "Living Fees": "₹4.7L/Yr",
+        "Fees": "₹25L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_767_29-12:01_nus.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 9,
+        "Name": "Cornell University",
+        "Course": " M.A Design",
+        "Address": "New York, USA",
+        "Tuition Fees": "₹34.44L/Yr",
+        "Living Fees": "₹29.19L/Yr",
+        "Fees": "₹17.21L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72021 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 10,
+        "Name": "University College London",
+        "Course": " M.A Art and Design in Education",
+        "Address": "England, UK",
+        "Tuition Fees": "₹33.02L/Yr",
+        "Living Fees": "₹35.82L/Yr",
+        "Fees": "₹30.78L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_846_16-12:41_university-college-london.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 11,
+        "Name": "University of Michigan",
+        "Course": " M.S Design Science",
+        "Address": "Michigan, USA",
+        "Tuition Fees": "₹47.15L/Yr",
+        "Living Fees": "₹9.95L/Yr",
+        "Fees": "₹44.42L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_921_27-18:22_download-(1).jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 12,
+        "Name": "New York University",
+        "Course": " M.S Integrated Design and Media",
+        "Address": "New York, USA",
+        "Tuition Fees": "₹48.22L/Yr",
+        "Living Fees": "₹17.39L/Yr",
+        "Fees": "₹48.22L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72070 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 13,
+        "Name": "Northwestern University",
+        "Course": " B.S Manufacturing & Design Engin...",
+        "Address": "Illinois, USA",
+        "Tuition Fees": "₹36.58L/Yr",
+        "Living Fees": "₹13.27L/Yr",
+        "Fees": "₹36.58L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72076 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 14,
+        "Name": "University of Washington",
+        "Course": " M.S Arch in Design Computing",
+        "Address": "Washington, USA",
+        "Tuition Fees": "₹25.57L/Yr",
+        "Living Fees": "₹10.02L/Yr",
+        "Fees": "₹25.57L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2096_06-12:19_Washington-Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 15,
+        "Name": "Carnegie Mellon University",
+        "Course": " M.Des",
+        "Address": "Pennsylvania, USA",
+        "Tuition Fees": "₹37.73L/Yr",
+        "Living Fees": "₹11.4L/Yr",
+        "Fees": "₹34.74L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1841_10-17:31_red-seal-greater-than-two-inches-min.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 16,
+        "Name": "University of Edinburgh",
+        "Course": " M.A Graphic Design",
+        "Address": "Scotland, UK",
+        "Tuition Fees": "₹27.54L/Yr",
+        "Living Fees": "₹10.42L/Yr",
+        "Fees": "₹27.54L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_810_07-11:27_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 17,
+        "Name": "The University of Hong Kong",
+        "Course": " B.A.Sc Design",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹19.18L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹19.18L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_720_29-10:04_uni-of-hk.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 18,
+        "Name": "University of Melbourne",
+        "Course": " B.D Construction",
+        "Address": "Victoria, Australia",
+        "Tuition Fees": "₹22.9L/Yr",
+        "Living Fees": "₹10.67L/Yr",
+        "Fees": "₹27.69L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_609_20-15:00_mel-Logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 19,
+        "Name": "Nanyang Technological University",
+        "Course": " B.S Design",
+        "Address": "Singapore, Singapore",
+        "Tuition Fees": "₹10.81L/Yr",
+        "Living Fees": "₹43.2K/Yr",
+        "Fees": "₹10.81L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_766_29-12:00_ntu.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 20,
+        "Name": "London School of Economics and Political Science",
+        "Course": " M.Sc City Design and Social Scie...",
+        "Address": "England, UK",
+        "Tuition Fees": "₹32.42L/Yr",
+        "Living Fees": "₹45.63L/Yr",
+        "Fees": "₹32.42L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_839_07-11:59_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 21,
+        "Name": "Georgia Institute of Technology",
+        "Course": " M.Sc Urban Design",
+        "Address": "Georgia, USA",
+        "Tuition Fees": "₹27.15L/Yr",
+        "Living Fees": "₹6.64L/Yr",
+        "Fees": "₹20.44L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_942_28-11:03_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 22,
+        "Name": "Monash University",
+        "Course": " M.Des",
+        "Address": "Victoria, Australia",
+        "Tuition Fees": "₹20.56L/Yr",
+        "Living Fees": "₹9.43L/Yr",
+        "Fees": "₹20.55L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_606_29-12:24_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 23,
+        "Name": "University of Illinois",
+        "Course": " B.A/B.S Graphic Design",
+        "Address": "Illinois, USA",
+        "Tuition Fees": "₹27.69L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹27.69L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2141_25-11:46_116685.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 24,
+        "Name": "University of Texas",
+        "Course": " Master of Interior Design post-p...",
+        "Address": "Texas, USA",
+        "Tuition Fees": "₹29.27L/Yr",
+        "Living Fees": "₹10.16L/Yr",
+        "Fees": "₹23.27L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_952_22-15:44_images.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 25,
+        "Name": "The University of Queensland",
+        "Course": " M.A Interaction Design",
+        "Address": "Queensland, Australia",
+        "Tuition Fees": "₹23.84L/Yr",
+        "Living Fees": "₹12.37L/Yr",
+        "Fees": "₹25.22L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_596_29-11:20_queensland_Logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 26,
+        "Name": "The University of Sydney",
+        "Course": " M.Des Design Innovation",
+        "Address": "New South Wales, Australia",
+        "Tuition Fees": "₹24.02L/Yr",
+        "Living Fees": "₹10.83L/Yr",
+        "Fees": "₹24.02L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_620_29-11:04_logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 27,
+        "Name": "The University of Manchester",
+        "Course": " M.Sc Mechanical Engineering Desi...",
+        "Address": "England, UK",
+        "Tuition Fees": "₹28.8L/Yr",
+        "Living Fees": "₹19.31L/Yr",
+        "Fees": "₹28.27L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_855_07-11:43_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 28,
+        "Name": "Washington University",
+        "Course": " B.A Fashion Design",
+        "Address": "Missouri, USA",
+        "Tuition Fees": "₹49.63L/Yr",
+        "Living Fees": "₹12.83L/Yr",
+        "Fees": "₹49.63L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72195 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 29,
+        "Name": "The Hong Kong University of Science & Technology",
+        "Course": " B.S Integrative Systems and Desi...",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹2.11L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹2.11L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_716_28-18:34_hkust.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 30,
+        "Name": "Brown University",
+        "Course": " M.A Design Engineering",
+        "Address": "Rhode Island, USA",
+        "Tuition Fees": "₹58.63L/Yr",
+        "Living Fees": "₹8.09L/Yr",
+        "Fees": "₹58.63L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72007 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 31,
+        "Name": "Australian National University",
+        "Course": " M.Des",
+        "Address": "Australian Capital Territory , Australia",
+        "Tuition Fees": "₹18.95L/Yr",
+        "Living Fees": "₹28.67L/Yr",
+        "Fees": "₹13.76L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_597_12-11:31_anu_logo_fb_350.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 32,
+        "Name": "University of California",
+        "Course": " B.A Design",
+        "Address": "California, USA",
+        "Tuition Fees": "₹43.79L/Yr",
+        "Living Fees": "₹13.35L/Yr",
+        "Fees": "₹43.79L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74177 logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 33,
+        "Name": "University of Southern California",
+        "Course": " M.F.A Animation and Digital Arts",
+        "Address": "California, USA",
+        "Tuition Fees": "₹51.75L/Yr",
+        "Living Fees": "₹13.84L/Yr",
+        "Fees": "₹45.46L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72177 Logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 34,
+        "Name": "Delft University of Technology",
+        "Course": " M.S Strategic Product Design",
+        "Address": "South Holland, Netherlands",
+        "Tuition Fees": "₹18.29L/Yr",
+        "Living Fees": "₹9.07L/Yr",
+        "Fees": "₹18.29L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_747_29-10:27_tu-delft.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 35,
+        "Name": "University of New South Wales",
+        "Course": " M.Des",
+        "Address": "New South Wales, Australia",
+        "Tuition Fees": "₹16.03L/Yr",
+        "Living Fees": "₹36.86L/Yr",
+        "Fees": "₹14.63L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_603_29-10:36_logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 36,
+        "Name": "Boston University",
+        "Course": " M.F.A Graphic Design",
+        "Address": "Massachusetts, USA",
+        "Tuition Fees": "₹54.84L/Yr",
+        "Living Fees": "₹32.6L/Yr",
+        "Fees": "₹54.95L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72003 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 37,
+        "Name": "The Hong Kong Polytechnic University",
+        "Course": " M.Des Transitional Environments ...",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹16.37L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹16.25L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_717_28-18:35_hk-poly.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 38,
+        "Name": "University of Wisconsin",
+        "Course": " M.S Design and Innovation",
+        "Address": "Wisconsin, USA",
+        "Tuition Fees": "₹22.07L/Yr",
+        "Living Fees": "₹14.19L/Yr",
+        "Fees": "₹22.07L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72187 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 39,
+        "Name": "University of Glasgow",
+        "Course": " M.Sc International Management an...",
+        "Address": "Scotland, UK",
+        "Tuition Fees": "₹29.25L/Yr",
+        "Living Fees": "₹10.08L/Yr",
+        "Fees": "₹29.25L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_814_16-12:58_Uni_Glasgow_2017_arms.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 40,
+        "Name": "McMaster University",
+        "Course": " M.Eng Design",
+        "Address": "Ontario, Canada",
+        "Tuition Fees": "₹8.18L/Yr",
+        "Living Fees": "₹17.56L/Yr",
+        "Fees": "₹10.76L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_40_24-18:35_mc-master.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 41,
+        "Name": "Vanderbilt University",
+        "Course": " M.Ed Learning and Design",
+        "Address": "Tennessee, USA",
+        "Tuition Fees": "₹56.71L/Yr",
+        "Living Fees": "₹9.55L/Yr",
+        "Fees": "₹56.71L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72190 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 42,
+        "Name": "University of Minnesota - Twin Cities",
+        "Course": " M.S Design",
+        "Address": "Minnesota, USA",
+        "Tuition Fees": "₹28.55L/Yr",
+        "Living Fees": "₹8.15L/Yr",
+        "Fees": "₹25.53L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1645_18-13:04_m.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 43,
+        "Name": "Michigan State University",
+        "Course": " B.A Graphic Design",
+        "Address": "Michigan, USA",
+        "Tuition Fees": "₹41.3L/Yr",
+        "Living Fees": "₹8.83L/Yr",
+        "Fees": "₹41.3L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72060 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 44,
+        "Name": "Ohio State University",
+        "Course": " B.S Interior Design",
+        "Address": "Ohio, USA",
+        "Tuition Fees": "₹41.07L/Yr",
+        "Living Fees": "₹11.55L/Yr",
+        "Fees": "₹41.07L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1187_18-14:31_ohio.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 45,
+        "Name": "University of Alberta",
+        "Course": " M.Des Design Studies",
+        "Address": "Alberta, Canada",
+        "Tuition Fees": "₹8.26L/Yr",
+        "Living Fees": "₹9.49L/Yr",
+        "Fees": "₹8.26L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_9_24-17:46_alberta-.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 46,
+        "Name": "Lund University",
+        "Course": " M.S Sustainable Urban Design",
+        "Address": "Skane, Sweden",
+        "Tuition Fees": "₹15.77L/Yr",
+        "Living Fees": "₹1.4L/Yr",
+        "Fees": "₹15.77L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_773_04-16:43_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 47,
+        "Name": "Vrije Universiteit Amsterdam",
+        "Course": " M.A Design Cultures - Arts & Cul...",
+        "Address": "North Holland, Netherlands",
+        "Tuition Fees": "₹16.94L/Yr",
+        "Living Fees": "₹66.7K/Yr",
+        "Fees": "₹16.94L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_746_29-10:26_vrije.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 48,
+        "Name": "Lancaster University",
+        "Course": " M.A Design Management",
+        "Address": "England, UK",
+        "Tuition Fees": "₹25.91L/Yr",
+        "Living Fees": "₹13.13L/Yr",
+        "Fees": "₹25.91L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_823_02-11:21_2.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 49,
+        "Name": "Queen Mary",
+        "Course": " B.Eng Materials and Design",
+        "Address": "England, UK",
+        "Tuition Fees": "₹27.49L/Yr",
+        "Living Fees": "₹40.7L/Yr",
+        "Fees": "₹27.49L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_843_02-11:41_3.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 50,
+        "Name": "Purdue University",
+        "Course": " M.F.A Design",
+        "Address": "Indiana, USA",
+        "Tuition Fees": "₹26.45L/Yr",
+        "Living Fees": "₹26.43L/Yr",
+        "Fees": "₹11.91L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2187_25-12:25_300x300.jpeg?h=40&w=40&mode=stretch"
+    }
+]

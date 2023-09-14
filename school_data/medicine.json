@@ -1,0 +1,502 @@
+[
+    {
+        "Sl no.": 1,
+        "Name": "University of Oxford",
+        "Course": " M.Sc Pharmacology",
+        "Address": "England, UK",
+        "Tuition Fees": "₹38.23L/Yr",
+        "Living Fees": "₹14.73L/Yr",
+        "Fees": "₹32.37L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_865_16-14:32_oxford-logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 2,
+        "Name": "Harvard University",
+        "Course": " M.D",
+        "Address": "Massachusetts, USA",
+        "Tuition Fees": "₹57.11L/Yr",
+        "Living Fees": "₹26.21L/Yr",
+        "Fees": "₹63.54L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1090_30-14:58_harvard.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 3,
+        "Name": "University of Cambridge",
+        "Course": " M.Phil Medical Science",
+        "Address": "England, UK",
+        "Tuition Fees": "₹52.66L/Yr",
+        "Living Fees": "₹70.2K/Yr",
+        "Fees": "₹37.35L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_800_31-19:39_11.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 4,
+        "Name": "Stanford University",
+        "Course": " M.S Physician Assistant Studies",
+        "Address": "California, USA",
+        "Tuition Fees": "₹35.28L/Yr",
+        "Living Fees": "₹25.32L/Yr",
+        "Fees": "₹33.15L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72102 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 5,
+        "Name": "Massachusetts Institute of Technology",
+        "Course": " M.S Health Sciences and Technolo...",
+        "Address": "Massachusetts, USA",
+        "Tuition Fees": "₹51.26L/Yr",
+        "Living Fees": "₹13.56L/Yr",
+        "Fees": "₹68.09L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1087_29-14:42_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 6,
+        "Name": "California Institute of Technology",
+        "Course": " M.S Bioengineering",
+        "Address": "California, USA",
+        "Tuition Fees": "₹52.28L/Yr",
+        "Living Fees": "₹12.24L/Yr",
+        "Fees": "₹49.52L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1813_06-13:31_caltech.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 7,
+        "Name": "University of California",
+        "Course": " M.P.H",
+        "Address": "California, USA",
+        "Tuition Fees": "₹31.45L/Yr",
+        "Living Fees": "₹34.19L/Yr",
+        "Fees": "₹32.04L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_982_24-16:13_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 8,
+        "Name": "Yale University",
+        "Course": " M.P.H Health Policy",
+        "Address": "Connecticut, USA",
+        "Tuition Fees": "₹48.19L/Yr",
+        "Living Fees": "₹21.34L/Yr",
+        "Fees": "₹44.49L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72204 Logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 9,
+        "Name": "Imperial College London",
+        "Course": " M.P.H",
+        "Address": "England, UK",
+        "Tuition Fees": "₹41.55L/Yr",
+        "Living Fees": "₹12.08L/Yr",
+        "Fees": "₹42.72L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_835_24-12:25_implogo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 10,
+        "Name": "Columbia University",
+        "Course": " M.P.H",
+        "Address": "New York, USA",
+        "Tuition Fees": "₹37.4L/Yr",
+        "Living Fees": "₹8.62L/Yr",
+        "Fees": "₹38.89L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1711_11-10:51_columbia_university.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 11,
+        "Name": "University of Chicago",
+        "Course": " M.S Biomedical Informatics",
+        "Address": "Illinois, USA",
+        "Tuition Fees": "₹47.24L/Yr",
+        "Living Fees": "₹15.22L/Yr",
+        "Fees": "₹47.24L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1129_06-15:23_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 12,
+        "Name": "University of Pennsylvania",
+        "Course": " M.P.H",
+        "Address": "Pennsylvania, USA",
+        "Tuition Fees": "₹51.85L/Yr",
+        "Living Fees": "₹14.8L/Yr",
+        "Fees": "₹31.59L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1822_26-13:04_wharton-university-of-pennsylvania-sbdc-squarelogo-1428399142675.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 13,
+        "Name": "Johns Hopkins University",
+        "Course": " M.P.H",
+        "Address": "Maryland, USA",
+        "Tuition Fees": "₹49.99L/Yr",
+        "Living Fees": "₹14.59L/Yr",
+        "Fees": "₹50.03L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_958_12-11:54_JHU_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 14,
+        "Name": "University of Toronto",
+        "Course": " M.A Counselling and Clinical Psy...",
+        "Address": "Ontario, Canada",
+        "Tuition Fees": "₹31.75L/Yr",
+        "Living Fees": "₹22.8L/Yr",
+        "Fees": "₹26.57L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_104_25-12:44_University_of_Toronto-logo-2417C8AF32-seeklogo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 15,
+        "Name": "National University of Singapore",
+        "Course": " M.S Biomedical Informatics",
+        "Address": "Singapore, Singapore",
+        "Tuition Fees": "₹29.81L/Yr",
+        "Living Fees": "₹4.7L/Yr",
+        "Fees": "₹25L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_767_29-12:01_nus.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 16,
+        "Name": "Cornell University",
+        "Course": " M.H.A/M.B.A",
+        "Address": "New York, USA",
+        "Tuition Fees": "₹40.62L/Yr",
+        "Living Fees": "₹29.19L/Yr",
+        "Fees": "₹32.65L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72021 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 17,
+        "Name": "University of California",
+        "Course": " M.P.H",
+        "Address": "California, USA",
+        "Tuition Fees": "₹28.09L/Yr",
+        "Living Fees": "₹14.18L/Yr",
+        "Fees": "₹30.04L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74180 logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 18,
+        "Name": "University College London",
+        "Course": " M.Pharm",
+        "Address": "England, UK",
+        "Tuition Fees": "₹35.77L/Yr",
+        "Living Fees": "₹35.82L/Yr",
+        "Fees": "₹27.85L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_846_16-12:41_university-college-london.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 19,
+        "Name": "University of Michigan",
+        "Course": " M.S Pharmacology",
+        "Address": "Michigan, USA",
+        "Tuition Fees": "₹44.53L/Yr",
+        "Living Fees": "₹9.95L/Yr",
+        "Fees": "₹44.42L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_921_27-18:22_download-(1).jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 20,
+        "Name": "New York University",
+        "Course": " M.P.H",
+        "Address": "New York, USA",
+        "Tuition Fees": "₹58.94L/Yr",
+        "Living Fees": "₹17.39L/Yr",
+        "Fees": "₹48.56L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72070 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 21,
+        "Name": "Duke University",
+        "Course": " M.S Biomedical Engineering",
+        "Address": "North Carolina, USA",
+        "Tuition Fees": "₹56.72L/Yr",
+        "Living Fees": "₹32.4L/Yr",
+        "Fees": "₹52.84L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72025 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 22,
+        "Name": "Northwestern University",
+        "Course": " M.S Health Communication",
+        "Address": "Illinois, USA",
+        "Tuition Fees": "₹35.08L/Yr",
+        "Living Fees": "₹13.27L/Yr",
+        "Fees": "₹16L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72076 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 23,
+        "Name": "University of Washington",
+        "Course": " M.S Pharmacy",
+        "Address": "Washington, USA",
+        "Tuition Fees": "₹27.6L/Yr",
+        "Living Fees": "₹10.02L/Yr",
+        "Fees": "₹25.57L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2096_06-12:19_Washington-Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 24,
+        "Name": "Carnegie Mellon University",
+        "Course": " M.S Biomedical Engineering",
+        "Address": "Pennsylvania, USA",
+        "Tuition Fees": "₹45.75L/Yr",
+        "Living Fees": "₹11.4L/Yr",
+        "Fees": "₹50.26L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1841_10-17:31_red-seal-greater-than-two-inches-min.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 25,
+        "Name": "University of Edinburgh",
+        "Course": " M.P.H",
+        "Address": "Scotland, UK",
+        "Tuition Fees": "₹33.46L/Yr",
+        "Living Fees": "₹10.42L/Yr",
+        "Fees": "₹26.49L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_810_07-11:27_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 26,
+        "Name": "Technical University Munich",
+        "Course": " M.S Health Science - Prevention ...",
+        "Address": "Bavaria, Germany",
+        "Tuition Fees": "₹1.75L/Yr",
+        "Living Fees": "₹20.73L/Yr",
+        "Fees": "₹24.6K/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_691_02-13:08_691.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 27,
+        "Name": "The University of Hong Kong",
+        "Course": " M.A Clinical Pharmacy",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹19.18L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹19.18L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_720_29-10:04_uni-of-hk.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 28,
+        "Name": "University of California",
+        "Course": " M.S Clinical Research",
+        "Address": "California, USA",
+        "Tuition Fees": "₹26.68L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹26.87L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74182 logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 29,
+        "Name": "Ludwig Maximilian University of Munich",
+        "Course": " M.S International Health",
+        "Address": "Bavaria, Germany",
+        "Tuition Fees": "₹6.04L/Yr",
+        "Living Fees": "₹1.24L/Yr",
+        "Fees": "₹11.85L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_690_02-13:05_690.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 30,
+        "Name": "University of Melbourne",
+        "Course": " M.P.H",
+        "Address": "Victoria, Australia",
+        "Tuition Fees": "₹19.29L/Yr",
+        "Living Fees": "₹10.67L/Yr",
+        "Fees": "₹18.05L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_609_20-15:00_mel-Logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 31,
+        "Name": "King's College London",
+        "Course": " M.Sc Clinical Nursing",
+        "Address": "England, UK",
+        "Tuition Fees": "₹31.78L/Yr",
+        "Living Fees": "₹1.32L/Yr",
+        "Fees": "₹13.25L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_836_07-11:35_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 32,
+        "Name": "Nanyang Technological University",
+        "Course": " M.S Biomedical Engineering",
+        "Address": "Singapore, Singapore",
+        "Tuition Fees": "₹29.33L/Yr",
+        "Living Fees": "₹43.2K/Yr",
+        "Fees": "₹12.38L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_766_29-12:00_ntu.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 33,
+        "Name": "London School of Economics and Political Science",
+        "Course": " M.Sc Health and International De...",
+        "Address": "England, UK",
+        "Tuition Fees": "₹31.03L/Yr",
+        "Living Fees": "₹45.63L/Yr",
+        "Fees": "₹27.14L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_839_07-11:59_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 34,
+        "Name": "Georgia Institute of Technology",
+        "Course": " M.S Biomedical Innovation and De...",
+        "Address": "Georgia, USA",
+        "Tuition Fees": "₹32.04L/Yr",
+        "Living Fees": "₹6.64L/Yr",
+        "Fees": "₹38.62L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_942_28-11:03_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 35,
+        "Name": "The University of British Columbia",
+        "Course": " M.H.A",
+        "Address": "British Columbia, Canada",
+        "Tuition Fees": "₹14.15L/Yr",
+        "Living Fees": "₹18.03L/Yr",
+        "Fees": "₹16.97L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_64_25-11:13_Capture.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 36,
+        "Name": "Heidelberg University",
+        "Course": " M.S International Health",
+        "Address": "Baden-Wurttemberg, Germany",
+        "Tuition Fees": "₹6.44L/Yr",
+        "Living Fees": "₹19.9L/Yr",
+        "Fees": "₹12.54L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_672_02-12:51_672.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 37,
+        "Name": "Monash University",
+        "Course": " M.P.H",
+        "Address": "Victoria, Australia",
+        "Tuition Fees": "₹21.4L/Yr",
+        "Living Fees": "₹9.43L/Yr",
+        "Fees": "₹11.92L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_606_29-12:24_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 38,
+        "Name": "Chinese University of Hong Kong",
+        "Course": " M.S Biomedical Engineering",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹15.28L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹15.28L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_721_28-18:37_chinese-uni.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 39,
+        "Name": "McGill University",
+        "Course": " M.S Pharmacology",
+        "Address": "Quebec, Canada",
+        "Tuition Fees": "₹17.48L/Yr",
+        "Living Fees": "₹24.91L/Yr",
+        "Fees": "₹17.16L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_39_24-17:26_macgill.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 40,
+        "Name": "University of Illinois",
+        "Course": " M.S Community Health",
+        "Address": "Illinois, USA",
+        "Tuition Fees": "₹27.68L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹27.68L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2141_25-11:46_116685.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 41,
+        "Name": "Karolinska Institute",
+        "Course": " M.S Biomedicine",
+        "Address": "Uppland, Sweden",
+        "Tuition Fees": "₹14.08L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹15.02L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_775_04-16:47_logo2.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 42,
+        "Name": "University of Texas",
+        "Course": " M.S Pharmaceutical Sciences",
+        "Address": "Texas, USA",
+        "Tuition Fees": "₹35.46L/Yr",
+        "Living Fees": "₹10.16L/Yr",
+        "Fees": "₹23.27L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_952_22-15:44_images.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 43,
+        "Name": "The University of Queensland",
+        "Course": " M.P.H",
+        "Address": "Queensland, Australia",
+        "Tuition Fees": "₹24.25L/Yr",
+        "Living Fees": "₹12.37L/Yr",
+        "Fees": "₹19.02L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_596_29-11:20_queensland_Logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 44,
+        "Name": "The University of Sydney",
+        "Course": " M.S Cancer and Haematology Nursi...",
+        "Address": "New South Wales, Australia",
+        "Tuition Fees": "₹29.15L/Yr",
+        "Living Fees": "₹10.83L/Yr",
+        "Fees": "₹24.02L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_620_29-11:04_logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 45,
+        "Name": "The University of Manchester",
+        "Course": " M.Pharm Pharmacy",
+        "Address": "England, UK",
+        "Tuition Fees": "₹30.16L/Yr",
+        "Living Fees": "₹19.31L/Yr",
+        "Fees": "₹25.13L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_855_07-11:43_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 46,
+        "Name": "Washington University",
+        "Course": " M.S Biomedical Engineering",
+        "Address": "Missouri, USA",
+        "Tuition Fees": "₹44.12L/Yr",
+        "Living Fees": "₹12.83L/Yr",
+        "Fees": "₹49.63L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72195 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 47,
+        "Name": "Wageningen University & Research",
+        "Course": " M.S Health and Society",
+        "Address": "Gelderland, Netherlands",
+        "Tuition Fees": "₹17.43L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹17.43L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_757_29-11:15_wageningen-university-and-research-center.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 48,
+        "Name": "University of Amsterdam",
+        "Course": " M.S Biomedical Sciences - Medica...",
+        "Address": "North Holland, Netherlands",
+        "Tuition Fees": "₹14.29L/Yr",
+        "Living Fees": "₹82.3K/Yr",
+        "Fees": "₹14.29L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_745_15-10:04_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 49,
+        "Name": "Brown University",
+        "Course": " M.S Medical Sciences",
+        "Address": "Rhode Island, USA",
+        "Tuition Fees": "₹58.54L/Yr",
+        "Living Fees": "₹8.09L/Yr",
+        "Fees": "₹58.63L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72007 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 50,
+        "Name": "Australian National University",
+        "Course": " M.P.H",
+        "Address": "Australian Capital Territory , Australia",
+        "Tuition Fees": "₹29.33L/Yr",
+        "Living Fees": "₹28.67L/Yr",
+        "Fees": "₹26.33L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_597_12-11:31_anu_logo_fb_350.png?h=40&w=40&mode=stretch"
+    }
+]

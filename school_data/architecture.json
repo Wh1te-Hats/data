@@ -1,0 +1,502 @@
+[
+    {
+        "Sl no.": 1,
+        "Name": "Harvard University",
+        "Course": "M. Arch",
+        "Address": "Massachusetts, USA",
+        "Tuition Fees": "₹49.56L/Yr",
+        "Living Fees": "₹26.21L/Yr",
+        "Fees": "₹50.72L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1090_30-14:58_harvard.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 2,
+        "Name": "University of Cambridge",
+        "Course": "M. Arch",
+        "Address": "England, UK",
+        "Tuition Fees": "₹44.18L/Yr",
+        "Living Fees": "₹70.2K/Yr",
+        "Fees": "₹49.4L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_800_31-19:39_11.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 3,
+        "Name": "Stanford University",
+        "Course": "M. Arch",
+        "Address": "California, USA",
+        "Tuition Fees": "₹54L/Yr",
+        "Living Fees": "₹25.32L/Yr",
+        "Fees": "₹54L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72102 logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 4,
+        "Name": "Massachusetts Institute of Technology",
+        "Course": "M. Arch",
+        "Address": "Massachusetts, USA",
+        "Tuition Fees": "₹41.36L/Yr",
+        "Living Fees": "₹13.56L/Yr",
+        "Fees": "NA",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1087_29-14:42_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 5,
+        "Name": "Princeton University",
+        "Course": "M. Arch",
+        "Address": "New Jersey, USA",
+        "Tuition Fees": "₹55.89L/Yr",
+        "Living Fees": "₹15.41L/Yr",
+        "Fees": "₹57.13L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1873_06-15:15_Shield.gif?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 6,
+        "Name": "University of California",
+        "Course": "M. Arch",
+        "Address": "California, USA",
+        "Tuition Fees": "₹22.7L/Yr",
+        "Living Fees": "₹34.19L/Yr",
+        "Fees": "₹32.04L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_982_24-16:13_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 7,
+        "Name": "Yale University",
+        "Course": "M. Arch",
+        "Address": "Connecticut, USA",
+        "Tuition Fees": "₹59.32L/Yr",
+        "Living Fees": "₹21.34L/Yr",
+        "Fees": "₹54.72L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72204 Logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 8,
+        "Name": "Columbia University",
+        "Course": "M. Arch",
+        "Address": "New York, USA",
+        "Tuition Fees": "₹42.65L/Yr",
+        "Living Fees": "₹8.62L/Yr",
+        "Fees": "₹28.07L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1711_11-10:51_columbia_university.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 9,
+        "Name": "University of Pennsylvania",
+        "Course": "M. Arch",
+        "Address": "Pennsylvania, USA",
+        "Tuition Fees": "₹54.31L/Yr",
+        "Living Fees": "₹14.8L/Yr",
+        "Fees": "₹54.78L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1822_26-13:04_wharton-university-of-pennsylvania-sbdc-squarelogo-1428399142675.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 10,
+        "Name": "University of Toronto",
+        "Course": "M. Arch",
+        "Address": "Ontario, Canada",
+        "Tuition Fees": "₹33.5L/Yr",
+        "Living Fees": "₹22.8L/Yr",
+        "Fees": "₹32.19L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_104_25-12:44_University_of_Toronto-logo-2417C8AF32-seeklogo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 11,
+        "Name": "National University of Singapore",
+        "Course": "M. Arch",
+        "Address": "Singapore, Singapore",
+        "Tuition Fees": "₹21.07L/Yr",
+        "Living Fees": "₹4.7L/Yr",
+        "Fees": "₹25L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_767_29-12:01_nus.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 12,
+        "Name": "Cornell University",
+        "Course": "M. Arch",
+        "Address": "New York, USA",
+        "Tuition Fees": "₹31.87L/Yr",
+        "Living Fees": "₹29.19L/Yr",
+        "Fees": "₹24.4L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72021 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 13,
+        "Name": "University of California",
+        "Course": "M. Arch",
+        "Address": "California, USA",
+        "Tuition Fees": "₹36.39L/Yr",
+        "Living Fees": "₹14.18L/Yr",
+        "Fees": "₹32.16L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74180 logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 14,
+        "Name": "University College London",
+        "Course": "M. Arch",
+        "Address": "England, UK",
+        "Tuition Fees": "₹30.44L/Yr",
+        "Living Fees": "₹35.82L/Yr",
+        "Fees": "₹27.85L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_846_16-12:41_university-college-london.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 15,
+        "Name": "University of Michigan",
+        "Course": "M. Arch",
+        "Address": "Michigan, USA",
+        "Tuition Fees": "₹44.01L/Yr",
+        "Living Fees": "₹9.95L/Yr",
+        "Fees": "₹44.42L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_921_27-18:22_download-(1).jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 16,
+        "Name": "University of Washington",
+        "Course": "M. Arch",
+        "Address": "Washington, USA",
+        "Tuition Fees": "₹25.57L/Yr",
+        "Living Fees": "₹10.02L/Yr",
+        "Fees": "₹25.57L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2096_06-12:19_Washington-Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 17,
+        "Name": "Carnegie Mellon University",
+        "Course": "M. Arch",
+        "Address": "Pennsylvania, USA",
+        "Tuition Fees": "₹50.8L/Yr",
+        "Living Fees": "₹11.4L/Yr",
+        "Fees": "₹39.24L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1841_10-17:31_red-seal-greater-than-two-inches-min.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 18,
+        "Name": "University of Edinburgh",
+        "Course": "M. Arch",
+        "Address": "Scotland, UK",
+        "Tuition Fees": "₹30L/Yr",
+        "Living Fees": "₹10.42L/Yr",
+        "Fees": "₹31.83L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_810_07-11:27_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 19,
+        "Name": "Technical University Munich",
+        "Course": "M. Arch",
+        "Address": "Bavaria, Germany",
+        "Tuition Fees": "₹24.6K/Yr",
+        "Living Fees": "₹20.73L/Yr",
+        "Fees": "₹24.6K/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_691_02-13:08_691.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 20,
+        "Name": "The University of Hong Kong",
+        "Course": "M. Arch",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹19.18L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹19.18L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_720_29-10:04_uni-of-hk.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 21,
+        "Name": "University of Melbourne",
+        "Course": "M. Arch",
+        "Address": "Victoria, Australia",
+        "Tuition Fees": "₹16.13L/Yr",
+        "Living Fees": "₹10.67L/Yr",
+        "Fees": "₹17.23L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_609_20-15:00_mel-Logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 22,
+        "Name": "Nanyang Technological University",
+        "Course": "M. Arch",
+        "Address": "Singapore, Singapore",
+        "Tuition Fees": "₹10.81L/Yr",
+        "Living Fees": "₹43.2K/Yr",
+        "Fees": "₹10.81L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_766_29-12:00_ntu.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 23,
+        "Name": "Georgia Institute of Technology",
+        "Course": "M. Arch",
+        "Address": "Georgia, USA",
+        "Tuition Fees": "₹24.96L/Yr",
+        "Living Fees": "₹6.64L/Yr",
+        "Fees": "₹31.96L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_942_28-11:03_download.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 24,
+        "Name": "The University of British Columbia",
+        "Course": "M. Arch",
+        "Address": "British Columbia, Canada",
+        "Tuition Fees": "₹29.49L/Yr",
+        "Living Fees": "₹18.03L/Yr",
+        "Fees": "₹28.68L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_64_25-11:13_Capture.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 25,
+        "Name": "Monash University",
+        "Course": "M. Arch",
+        "Address": "Victoria, Australia",
+        "Tuition Fees": "₹20.64L/Yr",
+        "Living Fees": "₹9.43L/Yr",
+        "Fees": "₹16.85L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_606_29-12:24_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 26,
+        "Name": "Chinese University of Hong Kong",
+        "Course": "M. Arch",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹15.28L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹15.28L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_721_28-18:37_chinese-uni.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 27,
+        "Name": "McGill University",
+        "Course": "M. Arch",
+        "Address": "Quebec, Canada",
+        "Tuition Fees": "₹17.53L/Yr",
+        "Living Fees": "₹24.91L/Yr",
+        "Fees": "₹17.16L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_39_24-17:26_macgill.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 28,
+        "Name": "University of Illinois",
+        "Course": "M. Arch",
+        "Address": "Illinois, USA",
+        "Tuition Fees": "₹27.68L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹27.68L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2141_25-11:46_116685.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 29,
+        "Name": "University of Texas",
+        "Course": "M. Arch",
+        "Address": "Texas, USA",
+        "Tuition Fees": "₹29.4L/Yr",
+        "Living Fees": "₹10.16L/Yr",
+        "Fees": "₹23.27L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_952_22-15:44_images.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 30,
+        "Name": "The University of Queensland",
+        "Course": "M. Arch",
+        "Address": "Queensland, Australia",
+        "Tuition Fees": "₹23.03L/Yr",
+        "Living Fees": "₹12.37L/Yr",
+        "Fees": "₹22.72L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_596_29-11:20_queensland_Logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 31,
+        "Name": "The University of Sydney",
+        "Course": "M. Arch",
+        "Address": "New South Wales, Australia",
+        "Tuition Fees": "₹24.53L/Yr",
+        "Living Fees": "₹10.83L/Yr",
+        "Fees": "₹22.42L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_620_29-11:04_logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 32,
+        "Name": "The University of Manchester",
+        "Course": "M. Arch",
+        "Address": "England, UK",
+        "Tuition Fees": "₹26.72L/Yr",
+        "Living Fees": "₹19.31L/Yr",
+        "Fees": "₹26.7L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_855_07-11:43_logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 33,
+        "Name": "Washington University",
+        "Course": "M. Arch",
+        "Address": "Missouri, USA",
+        "Tuition Fees": "₹49.11L/Yr",
+        "Living Fees": "₹12.83L/Yr",
+        "Fees": "₹46.46L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72195 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 34,
+        "Name": "Wageningen University & Research",
+        "Course": "M. Arch",
+        "Address": "Gelderland, Netherlands",
+        "Tuition Fees": "₹17.43L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹17.43L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_757_29-11:15_wageningen-university-and-research-center.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 35,
+        "Name": "Brown University",
+        "Course": "M. Arch",
+        "Address": "Rhode Island, USA",
+        "Tuition Fees": "₹57.52L/Yr",
+        "Living Fees": "₹8.09L/Yr",
+        "Fees": "₹57.52L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72007 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 36,
+        "Name": "University of California",
+        "Course": "M. Arch",
+        "Address": "California, USA",
+        "Tuition Fees": "₹43.79L/Yr",
+        "Living Fees": "₹13.35L/Yr",
+        "Fees": "₹43.79L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74177 logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 37,
+        "Name": "University of Southern California",
+        "Course": "M. Arch",
+        "Address": "California, USA",
+        "Tuition Fees": "₹51L/Yr",
+        "Living Fees": "₹13.84L/Yr",
+        "Fees": "₹62.98L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72177 Logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 38,
+        "Name": "University of North Carolina",
+        "Course": "M. Arch",
+        "Address": "North Carolina, USA",
+        "Tuition Fees": "₹29.99L/Yr",
+        "Living Fees": "₹9.56L/Yr",
+        "Fees": "₹59.98L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74205 Logo.jpg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 39,
+        "Name": "Delft University of Technology",
+        "Course": "M. Arch",
+        "Address": "South Holland, Netherlands",
+        "Tuition Fees": "₹18.29L/Yr",
+        "Living Fees": "₹9.07L/Yr",
+        "Fees": "₹18.29L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_747_29-10:27_tu-delft.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 40,
+        "Name": "University of New South Wales",
+        "Course": "M. Arch",
+        "Address": "New South Wales, Australia",
+        "Tuition Fees": "₹16.47L/Yr",
+        "Living Fees": "₹36.86L/Yr",
+        "Fees": "₹23.09L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_603_29-10:36_logo.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 41,
+        "Name": "Boston University",
+        "Course": "M. Arch",
+        "Address": "Massachusetts, USA",
+        "Tuition Fees": "₹54.73L/Yr",
+        "Living Fees": "₹32.6L/Yr",
+        "Fees": "₹54.73L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72003 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 42,
+        "Name": "University of Groningen",
+        "Course": "M. Arch",
+        "Address": "Groningen, Netherlands",
+        "Tuition Fees": "₹16.77L/Yr",
+        "Living Fees": "₹80.1K/Yr",
+        "Fees": "₹16.77L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_750_29-10:52_uni-groningen.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 43,
+        "Name": "The Hong Kong Polytechnic University",
+        "Course": "M. Arch",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹18.47L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹21.66L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_717_28-18:35_hk-poly.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 44,
+        "Name": "University of Wisconsin",
+        "Course": "M. Arch",
+        "Address": "Wisconsin, USA",
+        "Tuition Fees": "₹30.36L/Yr",
+        "Living Fees": "₹14.19L/Yr",
+        "Fees": "₹22.07L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72187 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 45,
+        "Name": "University of Adelaide",
+        "Course": "M. Arch",
+        "Address": "South Australia, Australia",
+        "Tuition Fees": "₹22.86L/Yr",
+        "Living Fees": "₹10.44L/Yr",
+        "Fees": "₹22.95L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_590_28-17:45_university-of-adelaide.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 46,
+        "Name": "Free University of Berlin",
+        "Course": "M. Arch",
+        "Address": "Berlin, Germany",
+        "Tuition Fees": "₹8.97L/Yr",
+        "Living Fees": "NA",
+        "Fees": "NA",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_631_29-15:01_5.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 47,
+        "Name": "University of California",
+        "Course": "M. Arch",
+        "Address": "California, USA",
+        "Tuition Fees": "₹26.2L/Yr",
+        "Living Fees": "₹13.8L/Yr",
+        "Fees": "₹26.2L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74179 logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 48,
+        "Name": "Vanderbilt University",
+        "Course": "M. Arch",
+        "Address": "Tennessee, USA",
+        "Tuition Fees": "₹57.28L/Yr",
+        "Living Fees": "₹9.55L/Yr",
+        "Fees": "₹57.86L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72190 Logo.png?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 49,
+        "Name": "RWTH Aachen University",
+        "Course": "M. Arch",
+        "Address": "North Rhine-Westphalia, Germany",
+        "Tuition Fees": "₹51.1K/Yr",
+        "Living Fees": "₹77.4K/Yr",
+        "Fees": "₹51.1K/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_627_29-14:59_2.jpeg?h=40&w=40&mode=stretch"
+    },
+    {
+        "Sl no.": 50,
+        "Name": "City University of Hong Kong",
+        "Course": "M. Arch",
+        "Address": "Hong Kong, Hong-Kong",
+        "Tuition Fees": "₹15.28L/Yr",
+        "Living Fees": "NA",
+        "Fees": "₹15.28L/Yr",
+        "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_718_28-18:36_cityu.png?h=40&w=40&mode=stretch"
+    }
+]

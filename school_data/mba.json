@@ -1,0 +1,502 @@
+[
+  {
+    "Sl no.": 1,
+    "Name": "University of Oxford",
+    "Course": " M.B.A",
+    "Address": "England, UK",
+    "Tuition Fees": "₹45.64L/Yr",
+    "Living Fees": "₹14.73L/Yr",
+    "Fees": "₹82.21L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_865_16-14:32_oxford-logo.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 2,
+    "Name": "Harvard University",
+    "Course": " M.B.A",
+    "Address": "Massachusetts, USA",
+    "Tuition Fees": "₹52.21L/Yr",
+    "Living Fees": "₹26.21L/Yr",
+    "Fees": "₹68.53L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1090_30-14:58_harvard.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 3,
+    "Name": "University of Cambridge",
+    "Course": " M.B.A",
+    "Address": "England, UK",
+    "Tuition Fees": "₹52.56L/Yr",
+    "Living Fees": "₹70.2K/Yr",
+    "Fees": "₹67.01L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_800_31-19:39_11.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 4,
+    "Name": "Stanford University",
+    "Course": " M.B.A",
+    "Address": "California, USA",
+    "Tuition Fees": "₹44.44L/Yr",
+    "Living Fees": "₹25.32L/Yr",
+    "Fees": "₹72.65L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72102 logo.jpg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 5,
+    "Name": "Massachusetts Institute of Technology",
+    "Course": " M.B.A",
+    "Address": "Massachusetts, USA",
+    "Tuition Fees": "₹35.31L/Yr",
+    "Living Fees": "₹13.56L/Yr",
+    "Fees": "₹68.33L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1087_29-14:42_download.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 6,
+    "Name": "University of California",
+    "Course": " M.B.A",
+    "Address": "California, USA",
+    "Tuition Fees": "₹52.22L/Yr",
+    "Living Fees": "₹34.19L/Yr",
+    "Fees": "₹71.46L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_982_24-16:13_download.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 7,
+    "Name": "Yale University",
+    "Course": " M.B.A",
+    "Address": "Connecticut, USA",
+    "Tuition Fees": "₹64.68L/Yr",
+    "Living Fees": "₹21.34L/Yr",
+    "Fees": "₹68.87L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72204 Logo.jpg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 8,
+    "Name": "Imperial College London",
+    "Course": " M.B.A",
+    "Address": "England, UK",
+    "Tuition Fees": "₹47.24L/Yr",
+    "Living Fees": "₹12.08L/Yr",
+    "Fees": "₹64.4L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_835_24-12:25_implogo.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 9,
+    "Name": "Columbia University",
+    "Course": " M.B.A",
+    "Address": "New York, USA",
+    "Tuition Fees": "₹43.35L/Yr",
+    "Living Fees": "₹8.62L/Yr",
+    "Fees": "₹73.92L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1711_11-10:51_columbia_university.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 10,
+    "Name": "University of Chicago",
+    "Course": " M.B.A",
+    "Address": "Illinois, USA",
+    "Tuition Fees": "₹64.23L/Yr",
+    "Living Fees": "₹15.22L/Yr",
+    "Fees": "₹64.39L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1129_06-15:23_logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 11,
+    "Name": "University of Pennsylvania",
+    "Course": " M.B.A",
+    "Address": "Pennsylvania, USA",
+    "Tuition Fees": "₹67.42L/Yr",
+    "Living Fees": "₹14.8L/Yr",
+    "Fees": "₹79.15L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1822_26-13:04_wharton-university-of-pennsylvania-sbdc-squarelogo-1428399142675.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 12,
+    "Name": "Johns Hopkins University",
+    "Course": " M.B.A Healthcare Organizational ...",
+    "Address": "Maryland, USA",
+    "Tuition Fees": "₹51.16L/Yr",
+    "Living Fees": "₹14.59L/Yr",
+    "Fees": "₹43.01L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_958_12-11:54_JHU_logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 13,
+    "Name": "University of Toronto",
+    "Course": " M.B.A",
+    "Address": "Ontario, Canada",
+    "Tuition Fees": "₹41.46L/Yr",
+    "Living Fees": "₹22.8L/Yr",
+    "Fees": "₹41.07L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_104_25-12:44_University_of_Toronto-logo-2417C8AF32-seeklogo.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 14,
+    "Name": "National University of Singapore",
+    "Course": " M.B.A",
+    "Address": "Singapore, Singapore",
+    "Tuition Fees": "₹21.76L/Yr",
+    "Living Fees": "₹4.7L/Yr",
+    "Fees": "₹23.86L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_767_29-12:01_nus.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 15,
+    "Name": "Cornell University",
+    "Course": " M.B.A",
+    "Address": "New York, USA",
+    "Tuition Fees": "₹64.15L/Yr",
+    "Living Fees": "₹29.19L/Yr",
+    "Fees": "₹126.88L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72021 Logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 16,
+    "Name": "University of California",
+    "Course": " M.B.A",
+    "Address": "California, USA",
+    "Tuition Fees": "₹30.86L/Yr",
+    "Living Fees": "₹14.18L/Yr",
+    "Fees": "₹59.33L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74180 logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 17,
+    "Name": "University College London",
+    "Course": " M.B.A",
+    "Address": "England, UK",
+    "Tuition Fees": "₹33.9L/Yr",
+    "Living Fees": "₹35.82L/Yr",
+    "Fees": "₹46.24L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_846_16-12:41_university-college-london.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 18,
+    "Name": "University of Michigan",
+    "Course": " M.B.A",
+    "Address": "Michigan, USA",
+    "Tuition Fees": "₹44.8L/Yr",
+    "Living Fees": "₹9.95L/Yr",
+    "Fees": "₹44.42L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_921_27-18:22_download-(1).jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 19,
+    "Name": "New York University",
+    "Course": " M.S Project Management",
+    "Address": "New York, USA",
+    "Tuition Fees": "₹47.78L/Yr",
+    "Living Fees": "₹17.39L/Yr",
+    "Fees": "₹36.48L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72070 logo.jpg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 20,
+    "Name": "Duke University",
+    "Course": " M.B.A",
+    "Address": "North Carolina, USA",
+    "Tuition Fees": "₹58.25L/Yr",
+    "Living Fees": "₹32.4L/Yr",
+    "Fees": "₹52.84L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72025 logo.jpg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 21,
+    "Name": "Northwestern University",
+    "Course": " M.S Project Management",
+    "Address": "Illinois, USA",
+    "Tuition Fees": "₹40.39L/Yr",
+    "Living Fees": "₹13.27L/Yr",
+    "Fees": "₹13.77L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72076 logo.jpg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 22,
+    "Name": "University of Washington",
+    "Course": " M.B.A",
+    "Address": "Washington, USA",
+    "Tuition Fees": "₹30.74L/Yr",
+    "Living Fees": "₹10.02L/Yr",
+    "Fees": "₹25.57L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2096_06-12:19_Washington-Logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 23,
+    "Name": "Carnegie Mellon University",
+    "Course": " M.B.A",
+    "Address": "Pennsylvania, USA",
+    "Tuition Fees": "₹47.51L/Yr",
+    "Living Fees": "₹11.4L/Yr",
+    "Fees": "₹64.89L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_1841_10-17:31_red-seal-greater-than-two-inches-min.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 24,
+    "Name": "University of Edinburgh",
+    "Course": " M.B.A",
+    "Address": "Scotland, UK",
+    "Tuition Fees": "₹26.89L/Yr",
+    "Living Fees": "₹10.42L/Yr",
+    "Fees": "₹37.59L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_810_07-11:27_logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 25,
+    "Name": "Technical University Munich",
+    "Course": " M.I.M",
+    "Address": "Bavaria, Germany",
+    "Tuition Fees": "₹24.6K/Yr",
+    "Living Fees": "₹20.73L/Yr",
+    "Fees": "₹24.6K/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_691_02-13:08_691.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 26,
+    "Name": "The University of Hong Kong",
+    "Course": " M.B.A",
+    "Address": "Hong Kong, Hong-Kong",
+    "Tuition Fees": "₹19.18L/Yr",
+    "Living Fees": "NA",
+    "Fees": "₹19.18L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_720_29-10:04_uni-of-hk.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 27,
+    "Name": "University of California",
+    "Course": " M.B.A",
+    "Address": "California, USA",
+    "Tuition Fees": "₹30.01L/Yr",
+    "Living Fees": "NA",
+    "Fees": "₹47.32L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74182 logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 28,
+    "Name": "Ludwig Maximilian University of Munich",
+    "Course": " M.Sc Business Administration",
+    "Address": "Bavaria, Germany",
+    "Tuition Fees": "₹25.5K/Yr",
+    "Living Fees": "₹1.24L/Yr",
+    "Fees": "₹25.5K/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_690_02-13:05_690.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 29,
+    "Name": "University of Melbourne",
+    "Course": " M.B.A",
+    "Address": "Victoria, Australia",
+    "Tuition Fees": "₹21.39L/Yr",
+    "Living Fees": "₹10.67L/Yr",
+    "Fees": "₹26.59L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_609_20-15:00_mel-Logo.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 30,
+    "Name": "King's College London",
+    "Course": " M.Sc International Management",
+    "Address": "England, UK",
+    "Tuition Fees": "₹30.26L/Yr",
+    "Living Fees": "₹1.32L/Yr",
+    "Fees": "₹34.92L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_836_07-11:35_logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 31,
+    "Name": "Nanyang Technological University",
+    "Course": " M.B.A",
+    "Address": "Singapore, Singapore",
+    "Tuition Fees": "₹11.26L/Yr",
+    "Living Fees": "₹43.2K/Yr",
+    "Fees": "₹12.38L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_766_29-12:00_ntu.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 32,
+    "Name": "London School of Economics and Political Science",
+    "Course": " M.Sc Management",
+    "Address": "England, UK",
+    "Tuition Fees": "₹29.28L/Yr",
+    "Living Fees": "₹45.63L/Yr",
+    "Fees": "₹38.2L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_839_07-11:59_logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 33,
+    "Name": "Georgia Institute of Technology",
+    "Course": " M.B.A",
+    "Address": "Georgia, USA",
+    "Tuition Fees": "₹31.41L/Yr",
+    "Living Fees": "₹6.64L/Yr",
+    "Fees": "₹38.26L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_942_28-11:03_download.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 34,
+    "Name": "The University of British Columbia",
+    "Course": " M.B.A",
+    "Address": "British Columbia, Canada",
+    "Tuition Fees": "₹27.76L/Yr",
+    "Living Fees": "₹18.03L/Yr",
+    "Fees": "₹65.66L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_64_25-11:13_Capture.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 35,
+    "Name": "Monash University",
+    "Course": " M.B.A",
+    "Address": "Victoria, Australia",
+    "Tuition Fees": "₹21.16L/Yr",
+    "Living Fees": "₹9.43L/Yr",
+    "Fees": "₹16.2L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_606_29-12:24_logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 36,
+    "Name": "Chinese University of Hong Kong",
+    "Course": " M.B.A",
+    "Address": "Hong Kong, Hong-Kong",
+    "Tuition Fees": "₹15.28L/Yr",
+    "Living Fees": "NA",
+    "Fees": "₹15.28L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_721_28-18:37_chinese-uni.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 37,
+    "Name": "McGill University",
+    "Course": " M.B.A",
+    "Address": "Quebec, Canada",
+    "Tuition Fees": "₹17.64L/Yr",
+    "Living Fees": "₹24.91L/Yr",
+    "Fees": "₹19.64L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_39_24-17:26_macgill.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 38,
+    "Name": "University of Illinois",
+    "Course": " M.B.A",
+    "Address": "Illinois, USA",
+    "Tuition Fees": "₹27.68L/Yr",
+    "Living Fees": "NA",
+    "Fees": "₹27.68L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_2141_25-11:46_116685.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 39,
+    "Name": "Karolinska Institute",
+    "Course": " M.S Bioentrepreneurship",
+    "Address": "Uppland, Sweden",
+    "Tuition Fees": "₹13.52L/Yr",
+    "Living Fees": "NA",
+    "Fees": "₹13.52L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_775_04-16:47_logo2.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 40,
+    "Name": "University of Texas",
+    "Course": " M.B.A",
+    "Address": "Texas, USA",
+    "Tuition Fees": "₹41.11L/Yr",
+    "Living Fees": "₹10.16L/Yr",
+    "Fees": "₹52.7L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_952_22-15:44_images.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 41,
+    "Name": "The University of Queensland",
+    "Course": " M.B.A",
+    "Address": "Queensland, Australia",
+    "Tuition Fees": "₹23.68L/Yr",
+    "Living Fees": "₹12.37L/Yr",
+    "Fees": "₹45.18L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_596_29-11:20_queensland_Logo.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 42,
+    "Name": "The University of Sydney",
+    "Course": " M.B.A",
+    "Address": "New South Wales, Australia",
+    "Tuition Fees": "₹26.54L/Yr",
+    "Living Fees": "₹10.83L/Yr",
+    "Fees": "₹28.02L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_620_29-11:04_logo.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 43,
+    "Name": "The University of Manchester",
+    "Course": " M.B.A",
+    "Address": "England, UK",
+    "Tuition Fees": "₹27.72L/Yr",
+    "Living Fees": "₹19.31L/Yr",
+    "Fees": "₹47.12L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_855_07-11:43_logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 44,
+    "Name": "Washington University",
+    "Course": " M.B.A",
+    "Address": "Missouri, USA",
+    "Tuition Fees": "₹42.08L/Yr",
+    "Living Fees": "₹12.83L/Yr",
+    "Fees": "₹53.62L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72195 Logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 45,
+    "Name": "The Hong Kong University of Science & Technology",
+    "Course": " M.B.A",
+    "Address": "Hong Kong, Hong-Kong",
+    "Tuition Fees": "₹29.53L/Yr",
+    "Living Fees": "NA",
+    "Fees": "₹124.37L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_716_28-18:34_hkust.jpeg?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 46,
+    "Name": "Wageningen University & Research",
+    "Course": " M.S International Land and Water...",
+    "Address": "Gelderland, Netherlands",
+    "Tuition Fees": "₹16.01L/Yr",
+    "Living Fees": "NA",
+    "Fees": "₹17.43L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_757_29-11:15_wageningen-university-and-research-center.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 47,
+    "Name": "University of Amsterdam",
+    "Course": " M.B.A",
+    "Address": "North Holland, Netherlands",
+    "Tuition Fees": "₹15.44L/Yr",
+    "Living Fees": "₹82.3K/Yr",
+    "Fees": "₹15.79L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_745_15-10:04_logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 48,
+    "Name": "Brown University",
+    "Course": " E.M.B.A",
+    "Address": "Rhode Island, USA",
+    "Tuition Fees": "₹58.63L/Yr",
+    "Living Fees": "₹8.09L/Yr",
+    "Fees": "₹58.63L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/72007 Logo.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 49,
+    "Name": "Australian National University",
+    "Course": " M.B.A",
+    "Address": "Australian Capital Territory , Australia",
+    "Tuition Fees": "₹24.7L/Yr",
+    "Living Fees": "₹28.67L/Yr",
+    "Fees": "₹17.63L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/college_597_12-11:31_anu_logo_fb_350.png?h=40&w=40&mode=stretch"
+  },
+  {
+    "Sl no.": 50,
+    "Name": "University of California",
+    "Course": " M.B.A",
+    "Address": "California, USA",
+    "Tuition Fees": "₹47.8L/Yr",
+    "Living Fees": "₹13.35L/Yr",
+    "Fees": "₹51.81L/Yr",
+    "Logo": "https://images.collegedunia.com/public/college_data/images/studyabroad/logos/74177 logo.png?h=40&w=40&mode=stretch"
+  }
+]
