@@ -3,301 +3,301 @@
       "Question": "Which gas is essential for respiration in humans?",
       "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
       "correct option": "a",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     },
     "2": {
       "Question": "What is the process by which green plants make their own food using sunlight?",
       "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
       "correct option": "a",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     },
     "3": {
       "Question": "What is the main function of the heart in the circulatory system?",
       "options": ["Pumping oxygen", "Pumping blood", "Digesting food", "Filtering waste"],
       "correct option": "b",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "4": {
       "Question": "Which part of the brain is responsible for controlling voluntary movements and balance?",
       "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Pons"],
       "correct option": "b",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "5": {
       "Question": "Which gas is released during the process of respiration?",
       "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
       "correct option": "b",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "6": {
       "Question": "What is the function of the placenta during pregnancy?",
       "options": ["Breathing for the fetus", "Digesting food for the fetus", "Excreting waste for the fetus", "Exchange of nutrients and waste between mother and fetus"],
       "correct option": "d",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "7": {
       "Question": "What is the term for the process of conversion of milk into curd?",
       "options": ["Fermentation", "Photosynthesis", "Digestion", "Respiration"],
       "correct option": "a",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "8": {
       "Question": "What is the genetic material found in the nucleus of a cell?",
       "options": ["Proteins", "Carbohydrates", "DNA", "RNA"],
       "correct option": "c",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "9": {
       "Question": "Which gas is responsible for the depletion of the ozone layer?",
       "options": ["Oxygen", "Carbon dioxide", "Chlorofluorocarbons (CFCs)", "Nitrous oxide"],
       "correct option": "c",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "10": {
       "Question": "What is the term for the gradual change in the hereditary traits of a population over generations?",
       "options": ["Revolution", "Evolution", "Mutation", "Extinction"],
       "correct option": "b",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "11": {
       "Question": "Which gas is released when fossil fuels are burned?",
       "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
       "correct option": "b",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "12": {
       "Question": "What is the process by which green plants prepare their own food?",
       "options": ["Digestion", "Respiration", "Photosynthesis", "Excretion"],
       "correct option": "c",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     },
     "13": {
       "Question": "Which organ in the human body produces insulin?",
       "options": ["Liver", "Pancreas", "Stomach", "Kidney"],
       "correct option": "b",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "14": {
       "Question": "What is the function of the cochlea in the ear?",
       "options": ["Balance", "Hearing", "Taste", "Smell"],
       "correct option": "b",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "15": {
       "Question": "Which is the male reproductive organ in humans?",
       "options": ["Ovary", "Testis", "Uterus", "Vagina"],
       "correct option": "b",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "16": {
       "Question": "What is the term for the fusion of the nucleus of a sperm cell with the nucleus of an egg cell?",
       "options": ["Fertilization", "Implantation", "Menstruation", "Ovulation"],
       "correct option": "a",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "17": {
       "Question": "What is the enzyme responsible for the breakdown of lactose in milk?",
       "options": ["Pepsin", "Lipase", "Amylase", "Lactase"],
       "correct option": "d",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "18": {
       "Question": "Which genetic material carries the hereditary information from one generation to the next?",
       "options": ["Proteins", "Carbohydrates", "DNA", "RNA"],
       "correct option": "c",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "19": {
       "Question": "What is the main cause of the greenhouse effect?",
       "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
       "correct option": "a",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "20": {
       "Question": "What is the term for the process by which organisms produce offspring of their own kind?",
       "options": ["Evolution", "Mutation", "Reproduction", "Extinction"],
       "correct option": "c",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "21": {
       "Question": "What is the waste product produced in muscles during vigorous activity?",
       "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Water"],
       "correct option": "a",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     },
     "22": {
       "Question": "Which gas is responsible for the production of acidic rain?",
       "options": ["Oxygen", "Carbon dioxide", "Sulfur dioxide", "Nitrogen"],
       "correct option": "c",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "23": {
       "Question": "What is the process by which food is broken down into simpler substances in the digestive system?",
       "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
       "correct option": "c",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     },
     "24": {
       "Question": "Which part of the brain is responsible for regulating vital functions like heartbeat and breathing?",
       "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Pons"],
       "correct option": "c",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "25": {
       "Question": "What is the term for the process by which plants take in water through their roots?",
       "options": ["Transpiration", "Photosynthesis", "Absorption", "Osmosis"],
       "correct option": "c",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     },
     "26": {
       "Question": "Which hormone is responsible for regulating blood sugar levels in the body?",
       "options": ["Insulin", "Adrenaline", "Thyroxine", "Melatonin"],
       "correct option": "a",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "27": {
       "Question": "What is the female reproductive organ in humans?",
       "options": ["Ovary", "Testis", "Uterus", "Vagina"],
       "correct option": "a",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "28": {
       "Question": "What is the term for the release of a mature egg from the ovary in females?",
       "options": ["Fertilization", "Implantation", "Menstruation", "Ovulation"],
       "correct option": "d",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "29": {
       "Question": "Which enzyme in the stomach helps in the digestion of proteins?",
       "options": ["Pepsin", "Lipase", "Amylase", "Trypsin"],
       "correct option": "a",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "30": {
       "Question": "What is the genetic material found in the nucleus of a cell?",
       "options": ["Proteins", "Carbohydrates", "DNA", "RNA"],
       "correct option": "c",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "31": {
       "Question": "Which gas is responsible for the depletion of the ozone layer?",
       "options": ["Oxygen", "Carbon dioxide", "Chlorofluorocarbons (CFCs)", "Nitrous oxide"],
       "correct option": "c",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "32": {
       "Question": "What is the term for the gradual change in the hereditary traits of a population over generations?",
       "options": ["Revolution", "Evolution", "Mutation", "Extinction"],
       "correct option": "b",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "33": {
       "Question": "Which gas is released when fossil fuels are burned?",
       "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
       "correct option": "b",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "34": {
       "Question": "What is the process by which green plants prepare their own food?",
       "options": ["Digestion", "Respiration", "Photosynthesis", "Excretion"],
       "correct option": "c",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     },
     "35": {
       "Question": "Which organ in the human body produces insulin?",
       "options": ["Liver", "Pancreas", "Stomach", "Kidney"],
       "correct option": "b",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "36": {
       "Question": "What is the function of the cochlea in the ear?",
       "options": ["Balance", "Hearing", "Taste", "Smell"],
       "correct option": "b",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "37": {
       "Question": "Which is the male reproductive organ in humans?",
       "options": ["Ovary", "Testis", "Uterus", "Vagina"],
       "correct option": "b",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "38": {
       "Question": "What is the term for the fusion of the nucleus of a sperm cell with the nucleus of an egg cell?",
       "options": ["Fertilization", "Implantation", "Menstruation", "Ovulation"],
       "correct option": "a",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "39": {
       "Question": "What is the enzyme responsible for the breakdown of lactose in milk?",
       "options": ["Pepsin", "Lipase", "Amylase", "Lactase"],
       "correct option": "d",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "40": {
       "Question": "Which genetic material carries the hereditary information from one generation to the next?",
       "options": ["Proteins", "Carbohydrates", "DNA", "RNA"],
       "correct option": "c",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "41": {
       "Question": "Which gas is responsible for the production of acidic rain?",
       "options": ["Oxygen", "Carbon dioxide", "Sulfur dioxide", "Nitrogen"],
       "correct option": "c",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "42": {
       "Question": "What is the process by which food is broken down into simpler substances in the digestive system?",
       "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
       "correct option": "c",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     },
     "43": {
       "Question": "Which part of the brain is responsible for regulating vital functions like heartbeat and breathing?",
       "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Pons"],
       "correct option": "c",
-      "category": "Control and Coordination"
+      "chapter": "Control and Coordination"
     },
     "44": {
       "Question": "What is the term for the release of a mature egg from the ovary in females?",
       "options": ["Fertilization", "Implantation", "Menstruation", "Ovulation"],
       "correct option": "d",
-      "category": "How do Organisms Reproduce?"
+      "chapter": "How do Organisms Reproduce?"
     },
     "45": {
       "Question": "Which enzyme in the stomach helps in the digestion of proteins?",
       "options": ["Pepsin", "Lipase", "Amylase", "Trypsin"],
       "correct option": "a",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "46": {
       "Question": "What is the genetic material found in the nucleus of a cell?",
       "options": ["Proteins", "Carbohydrates", "DNA", "RNA"],
       "correct option": "c",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "47": {
       "Question": "Which gas is responsible for the depletion of the ozone layer?",
       "options": ["Oxygen", "Carbon dioxide", "Chlorofluorocarbons (CFCs)", "Nitrous oxide"],
       "correct option": "c",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "48": {
       "Question": "What is the term for the gradual change in the hereditary traits of a population over generations?",
       "options": ["Revolution", "Evolution", "Mutation", "Extinction"],
       "correct option": "b",
-      "category": "Heredity and Evolution"
+      "chapter": "Heredity and Evolution"
     },
     "49": {
       "Question": "Which gas is released when fossil fuels are burned?",
       "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
       "correct option": "b",
-      "category": "Our Environment"
+      "chapter": "Our Environment"
     },
     "50": {
       "Question": "What is the process by which green plants prepare their own food?",
       "options": ["Digestion", "Respiration", "Photosynthesis", "Excretion"],
       "correct option": "c",
-      "category": "Life Processes"
+      "chapter": "Life Processes"
     }
   }
   

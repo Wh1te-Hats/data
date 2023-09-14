@@ -3,301 +3,301 @@
       "Question": "What is the SI unit of length?",
       "options": ["a. Meter", "b. Kilogram", "c. Second", "d. Ampere"],
       "correct option": "a",
-      "category": "Units and Measurements"
+      "chapter": "Units and Measurements"
     },
     "2": {
       "Question": "Which of the following is a scalar quantity?",
       "options": ["a. Force", "b. Velocity", "c. Distance", "d. Displacement"],
       "correct option": "c",
-      "category": "Units and Measurements"
+      "chapter": "Units and Measurements"
     },
     "3": {
       "Question": "A car moves along a straight road with a constant speed. What can you say about its acceleration?",
       "options": ["a. Zero", "b. Positive", "c. Negative", "d. Variable"],
       "correct option": "a",
-      "category": "Motion in a Straight Line"
+      "chapter": "Motion in a Straight Line"
     },
     "4": {
       "Question": "In which of the following cases is the average velocity of an object in a certain time interval equal to its instantaneous velocity?",
       "options": ["a. Uniform motion in a straight line", "b. Accelerated motion", "c. Random motion", "d. Motion in a plane"],
       "correct option": "a",
-      "category": "Motion in a Straight Line"
+      "chapter": "Motion in a Straight Line"
     },
     "5": {
       "Question": "Which of the following statements is a vector equation?",
       "options": ["a. F = ma", "b. E = mc²", "c. E = hf", "d. F = GMm/r²"],
       "correct option": "d",
-      "category": "Laws of Motion"
+      "chapter": "Laws of Motion"
     },
     "6": {
       "Question": "What is the SI unit of work and energy?",
       "options": ["a. Volt", "b. Joule", "c. Watt", "d. Kilogram"],
       "correct option": "b",
-      "category": "Work, Energy, and Power"
+      "chapter": "Work, Energy, and Power"
     },
     "7": {
       "Question": "Which of the following is a conservative force?",
       "options": ["a. Frictional force", "b. Tension in a string", "c. Magnetic force", "d. Air resistance"],
       "correct option": "b",
-      "category": "Work, Energy, and Power"
+      "chapter": "Work, Energy, and Power"
     },
     "8": {
       "Question": "What is the SI unit of power?",
       "options": ["a. Joule", "b. Watt", "c. Volt", "d. Ohm"],
       "correct option": "b",
-      "category": "Work, Energy, and Power"
+      "chapter": "Work, Energy, and Power"
     },
     "9": {
       "Question": "Which of the following statements is true for an ideal machine?",
       "options": ["a. It has 100% efficiency.", "b. It cannot do any work.", "c. It has 0% efficiency.", "d. It violates the laws of physics."],
       "correct option": "a",
-      "category": "Work, Energy, and Power"
+      "chapter": "Work, Energy, and Power"
     },
     "10": {
       "Question": "What is the value of the universal gravitational constant G?",
       "options": ["a. 9.8 m/s²", "b. 6.674 × 10⁻¹¹ Nm²/kg²", "c. 3 × 10⁸ m/s", "d. 1.6 × 10⁻¹⁹ C"],
       "correct option": "b",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "11": {
       "Question": "What is the weight of an object?",
       "options": ["a. The force of gravity acting on it", "b. Its mass multiplied by acceleration due to gravity", "c. Its volume multiplied by density", "d. Its mass divided by acceleration due to gravity"],
       "correct option": "b",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "12": {
       "Question": "Which of the following materials is not a good conductor of heat?",
       "options": ["a. Metal", "b. Wood", "c. Plastic", "d. Glass"],
       "correct option": "c",
-      "category": "Thermodynamics"
+      "chapter": "Thermodynamics"
     },
     "13": {
       "Question": "What is the SI unit of temperature?",
       "options": ["a. Joule", "b. Kelvin", "c. Celsius", "d. Watt"],
       "correct option": "b",
-      "category": "Thermodynamics"
+      "chapter": "Thermodynamics"
     },
     "14": {
       "Question": "In which state of matter do particles have the highest kinetic energy?",
       "options": ["a. Solid", "b. Liquid", "c. Gas", "d. Plasma"],
       "correct option": "d",
-      "category": "Kinetic Theory of Gases"
+      "chapter": "Kinetic Theory of Gases"
     },
     "15": {
       "Question": "Which of the following is a simple harmonic motion?",
       "options": ["a. Earth's rotation", "b. Pendulum oscillation", "c. Car accelerating on a straight road", "d. Ball rolling on a smooth surface"],
       "correct option": "b",
-      "category": "Oscillations"
+      "chapter": "Oscillations"
     },
     "16": {
       "Question": "What is the wavelength of a wave with a frequency of 500 Hz and a speed of 340 m/s?",
       "options": ["a. 0.68 m", "b. 0.17 m", "c. 1.47 m", "d. 0.01 m"],
       "correct option": "b",
-      "category": "Waves"
+      "chapter": "Waves"
     },
     "17": {
       "Question": "What is the phenomenon of bending of light when it passes from one medium to another with a different refractive index called?",
       "options": ["a. Reflection", "b. Dispersion", "c. Refraction", "d. Diffraction"],
       "correct option": "c",
-      "category": "Optics"
+      "chapter": "Optics"
     },
     "18": {
       "Question": "Which of the following colors of light has the longest wavelength?",
       "options": ["a. Red", "b. Blue", "c. Green", "d. Violet"],
       "correct option": "a",
-      "category": "Optics"
+      "chapter": "Optics"
     },
     "19": {
       "Question": "What is the principle behind the operation of a microscope?",
       "options": ["a. Reflection of light", "b. Refraction of light", "c. Interference of light", "d. Dispersion of light"],
       "correct option": "b",
-      "category": "Optics"
+      "chapter": "Optics"
     },
     "20": {
       "Question": "Which of the following is not a type of electromagnetic radiation?",
       "options": ["a. Visible light", "b. X-rays", "c. Sound waves", "d. Gamma rays"],
       "correct option": "c",
-      "category": "Electromagnetic Waves"
+      "chapter": "Electromagnetic Waves"
     },
     "21": {
       "Question": "What is the SI unit of electric charge?",
       "options": ["a. Volt", "b. Ampere", "c. Coulomb", "d. Ohm"],
       "correct option": "c",
-      "category": "Electric Charges and Fields"
+      "chapter": "Electric Charges and Fields"
     },
     "22": {
       "Question": "What is the direction of the electric field lines near a positive point charge?",
       "options": ["a. Radial and outward", "b. Radial and inward", "c. Circular", "d. Tangential"],
       "correct option": "a",
-      "category": "Electric Charges and Fields"
+      "chapter": "Electric Charges and Fields"
     },
     "23": {
       "Question": "What is the SI unit of electric potential difference?",
       "options": ["a. Joule", "b. Volt", "c. Ampere", "d. Coulomb"],
       "correct option": "b",
-      "category": "Electric Potential and Capacitance"
+      "chapter": "Electric Potential and Capacitance"
     },
     "24": {
       "Question": "What is the formula for the capacitance (C) of a parallel plate capacitor?",
       "options": ["a. C = Q/V", "b. C = V/Q", "c. C = Q²/V", "d. C = V²/Q"],
       "correct option": "a",
-      "category": "Electric Potential and Capacitance"
+      "chapter": "Electric Potential and Capacitance"
     },
     "25": {
       "Question": "Which of the following is not a semiconductor material?",
       "options": ["a. Silicon", "b. Germanium", "c. Copper", "d. Gallium arsenide"],
       "correct option": "c",
-      "category": "Current Electricity"
+      "chapter": "Current Electricity"
     },
     "26": {
       "Question": "What is the SI unit of electric current?",
       "options": ["a. Volt", "b. Ampere", "c. Coulomb", "d. Ohm"],
       "correct option": "b",
-      "category": "Current Electricity"
+      "chapter": "Current Electricity"
     },
     "27": {
       "Question": "Which of the following phenomena is used in the working of an electric generator?",
       "options": ["a. Ohm's law", "b. Faraday's law of electromagnetic induction", "c. Ampere's law", "d. Gauss's law"],
       "correct option": "b",
-      "category": "Moving Charges and Magnetism"
+      "chapter": "Moving Charges and Magnetism"
     },
     "28": {
       "Question": "What is the SI unit of magnetic field strength (magnetic field intensity)?",
       "options": ["a. Weber", "b. Ampere", "c. Tesla", "d. Hertz"],
       "correct option": "b",
-      "category": "Moving Charges and Magnetism"
+      "chapter": "Moving Charges and Magnetism"
     },
     "29": {
       "Question": "Which of the following materials is not attracted by a magnet?",
       "options": ["a. Iron", "b. Steel", "c. Copper", "d. Nickel"],
       "correct option": "c",
-      "category": "Moving Charges and Magnetism"
+      "chapter": "Moving Charges and Magnetism"
     },
     "30": {
       "Question": "What is the phenomenon of electromagnetic induction?",
       "options": ["a. Generation of electricity from magnets", "b. Generation of magnetism from electricity", "c. Production of electric current in a conductor by changing magnetic field", "d. Production of magnetic field in a conductor by changing electric field"],
       "correct option": "c",
-      "category": "Electromagnetic Induction"
+      "chapter": "Electromagnetic Induction"
     },
     "31": {
       "Question": "What is the SI unit of inductance?",
       "options": ["a. Weber", "b. Henry", "c. Ampere", "d. Coulomb"],
       "correct option": "b",
-      "category": "Electromagnetic Induction"
+      "chapter": "Electromagnetic Induction"
     },
     "32": {
       "Question": "What is the concept of wave-particle duality in quantum mechanics?",
       "options": ["a. Particles can exist in multiple places at once.", "b. Particles can have both wave-like and particle-like properties.", "c. Particles cannot exist in a wave-like state.", "d. Particles cannot exhibit interference patterns."],
       "correct option": "b",
-      "category": "Dual Nature of Radiation and Matter"
+      "chapter": "Dual Nature of Radiation and Matter"
     },
     "33": {
       "Question": "What is the energy associated with a photon of light?",
       "options": ["a. Mass energy", "b. Kinetic energy", "c. Potential energy", "d. Quantum energy"],
       "correct option": "d",
-      "category": "Dual Nature of Radiation and Matter"
+      "chapter": "Dual Nature of Radiation and Matter"
     },
     "34": {
       "Question": "What is the work function of a material?",
       "options": ["a. The energy required to remove an electron from the material's surface", "b. The energy released when an electron is added to the material", "c. The potential energy of the material's electrons", "d. The energy required to accelerate electrons in the material"],
       "correct option": "a",
-      "category": "Atoms and Nuclei"
+      "chapter": "Atoms and Nuclei"
     },
     "35": {
       "Question": "Which of the following particles has the least mass?",
       "options": ["a. Electron", "b. Proton", "c. Neutron", "d. Alpha particle"],
       "correct option": "a",
-      "category": "Atoms and Nuclei"
+      "chapter": "Atoms and Nuclei"
     },
     "36": {
       "Question": "What is the half-life of a radioactive substance?",
       "options": ["a. The time it takes for all the substance to decay", "b. The time it takes for half of the substance to decay", "c. The time it takes for the substance to become stable", "d. The time it takes for the substance to emit radiation"],
       "correct option": "b",
-      "category": "Nuclear Physics"
+      "chapter": "Nuclear Physics"
     },
     "37": {
       "Question": "What is the SI unit of activity (radioactive decay rate)?",
       "options": ["a. Becquerel", "b. Curie", "c. Gray", "d. Sievert"],
       "correct option": "a",
-      "category": "Nuclear Physics"
+      "chapter": "Nuclear Physics"
     },
     "38": {
       "Question": "Which of the following particles carries a positive charge?",
       "options": ["a. Electron", "b. Neutron", "c. Proton", "d. Photon"],
       "correct option": "c",
-      "category": "Particle Physics"
+      "chapter": "Particle Physics"
     },
     "39": {
       "Question": "What is the purpose of a cyclotron in particle physics?",
       "options": ["a. To detect cosmic rays", "b. To accelerate charged particles", "c. To study electromagnetic waves", "d. To generate X-rays"],
       "correct option": "b",
-      "category": "Particle Physics"
+      "chapter": "Particle Physics"
     },
     "40": {
       "Question": "What is the fundamental particle of a chemical element?",
       "options": ["a. Molecule", "b. Atom", "c. Ion", "d. Neutron"],
       "correct option": "b",
-      "category": "Particle Physics"
+      "chapter": "Particle Physics"
     },
     "41": {
       "Question": "Which of the following phenomena is related to interference of light?",
       "options": ["a. Photoelectric effect", "b. Compton scattering", "c. Young's double-slit experiment", "d. Rutherford scattering"],
       "correct option": "c",
-      "category": "Optics"
+      "chapter": "Optics"
     },
     "42": {
       "Question": "What is the principle of conservation of momentum?",
       "options": ["a. The total energy of an isolated system is constant.", "b. The total angular momentum of an isolated system is constant.", "c. The total linear momentum of an isolated system is constant.", "d. The total charge of an isolated system is constant."],
       "correct option": "c",
-      "category": "Systems of Particles and Rotational Motion"
+      "chapter": "Systems of Particles and Rotational Motion"
     },
     "43": {
       "Question": "What is the acceleration due to gravity near the surface of the Earth?",
       "options": ["a. 9.8 m/s²", "b. 6.674 × 10⁻¹¹ Nm²/kg²", "c. 3 × 10⁸ m/s", "d. 1.6 × 10⁻¹⁹ C"],
       "correct option": "a",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "44": {
       "Question": "What is the Pascal's principle?",
       "options": ["a. The pressure applied at any point in an incompressible fluid is transmitted undiminished throughout the fluid.", "b. The velocity of a fluid in a pipe increases when the pipe narrows.", "c. The volume of a gas is inversely proportional to its pressure at constant temperature.", "d. The buoyant force on an object in a fluid is equal to the weight of the fluid displaced by the object."],
       "correct option": "a",
-      "category": "Fluid Mechanics"
+      "chapter": "Fluid Mechanics"
     },
     "45": {
       "Question": "What is the SI unit of frequency?",
       "options": ["a. Hertz", "b. Watt", "c. Pascal", "d. Weber"],
       "correct option": "a",
-      "category": "Waves"
+      "chapter": "Waves"
     },
     "46": {
       "Question": "Which of the following statements is true for an incompressible fluid?",
       "options": ["a. Its density changes with pressure.", "b. Its volume changes with pressure.", "c. Its pressure changes with volume.", "d. Its density remains constant."],
       "correct option": "d",
-      "category": "Fluid Mechanics"
+      "chapter": "Fluid Mechanics"
     },
     "47": {
       "Question": "What is the phenomenon of dispersion of light?",
       "options": ["a. Bending of light when it passes through a medium with a different refractive index", "b. Breaking of light into its component colors", "c. Total internal reflection of light", "d. Reflection of light from a rough surface"],
       "correct option": "b",
-      "category": "Optics"
+      "chapter": "Optics"
     },
     "48": {
       "Question": "What is the SI unit of magnetic flux?",
       "options": ["a. Weber", "b. Ampere", "c. Tesla", "d. Hertz"],
       "correct option": "a",
-      "category": "Electromagnetic Induction"
+      "chapter": "Electromagnetic Induction"
     },
     "49": {
       "Question": "What is the SI unit of radiation dose equivalent?",
       "options": ["a. Becquerel", "b. Gray", "c. Sievert", "d. Tesla"],
       "correct option": "c",
-      "category": "Modern Physics"
+      "chapter": "Modern Physics"
     },
     "50": {
       "Question": "Which of the following is not a type of electromagnetic radiation?",
       "options": ["a. Radio waves", "b. Infrared radiation", "c. Sound waves", "d. Ultraviolet radiation"],
       "correct option": "c",
-      "category": "Electromagnetic Waves"
+      "chapter": "Electromagnetic Waves"
     }
   }
   

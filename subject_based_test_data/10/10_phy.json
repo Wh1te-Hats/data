@@ -3,301 +3,301 @@
       "Question": "Which of the following is an example of uniform circular motion?",
       "options": ["a. A car accelerating on a straight road", "b. A car moving in a curved path", "c. A spinning top", "d. A falling object"],
       "correct option": "c",
-      "category": "Motion"
+      "chapter": "Motion"
     },
     "2": {
       "Question": "What is the SI unit of force?",
       "options": ["a. Joule", "b. Newton", "c. Watt", "d. Kilogram"],
       "correct option": "b",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     },
     "3": {
       "Question": "Which of Newton's laws of motion states that every object will remain at rest or in uniform motion in a straight line unless acted upon by an external force?",
       "options": ["a. Newton's First Law", "b. Newton's Second Law", "c. Newton's Third Law", "d. Newton's Law of Universal Gravitation"],
       "correct option": "a",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     },
     "4": {
       "Question": "What is the force of gravity acting on an object with a mass of 10 kg?",
       "options": ["a. 10 N", "b. 9.8 N", "c. 100 N", "d. 98 N"],
       "correct option": "b",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     },
     "5": {
       "Question": "Which of the following statements is true about inertia?",
       "options": ["a. Inertia depends on an object's shape", "b. Inertia is the tendency of an object to resist changes in its motion", "c. Inertia is greater for lighter objects", "d. Inertia is not affected by the speed of an object"],
       "correct option": "b",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     },
     "6": {
       "Question": "What is the acceleration due to gravity on the surface of Earth?",
       "options": ["a. 1 m/s²", "b. 5 m/s²", "c. 9.8 m/s²", "d. 15 m/s²"],
       "correct option": "c",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "7": {
       "Question": "What is the SI unit of work and energy?",
       "options": ["a. Watt", "b. Joule", "c. Newton", "d. Kilogram"],
       "correct option": "b",
-      "category": "Work, Energy, and Power"
+      "chapter": "Work, Energy, and Power"
     },
     "8": {
       "Question": "What is the formula for calculating kinetic energy?",
       "options": ["a. KE = mgh", "b. KE = 1/2mv²", "c. KE = Fd", "d. KE = mg"],
       "correct option": "b",
-      "category": "Work, Energy, and Power"
+      "chapter": "Work, Energy, and Power"
     },
     "9": {
       "Question": "Which of the following is a non-renewable source of energy?",
       "options": ["a. Solar energy", "b. Wind energy", "c. Fossil fuels", "d. Hydroelectric energy"],
       "correct option": "c",
-      "category": "Sources of Energy"
+      "chapter": "Sources of Energy"
     },
     "10": {
       "Question": "What is the unit of electric current?",
       "options": ["a. Volt", "b. Ohm", "c. Ampere", "d. Watt"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "11": {
       "Question": "Which component of an electric circuit is designed to break the circuit when too much current flows through it?",
       "options": ["a. Resistor", "b. Capacitor", "c. Diode", "d. Fuse"],
       "correct option": "d",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "12": {
       "Question": "What is the SI unit of electric potential difference (voltage)?",
       "options": ["a. Ampere", "b. Joule", "c. Ohm", "d. Volt"],
       "correct option": "d",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "13": {
       "Question": "Which of the following is a good conductor of electricity?",
       "options": ["a. Rubber", "b. Glass", "c. Copper", "d. Wood"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "14": {
       "Question": "What is the phenomenon of bending of light as it passes from one medium to another?",
       "options": ["a. Reflection", "b. Dispersion", "c. Refraction", "d. Diffraction"],
       "correct option": "c",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "15": {
       "Question": "What type of mirror is used in a rearview mirror of a car?",
       "options": ["a. Convex mirror", "b. Concave mirror", "c. Plane mirror", "d. Spherical mirror"],
       "correct option": "a",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "16": {
       "Question": "What is the focal length of a concave lens?",
       "options": ["a. Positive", "b. Negative", "c. Zero", "d. Infinite"],
       "correct option": "b",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "17": {
       "Question": "Which color of light is deviated the most when passing through a glass prism?",
       "options": ["a. Red", "b. Blue", "c. Green", "d. Yellow"],
       "correct option": "b",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "18": {
       "Question": "What is the speed of light in a vacuum?",
       "options": ["a. 300,000 km/s", "b. 3,000,000 m/s", "c. 3 x 10^8 m/s", "d. 3 x 10^6 m/s"],
       "correct option": "c",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "19": {
       "Question": "Which of the following is a unit of power?",
       "options": ["a. Volt", "b. Watt", "c. Ohm", "d. Ampere"],
       "correct option": "b",
-      "category": "Human Eye and Colourful World"
+      "chapter": "Human Eye and Colourful World"
     },
     "20": {
       "Question": "What part of the human eye gives color to our eyes?",
       "options": ["a. Cornea", "b. Pupil", "c. Iris", "d. Retina"],
       "correct option": "c",
-      "category": "Human Eye and Colourful World"
+      "chapter": "Human Eye and Colourful World"
     },
     "21": {
       "Question": "Which of the following colors is produced by the dispersion of sunlight?",
       "options": ["a. Red", "b. Blue", "c. Yellow", "d. Green"],
       "correct option": "b",
-      "category": "Human Eye and Colourful World"
+      "chapter": "Human Eye and Colourful World"
     },
     "22": {
       "Question": "What happens to the focal length of a lens when its curvature increases?",
       "options": ["a. It increases", "b. It decreases", "c. It remains the same", "d. It becomes zero"],
       "correct option": "b",
-      "category": "Human Eye and Colourful World"
+      "chapter": "Human Eye and Colourful World"
     },
     "23": {
       "Question": "Which of the following is a renewable source of energy?",
       "options": ["a. Coal", "b. Natural gas", "c. Wind energy", "d. Petroleum"],
       "correct option": "c",
-      "category": "Sources of Energy"
+      "chapter": "Sources of Energy"
     },
     "24": {
       "Question": "What is the SI unit of electric resistance?",
       "options": ["a. Volt", "b. Joule", "c. Ohm", "d. Ampere"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "25": {
       "Question": "Which of the following is a good insulator of electricity?",
       "options": ["a. Aluminum", "b. Copper", "c. Rubber", "d. Silver"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "26": {
       "Question": "What is the phenomenon of splitting white light into its component colors?",
       "options": ["a. Reflection", "b. Dispersion", "c. Refraction", "d. Diffraction"],
       "correct option": "b",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "27": {
       "Question": "Which lens is thicker at the center than at the edges?",
       "options": ["a. Convex lens", "b. Concave lens", "c. Plano-concave lens", "d. Plano-convex lens"],
       "correct option": "a",
-      "category": "Human Eye and Colourful World"
+      "chapter": "Human Eye and Colourful World"
     },
     "28": {
       "Question": "What is the unit of electric charge?",
       "options": ["a. Ampere-hour", "b. Coulomb", "c. Watt-hour", "d. Volt-ampere"],
       "correct option": "b",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "29": {
       "Question": "Which of the following is not a primary color of light?",
       "options": ["a. Red", "b. Green", "c. Blue", "d. Yellow"],
       "correct option": "d",
-      "category": "Human Eye and Colourful World"
+      "chapter": "Human Eye and Colourful World"
     },
     "30": {
       "Question": "What is the formula for calculating electrical power?",
       "options": ["a. P = VI", "b. P = V²/R", "c. P = I²R", "d. P = VR"],
       "correct option": "b",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "31": {
       "Question": "Which of the following is not a vector quantity?",
       "options": ["a. Force", "b. Velocity", "c. Distance", "d. Acceleration"],
       "correct option": "c",
-      "category": "Motion"
+      "chapter": "Motion"
     },
     "32": {
       "Question": "What is the SI unit of electric potential difference (voltage)?",
       "options": ["a. Ampere", "b. Joule", "c. Ohm", "d. Volt"],
       "correct option": "d",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "33": {
       "Question": "Which of the following is an example of a non-contact force?",
       "options": ["a. Friction", "b. Tension", "c. Gravitational force", "d. Magnetic force"],
       "correct option": "d",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     },
     "34": {
       "Question": "What is the unit of electric current?",
       "options": ["a. Volt", "b. Ohm", "c. Ampere", "d. Watt"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "35": {
       "Question": "Which of the following is an example of a contact force?",
       "options": ["a. Magnetic force", "b. Electrostatic force", "c. Tension", "d. Gravitational force"],
       "correct option": "c",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     },
     "36": {
       "Question": "What is the formula for calculating pressure?",
       "options": ["a. P = F/A", "b. P = Fd", "c. P = ma", "d. P = V/T"],
       "correct option": "a",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "37": {
       "Question": "What is the unit of pressure in the SI system?",
       "options": ["a. Pascal", "b. Newton", "c. Joule", "d. Watt"],
       "correct option": "a",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "38": {
       "Question": "Which of the following objects will experience the greatest gravitational force when placed near the Earth's surface?",
       "options": ["a. A 1 kg mass", "b. A 5 kg mass", "c. A 10 kg mass", "d. A 20 kg mass"],
       "correct option": "d",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "39": {
       "Question": "What is the relationship between force, mass, and acceleration as described by Newton's second law of motion?",
       "options": ["a. F = ma", "b. F = m/a", "c. F = m + a", "d. F = m - a"],
       "correct option": "a",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     },
     "40": {
       "Question": "What is the principle behind the working of a rocket engine?",
       "options": ["a. Newton's First Law", "b. Newton's Second Law", "c. Newton's Third Law", "d. Newton's Law of Universal Gravitation"],
       "correct option": "c",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "41": {
       "Question": "What is the relationship between the angle of incidence and the angle of reflection for a plane mirror?",
       "options": ["a. They are equal", "b. The angle of incidence is greater", "c. The angle of reflection is greater", "d. There is no relationship"],
       "correct option": "a",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "42": {
       "Question": "Which law of reflection states that the incident ray, reflected ray, and the normal to the surface at the point of incidence all lie in the same plane?",
       "options": ["a. First law of reflection", "b. Second law of reflection", "c. Third law of reflection", "d. Fourth law of reflection"],
       "correct option": "b",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "43": {
       "Question": "What happens to the speed of light when it passes from air into glass?",
       "options": ["a. It increases", "b. It remains the same", "c. It decreases", "d. It depends on the angle of incidence"],
       "correct option": "c",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "44": {
       "Question": "Which of the following materials does not allow light to pass through?",
       "options": ["a. Glass", "b. Plastic", "c. Wood", "d. Air"],
       "correct option": "c",
-      "category": "Light - Reflection and Refraction"
+      "chapter": "Light - Reflection and Refraction"
     },
     "45": {
       "Question": "What is the law of conservation of energy?",
       "options": ["a. Energy cannot be created or destroyed, only converted from one form to another", "b. Energy can be created and destroyed", "c. Energy is always lost as heat", "d. Energy is only conserved in mechanical systems"],
       "correct option": "a",
-      "category": "Work, Energy, and Power"
+      "chapter": "Work, Energy, and Power"
     },
     "46": {
       "Question": "What is the unit of work and energy?",
       "options": ["a. Volt", "b. Joule", "c. Watt", "d. Kilogram"],
       "correct option": "b",
-      "category": "Work, Energy, and Power"
+      "chapter": "Work, Energy, and Power"
     },
     "47": {
       "Question": "Which of the following is an example of a contact force?",
       "options": ["a. Magnetic force", "b. Electrostatic force", "c. Tension", "d. Gravitational force"],
       "correct option": "c",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     },
     "48": {
       "Question": "What is the SI unit of electric potential difference (voltage)?",
       "options": ["a. Ampere", "b. Joule", "c. Ohm", "d. Volt"],
       "correct option": "d",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "49": {
       "Question": "Which of the following objects will experience the greatest gravitational force when placed near the Earth's surface?",
       "options": ["a. A 1 kg mass", "b. A 5 kg mass", "c. A 10 kg mass", "d. A 20 kg mass"],
       "correct option": "d",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "50": {
       "Question": "What is the relationship between force, mass, and acceleration as described by Newton's second law of motion?",
       "options": ["a. F = ma", "b. F = m/a", "c. F = m + a", "d. F = m - a"],
       "correct option": "a",
-      "category": "Force and Laws of Motion"
+      "chapter": "Force and Laws of Motion"
     }
   }
   

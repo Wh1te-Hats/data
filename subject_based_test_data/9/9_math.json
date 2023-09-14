@@ -3,301 +3,301 @@
       "Question": "What is the value of π (pi) approximately?",
       "options": ["a. 2.71", "b. 3.14", "c. 22/7", "d. 1.41"],
       "correct option": "b",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "2": {
       "Question": "Which of the following is a prime number?",
       "options": ["a. 1", "b. 4", "c. 7", "d. 12"],
       "correct option": "c",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "3": {
       "Question": "What is the square root of 144?",
       "options": ["a. 9", "b. 12", "c. 15", "d. 8"],
       "correct option": "b",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "4": {
       "Question": "What is the value of 3²?",
       "options": ["a. 3", "b. 6", "c. 9", "d. 12"],
       "correct option": "c",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "5": {
       "Question": "Which of the following is a rational number?",
       "options": ["a. √2", "b. 3.14", "c. 2/3", "d. π"],
       "correct option": "c",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "6": {
       "Question": "What is the smallest prime number?",
       "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
       "correct option": "c",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "7": {
       "Question": "Which of the following is an irrational number?",
       "options": ["a. 1/3", "b. 0.25", "c. √5", "d. 2/7"],
       "correct option": "c",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "8": {
       "Question": "What is the value of 5! (5 factorial)?",
       "options": ["a. 10", "b. 20", "c. 60", "d. 120"],
       "correct option": "d",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "9": {
       "Question": "Which of the following is an even number?",
       "options": ["a. 5", "b. 7", "c. 12", "d. 11"],
       "correct option": "c",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "10": {
       "Question": "What is the next prime number after 17?",
       "options": ["a. 19", "b. 20", "c. 18", "d. 21"],
       "correct option": "a",
-      "category": "Number System"
+      "chapter": "Number System"
     },
     "11": {
       "Question": "What is the value of 7⁴?",
       "options": ["a. 49", "b. 2401", "c. 5764801", "d. 343"],
       "correct option": "b",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "12": {
       "Question": "Which of the following is the same as 10³?",
       "options": ["a. 100", "b. 10,000", "c. 1,000", "d. 1,000,000"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "13": {
       "Question": "What is the value of 2⁶?",
       "options": ["a. 4", "b. 8", "c. 32", "d. 64"],
       "correct option": "d",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "14": {
       "Question": "What is the value of 9²?",
       "options": ["a. 18", "b. 81", "c. 27", "d. 36"],
       "correct option": "b",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "15": {
       "Question": "What is the value of 5⁰?",
       "options": ["a. 0", "b. 1", "c. 5", "d. 25"],
       "correct option": "b",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "16": {
       "Question": "What is the value of 2⁵?",
       "options": ["a. 8", "b. 16", "c. 32", "d. 64"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "17": {
       "Question": "What is the value of 8³?",
       "options": ["a. 24", "b. 64", "c. 512", "d. 216"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "18": {
       "Question": "Which of the following is the square of a prime number?",
       "options": ["a. 12", "b. 16", "c. 25", "d. 36"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "19": {
       "Question": "What is the value of √64?",
       "options": ["a. 4", "b. 6", "c. 8", "d. 10"],
       "correct option": "a",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "20": {
       "Question": "What is the cube root of 27?",
       "options": ["a. 3", "b. 4", "c. 5", "d. 6"],
       "correct option": "a",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "21": {
       "Question": "What is the square root of 100?",
       "options": ["a. 5", "b. 8", "c. 10", "d. 12"],
       "correct option": "c",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "22": {
       "Question": "What is the value of 4²?",
       "options": ["a. 8", "b. 16", "c. 32", "d. 64"],
       "correct option": "b",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "23": {
       "Question": "What is the value of (-3)²?",
       "options": ["a. 3", "b. 9", "c. -9", "d. -3"],
       "correct option": "b",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "24": {
       "Question": "Which of the following is an irrational number?",
       "options": ["a. 25", "b. √9", "c. 1/5", "d. √11"],
       "correct option": "d",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "25": {
       "Question": "What is the value of 3³?",
       "options": ["a. 6", "b. 9", "c. 27", "d. 81"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "26": {
       "Question": "What is the value of (-2)³?",
       "options": ["a. -8", "b. 8", "c. -6", "d. 6"],
       "correct option": "a",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "27": {
       "Question": "What is the value of 10⁻²?",
       "options": ["a. 100", "b. 0.01", "c. 0.1", "d. 1"],
       "correct option": "b",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "28": {
       "Question": "What is the value of (-5)⁰?",
       "options": ["a. 0", "b. 1", "c. -5", "d. 5"],
       "correct option": "b",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "29": {
       "Question": "What is the value of √81?",
       "options": ["a. 7", "b. 9", "c. 8", "d. 6"],
       "correct option": "b",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "30": {
       "Question": "What is the cube root of 64?",
       "options": ["a. 4", "b. 5", "c. 6", "d. 8"],
       "correct option": "a",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "31": {
       "Question": "What is the square root of 144?",
       "options": ["a. 9", "b. 12", "c. 15", "d. 8"],
       "correct option": "b",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "32": {
       "Question": "What is the value of 7²?",
       "options": ["a. 14", "b. 21", "c. 49", "d. 56"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "33": {
       "Question": "What is the value of (-4)²?",
       "options": ["a. 8", "b. 16", "c. 32", "d. 64"],
       "correct option": "b",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "34": {
       "Question": "What is the value of 6³?",
       "options": ["a. 12", "b. 36", "c. 216", "d. 666"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "35": {
       "Question": "What is the value of (-7)³?",
       "options": ["a. -343", "b. 343", "c. -2401", "d. 2401"],
       "correct option": "a",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "36": {
       "Question": "What is the value of 8⁴?",
       "options": ["a. 32", "b. 64", "c. 256", "d. 512"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "37": {
       "Question": "What is the value of (-2)⁴?",
       "options": ["a. -16", "b. 16", "c. -8", "d. 8"],
       "correct option": "b",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "38": {
       "Question": "What is the value of 10⁵?",
       "options": ["a. 1000", "b. 10000", "c. 100000", "d. 1000000"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "39": {
       "Question": "What is the value of (-3)⁵?",
       "options": ["a. -243", "b. 243", "c. -729", "d. 729"],
       "correct option": "a",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "40": {
       "Question": "What is the value of 9⁸?",
       "options": ["a. 6561", "b. 512", "c. 729", "d. 38416"],
       "correct option": "a",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "41": {
       "Question": "What is the value of 16³?",
       "options": ["a. 4096", "b. 8192", "c. 16384", "d. 32768"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "42": {
       "Question": "What is the value of (-5)⁶?",
       "options": ["a. 15625", "b. -15625", "c. 46656", "d. -46656"],
       "correct option": "a",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "43": {
       "Question": "What is the value of √36?",
       "options": ["a. 3", "b. 4", "c. 5", "d. 6"],
       "correct option": "a",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "44": {
       "Question": "What is the cube root of 125?",
       "options": ["a. 3", "b. 4", "c. 5", "d. 6"],
       "correct option": "a",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "45": {
       "Question": "What is the square root of 25?",
       "options": ["a. 3", "b. 5", "c. 6", "d. 7"],
       "correct option": "b",
-      "category": "Square Roots and Cube Roots"
+      "chapter": "Square Roots and Cube Roots"
     },
     "46": {
       "Question": "What is the value of 10⁻³?",
       "options": ["a. 0.1", "b. 0.01", "c. 0.001", "d. 1"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "47": {
       "Question": "What is the value of (-2)⁷?",
       "options": ["a. -128", "b. 128", "c. -64", "d. 64"],
       "correct option": "a",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "48": {
       "Question": "What is the value of 5⁸?",
       "options": ["a. 390625", "b. 512", "c. 625", "d. 39060"],
       "correct option": "a",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "49": {
       "Question": "What is the value of (-4)³?",
       "options": ["a. -12", "b. 12", "c. -64", "d. 64"],
       "correct option": "d",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     },
     "50": {
       "Question": "What is the value of 3⁷?",
       "options": ["a. 81", "b. 243", "c. 2187", "d. 729"],
       "correct option": "c",
-      "category": "Exponents and Powers"
+      "chapter": "Exponents and Powers"
     }
   }
   

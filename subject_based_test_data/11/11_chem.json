@@ -3,301 +3,301 @@
       "Question": "What is the atomic number of hydrogen?",
       "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
       "correct option": "a",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "2": {
       "Question": "Which subatomic particle is negatively charged?",
       "options": ["a. Proton", "b. Neutron", "c. Electron", "d. Nucleus"],
       "correct option": "c",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "3": {
       "Question": "What is the mass number of an atom?",
       "options": ["a. Number of protons", "b. Number of electrons", "c. Number of protons + neutrons", "d. Number of neutrons"],
       "correct option": "c",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "4": {
       "Question": "What is the chemical symbol for oxygen?",
       "options": ["a. O", "b. Ox", "c. Oc", "d. Oxg"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "5": {
       "Question": "How many electrons can the first energy level (n=1) hold?",
       "options": ["a. 2", "b. 6", "c. 8", "d. 18"],
       "correct option": "a",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "6": {
       "Question": "What is the atomic number of carbon?",
       "options": ["a. 5", "b. 6", "c. 7", "d. 8"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "7": {
       "Question": "What is the chemical symbol for sodium?",
       "options": ["a. Sa", "b. So", "c. Na", "d. No"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "8": {
       "Question": "Which element is known as the 'Noble Gas'?",
       "options": ["a. Helium", "b. Neon", "c. Argon", "d. Krypton"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "9": {
       "Question": "How many electrons are there in the outermost shell of a sodium atom?",
       "options": ["a. 1", "b. 2", "c. 7", "d. 8"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "10": {
       "Question": "Which element has the atomic number 18?",
       "options": ["a. Oxygen", "b. Carbon", "c. Neon", "d. Hydrogen"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "11": {
       "Question": "What is the chemical symbol for potassium?",
       "options": ["a. K", "b. Po", "c. Ko", "d. Pt"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "12": {
       "Question": "How many electrons are there in the outermost shell of a chlorine atom?",
       "options": ["a. 1", "b. 2", "c. 7", "d. 8"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "13": {
       "Question": "What is the chemical symbol for iron?",
       "options": ["a. Ir", "b. Fe", "c. In", "d. Fr"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "14": {
       "Question": "Which element has the atomic number 8?",
       "options": ["a. Neon", "b. Carbon", "c. Oxygen", "d. Hydrogen"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "15": {
       "Question": "What is the chemical symbol for hydrogen?",
       "options": ["a. Hg", "b. Hy", "c. He", "d. H"],
       "correct option": "d",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "16": {
       "Question": "Which element has the atomic number 1?",
       "options": ["a. Hydrogen", "b. Helium", "c. Lithium", "d. Beryllium"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "17": {
       "Question": "What is the chemical symbol for helium?",
       "options": ["a. He", "b. H", "c. Hy", "d. Hei"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "18": {
       "Question": "How many protons are there in the nucleus of a nitrogen atom?",
       "options": ["a. 5", "b. 6", "c. 7", "d. 8"],
       "correct option": "c",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "19": {
       "Question": "What is the chemical symbol for nitrogen?",
       "options": ["a. N", "b. Ni", "c. Ne", "d. Nu"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "20": {
       "Question": "Which element has the atomic number 10?",
       "options": ["a. Neon", "b. Carbon", "c. Oxygen", "d. Hydrogen"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "21": {
       "Question": "What is the chemical symbol for carbon?",
       "options": ["a. Ca", "b. Co", "c. Cu", "d. C"],
       "correct option": "d",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "22": {
       "Question": "How many electrons are there in the outermost shell of a helium atom?",
       "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
       "correct option": "a",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "23": {
       "Question": "What is the chemical symbol for silicon?",
       "options": ["a. Si", "b. S", "c. Sl", "d. Se"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "24": {
       "Question": "What is the chemical symbol for magnesium?",
       "options": ["a. M", "b. Mg", "c. Ma", "d. Mn"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "25": {
       "Question": "How many electrons can the second energy level (n=2) hold?",
       "options": ["a. 2", "b. 6", "c. 8", "d. 18"],
       "correct option": "c",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "26": {
       "Question": "Which element has the atomic number 6?",
       "options": ["a. Oxygen", "b. Carbon", "c. Neon", "d. Hydrogen"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "27": {
       "Question": "What is the chemical symbol for neon?",
       "options": ["a. Ne", "b. No", "c. Na", "d. Ni"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "28": {
       "Question": "How many neutrons are there in the nucleus of a helium atom?",
       "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
       "correct option": "b",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "29": {
       "Question": "What is the chemical symbol for fluorine?",
       "options": ["a. Fl", "b. Fu", "c. F", "d. Fr"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "30": {
       "Question": "Which element has the atomic number 2?",
       "options": ["a. Hydrogen", "b. Helium", "c. Lithium", "d. Beryllium"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "31": {
       "Question": "What is the chemical symbol for aluminum?",
       "options": ["a. Alu", "b. Al", "c. Ai", "d. Ag"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "32": {
       "Question": "How many electrons are there in the outermost shell of a potassium atom?",
       "options": ["a. 1", "b. 2", "c. 7", "d. 8"],
       "correct option": "d",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "33": {
       "Question": "What is the chemical symbol for phosphorus?",
       "options": ["a. Ph", "b. P", "c. Po", "d. Pa"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "34": {
       "Question": "Which element has the atomic number 7?",
       "options": ["a. Oxygen", "b. Carbon", "c. Neon", "d. Nitrogen"],
       "correct option": "d",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "35": {
       "Question": "What is the chemical symbol for sulfur?",
       "options": ["a. Su", "b. S", "c. Sl", "d. Sa"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "36": {
       "Question": "How many electrons are there in the outermost shell of a chlorine atom?",
       "options": ["a. 1", "b. 2", "c. 7", "d. 8"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "37": {
       "Question": "What is the chemical symbol for sodium?",
       "options": ["a. Sa", "b. So", "c. Na", "d. No"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "38": {
       "Question": "How many electrons are there in the outermost shell of a helium atom?",
       "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
       "correct option": "a",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "39": {
       "Question": "What is the chemical symbol for iron?",
       "options": ["a. Ir", "b. Fe", "c. In", "d. Fr"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "40": {
       "Question": "Which element has the atomic number 8?",
       "options": ["a. Neon", "b. Carbon", "c. Oxygen", "d. Hydrogen"],
       "correct option": "c",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "41": {
       "Question": "What is the chemical symbol for hydrogen?",
       "options": ["a. Hg", "b. Hy", "c. He", "d. H"],
       "correct option": "d",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "42": {
       "Question": "Which element has the atomic number 1?",
       "options": ["a. Hydrogen", "b. Helium", "c. Lithium", "d. Beryllium"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "43": {
       "Question": "What is the chemical symbol for helium?",
       "options": ["a. He", "b. H", "c. Hy", "d. Hei"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "44": {
       "Question": "How many protons are there in the nucleus of a nitrogen atom?",
       "options": ["a. 5", "b. 6", "c. 7", "d. 8"],
       "correct option": "c",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "45": {
       "Question": "What is the chemical symbol for nitrogen?",
       "options": ["a. N", "b. Ni", "c. Ne", "d. Nu"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "46": {
       "Question": "Which element has the atomic number 10?",
       "options": ["a. Neon", "b. Carbon", "c. Oxygen", "d. Hydrogen"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "47": {
       "Question": "What is the chemical symbol for carbon?",
       "options": ["a. Ca", "b. Co", "c. Cu", "d. C"],
       "correct option": "d",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "48": {
       "Question": "How many electrons are there in the outermost shell of a helium atom?",
       "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
       "correct option": "a",
-      "category": "Structure of Atom"
+      "chapter": "Structure of Atom"
     },
     "49": {
       "Question": "What is the chemical symbol for silicon?",
       "options": ["a. Si", "b. S", "c. Sl", "d. Se"],
       "correct option": "a",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     },
     "50": {
       "Question": "What is the chemical symbol for magnesium?",
       "options": ["a. M", "b. Mg", "c. Ma", "d. Mn"],
       "correct option": "b",
-      "category": "Classification of Elements and Periodicity in Properties"
+      "chapter": "Classification of Elements and Periodicity in Properties"
     }
   }
   

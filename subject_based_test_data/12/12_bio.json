@@ -3,301 +3,301 @@
       "Question": "What is the primary goal of reproduction in organisms?",
       "options": ["a. To produce more offspring", "b. To maintain genetic diversity", "c. To conserve energy", "d. To produce fewer offspring"],
       "correct option": "b",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "2": {
       "Question": "Which type of reproduction involves the formation of offspring without the involvement of gametes?",
       "options": ["a. Asexual reproduction", "b. Sexual reproduction", "c. Fertilization", "d. Pollination"],
       "correct option": "a",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "3": {
       "Question": "What is the term for the fusion of male and female gametes during sexual reproduction?",
       "options": ["a. Meiosis", "b. Mitosis", "c. Fertilization", "d. Budding"],
       "correct option": "c",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "4": {
       "Question": "Which of the following is a characteristic of asexual reproduction?",
       "options": ["a. Genetic variation in offspring", "b. Involvement of gametes", "c. Slow rate of reproduction", "d. Clones of the parent organism"],
       "correct option": "d",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "5": {
       "Question": "What is the reproductive structure in flowering plants that contains the female reproductive organs?",
       "options": ["a. Stamen", "b. Pistil (Carpel)", "c. Sepal", "d. Petal"],
       "correct option": "b",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "6": {
       "Question": "In angiosperms, which part of the flower is responsible for producing pollen grains?",
       "options": ["a. Stamen", "b. Pistil (Carpel)", "c. Sepal", "d. Petal"],
       "correct option": "a",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "7": {
       "Question": "What is parthenogenesis in the context of reproduction?",
       "options": ["a. A type of sexual reproduction", "b. Development of an embryo without fertilization", "c. A form of asexual reproduction", "d. Fusion of male and female gametes"],
       "correct option": "c",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "8": {
       "Question": "In which organism does binary fission occur as a mode of reproduction?",
       "options": ["a. Human", "b. Amoeba", "c. Mango tree", "d. Frog"],
       "correct option": "b",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "9": {
       "Question": "What is the term for the formation of new individuals from the body of a parent organism without the involvement of gametes?",
       "options": ["a. Fertilization", "b. Regeneration", "c. Meiosis", "d. Budding"],
       "correct option": "b",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "10": {
       "Question": "What is the primary advantage of sexual reproduction in organisms?",
       "options": ["a. Rapid production of offspring", "b. Preservation of favorable traits", "c. Production of genetically identical offspring", "d. Energy conservation"],
       "correct option": "b",
-      "category": "Reproduction in Organisms"
+      "chapter": "Reproduction in Organisms"
     },
     "11": {
       "Question": "In angiosperms, what is the male reproductive organ that produces pollen grains?",
       "options": ["a. Ovary", "b. Stamen", "c. Pistil (Carpel)", "d. Sepal"],
       "correct option": "b",
-      "category": "Sexual Reproduction in Flowering Plants"
+      "chapter": "Sexual Reproduction in Flowering Plants"
     },
     "12": {
       "Question": "Which of the following is a method of pollination in plants?",
       "options": ["a. Photosynthesis", "b. Binary fission", "c. Wind pollination", "d. Mitosis"],
       "correct option": "c",
-      "category": "Sexual Reproduction in Flowering Plants"
+      "chapter": "Sexual Reproduction in Flowering Plants"
     },
     "13": {
       "Question": "What is the primary function of the stigma in a flower?",
       "options": ["a. Production of pollen grains", "b. Reception of pollen grains", "c. Protection of ovules", "d. Photosynthesis"],
       "correct option": "b",
-      "category": "Sexual Reproduction in Flowering Plants"
+      "chapter": "Sexual Reproduction in Flowering Plants"
     },
     "14": {
       "Question": "What is the term for the transfer of pollen from the anther to the stigma of a flower?",
       "options": ["a. Fertilization", "b. Pollination", "c. Germination", "d. Budding"],
       "correct option": "b",
-      "category": "Sexual Reproduction in Flowering Plants"
+      "chapter": "Sexual Reproduction in Flowering Plants"
     },
     "15": {
       "Question": "What is the female reproductive part of a flower called?",
       "options": ["a. Stamen", "b. Sepal", "c. Pistil (Carpel)", "d. Petal"],
       "correct option": "c",
-      "category": "Sexual Reproduction in Flowering Plants"
+      "chapter": "Sexual Reproduction in Flowering Plants"
     },
     "16": {
       "Question": "Which of the following is a common method of vegetative propagation in plants?",
       "options": ["a. Wind pollination", "b. Rhizomes", "c. Binary fission", "d. Budding"],
       "correct option": "b",
-      "category": "Sexual Reproduction in Flowering Plants"
+      "chapter": "Sexual Reproduction in Flowering Plants"
     },
     "17": {
       "Question": "What is the term for the fusion of male and female gametes during sexual reproduction?",
       "options": ["a. Meiosis", "b. Mitosis", "c. Fertilization", "d. Budding"],
       "correct option": "c",
-      "category": "Human Reproduction"
+      "chapter": "Human Reproduction"
     },
     "18": {
       "Question": "What is the role of the placenta in human reproduction?",
       "options": ["a. Production of ova", "b. Exchange of nutrients and waste between mother and fetus", "c. Protection of the embryo", "d. Fertilization"],
       "correct option": "b",
-      "category": "Human Reproduction"
+      "chapter": "Human Reproduction"
     },
     "19": {
       "Question": "Which part of the male reproductive system is responsible for the production of sperm?",
       "options": ["a. Testes", "b. Penis", "c. Epididymis", "d. Urethra"],
       "correct option": "a",
-      "category": "Human Reproduction"
+      "chapter": "Human Reproduction"
     },
     "20": {
       "Question": "What is the function of the fallopian tubes in human reproduction?",
       "options": ["a. Production of eggs", "b. Transport of sperm", "c. Fertilization of the egg", "d. Milk production"],
       "correct option": "c",
-      "category": "Human Reproduction"
+      "chapter": "Human Reproduction"
     },
     "21": {
       "Question": "Which of the following is a contraceptive method?",
       "options": ["a. Ovulation", "b. Fertilization", "c. Vasectomy", "d. Implantation"],
       "correct option": "c",
-      "category": "Human Reproduction"
+      "chapter": "Human Reproduction"
     },
     "22": {
       "Question": "What is the primary focus of reproductive health programs?",
       "options": ["a. Promotion of fertility", "b. Prevention of STDs", "c. Promotion of teenage pregnancies", "d. Male contraception"],
       "correct option": "b",
-      "category": "Reproductive Health"
+      "chapter": "Reproductive Health"
     },
     "23": {
       "Question": "Which of the following sexually transmitted diseases (STDs) is caused by a bacterial infection?",
       "options": ["a. HIV/AIDS", "b. Herpes", "c. Syphilis", "d. Hepatitis B"],
       "correct option": "c",
-      "category": "Reproductive Health"
+      "chapter": "Reproductive Health"
     },
     "24": {
       "Question": "What is the genetic material responsible for the inheritance of traits from parents to offspring?",
       "options": ["a. DNA", "b. RNA", "c. Proteins", "d. Carbohydrates"],
       "correct option": "a",
-      "category": "Principles of Inheritance and Variation"
+      "chapter": "Principles of Inheritance and Variation"
     },
     "25": {
       "Question": "What is a segment of DNA that codes for a specific trait?",
       "options": ["a. Chromosome", "b. Allele", "c. Genotype", "d. Phenotype"],
       "correct option": "b",
-      "category": "Principles of Inheritance and Variation"
+      "chapter": "Principles of Inheritance and Variation"
     },
     "26": {
       "Question": "What is the term for the alternate forms of a gene that can exist at a particular locus?",
       "options": ["a. Chromosome", "b. Allele", "c. Genotype", "d. Phenotype"],
       "correct option": "b",
-      "category": "Principles of Inheritance and Variation"
+      "chapter": "Principles of Inheritance and Variation"
     },
     "27": {
       "Question": "Which of the following genetic disorders is caused by a recessive allele on the X chromosome?",
       "options": ["a. Hemophilia", "b. Down syndrome", "c. Cystic fibrosis", "d. Huntington's disease"],
       "correct option": "a",
-      "category": "Principles of Inheritance and Variation"
+      "chapter": "Principles of Inheritance and Variation"
     },
     "28": {
       "Question": "What is the genetic term for the physical expression of an individual's genotype?",
       "options": ["a. Chromosome", "b. Allele", "c. Genotype", "d. Phenotype"],
       "correct option": "d",
-      "category": "Principles of Inheritance and Variation"
+      "chapter": "Principles of Inheritance and Variation"
     },
     "29": {
       "Question": "What molecule carries genetic information from DNA to the ribosome for protein synthesis?",
       "options": ["a. RNA", "b. DNA", "c. Protein", "d. Carbohydrate"],
       "correct option": "a",
-      "category": "Molecular Basis of Inheritance"
+      "chapter": "Molecular Basis of Inheritance"
     },
     "30": {
       "Question": "In the process of translation, what is the role of tRNA?",
       "options": ["a. Replication of DNA", "b. Transfer of amino acids to the ribosome", "c. Formation of mRNA", "d. Transcription of RNA"],
       "correct option": "b",
-      "category": "Molecular Basis of Inheritance"
+      "chapter": "Molecular Basis of Inheritance"
     },
     "31": {
       "Question": "What is the term for a permanent change in the DNA sequence of an organism's genome?",
       "options": ["a. Transcription", "b. Translation", "c. Mutation", "d. Replication"],
       "correct option": "c",
-      "category": "Molecular Basis of Inheritance"
+      "chapter": "Molecular Basis of Inheritance"
     },
     "32": {
       "Question": "What is the process by which species gradually change over time through the accumulation of small genetic variations?",
       "options": ["a. Adaptation", "b. Extinction", "c. Evolution", "d. Speciation"],
       "correct option": "c",
-      "category": "Evolution"
+      "chapter": "Evolution"
     },
     "33": {
       "Question": "What is a vestigial organ or structure?",
       "options": ["a. A functional organ in an organism", "b. An organ that serves no purpose in the organism", "c. An organ that has multiple functions", "d. An organ that has recently evolved"],
       "correct option": "b",
-      "category": "Evolution"
+      "chapter": "Evolution"
     },
     "34": {
       "Question": "Which of the following is an example of artificial selection?",
       "options": ["a. Formation of a new species", "b. Natural selection in a wild population", "c. Breeding of dogs with specific traits by humans", "d. Extinction of a species"],
       "correct option": "c",
-      "category": "Evolution"
+      "chapter": "Evolution"
     },
     "35": {
       "Question": "What is the process by which new species arise from an existing species?",
       "options": ["a. Adaptation", "b. Extinction", "c. Evolution", "d. Speciation"],
       "correct option": "d",
-      "category": "Evolution"
+      "chapter": "Evolution"
     },
     "36": {
       "Question": "Which of the following diseases is caused by a virus?",
       "options": ["a. Tuberculosis", "b. Malaria", "c. Influenza", "d. Typhoid"],
       "correct option": "c",
-      "category": "Human Health and Disease"
+      "chapter": "Human Health and Disease"
     },
     "37": {
       "Question": "What is the term for the study of interactions between organisms and their environment?",
       "options": ["a. Ecology", "b. Epidemiology", "c. Genetics", "d. Pharmacology"],
       "correct option": "a",
-      "category": "Human Health and Disease"
+      "chapter": "Human Health and Disease"
     },
     "38": {
       "Question": "Which of the following is a vector for the transmission of diseases?",
       "options": ["a. Antibiotic", "b. Mosquito", "c. Vaccine", "d. Antiseptic"],
       "correct option": "b",
-      "category": "Human Health and Disease"
+      "chapter": "Human Health and Disease"
     },
     "39": {
       "Question": "What is the term for the study of microorganisms that are beneficial to human health and industry?",
       "options": ["a. Microbiology", "b. Biotechnology", "c. Immunology", "d. Epidemiology"],
       "correct option": "a",
-      "category": "Strategies for Enhancement in Food Production"
+      "chapter": "Strategies for Enhancement in Food Production"
     },
     "40": {
       "Question": "Which of the following is an example of a biotechnological application in agriculture?",
       "options": ["a. Manufacturing of plastics", "b. Production of insulin", "c. Cloning of animals", "d. Genetically modified crops"],
       "correct option": "d",
-      "category": "Strategies for Enhancement in Food Production"
+      "chapter": "Strategies for Enhancement in Food Production"
     },
     "41": {
       "Question": "What is the term for the technique of transferring genetic material from one organism to another to create genetically modified organisms (GMOs)?",
       "options": ["a. Cloning", "b. Hybridization", "c. Biotechnology", "d. Genetic engineering"],
       "correct option": "d",
-      "category": "Biotechnology: Principles and Processes"
+      "chapter": "Biotechnology: Principles and Processes"
     },
     "42": {
       "Question": "Which of the following is an application of biotechnology in medicine?",
       "options": ["a. Production of biofuels", "b. Cloning of animals", "c. Gene therapy", "d. Crop improvement"],
       "correct option": "c",
-      "category": "Biotechnology and its Applications"
+      "chapter": "Biotechnology and its Applications"
     },
     "43": {
       "Question": "What is the study of populations of organisms and their interactions with each other and their environment?",
       "options": ["a. Microbiology", "b. Ecology", "c. Genetics", "d. Pharmacology"],
       "correct option": "b",
-      "category": "Organisms and Populations"
+      "chapter": "Organisms and Populations"
     },
     "44": {
       "Question": "What is a community of organisms and their physical environment called?",
       "options": ["a. Ecosystem", "b. Biosphere", "c. Biome", "d. Habitat"],
       "correct option": "a",
-      "category": "Ecosystems"
+      "chapter": "Ecosystems"
     },
     "45": {
       "Question": "What is the term for the variety of life forms on Earth, including genetic, species, and ecosystem diversity?",
       "options": ["a. Evolution", "b. Extinction", "c. Biodiversity", "d. Speciation"],
       "correct option": "c",
-      "category": "Biodiversity and Conservation"
+      "chapter": "Biodiversity and Conservation"
     },
     "46": {
       "Question": "What is a major factor contributing to the loss of biodiversity?",
       "options": ["a. Conservation efforts", "b. Habitat destruction", "c. Genetic diversity", "d. Overpopulation"],
       "correct option": "b",
-      "category": "Biodiversity and Conservation"
+      "chapter": "Biodiversity and Conservation"
     },
     "47": {
       "Question": "What are the environmental challenges associated with the rapid increase in human population and industrialization called?",
       "options": ["a. Adaptation", "b. Extinction", "c. Environmental issues", "d. Speciation"],
       "correct option": "c",
-      "category": "Environmental Issues"
+      "chapter": "Environmental Issues"
     },
     "48": {
       "Question": "Which of the following is a renewable source of energy?",
       "options": ["a. Coal", "b. Natural gas", "c. Solar power", "d. Nuclear power"],
       "correct option": "c",
-      "category": "Environmental Issues"
+      "chapter": "Environmental Issues"
     },
     "49": {
       "Question": "What is the term for the process by which certain gases trap heat in the Earth's atmosphere, leading to a rise in global temperatures?",
       "options": ["a. Greenhouse effect", "b. Acid rain", "c. Ozone depletion", "d. Deforestation"],
       "correct option": "a",
-      "category": "Environmental Issues"
+      "chapter": "Environmental Issues"
     },
     "50": {
       "Question": "Which of the following pollutants is a major contributor to air pollution and respiratory problems?",
       "options": ["a. Carbon dioxide (CO2)", "b. Nitrogen oxides (NOx)", "c. Oxygen (O2)", "d. Water vapor (H2O)"],
       "correct option": "b",
-      "category": "Environmental Issues"
+      "chapter": "Environmental Issues"
     }
   }
   

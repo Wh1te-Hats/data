@@ -3,301 +3,301 @@
       "Question": "What is the cardinality of the set {1, 2, 3, 4, 5}?",
       "options": ["a. 5", "b. 10", "c. 4", "d. 3"],
       "correct option": "a",
-      "category": "Sets"
+      "chapter": "Sets"
     },
     "2": {
       "Question": "Which of the following is an example of a reflexive relation?",
       "options": ["a. Less than", "b. Greater than", "c. Equal to", "d. Divisible by"],
       "correct option": "c",
-      "category": "Relations and Functions"
+      "chapter": "Relations and Functions"
     },
     "3": {
       "Question": "In a right triangle, what is the trigonometric ratio for the sine of an angle?",
       "options": ["a. Opposite/Hypotenuse", "b. Adjacent/Hypotenuse", "c. Opposite/Adjacent", "d. Hypotenuse/Adjacent"],
       "correct option": "a",
-      "category": "Trigonometry"
+      "chapter": "Trigonometry"
     },
     "4": {
       "Question": "What is the value of i², where i is the imaginary unit?",
       "options": ["a. 0", "b. 1", "c. -1", "d. i"],
       "correct option": "c",
-      "category": "Complex Numbers"
+      "chapter": "Complex Numbers"
     },
     "5": {
       "Question": "Which of the following is the solution set for the inequality 2x - 3 < 5?",
       "options": ["a. x > 4", "b. x < 4", "c. x > 6", "d. x < 6"],
       "correct option": "a",
-      "category": "Linear Inequalities"
+      "chapter": "Linear Inequalities"
     },
     "6": {
       "Question": "How many ways can you arrange the letters of the word 'MATH'?",
       "options": ["a. 6", "b. 12", "c. 24", "d. 4"],
       "correct option": "c",
-      "category": "Permutations and Combinations"
+      "chapter": "Permutations and Combinations"
     },
     "7": {
       "Question": "What is the coefficient of x² in the expansion of (x + 2)³?",
       "options": ["a. 1", "b. 2", "c. 4", "d. 8"],
       "correct option": "d",
-      "category": "Binomial Theorem"
+      "chapter": "Binomial Theorem"
     },
     "8": {
       "Question": "What is the sum of the first n terms of an arithmetic progression with first term a and common difference d?",
       "options": ["a. n(a + d)", "b. n(a + 2d)", "c. n(2a + d)", "d. n(2a + nd)"],
       "correct option": "a",
-      "category": "Sequences and Series"
+      "chapter": "Sequences and Series"
     },
     "9": {
       "Question": "What is the slope of the line passing through the points (2, 3) and (4, 7)?",
       "options": ["a. 2", "b. 4", "c. 1/2", "d. 3"],
       "correct option": "c",
-      "category": "Straight Lines"
+      "chapter": "Straight Lines"
     },
     "10": {
       "Question": "Which conic section is formed when a plane intersects a cone parallel to its base?",
       "options": ["a. Circle", "b. Ellipse", "c. Parabola", "d. Hyperbola"],
       "correct option": "b",
-      "category": "Conic Sections"
+      "chapter": "Conic Sections"
     },
     "11": {
       "Question": "What is the equation of the line passing through the points (1, 2, 3) and (4, 5, 6) in three-dimensional space?",
       "options": ["a. x - y + z = 0", "b. x + y - z = 0", "c. x + y + z = 0", "d. x - y - z = 0"],
       "correct option": "b",
-      "category": "Introduction to Three-Dimensional Geometry"
+      "chapter": "Introduction to Three-Dimensional Geometry"
     },
     "12": {
       "Question": "What is the limit of (x² - 4)/(x - 2) as x approaches 2?",
       "options": ["a. 4", "b. 0", "c. 2", "d. 1"],
       "correct option": "c",
-      "category": "Limits and Derivatives"
+      "chapter": "Limits and Derivatives"
     },
     "13": {
       "Question": "Which of the following is a valid mathematical statement?",
       "options": ["a. 2 + 2 = 5", "b. 3 x 3 = 7", "c. π is a rational number", "d. 2/0 is defined"],
       "correct option": "c",
-      "category": "Mathematical Reasoning"
+      "chapter": "Mathematical Reasoning"
     },
     "14": {
       "Question": "What is the mode of the dataset: {2, 4, 4, 6, 7, 7, 7, 8, 9}?",
       "options": ["a. 4", "b. 6", "c. 7", "d. 8"],
       "correct option": "c",
-      "category": "Statistics"
+      "chapter": "Statistics"
     },
     "15": {
       "Question": "In a deck of playing cards, what is the probability of drawing a red card?",
       "options": ["a. 1/2", "b. 1/4", "c. 1/3", "d. 2/3"],
       "correct option": "c",
-      "category": "Probability"
+      "chapter": "Probability"
     },
     "16": {
       "Question": "In set theory, what is the complement of a set A denoted as A'?",
       "options": ["a. The set A", "b. The empty set", "c. The universal set", "d. The set of prime numbers"],
       "correct option": "b",
-      "category": "Sets"
+      "chapter": "Sets"
     },
     "17": {
       "Question": "Which of the following is an example of a one-to-one function?",
       "options": ["a. f(x) = x²", "b. f(x) = 2x + 3", "c. f(x) = |x|", "d. f(x) = sin(x)"],
       "correct option": "b",
-      "category": "Relations and Functions"
+      "chapter": "Relations and Functions"
     },
     "18": {
       "Question": "What is the value of sin(90 degrees)?",
       "options": ["a. 0", "b. 1", "c. -1", "d. Undefined"],
       "correct option": "b",
-      "category": "Trigonometry"
+      "chapter": "Trigonometry"
     },
     "19": {
       "Question": "What is the sum of complex numbers (3 + 2i) and (-1 - 4i)?",
       "options": ["a. 2 - 2i", "b. 2 - 6i", "c. 2 + 6i", "d. -2 - 6i"],
       "correct option": "b",
-      "category": "Complex Numbers"
+      "chapter": "Complex Numbers"
     },
     "20": {
       "Question": "Which of the following is the solution to the inequality 2x + 3 < 7?",
       "options": ["a. x < 2", "b. x > 2", "c. x < 4", "d. x > 4"],
       "correct option": "a",
-      "category": "Linear Inequalities"
+      "chapter": "Linear Inequalities"
     },
     "21": {
       "Question": "How many ways can you choose 2 items from a set of 5 items?",
       "options": ["a. 5", "b. 10", "c. 15", "d. 20"],
       "correct option": "b",
-      "category": "Permutations and Combinations"
+      "chapter": "Permutations and Combinations"
     },
     "22": {
       "Question": "What is the coefficient of x³ in the expansion of (x - 1)⁵?",
       "options": ["a. 1", "b. -1", "c. 5", "d. -5"],
       "correct option": "d",
-      "category": "Binomial Theorem"
+      "chapter": "Binomial Theorem"
     },
     "23": {
       "Question": "What is the sum of the first n terms of a geometric progression with first term a and common ratio r?",
       "options": ["a. n(a + r)", "b. a/(1 - r)", "c. a(1 - r^n)/(1 - r)", "d. a(1 - r)/(1 + r)"],
       "correct option": "c",
-      "category": "Sequences and Series"
+      "chapter": "Sequences and Series"
     },
     "24": {
       "Question": "What is the equation of the line with slope 3 and passing through the point (-1, 2)?",
       "options": ["a. y = 3x - 5", "b. y = 3x + 1", "c. y = 2x + 3", "d. y = -x + 5"],
       "correct option": "b",
-      "category": "Straight Lines"
+      "chapter": "Straight Lines"
     },
     "25": {
       "Question": "Which conic section is formed when a plane intersects a cone at an angle to its base but not parallel to it?",
       "options": ["a. Circle", "b. Ellipse", "c. Parabola", "d. Hyperbola"],
       "correct option": "d",
-      "category": "Conic Sections"
+      "chapter": "Conic Sections"
     },
     "26": {
       "Question": "What is the distance between the points (1, 2, 3) and (4, 5, 6) in three-dimensional space?",
       "options": ["a. √3", "b. √6", "c. √9", "d. √27"],
       "correct option": "b",
-      "category": "Introduction to Three-Dimensional Geometry"
+      "chapter": "Introduction to Three-Dimensional Geometry"
     },
     "27": {
       "Question": "What is the value of lim(x -> 0) sin(x)/x?",
       "options": ["a. 1", "b. 0", "c. ∞", "d. Undefined"],
       "correct option": "a",
-      "category": "Limits and Derivatives"
+      "chapter": "Limits and Derivatives"
     },
     "28": {
       "Question": "Which of the following is not a valid statement in mathematical reasoning?",
       "options": ["a. If P, then Q.", "b. If Q, then P.", "c. P and Q.", "d. P or Q."],
       "correct option": "b",
-      "category": "Mathematical Reasoning"
+      "chapter": "Mathematical Reasoning"
     },
     "29": {
       "Question": "What is the median of the dataset: {5, 7, 2, 1, 6, 3, 8, 4}?",
       "options": ["a. 3", "b. 4", "c. 5", "d. 6"],
       "correct option": "b",
-      "category": "Statistics"
+      "chapter": "Statistics"
     },
     "30": {
       "Question": "If the probability of an event A is 0.4, what is the probability of the complement of A?",
       "options": ["a. 0.6", "b. 0.4", "c. 1", "d. 0"],
       "correct option": "a",
-      "category": "Probability"
+      "chapter": "Probability"
     },
     "31": {
       "Question": "What is the universal set in set theory?",
       "options": ["a. The empty set", "b. The set containing all elements under consideration", "c. The set containing no elements", "d. The set of natural numbers"],
       "correct option": "b",
-      "category": "Sets"
+      "chapter": "Sets"
     },
     "32": {
       "Question": "Which of the following functions is neither injective nor surjective?",
       "options": ["a. f(x) = x²", "b. f(x) = 2x + 3", "c. f(x) = |x|", "d. f(x) = sin(x)"],
       "correct option": "a",
-      "category": "Relations and Functions"
+      "chapter": "Relations and Functions"
     },
     "33": {
       "Question": "What is the value of cos(0 degrees)?",
       "options": ["a. 0", "b. 1", "c. -1", "d. Undefined"],
       "correct option": "b",
-      "category": "Trigonometry"
+      "chapter": "Trigonometry"
     },
     "34": {
       "Question": "What is the product of complex numbers (2 + 3i) and (4 - 5i)?",
       "options": ["a. 2 - 11i", "b. 26 + 7i", "c. -7 + 26i", "d. -11 - 2i"],
       "correct option": "d",
-      "category": "Complex Numbers"
+      "chapter": "Complex Numbers"
     },
     "35": {
       "Question": "Which of the following is the solution to the inequality 3x - 2 > 10?",
       "options": ["a. x < 4", "b. x > 4", "c. x < -4", "d. x > -4"],
       "correct option": "b",
-      "category": "Linear Inequalities"
+      "chapter": "Linear Inequalities"
     },
     "36": {
       "Question": "In a group of 10 people, how many ways can you select a committee of 3 members?",
       "options": ["a. 10", "b. 30", "c. 120", "d. 720"],
       "correct option": "c",
-      "category": "Permutations and Combinations"
+      "chapter": "Permutations and Combinations"
     },
     "37": {
       "Question": "What is the coefficient of x⁴ in the expansion of (x + 3)⁷?",
       "options": ["a. 35", "b. 63", "c. 105", "d. 210"],
       "correct option": "b",
-      "category": "Binomial Theorem"
+      "chapter": "Binomial Theorem"
     },
     "38": {
       "Question": "What is the sum of the first n terms of a harmonic progression with first term a and common difference d?",
       "options": ["a. n(a + d)", "b. a/(1 + d)", "c. a(1 + d^n)/(1 - d)", "d. a(1 - d)/(1 + d)"],
       "correct option": "b",
-      "category": "Sequences and Series"
+      "chapter": "Sequences and Series"
     },
     "39": {
       "Question": "What is the equation of the line with slope -2/3 passing through the point (3, 4)?",
       "options": ["a. y = -2/3x - 2", "b. y = -2/3x + 2", "c. y = 2/3x - 2", "d. y = 2/3x + 2"],
       "correct option": "a",
-      "category": "Straight Lines"
+      "chapter": "Straight Lines"
     },
     "40": {
       "Question": "Which conic section is formed when a plane intersects a cone at an angle to its base but not parallel to it?",
       "options": ["a. Circle", "b. Ellipse", "c. Parabola", "d. Hyperbola"],
       "correct option": "d",
-      "category": "Conic Sections"
+      "chapter": "Conic Sections"
     },
     "41": {
       "Question": "What is the distance between the points (1, 2, 3) and (4, 5, 6) in three-dimensional space?",
       "options": ["a. √3", "b. √6", "c. √9", "d. √27"],
       "correct option": "b",
-      "category": "Introduction to Three-Dimensional Geometry"
+      "chapter": "Introduction to Three-Dimensional Geometry"
     },
     "42": {
       "Question": "What is the limit of (x - 2)/(x² - 4) as x approaches 2?",
       "options": ["a. 0", "b. 1/2", "c. 1", "d. Undefined"],
       "correct option": "b",
-      "category": "Limits and Derivatives"
+      "chapter": "Limits and Derivatives"
     },
     "43": {
       "Question": "Which of the following is not a valid statement in mathematical reasoning?",
       "options": ["a. If P, then Q.", "b. If Q, then P.", "c. P and Q.", "d. P or Q."],
       "correct option": "b",
-      "category": "Mathematical Reasoning"
+      "chapter": "Mathematical Reasoning"
     },
     "44": {
       "Question": "What is the mode of the dataset: {2, 4, 4, 6, 7, 7, 7, 8, 9}?",
       "options": ["a. 4", "b. 6", "c. 7", "d. 8"],
       "correct option": "c",
-      "category": "Statistics"
+      "chapter": "Statistics"
     },
     "45": {
       "Question": "In a deck of playing cards, what is the probability of drawing a red card?",
       "options": ["a. 1/2", "b. 1/4", "c. 1/3", "d. 2/3"],
       "correct option": "c",
-      "category": "Probability"
+      "chapter": "Probability"
     },
     "46": {
       "Question": "In set theory, what is the complement of a set A denoted as A'?",
       "options": ["a. The set A", "b. The empty set", "c. The universal set", "d. The set of prime numbers"],
       "correct option": "b",
-      "category": "Sets"
+      "chapter": "Sets"
     },
     "47": {
       "Question": "Which of the following functions is neither injective nor surjective?",
       "options": ["a. f(x) = x²", "b. f(x) = 2x + 3", "c. f(x) = |x|", "d. f(x) = sin(x)"],
       "correct option": "a",
-      "category": "Relations and Functions"
+      "chapter": "Relations and Functions"
     },
     "48": {
       "Question": "What is the value of sin(90 degrees)?",
       "options": ["a. 0", "b. 1", "c. -1", "d. Undefined"],
       "correct option": "b",
-      "category": "Trigonometry"
+      "chapter": "Trigonometry"
     },
     "49": {
       "Question": "What is the product of complex numbers (2 + 3i) and (4 - 5i)?",
       "options": ["a. 2 - 11i", "b. 26 + 7i", "c. -7 + 26i", "d. -11 - 2i"],
       "correct option": "d",
-      "category": "Complex Numbers"
+      "chapter": "Complex Numbers"
     },
     "50": {
       "Question": "Which of the following is the solution to the inequality 3x - 2 > 10?",
       "options": ["a. x < 4", "b. x > 4", "c. x < -4", "d. x > -4"],
       "correct option": "b",
-      "category": "Linear Inequalities"
+      "chapter": "Linear Inequalities"
     }
   }
   

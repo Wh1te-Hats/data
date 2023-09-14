@@ -3,301 +3,301 @@
       "Question": "What is the value of √81?",
       "options": ["a. 7", "b. 9", "c. 8", "d. 6"],
       "correct option": "b",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "2": {
       "Question": "Which of the following is an irrational number?",
       "options": ["a. 1/2", "b. 0.333...", "c. √2", "d. 3/4"],
       "correct option": "c",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "3": {
       "Question": "What is the value of (-5)²?",
       "options": ["a. 10", "b. 25", "c. -10", "d. -25"],
       "correct option": "b",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "4": {
       "Question": "What is the value of 2√16?",
       "options": ["a. 4", "b. 8", "c. 16", "d. 32"],
       "correct option": "a",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "5": {
       "Question": "Which of the following is a rational number?",
       "options": ["a. √3", "b. 0.25", "c. π (pi)", "d. √2"],
       "correct option": "b",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "6": {
       "Question": "What is the value of 5/8 + 3/8?",
       "options": ["a. 1/16", "b. 4/8", "c. 1/2", "d. 5/4"],
       "correct option": "c",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "7": {
       "Question": "What is the value of 0.75 as a fraction in simplest form?",
       "options": ["a. 3/4", "b. 2/3", "c. 1/2", "d. 5/8"],
       "correct option": "a",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "8": {
       "Question": "What is the value of 3.25 as a mixed number?",
       "options": ["a. 325/100", "b. 3 1/4", "c. 32.5", "d. 3 1/5"],
       "correct option": "b",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "9": {
       "Question": "What is the value of 7/9 as a decimal?",
       "options": ["a. 0.777...", "b. 0.7777...", "c. 0.77777...", "d. 0.777777..."],
       "correct option": "a",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "10": {
       "Question": "What is the value of 1.5 as a fraction in simplest form?",
       "options": ["a. 15/10", "b. 3/2", "c. 5/3", "d. 2/3"],
       "correct option": "b",
-      "category": "Real Numbers"
+      "chapter": "Real Numbers"
     },
     "11": {
       "Question": "What is the value of 2⁴?",
       "options": ["a. 4", "b. 8", "c. 16", "d. 32"],
       "correct option": "c",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "12": {
       "Question": "Which of the following is a quadratic polynomial?",
       "options": ["a. x + 3", "b. 2x - 1", "c. 4x² - 7x + 2", "d. 3x³ - 2x² + x - 4"],
       "correct option": "c",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "13": {
       "Question": "What is the degree of the polynomial 2x³ - 5x² + 3x - 7?",
       "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
       "correct option": "c",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "14": {
       "Question": "What is the coefficient of x² in the polynomial 4x⁴ - 3x³ + 2x² - 5x + 1?",
       "options": ["a. 2", "b. -3", "c. 4", "d. 0"],
       "correct option": "c",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "15": {
       "Question": "What is the value of (x + 2)(x - 3) when x = 4?",
       "options": ["a. 6", "b. 12", "c. 2", "d. -1"],
       "correct option": "a",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "16": {
       "Question": "What is the sum of the roots of the quadratic equation x² - 5x + 6 = 0?",
       "options": ["a. 2", "b. 3", "c. 4", "d. 5"],
       "correct option": "b",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "17": {
       "Question": "What is the product of the roots of the quadratic equation x² - 6x + 9 = 0?",
       "options": ["a. 0", "b. 3", "c. 9", "d. 36"],
       "correct option": "c",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "18": {
       "Question": "What is the value of (2x - 3)² when x = 4?",
       "options": ["a. 9", "b. 16", "c. 25", "d. 36"],
       "correct option": "c",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "19": {
       "Question": "What is the value of 3x² - 2x + 1 when x = 2?",
       "options": ["a. 5", "b. 7", "c. 9", "d. 11"],
       "correct option": "c",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "20": {
       "Question": "What is the value of (x - 1)(x + 1)(x + 2) when x = 3?",
       "options": ["a. 10", "b. 20", "c. 30", "d. 40"],
       "correct option": "d",
-      "category": "Polynomials"
+      "chapter": "Polynomials"
     },
     "21": {
       "Question": "What is the value of 5x + 2y when x = 3 and y = 4?",
       "options": ["a. 10", "b. 17", "c. 26", "d. 24"],
       "correct option": "b",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "22": {
       "Question": "What is the solution to the equation 2x - 3 = 7?",
       "options": ["a. x = 5", "b. x = 4", "c. x = 7", "d. x = 3"],
       "correct option": "a",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "23": {
       "Question": "What is the value of y in the equation 4y = 16?",
       "options": ["a. y = 4", "b. y = 6", "c. y = 8", "d. y = 12"],
       "correct option": "c",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "24": {
       "Question": "What is the solution to the system of equations: 2x + y = 5 and 3x - 2y = 4?",
       "options": ["a. x = 2, y = 1", "b. x = 3, y = 2", "c. x = 1, y = 3", "d. x = 4, y = 0"],
       "correct option": "a",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "25": {
       "Question": "What is the value of x in the equation 5x/3 = 10?",
       "options": ["a. x = 2", "b. x = 5", "c. x = 6", "d. x = 15"],
       "correct option": "b",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "26": {
       "Question": "What is the slope of the line with equation 3x - 2y = 6?",
       "options": ["a. 3/2", "b. -3/2", "c. 2/3", "d. -2/3"],
       "correct option": "a",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "27": {
       "Question": "What is the y-intercept of the line with equation 2x + 4y = 8?",
       "options": ["a. (2, 0)", "b. (0, 2)", "c. (0, 4)", "d. (4, 0)"],
       "correct option": "b",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "28": {
       "Question": "What is the solution to the equation 5(x - 2) = 3x + 1?",
       "options": ["a. x = 3", "b. x = 2", "c. x = 4", "d. x = 1"],
       "correct option": "a",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "29": {
       "Question": "What is the value of x in the equation 2/3(x - 4) = 8?",
       "options": ["a. x = 18", "b. x = 12", "c. x = 10", "d. x = 14"],
       "correct option": "b",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "30": {
       "Question": "What is the solution to the system of equations: 3x + 2y = 8 and 2x - 3y = 1?",
       "options": ["a. x = 2, y = 1", "b. x = 1, y = 2", "c. x = 3, y = 0", "d. x = 0, y = 3"],
       "correct option": "a",
-      "category": "Linear Equations in Two Variables"
+      "chapter": "Linear Equations in Two Variables"
     },
     "31": {
       "Question": "What is the value of (3/4) × (2/3)?",
       "options": ["a. 1/2", "b. 1/4", "c. 2/3", "d. 3/4"],
       "correct option": "c",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "32": {
       "Question": "What is the solution to the equation x² - 9 = 0?",
       "options": ["a. x = 3", "b. x = 6", "c. x = -3", "d. x = 9"],
       "correct option": "a",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "33": {
       "Question": "What is the value of x in the equation 2x² = 16?",
       "options": ["a. x = 2", "b. x = 4", "c. x = 8", "d. x = 16"],
       "correct option": "b",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "34": {
       "Question": "What is the value of x in the equation 4x² - 25 = 0?",
       "options": ["a. x = 5/2", "b. x = -5/2", "c. x = 5", "d. x = -5"],
       "correct option": "a",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "35": {
       "Question": "What is the discriminant of the quadratic equation 2x² + 3x + 1 = 0?",
       "options": ["a. 1", "b. 3", "c. 5", "d. -3"],
       "correct option": "c",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "36": {
       "Question": "What is the solution to the quadratic equation x² - 4x - 5 = 0?",
       "options": ["a. x = 5, x = -1", "b. x = 5, x = 1", "c. x = -5, x = 1", "d. x = -5, x = -1"],
       "correct option": "a",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "37": {
       "Question": "What is the value of x in the equation 3x² - 2x - 1 = 0?",
       "options": ["a. x = 1, x = -1/3", "b. x = 1/3, x = -1", "c. x = 1, x = 1/3", "d. x = -1/3, x = -1"],
       "correct option": "a",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "38": {
       "Question": "What is the solution to the quadratic equation 5x² + 2x + 1 = 0?",
       "options": ["a. x = -1, x = -1/5", "b. x = -1/5, x = -1", "c. x = 1, x = -1/5", "d. x = -1/5, x = 1"],
       "correct option": "d",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "39": {
       "Question": "What is the value of x in the equation 6x² - 9x + 3 = 0?",
       "options": ["a. x = 1/2", "b. x = 3", "c. x = 1", "d. x = 2"],
       "correct option": "a",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "40": {
       "Question": "What is the sum of the roots of the quadratic equation 3x² - 5x + 2 = 0?",
       "options": ["a. 5/3", "b. 2/3", "c. 1", "d. 5/2"],
       "correct option": "c",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "41": {
       "Question": "What is the product of the roots of the quadratic equation 2x² - 7x + 3 = 0?",
       "options": ["a. 3/2", "b. 3/4", "c. 3/5", "d. 3"],
       "correct option": "b",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "42": {
       "Question": "What is the value of x in the equation 3x² - 10x + 7 = 0?",
       "options": ["a. x = 1, x = 7/3", "b. x = 7/3, x = 1", "c. x = 7, x = 1/3", "d. x = 1/3, x = 7"],
       "correct option": "a",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "43": {
       "Question": "What is the value of x in the equation 4x² - 12x + 9 = 0?",
       "options": ["a. x = 3/2", "b. x = 2", "c. x = 3", "d. x = 4"],
       "correct option": "b",
-      "category": "Quadratic Equations"
+      "chapter": "Quadratic Equations"
     },
     "44": {
       "Question": "What is the sum of the angles of a triangle?",
       "options": ["a. 90 degrees", "b. 120 degrees", "c. 180 degrees", "d. 360 degrees"],
       "correct option": "c",
-      "category": "Triangles"
+      "chapter": "Triangles"
     },
     "45": {
       "Question": "What is the area of a triangle with base 6 cm and height 8 cm?",
       "options": ["a. 12 sq cm", "b. 24 sq cm", "c. 36 sq cm", "d. 48 sq cm"],
       "correct option": "b",
-      "category": "Triangles"
+      "chapter": "Triangles"
     },
     "46": {
       "Question": "What is the Pythagorean Theorem?",
       "options": ["a. a² + b² = c²", "b. a² - b² = c²", "c. a² = b² + c²", "d. a² = b² - c²"],
       "correct option": "a",
-      "category": "Triangles"
+      "chapter": "Triangles"
     },
     "47": {
       "Question": "What is the value of the hypotenuse in a right triangle with legs of length 3 cm and 4 cm?",
       "options": ["a. 5 cm", "b. 6 cm", "c. 7 cm", "d. 8 cm"],
       "correct option": "a",
-      "category": "Triangles"
+      "chapter": "Triangles"
     },
     "48": {
       "Question": "In an equilateral triangle, all angles are:",
       "options": ["a. acute", "b. right", "c. obtuse", "d. congruent"],
       "correct option": "d",
-      "category": "Triangles"
+      "chapter": "Triangles"
     },
     "49": {
       "Question": "What is the value of the sum of the angles in a quadrilateral?",
       "options": ["a. 180 degrees", "b. 270 degrees", "c. 360 degrees", "d. 450 degrees"],
       "correct option": "c",
-      "category": "Quadrilaterals"
+      "chapter": "Quadrilaterals"
     },
     "50": {
       "Question": "What is the area of a rectangle with length 10 cm and width 5 cm?",
       "options": ["a. 15 sq cm", "b. 20 sq cm", "c. 25 sq cm", "d. 50 sq cm"],
       "correct option": "d",
-      "category": "Quadrilaterals"
+      "chapter": "Quadrilaterals"
     }
   }
   

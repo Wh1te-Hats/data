@@ -3,301 +3,301 @@
       "Question": "What is the formula of methane?",
       "options": ["a. CH2", "b. CH3", "c. CH4", "d. C2H6"],
       "correct option": "c",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "2": {
       "Question": "Which of the following is a non-polar molecule?",
       "options": ["a. H2O", "b. NH3", "c. CO2", "d. HCl"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "3": {
       "Question": "What is the SI unit of temperature?",
       "options": ["a. Kelvin", "b. Celsius", "c. Fahrenheit", "d. Rankine"],
       "correct option": "a",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "4": {
       "Question": "Which gas is evolved during the electrolysis of water?",
       "options": ["a. Oxygen", "b. Hydrogen", "c. Carbon dioxide", "d. Nitrogen"],
       "correct option": "b",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "5": {
       "Question": "What is the chemical formula of potassium dichromate?",
       "options": ["a. KCrO2", "b. K2CrO4", "c. K2Cr2O7", "d. KCr2O4"],
       "correct option": "c",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "6": {
       "Question": "Which of the following is a strong acid?",
       "options": ["a. Acetic acid", "b. Hydrochloric acid", "c. Citric acid", "d. Formic acid"],
       "correct option": "b",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "7": {
       "Question": "What is the chemical formula of sulfuric acid?",
       "options": ["a. H2SO4", "b. SO2", "c. H2O", "d. NaCl"],
       "correct option": "a",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "8": {
       "Question": "What is the process of the conversion of a substance directly from the solid to the gas phase?",
       "options": ["a. Sublimation", "b. Evaporation", "c. Condensation", "d. Fusion"],
       "correct option": "a",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "9": {
       "Question": "What is the chemical formula of glucose?",
       "options": ["a. C6H12O6", "b. CH3OH", "c. C2H5OH", "d. C12H22O11"],
       "correct option": "a",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "10": {
       "Question": "Which of the following is not an electrolyte?",
       "options": ["a. Sodium chloride (NaCl)", "b. Hydrochloric acid (HCl)", "c. Sugar (C12H22O11)", "d. Potassium nitrate (KNO3)"],
       "correct option": "c",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "11": {
       "Question": "What is the process of the gradual mixing of two or more substances due to their random motion?",
       "options": ["a. Diffusion", "b. Osmosis", "c. Precipitation", "d. Vaporization"],
       "correct option": "a",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "12": {
       "Question": "What is the chemical formula of hydrochloric acid?",
       "options": ["a. H2SO4", "b. SO2", "c. HCl", "d. NaCl"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "13": {
       "Question": "What is the SI unit of electric charge?",
       "options": ["a. Ampere", "b. Volt", "c. Coulomb", "d. Ohm"],
       "correct option": "c",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "14": {
       "Question": "Which of the following is a reducing agent?",
       "options": ["a. Oxidizing agent", "b. Hydrogen peroxide (H2O2)", "c. Potassium dichromate (K2Cr2O7)", "d. Sodium chloride (NaCl)"],
       "correct option": "b",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "15": {
       "Question": "What is the molar mass of water (H2O)?",
       "options": ["a. 18 g/mol", "b. 22.4 g/mol", "c. 32 g/mol", "d. 42 g/mol"],
       "correct option": "a",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "16": {
       "Question": "What is the chemical formula of acetic acid?",
       "options": ["a. CH3OH", "b. C2H5OH", "c. CH3COOH", "d. C6H12O6"],
       "correct option": "c",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "17": {
       "Question": "What is the SI unit of electric current?",
       "options": ["a. Ampere", "b. Volt", "c. Coulomb", "d. Ohm"],
       "correct option": "a",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "18": {
       "Question": "Which of the following is a strong base?",
       "options": ["a. Sodium hydroxide (NaOH)", "b. Ammonia (NH3)", "c. Sodium bicarbonate (NaHCO3)", "d. Hydrogen chloride (HCl)"],
       "correct option": "a",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "19": {
       "Question": "What is the chemical formula of sodium chloride?",
       "options": ["a. NaOH", "b. H2SO4", "c. NaCl", "d. HCl"],
       "correct option": "c",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "20": {
       "Question": "What is the formula of ammonia?",
       "options": ["a. NH2", "b. NH3", "c. NH4", "d. NH5"],
       "correct option": "b",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "21": {
       "Question": "Which of the following is a strong electrolyte?",
       "options": ["a. Sugar (C12H22O11)", "b. Sodium chloride (NaCl)", "c. Ethanol (C2H5OH)", "d. Carbon dioxide (CO2)"],
       "correct option": "b",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "22": {
       "Question": "What is the chemical formula of potassium hydroxide?",
       "options": ["a. KOH", "b. K2CO3", "c. KNO3", "d. KCl"],
       "correct option": "a",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "23": {
       "Question": "Which of the following is a weak acid?",
       "options": ["a. Hydrochloric acid (HCl)", "b. Sulfuric acid (H2SO4)", "c. Acetic acid (CH3COOH)", "d. Nitric acid (HNO3)"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "24": {
       "Question": "What is the chemical formula of nitric acid?",
       "options": ["a. HNO4", "b. NO2", "c. HNO2", "d. HNO3"],
       "correct option": "d",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "25": {
       "Question": "Which of the following is a weak base?",
       "options": ["a. Sodium hydroxide (NaOH)", "b. Ammonia (NH3)", "c. Sodium bicarbonate (NaHCO3)", "d. Potassium hydroxide (KOH)"],
       "correct option": "b",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "26": {
       "Question": "What is the molar mass of carbon dioxide (CO2)?",
       "options": ["a. 18 g/mol", "b. 22.4 g/mol", "c. 32 g/mol", "d. 44 g/mol"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "27": {
       "Question": "What is the chemical formula of sulfuric acid?",
       "options": ["a. H2SO4", "b. SO2", "c. H2O", "d. NaCl"],
       "correct option": "a",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "28": {
       "Question": "Which of the following is a strong base?",
       "options": ["a. Sodium hydroxide (NaOH)", "b. Ammonia (NH3)", "c. Sodium bicarbonate (NaHCO3)", "d. Hydrogen chloride (HCl)"],
       "correct option": "a",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "29": {
       "Question": "What is the chemical formula of hydrochloric acid?",
       "options": ["a. H2SO4", "b. SO2", "c. HCl", "d. NaCl"],
       "correct option": "c",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "30": {
       "Question": "What is the process of the gradual mixing of two or more substances due to their random motion?",
       "options": ["a. Diffusion", "b. Osmosis", "c. Precipitation", "d. Vaporization"],
       "correct option": "a",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "31": {
       "Question": "What is the chemical formula of glucose?",
       "options": ["a. C6H12O6", "b. CH3OH", "c. C2H5OH", "d. C12H22O11"],
       "correct option": "a",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "32": {
       "Question": "Which of the following is not an electrolyte?",
       "options": ["a. Sodium chloride (NaCl)", "b. Hydrochloric acid (HCl)", "c. Sugar (C12H22O11)", "d. Potassium nitrate (KNO3)"],
       "correct option": "c",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "33": {
       "Question": "What is the process of the conversion of a substance directly from the solid to the gas phase?",
       "options": ["a. Sublimation", "b. Evaporation", "c. Condensation", "d. Fusion"],
       "correct option": "a",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "34": {
       "Question": "What is the chemical formula of acetic acid?",
       "options": ["a. CH3OH", "b. C2H5OH", "c. CH3COOH", "d. C6H12O6"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "35": {
       "Question": "What is the SI unit of electric charge?",
       "options": ["a. Ampere", "b. Volt", "c. Coulomb", "d. Ohm"],
       "correct option": "c",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "36": {
       "Question": "Which gas is evolved during the electrolysis of water?",
       "options": ["a. Oxygen", "b. Hydrogen", "c. Carbon dioxide", "d. Nitrogen"],
       "correct option": "b",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "37": {
       "Question": "What is the chemical formula of potassium dichromate?",
       "options": ["a. KCrO2", "b. K2CrO4", "c. K2Cr2O7", "d. KCr2O4"],
       "correct option": "c",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "38": {
       "Question": "Which of the following is a strong acid?",
       "options": ["a. Acetic acid", "b. Hydrochloric acid", "c. Citric acid", "d. Formic acid"],
       "correct option": "b",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "39": {
       "Question": "What is the chemical formula of sulfuric acid?",
       "options": ["a. H2SO4", "b. SO2", "c. H2O", "d. NaCl"],
       "correct option": "a",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "40": {
       "Question": "What is the formula of methane?",
       "options": ["a. CH2", "b. CH3", "c. CH4", "d. C2H6"],
       "correct option": "c",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "41": {
       "Question": "What is the chemical formula of hydrochloric acid?",
       "options": ["a. H2SO4", "b. SO2", "c. HCl", "d. NaCl"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "42": {
       "Question": "What is the SI unit of temperature?",
       "options": ["a. Kelvin", "b. Celsius", "c. Fahrenheit", "d. Rankine"],
       "correct option": "a",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "43": {
       "Question": "Which of the following is a reducing agent?",
       "options": ["a. Oxidizing agent", "b. Hydrogen peroxide (H2O2)", "c. Potassium dichromate (K2Cr2O7)", "d. Sodium chloride (NaCl)"],
       "correct option": "b",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "44": {
       "Question": "What is the chemical formula of sodium chloride?",
       "options": ["a. NaOH", "b. H2SO4", "c. NaCl", "d. HCl"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "45": {
       "Question": "What is the formula of ammonia?",
       "options": ["a. NH2", "b. NH3", "c. NH4", "d. NH5"],
       "correct option": "b",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     },
     "46": {
       "Question": "What is the process of the gradual mixing of two or more substances due to their random motion?",
       "options": ["a. Diffusion", "b. Osmosis", "c. Precipitation", "d. Vaporization"],
       "correct option": "a",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "47": {
       "Question": "Which of the following is not an electrolyte?",
       "options": ["a. Sodium chloride (NaCl)", "b. Hydrochloric acid (HCl)", "c. Sugar (C12H22O11)", "d. Potassium nitrate (KNO3)"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "48": {
       "Question": "What is the chemical formula of potassium hydroxide?",
       "options": ["a. KOH", "b. K2CO3", "c. KNO3", "d. KCl"],
       "correct option": "a",
-      "category": "The Solid State"
+      "chapter": "The Solid State"
     },
     "49": {
       "Question": "Which of the following is a weak acid?",
       "options": ["a. Hydrochloric acid (HCl)", "b. Sulfuric acid (H2SO4)", "c. Acetic acid (CH3COOH)", "d. Nitric acid (HNO3)"],
       "correct option": "c",
-      "category": "Solutions"
+      "chapter": "Solutions"
     },
     "50": {
       "Question": "What is the chemical formula of nitric acid?",
       "options": ["a. HNO4", "b. NO2", "c. HNO2", "d. HNO3"],
       "correct option": "d",
-      "category": "Electrochemistry"
+      "chapter": "Electrochemistry"
     }
   }
   

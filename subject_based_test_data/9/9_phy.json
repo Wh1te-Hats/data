@@ -3,301 +3,301 @@
       "Question": "What is the SI unit of distance?",
       "options": ["a. Meter (m)", "b. Kilogram (kg)", "c. Second (s)", "d. Joule (J)"],
       "correct option": "a",
-      "category": "Units and Measurements"
+      "chapter": "Units and Measurements"
     },
     "2": {
       "Question": "Which of the following is a vector quantity?",
       "options": ["a. Mass", "b. Temperature", "c. Speed", "d. Force"],
       "correct option": "d",
-      "category": "Vectors and Scalars"
+      "chapter": "Vectors and Scalars"
     },
     "3": {
       "Question": "What is the acceleration due to gravity on the surface of the Earth?",
       "options": ["a. 9.8 m/s²", "b. 6.7 m/s²", "c. 12.5 m/s²", "d. 5.2 m/s²"],
       "correct option": "a",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "4": {
       "Question": "Which of the following is an example of a contact force?",
       "options": ["a. Magnetic force", "b. Frictional force", "c. Gravitational force", "d. Electrostatic force"],
       "correct option": "b",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "5": {
       "Question": "What is the SI unit of force?",
       "options": ["a. Newton (N)", "b. Watt (W)", "c. Joule (J)", "d. Kilogram (kg)"],
       "correct option": "a",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "6": {
       "Question": "Which law of motion states that an object at rest tends to stay at rest, and an object in motion tends to stay in motion with the same speed and in the same direction unless acted upon by an unbalanced external force?",
       "options": ["a. Newton's First Law", "b. Newton's Second Law", "c. Newton's Third Law", "d. Archimedes' Principle"],
       "correct option": "a",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "7": {
       "Question": "What is the SI unit of power?",
       "options": ["a. Watt (W)", "b. Joule (J)", "c. Newton (N)", "d. Pascal (Pa)"],
       "correct option": "a",
-      "category": "Work and Energy"
+      "chapter": "Work and Energy"
     },
     "8": {
       "Question": "Which of the following is a form of kinetic energy?",
       "options": ["a. Potential energy", "b. Thermal energy", "c. Gravitational energy", "d. Mechanical energy"],
       "correct option": "b",
-      "category": "Work and Energy"
+      "chapter": "Work and Energy"
     },
     "9": {
       "Question": "What is the SI unit of electric current?",
       "options": ["a. Volt (V)", "b. Ampere (A)", "c. Ohm (Ω)", "d. Watt (W)"],
       "correct option": "b",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "10": {
       "Question": "Which of the following materials is a good conductor of electricity?",
       "options": ["a. Wood", "b. Rubber", "c. Copper", "d. Glass"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "11": {
       "Question": "What is the unit of electric resistance?",
       "options": ["a. Ampere (A)", "b. Volt (V)", "c. Ohm (Ω)", "d. Joule (J)"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "12": {
       "Question": "Which component of an electric circuit stores electrical energy and can release it when needed?",
       "options": ["a. Resistor", "b. Capacitor", "c. Diode", "d. Inductor"],
       "correct option": "b",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "13": {
       "Question": "What happens to the resistance of a conductor when its temperature increases?",
       "options": ["a. Increases", "b. Decreases", "c. Remains the same", "d. Becomes zero"],
       "correct option": "a",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "14": {
       "Question": "Which of the following is a renewable source of energy?",
       "options": ["a. Natural gas", "b. Coal", "c. Solar power", "d. Petroleum"],
       "correct option": "c",
-      "category": "Sources of Energy"
+      "chapter": "Sources of Energy"
     },
     "15": {
       "Question": "What is the primary source of energy for the Earth's climate system?",
       "options": ["a. Wind", "b. Fossil fuels", "c. Solar radiation", "d. Nuclear energy"],
       "correct option": "c",
-      "category": "Sources of Energy"
+      "chapter": "Sources of Energy"
     },
     "16": {
       "Question": "Which of the following is a non-renewable source of energy?",
       "options": ["a. Wind energy", "b. Solar energy", "c. Coal", "d. Hydroelectric power"],
       "correct option": "c",
-      "category": "Sources of Energy"
+      "chapter": "Sources of Energy"
     },
     "17": {
       "Question": "What is the phenomenon that occurs when light changes direction as it passes from one medium to another?",
       "options": ["a. Reflection", "b. Refraction", "c. Dispersion", "d. Diffraction"],
       "correct option": "b",
-      "category": "Sound"
+      "chapter": "Sound"
     },
     "18": {
       "Question": "What is the SI unit of frequency?",
       "options": ["a. Hertz (Hz)", "b. Watt (W)", "c. Decibel (dB)", "d. Newton (N)"],
       "correct option": "a",
-      "category": "Sound"
+      "chapter": "Sound"
     },
     "19": {
       "Question": "Which of the following types of waves requires a medium to propagate?",
       "options": ["a. Electromagnetic waves", "b. Mechanical waves", "c. Transverse waves", "d. Longitudinal waves"],
       "correct option": "b",
-      "category": "Sound"
+      "chapter": "Sound"
     },
     "20": {
       "Question": "What is the speed of light in a vacuum?",
       "options": ["a. 3,000,000 m/s", "b. 299,792,458 m/s", "c. 30,000,000 m/s", "d. 299,245,892 m/s"],
       "correct option": "b",
-      "category": "Light"
+      "chapter": "Light"
     },
     "21": {
       "Question": "Which color of light has the longest wavelength?",
       "options": ["a. Red", "b. Blue", "c. Green", "d. Violet"],
       "correct option": "a",
-      "category": "Light"
+      "chapter": "Light"
     },
     "22": {
       "Question": "What is the law of reflection?",
       "options": ["a. Light bends when it passes through a medium", "b. Light always travels in a straight line", "c. The angle of incidence is equal to the angle of reflection", "d. Light is absorbed by all surfaces"],
       "correct option": "c",
-      "category": "Light"
+      "chapter": "Light"
     },
     "23": {
       "Question": "What type of lens converges light rays to a single point?",
       "options": ["a. Concave lens", "b. Convex lens", "c. Diverging lens", "d. Plano-concave lens"],
       "correct option": "b",
-      "category": "Light"
+      "chapter": "Light"
     },
     "24": {
       "Question": "Which instrument is used to measure electric current in a circuit?",
       "options": ["a. Voltmeter", "b. Ammeter", "c. Galvanometer", "d. Ohmmeter"],
       "correct option": "b",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "25": {
       "Question": "What is the unit of electric potential difference?",
       "options": ["a. Ampere (A)", "b. Ohm (Ω)", "c. Volt (V)", "d. Watt (W)"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "26": {
       "Question": "Which of the following is a good insulator of electricity?",
       "options": ["a. Copper", "b. Aluminum", "c. Rubber", "d. Silver"],
       "correct option": "c",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "27": {
       "Question": "What is the unit of electric power?",
       "options": ["a. Volt (V)", "b. Ohm (Ω)", "c. Joule (J)", "d. Watt (W)"],
       "correct option": "d",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "28": {
       "Question": "What is the phenomenon of an electric discharge between two charged objects due to a potential difference?",
       "options": ["a. Resistance", "b. Insulation", "c. Capacitance", "d. Sparking"],
       "correct option": "d",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "29": {
       "Question": "Which type of circuit has only one path for current to flow?",
       "options": ["a. Series circuit", "b. Parallel circuit", "c. Combination circuit", "d. Complex circuit"],
       "correct option": "a",
-      "category": "Electricity"
+      "chapter": "Electricity"
     },
     "30": {
       "Question": "What is the energy possessed by an object due to its motion called?",
       "options": ["a. Potential energy", "b. Thermal energy", "c. Kinetic energy", "d. Mechanical energy"],
       "correct option": "c",
-      "category": "Work and Energy"
+      "chapter": "Work and Energy"
     },
     "31": {
       "Question": "Which of the following is a unit of work?",
       "options": ["a. Joule (J)", "b. Watt (W)", "c. Newton (N)", "d. Ohm (Ω)"],
       "correct option": "a",
-      "category": "Work and Energy"
+      "chapter": "Work and Energy"
     },
     "32": {
       "Question": "What is the force exerted by a spring when it is stretched or compressed called?",
       "options": ["a. Tension", "b. Friction", "c. Elastic force", "d. Gravity"],
       "correct option": "c",
-      "category": "Work and Energy"
+      "chapter": "Work and Energy"
     },
     "33": {
       "Question": "Which of the following is a unit of pressure?",
       "options": ["a. Newton (N)", "b. Pascal (Pa)", "c. Watt (W)", "d. Volt (V)"],
       "correct option": "b",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "34": {
       "Question": "What is the value of the acceleration due to gravity (g) on the surface of the Moon?",
       "options": ["a. 9.8 m/s²", "b. 1.6 m/s²", "c. 5.2 m/s²", "d. 12.5 m/s²"],
       "correct option": "b",
-      "category": "Gravitation"
+      "chapter": "Gravitation"
     },
     "35": {
       "Question": "What is the SI unit of work?",
       "options": ["a. Newton (N)", "b. Joule (J)", "c. Pascal (Pa)", "d. Watt (W)"],
       "correct option": "b",
-      "category": "Work and Energy"
+      "chapter": "Work and Energy"
     },
     "36": {
       "Question": "Which of the following is an example of a non-contact force?",
       "options": ["a. Tension", "b. Friction", "c. Magnetic force", "d. Normal force"],
       "correct option": "c",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "37": {
       "Question": "What is the formula for calculating speed?",
       "options": ["a. Speed = Distance × Time", "b. Speed = Time ÷ Distance", "c. Speed = Distance ÷ Time", "d. Speed = Time + Distance"],
       "correct option": "c",
-      "category": "Motion"
+      "chapter": "Motion"
     },
     "38": {
       "Question": "Which of the following statements is true about a body at rest?",
       "options": ["a. It has zero velocity.", "b. It has constant acceleration.", "c. It has a balanced force acting on it.", "d. It has no energy."],
       "correct option": "c",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "39": {
       "Question": "What is the force that opposes the relative motion or tendency of such motion of two surfaces in contact called?",
       "options": ["a. Magnetic force", "b. Gravitational force", "c. Frictional force", "d. Tension"],
       "correct option": "c",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "40": {
       "Question": "Which of the following is an example of a balanced force?",
       "options": ["a. A car accelerating", "b. A book resting on a table", "c. A falling apple", "d. A rocket taking off"],
       "correct option": "b",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "41": {
       "Question": "What is the formula for calculating density?",
       "options": ["a. Density = Mass × Volume", "b. Density = Volume × Temperature", "c. Density = Mass ÷ Volume", "d. Density = Mass × Acceleration due to gravity"],
       "correct option": "c",
-      "category": "Matter in Our Surroundings"
+      "chapter": "Matter in Our Surroundings"
     },
     "42": {
       "Question": "Which of the following states of matter has a definite shape and volume?",
       "options": ["a. Solid", "b. Liquid", "c. Gas", "d. Plasma"],
       "correct option": "a",
-      "category": "Matter in Our Surroundings"
+      "chapter": "Matter in Our Surroundings"
     },
     "43": {
       "Question": "What is the process of changing a substance from a gas to a liquid state called?",
       "options": ["a. Vaporization", "b. Condensation", "c. Sublimation", "d. Melting"],
       "correct option": "b",
-      "category": "Matter in Our Surroundings"
+      "chapter": "Matter in Our Surroundings"
     },
     "44": {
       "Question": "What is the process of changing a substance from a solid directly to a gas without passing through the liquid state called?",
       "options": ["a. Vaporization", "b. Condensation", "c. Sublimation", "d. Melting"],
       "correct option": "c",
-      "category": "Matter in Our Surroundings"
+      "chapter": "Matter in Our Surroundings"
     },
     "45": {
       "Question": "Which of the following is the most abundant gas in the Earth's atmosphere?",
       "options": ["a. Oxygen", "b. Nitrogen", "c. Carbon dioxide", "d. Hydrogen"],
       "correct option": "b",
-      "category": "Matter in Our Surroundings"
+      "chapter": "Matter in Our Surroundings"
     },
     "46": {
       "Question": "What is the formula for calculating speed?",
       "options": ["a. Speed = Distance × Time", "b. Speed = Time ÷ Distance", "c. Speed = Distance ÷ Time", "d. Speed = Time + Distance"],
       "correct option": "c",
-      "category": "Motion"
+      "chapter": "Motion"
     },
     "47": {
       "Question": "Which of the following statements is true about a body at rest?",
       "options": ["a. It has zero velocity.", "b. It has constant acceleration.", "c. It has a balanced force acting on it.", "d. It has no energy."],
       "correct option": "c",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "48": {
       "Question": "What is the force that opposes the relative motion or tendency of such motion of two surfaces in contact called?",
       "options": ["a. Magnetic force", "b. Gravitational force", "c. Frictional force", "d. Tension"],
       "correct option": "c",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "49": {
       "Question": "Which of the following is an example of a balanced force?",
       "options": ["a. A car accelerating", "b. A book resting on a table", "c. A falling apple", "d. A rocket taking off"],
       "correct option": "b",
-      "category": "Forces and Laws of Motion"
+      "chapter": "Forces and Laws of Motion"
     },
     "50": {
       "Question": "What is the formula for calculating density?",
       "options": ["a. Density = Mass × Volume", "b. Density = Volume × Temperature", "c. Density = Mass ÷ Volume", "d. Density = Mass × Acceleration due to gravity"],
       "correct option": "c",
-      "category": "Matter in Our Surroundings"
+      "chapter": "Matter in Our Surroundings"
     }
   }
   
