@@ -1,303 +1,602 @@
 {
-    "1": {
-      "Question": "What is the inverse of a relation?",
-      "options": ["a. A function", "b. A matrix", "c. Another relation", "d. Not defined"],
-      "correct option": "c",
-      "chapter": "Relations and Functions"
-    },
-    "2": {
-      "Question": "Which trigonometric function is the inverse of sine?",
-      "options": ["a. Cosine", "b. Tangent", "c. Cosecant", "d. Secant"],
-      "correct option": "c",
-      "chapter": "Inverse Trigonometric Functions"
-    },
-    "3": {
-      "Question": "What is the order of a square matrix?",
-      "options": ["a. Number of rows", "b. Number of columns", "c. Number of elements", "d. None of the above"],
-      "correct option": "a",
-      "chapter": "Matrices"
-    },
-    "4": {
-      "Question": "What is the determinant of a 2x2 matrix [a b; c d]?",
-      "options": ["a. ad - bc", "b. ab - cd", "c. a² + b²", "d. (a + d)(b + c)"],
-      "correct option": "a",
-      "chapter": "Determinants"
-    },
-    "5": {
-      "Question": "What is the limit of a function as it approaches a specific value called?",
-      "options": ["a. Derivative", "b. Integral", "c. Continuity", "d. Limit"],
-      "correct option": "d",
-      "chapter": "Continuity and Differentiability"
-    },
-    "6": {
-      "Question": "What does the derivative of a function represent?",
-      "options": ["a. Slope of the tangent to the curve", "b. Area under the curve", "c. Total change in the function", "d. Integral of the function"],
-      "correct option": "a",
-      "chapter": "Applications of Derivatives"
-    },
-    "7": {
-      "Question": "What is the integral of a function?",
-      "options": ["a. Area under the curve", "b. Slope of the tangent to the curve", "c. Derivative of the function", "d. Inverse of the function"],
-      "correct option": "a",
-      "chapter": "Integrals"
-    },
-    "8": {
-      "Question": "What is the definite integral of a function over a closed interval?",
-      "options": ["a. Zero", "b. A real number", "c. Infinity", "d. Not defined"],
-      "correct option": "b",
-      "chapter": "Applications of Integrals"
-    },
-    "9": {
-      "Question": "What type of equation involves the derivatives of a function?",
-      "options": ["a. Integral equation", "b. Differential equation", "c. Linear equation", "d. Quadratic equation"],
-      "correct option": "b",
-      "chapter": "Differential Equations"
-    },
-    "10": {
-      "Question": "What is the dot product of two vectors?",
-      "options": ["a. A scalar", "b. A vector", "c. A matrix", "d. A complex number"],
-      "correct option": "a",
-      "chapter": "Vector Algebra"
-    },
-    "11": {
-      "Question": "In three-dimensional space, how many coordinates are needed to specify a point?",
-      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
-      "correct option": "c",
-      "chapter": "Three Dimensional Geometry"
-    },
-    "12": {
-      "Question": "What is the graphical representation of a linear programming problem?",
-      "options": ["a. Line", "b. Circle", "c. Polygon", "d. Parabola"],
-      "correct option": "c",
-      "chapter": "Linear Programming"
-    },
-    "13": {
-      "Question": "In a probability distribution, what is the sum of all probabilities?",
-      "options": ["a. 0", "b. 1", "c. 2", "d. -1"],
-      "correct option": "b",
-      "chapter": "Probability"
-    },
-    "14": {
-      "Question": "What is the inverse of a relation?",
-      "options": ["a. A function", "b. A matrix", "c. Another relation", "d. Not defined"],
-      "correct option": "c",
-      "chapter": "Relations and Functions"
-    },
-    "15": {
-      "Question": "Which trigonometric function is the inverse of sine?",
-      "options": ["a. Cosine", "b. Tangent", "c. Cosecant", "d. Secant"],
-      "correct option": "c",
-      "chapter": "Inverse Trigonometric Functions"
-    },
-    "16": {
-      "Question": "What is the order of a square matrix?",
-      "options": ["a. Number of rows", "b. Number of columns", "c. Number of elements", "d. None of the above"],
-      "correct option": "a",
-      "chapter": "Matrices"
-    },
-    "17": {
-      "Question": "What is the determinant of a 2x2 matrix [a b; c d]?",
-      "options": ["a. ad - bc", "b. ab - cd", "c. a² + b²", "d. (a + d)(b + c)"],
-      "correct option": "a",
-      "chapter": "Determinants"
-    },
-    "18": {
-      "Question": "What is the limit of a function as it approaches a specific value called?",
-      "options": ["a. Derivative", "b. Integral", "c. Continuity", "d. Limit"],
-      "correct option": "d",
-      "chapter": "Continuity and Differentiability"
-    },
-    "19": {
-      "Question": "What does the derivative of a function represent?",
-      "options": ["a. Slope of the tangent to the curve", "b. Area under the curve", "c. Total change in the function", "d. Integral of the function"],
-      "correct option": "a",
-      "chapter": "Applications of Derivatives"
-    },
-    "20": {
-      "Question": "What is the integral of a function?",
-      "options": ["a. Area under the curve", "b. Slope of the tangent to the curve", "c. Derivative of the function", "d. Inverse of the function"],
-      "correct option": "a",
-      "chapter": "Integrals"
-    },
-    "21": {
-      "Question": "What is the definite integral of a function over a closed interval?",
-      "options": ["a. Zero", "b. A real number", "c. Infinity", "d. Not defined"],
-      "correct option": "b",
-      "chapter": "Applications of Integrals"
-    },
-    "22": {
-      "Question": "What type of equation involves the derivatives of a function?",
-      "options": ["a. Integral equation", "b. Differential equation", "c. Linear equation", "d. Quadratic equation"],
-      "correct option": "b",
-      "chapter": "Differential Equations"
-    },
-    "23": {
-      "Question": "What is the dot product of two vectors?",
-      "options": ["a. A scalar", "b. A vector", "c. A matrix", "d. A complex number"],
-      "correct option": "a",
-      "chapter": "Vector Algebra"
-    },
-    "24": {
-      "Question": "In three-dimensional space, how many coordinates are needed to specify a point?",
-      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
-      "correct option": "c",
-      "chapter": "Three Dimensional Geometry"
-    },
-    "25": {
-      "Question": "What is the graphical representation of a linear programming problem?",
-      "options": ["a. Line", "b. Circle", "c. Polygon", "d. Parabola"],
-      "correct option": "c",
-      "chapter": "Linear Programming"
-    },
-    "26": {
-      "Question": "In a probability distribution, what is the sum of all probabilities?",
-      "options": ["a. 0", "b. 1", "c. 2", "d. -1"],
-      "correct option": "b",
-      "chapter": "Probability"
-    },
-    "27": {
-      "Question": "What is the inverse of a relation?",
-      "options": ["a. A function", "b. A matrix", "c. Another relation", "d. Not defined"],
-      "correct option": "c",
-      "chapter": "Relations and Functions"
-    },
-    "28": {
-      "Question": "Which trigonometric function is the inverse of sine?",
-      "options": ["a. Cosine", "b. Tangent", "c. Cosecant", "d. Secant"],
-      "correct option": "c",
-      "chapter": "Inverse Trigonometric Functions"
-    },
-    "29": {
-      "Question": "What is the order of a square matrix?",
-      "options": ["a. Number of rows", "b. Number of columns", "c. Number of elements", "d. None of the above"],
-      "correct option": "a",
-      "chapter": "Matrices"
-    },
-    "30": {
-      "Question": "What is the determinant of a 2x2 matrix [a b; c d]?",
-      "options": ["a. ad - bc", "b. ab - cd", "c. a² + b²", "d. (a + d)(b + c)"],
-      "correct option": "a",
-      "chapter": "Determinants"
-    },
-    "31": {
-      "Question": "What is the limit of a function as it approaches a specific value called?",
-      "options": ["a. Derivative", "b. Integral", "c. Continuity", "d. Limit"],
-      "correct option": "d",
-      "chapter": "Continuity and Differentiability"
-    },
-    "32": {
-      "Question": "What does the derivative of a function represent?",
-      "options": ["a. Slope of the tangent to the curve", "b. Area under the curve", "c. Total change in the function", "d. Integral of the function"],
-      "correct option": "a",
-      "chapter": "Applications of Derivatives"
-    },
-    "33": {
-      "Question": "What is the integral of a function?",
-      "options": ["a. Area under the curve", "b. Slope of the tangent to the curve", "c. Derivative of the function", "d. Inverse of the function"],
-      "correct option": "a",
-      "chapter": "Integrals"
-    },
-    "34": {
-      "Question": "What is the definite integral of a function over a closed interval?",
-      "options": ["a. Zero", "b. A real number", "c. Infinity", "d. Not defined"],
-      "correct option": "b",
-      "chapter": "Applications of Integrals"
-    },
-    "35": {
-      "Question": "What type of equation involves the derivatives of a function?",
-      "options": ["a. Integral equation", "b. Differential equation", "c. Linear equation", "d. Quadratic equation"],
-      "correct option": "b",
-      "chapter": "Differential Equations"
-    },
-    "36": {
-      "Question": "What is the dot product of two vectors?",
-      "options": ["a. A scalar", "b. A vector", "c. A matrix", "d. A complex number"],
-      "correct option": "a",
-      "chapter": "Vector Algebra"
-    },
-    "37": {
-      "Question": "In three-dimensional space, how many coordinates are needed to specify a point?",
-      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
-      "correct option": "c",
-      "chapter": "Three Dimensional Geometry"
-    },
-    "38": {
-      "Question": "What is the graphical representation of a linear programming problem?",
-      "options": ["a. Line", "b. Circle", "c. Polygon", "d. Parabola"],
-      "correct option": "c",
-      "chapter": "Linear Programming"
-    },
-    "39": {
-      "Question": "In a probability distribution, what is the sum of all probabilities?",
-      "options": ["a. 0", "b. 1", "c. 2", "d. -1"],
-      "correct option": "b",
-      "chapter": "Probability"
-    },
-    "40": {
-      "Question": "What is the inverse of a relation?",
-      "options": ["a. A function", "b. A matrix", "c. Another relation", "d. Not defined"],
-      "correct option": "c",
-      "chapter": "Relations and Functions"
-    },
-    "41": {
-      "Question": "Which trigonometric function is the inverse of sine?",
-      "options": ["a. Cosine", "b. Tangent", "c. Cosecant", "d. Secant"],
-      "correct option": "c",
-      "chapter": "Inverse Trigonometric Functions"
-    },
-    "42": {
-      "Question": "What is the order of a square matrix?",
-      "options": ["a. Number of rows", "b. Number of columns", "c. Number of elements", "d. None of the above"],
-      "correct option": "a",
-      "chapter": "Matrices"
-    },
-    "43": {
-      "Question": "What is the determinant of a 2x2 matrix [a b; c d]?",
-      "options": ["a. ad - bc", "b. ab - cd", "c. a² + b²", "d. (a + d)(b + c)"],
-      "correct option": "a",
-      "chapter": "Determinants"
-    },
-    "44": {
-      "Question": "What is the limit of a function as it approaches a specific value called?",
-      "options": ["a. Derivative", "b. Integral", "c. Continuity", "d. Limit"],
-      "correct option": "d",
-      "chapter": "Continuity and Differentiability"
-    },
-    "45": {
-      "Question": "What does the derivative of a function represent?",
-      "options": ["a. Slope of the tangent to the curve", "b. Area under the curve", "c. Total change in the function", "d. Integral of the function"],
-      "correct option": "a",
-      "chapter": "Applications of Derivatives"
-    },
-    "46": {
-      "Question": "What is the integral of a function?",
-      "options": ["a. Area under the curve", "b. Slope of the tangent to the curve", "c. Derivative of the function", "d. Inverse of the function"],
-      "correct option": "a",
-      "chapter": "Integrals"
-    },
-    "47": {
-      "Question": "What is the definite integral of a function over a closed interval?",
-      "options": ["a. Zero", "b. A real number", "c. Infinity", "d. Not defined"],
-      "correct option": "b",
-      "chapter": "Applications of Integrals"
-    },
-    "48": {
-      "Question": "What type of equation involves the derivatives of a function?",
-      "options": ["a. Integral equation", "b. Differential equation", "c. Linear equation", "d. Quadratic equation"],
-      "correct option": "b",
-      "chapter": "Differential Equations"
-    },
-    "49": {
-      "Question": "What is the dot product of two vectors?",
-      "options": ["a. A scalar", "b. A vector", "c. A matrix", "d. A complex number"],
-      "correct option": "a",
-      "chapter": "Vector Algebra"
-    },
-    "50": {
-      "Question": "In three-dimensional space, how many coordinates are needed to specify a point?",
-      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
-      "correct option": "c",
-      "chapter": "Three Dimensional Geometry"
-    }
+  "1": {
+    "Question": "If A = {1, 2, 3, 4} and B = {2, 3, 4, 5}, what is A ∩ B?",
+    "options": ["a. {1, 2, 3, 4, 5}", "b. {2, 3, 4}", "c. {1, 5}", "d. {} (Empty set)"],
+    "correct option": "b",
+    "chapter": "Relations and Functions"
+  },
+  "2": {
+    "Question": "Which of the following is a one-to-one function?",
+    "options": ["a. f(x) = x^2", "b. f(x) = 2x + 3", "c. f(x) = |x|", "d. f(x) = x^3"],
+    "correct option": "b",
+    "chapter": "Relations and Functions"
+  },
+  "3": {
+    "Question": "If f(x) = 3x - 2 and g(x) = 2x + 1, what is (f + g)(x)?",
+    "options": ["a. 5x - 1", "b. 5x - 3", "c. 5x - 5", "d. 5x - 2"],
+    "correct option": "a",
+    "chapter": "Relations and Functions"
+  },
+  "4": {
+    "Question": "What is the range of the function f(x) = x^2?",
+    "options": ["a. All real numbers", "b. Only positive real numbers", "c. Only non-negative real numbers", "d. Only even numbers"],
+    "correct option": "c",
+    "chapter": "Relations and Functions"
+  },
+  "5": {
+    "Question": "Which of the following is not a type of relation between sets?",
+    "options": ["a. Reflexive", "b. Symmetric", "c. Transitive", "d. Composite"],
+    "correct option": "d",
+    "chapter": "Relations and Functions"
+  },
+  "6": {
+    "Question": "What is the inverse of the function f(x) = 2x + 3?",
+    "options": ["a. f^(-1)(x) = (x - 3)/2", "b. f^(-1)(x) = (x + 3)/2", "c. f^(-1)(x) = (2x - 3)", "d. f^(-1)(x) = (2x + 3)"],
+    "correct option": "a",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "7": {
+    "Question": "What is the principal value of sin^(-1)(1/2)?",
+    "options": ["a. π/4", "b. π/3", "c. π/6", "d. 2π/3"],
+    "correct option": "c",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "8": {
+    "Question": "What is the period of the function f(x) = sin(2x)?",
+    "options": ["a. π", "b. 2π", "c. π/2", "d. 4π"],
+    "correct option": "b",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "9": {
+    "Question": "If A = [[1, 2], [3, 4]] and B = [[-1, 0], [5, 6]], what is the product of A and B?",
+    "options": ["a. [[1, 0], [3, 4]]", "b. [[-1, 0], [5, 6]]", "c. [[9, 12], [7, 8]]", "d. [[-2, 2], [16, 18]]"],
+    "correct option": "c",
+    "chapter": "Matrices"
+  },
+  "10": {
+    "Question": "What is the determinant of the 2x2 matrix [[3, 1], [2, 4]]?",
+    "options": ["a. 10", "b. 12", "c. 14", "d. 8"],
+    "correct option": "b",
+    "chapter": "Matrices"
+  },
+  "11": {
+    "Question": "Which of the following is not a property of determinants?",
+    "options": ["a. det(AB) = det(A) * det(B)", "b. det(A^T) = det(A)", "c. det(kA) = k * det(A) (where k is a scalar)", "d. det(A + B) = det(A) + det(B)"],
+    "correct option": "d",
+    "chapter": "Matrices"
+  },
+  "12": {
+    "Question": "What is the rank of the matrix [[1, 2], [3, 4]]?",
+    "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+    "correct option": "b",
+    "chapter": "Determinants"
+  },
+  "13": {
+    "Question": "Which of the following is the derivative of y = 3x^2 - 2x + 1?",
+    "options": ["a. y' = 6x + 2", "b. y' = 6x - 2", "c. y' = 3x^2 + 2x", "d. y' = 3x^2 - 2"],
+    "correct option": "a",
+    "chapter": "Continuity and Differentiability"
+  },
+  "14": {
+    "Question": "What is the slope of the tangent to the curve y = x^3 at the point (1, 1)?",
+    "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+    "correct option": "c",
+    "chapter": "Continuity and Differentiability"
+  },
+  "15": {
+    "Question": "What is the derivative of sin(x) with respect to x?",
+    "options": ["a. cos(x)", "b. -cos(x)", "c. sin(x)", "d. -sin(x)"],
+    "correct option": "a",
+    "chapter": "Continuity and Differentiability"
+  },
+  "16": {
+    "Question": "What is the value of lim(x->0) (sin(x)/x)?",
+    "options": ["a. 0", "b. 1", "c. ∞", "d. -1"],
+    "correct option": "b",
+    "chapter": "Continuity and Differentiability"
+  },
+  "17": {
+    "Question": "What is the derivative of the function y = e^(2x) - 3x^2?",
+    "options": ["a. y' = 2e^(2x) - 6x", "b. y' = 2e^(2x) - 6x^2", "c. y' = e^(2x) - 6x", "d. y' = e^(2x) - 6x^2"],
+    "correct option": "b",
+    "chapter": "Applications of Derivatives"
+  },
+  "18": {
+    "Question": "What is the local maximum value of the function y = x^3 - 3x^2 + 4x?",
+    "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
+    "correct option": "c",
+    "chapter": "Applications of Derivatives"
+  },
+  "19": {
+    "Question": "What is the definite integral of the function f(x) = 2x from 0 to 3?",
+    "options": ["a. 3", "b. 6", "c. 9", "d. 12"],
+    "correct option": "b",
+    "chapter": "Integrals"
+  },
+  "20": {
+    "Question": "What is the area under the curve y = x^2 from x = 0 to x = 2?",
+    "options": ["a. 2", "b. 4", "c. 6", "d. 8"],
+    "correct option": "b",
+    "chapter": "Integrals"
+  },
+  "21": {
+    "Question": "What is the value of ∫(0 to π/2) sin(x) dx?",
+    "options": ["a. π/2", "b. 1", "c. -1", "d. 0"],
+    "correct option": "b",
+    "chapter": "Integrals"
+  },
+  "22": {
+    "Question": "Which of the following is the formula for integration by parts?",
+    "options": ["a. ∫u dv = uv - ∫v du", "b. ∫u dv = ∫v du", "c. ∫u dv = uv + ∫v du", "d. ∫u dv = u/v + C"],
+    "correct option": "a",
+    "chapter": "Applications of Integrals"
+  },
+  "23": {
+    "Question": "What is the solution to the differential equation dy/dx = 2x?",
+    "options": ["a. y = x^2 + C", "b. y = x^2", "c. y = 2x + C", "d. y = 2x^2 + C"],
+    "correct option": "a",
+    "chapter": "Differential Equations"
+  },
+  "24": {
+    "Question": "What is the value of |i x j| (where i and j are unit vectors)?",
+    "options": ["a. 0", "b. 1", "c. i", "d. j"],
+    "correct option": "b",
+    "chapter": "Vector Algebra"
+  },
+  "25": {
+    "Question": "What is the dot product of vectors A = i + 2j and B = 2i - j?",
+    "options": ["a. 0", "b. 1", "c. 3", "d. -3"],
+    "correct option": "c",
+    "chapter": "Vector Algebra"
+  },
+  "26": {
+    "Question": "Which of the following is the scalar triple product of vectors A, B, and C?",
+    "options": ["a. A • (B x C)", "b. A x (B • C)", "c. A x B x C", "d. (A x B) • C"],
+    "correct option": "a",
+    "chapter": "Vector Algebra"
+  },
+  "27": {
+    "Question": "What is the direction cosines of a vector that is parallel to the z-axis?",
+    "options": ["a. (1, 0, 0)", "b. (0, 1, 0)", "c. (0, 0, 1)", "d. (1, 1, 1)"],
+    "correct option": "c",
+    "chapter": "Three Dimensional Geometry"
+  },
+  "28": {
+    "Question": "What is the area of the triangle formed by the points A(1, 2, 3), B(3, 1, -1), and C(-2, -3, 1)?",
+    "options": ["a. 7 square units", "b. 5 square units", "c. 10 square units", "d. 15 square units"],
+    "correct option": "b",
+    "chapter": "Three Dimensional Geometry"
+  },
+  "29": {
+    "Question": "What is the maximum value of the objective function Z = 3x + 2y in linear programming, subject to the constraints 2x + 3y ≤ 12 and x + 2y ≤ 6?",
+    "options": ["a. 6", "b. 8", "c. 9", "d. 12"],
+    "correct option": "c",
+    "chapter": "Linear Programming"
+  },
+  "30": {
+    "Question": "In a class of 30 students, 15 opted for Physics, 12 opted for Chemistry, and 18 opted for Mathematics. How many students opted for both Physics and Chemistry?",
+    "options": ["a. 2", "b. 3", "c. 4", "d. 5"],
+    "correct option": "b",
+    "chapter": "Probability"
+  },
+  "31": {
+    "Question": "A deck of playing cards has 52 cards. What is the probability of drawing a red card (hearts or diamonds) at random?",
+    "options": ["a. 1/2", "b. 1/4", "c. 1/3", "d. 2/3"],
+    "correct option": "c",
+    "chapter": "Probability"
+  },
+  "32": {
+    "Question": "If f(x) = x^2 - 4x + 4, what is the value of f(2)?",
+    "options": ["a. 0", "b. 1", "c. 2", "d. 4"],
+    "correct option": "a",
+    "chapter": "Relations and Functions"
+  },
+  "33": {
+    "Question": "Which of the following is the range of the function f(x) = -2x^2?",
+    "options": ["a. All real numbers", "b. Only negative real numbers", "c. Only non-positive real numbers", "d. Only even numbers"],
+    "correct option": "c",
+    "chapter": "Relations and Functions"
+  },
+  "34": {
+    "Question": "If f(x) = |x - 2|, what is the value of f(3)?",
+    "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+    "correct option": "b",
+    "chapter": "Relations and Functions"
+  },
+  "35": {
+    "Question": "What is the inverse of the function f(x) = 3x + 2?",
+    "options": ["a. f^(-1)(x) = (x - 2)/3", "b. f^(-1)(x) = (x + 2)/3", "c. f^(-1)(x) = (3x - 2)", "d. f^(-1)(x) = (3x + 2)"],
+    "correct option": "a",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "36": {
+    "Question": "What is the principal value of cos^(-1)(1/2)?",
+    "options": ["a. π/4", "b. π/3", "c. π/6", "d. 2π/3"],
+    "correct option": "b",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "37": {
+    "Question": "What is the period of the function f(x) = cos(2x)?",
+    "options": ["a. π", "b. 2π", "c. π/2", "d. 4π"],
+    "correct option": "b",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "38": {
+    "Question": "If A = [[2, 3], [4, 5]] and B = [[1, 0], [2, 1]], what is the product of A and B?",
+    "options": ["a. [[4, 3], [6, 5]]", "b. [[5, 3], [9, 5]]", "c. [[3, 2], [5, 4]]", "d. [[5, 3], [7, 5]]"],
+    "correct option": "b",
+    "chapter": "Matrices"
+  },
+  "39": {
+    "Question": "What is the determinant of the 2x2 matrix [[5, 7], [3, 4]]?",
+    "options": ["a. 8", "b. 15", "c. 19", "d. 20"],
+    "correct option": "a",
+    "chapter": "Matrices"
+  },
+  "40": {
+    "Question": "Which of the following is a property of determinants?",
+    "options": ["a. det(AB) = det(A) * det(B)", "b. det(A^T) = det(A)", "c. det(kA) = k * det(A) (where k is a scalar)", "d. det(A + B) = det(A) + det(B)"],
+    "correct option": "a",
+    "chapter": "Matrices"
+  },
+  "41": {
+    "Question": "What is the rank of the matrix [[2, 3], [6, 9]]?",
+    "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+    "correct option": "a",
+    "chapter": "Determinants"
+  },
+  "42": {
+    "Question": "Which of the following is the derivative of y = 4x^2 - 5x + 3?",
+    "options": ["a. y' = 8x - 5", "b. y' = 4x - 5", "c. y' = 8x - 6", "d. y' = 4x - 6"],
+    "correct option": "a",
+    "chapter": "Continuity and Differentiability"
+  },
+  "43": {
+    "Question": "What is the slope of the tangent to the curve y = x^3 at the point (2, 8)?",
+    "options": ["a. 2", "b. 4", "c. 6", "d. 8"],
+    "correct option": "b",
+    "chapter": "Continuity and Differentiability"
+  },
+  "44": {
+    "Question": "What is the derivative of cos(x) with respect to x?",
+    "options": ["a. -sin(x)", "b. sin(x)", "c. -cos(x)", "d. cos(x)"],
+    "correct option": "a",
+    "chapter": "Continuity and Differentiability"
+  },
+  "45": {
+    "Question": "What is the value of lim(x->0) (tan(x)/x)?",
+    "options": ["a. 0", "b. 1", "c. ∞", "d. -1"],
+    "correct option": "b",
+    "chapter": "Continuity and Differentiability"
+  },
+  "46": {
+    "Question": "What is the derivative of the function y = ln(x) with respect to x?",
+    "options": ["a. 1/x", "b. x", "c. -1/x", "d. ln(x)"],
+    "correct option": "a",
+    "chapter": "Applications of Derivatives"
+  },
+  "47": {
+    "Question": "What is the local minimum value of the function y = x^4 - 4x^3 + 4x^2?",
+    "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
+    "correct option": "a",
+    "chapter": "Applications of Derivatives"
+  },
+  "48": {
+    "Question": "What is the definite integral of the function f(x) = 3x from 1 to 4?",
+    "options": ["a. 9", "b. 12", "c. 6", "d. 3"],
+    "correct option": "a",
+    "chapter": "Integrals"
+  },
+  "49": {
+    "Question": "What is the area under the curve y = e^(2x) from x = 0 to x = 1?",
+    "options": ["a. e^2", "b. e^3", "c. e^4", "d. e^5"],
+    "correct option": "a",
+    "chapter": "Integrals"
+  },
+  "50": {
+    "Question": "What is the value of ∫(0 to π) sin(2x) dx?",
+    "options": ["a. π/2", "b. 1", "c. 2", "d. 0"],
+    "correct option": "d",
+    "chapter": "Integrals"
+  },
+  "51": {
+    "Question": "Which of the following is the formula for integration by parts?",
+    "options": ["a. ∫u dv = uv - ∫v du", "b. ∫u dv = ∫v du", "c. ∫u dv = uv + ∫v du", "d. ∫u dv = u/v + C"],
+    "correct option": "a",
+    "chapter": "Applications of Integrals"
+  },
+  "52": {
+    "Question": "What is the solution to the differential equation dy/dx = 3x^2?",
+    "options": ["a. y = x^3 + C", "b. y = 3x^2 + C", "c. y = 3x + C", "d. y = 6x + C"],
+    "correct option": "a",
+    "chapter": "Differential Equations"
+  },
+  "53": {
+    "Question": "What is the magnitude of the cross product of vectors A = i + j and B = 2i - 3j?",
+    "options": ["a. √10", "b. √13", "c. √15", "d. √26"],
+    "correct option": "a",
+    "chapter": "Vector Algebra"
+  },
+  "54": {
+    "Question": "What is the dot product of vectors A = 2i + 3j and B = 4i - 5j?",
+    "options": ["a. -1", "b. 1", "c. 0", "d. 15"],
+    "correct option": "c",
+    "chapter": "Vector Algebra"
+  },
+  "55": {
+    "Question": "Which of the following is the vector triple product of vectors A, B, and C?",
+    "options": ["a. A x (B x C)", "b. (A x B) x C", "c. A x B x C", "d. A • (B x C)"],
+    "correct option": "b",
+    "chapter": "Vector Algebra"
+  },
+  "56": {
+    "Question": "What is the direction cosines of a vector that is parallel to the y-axis?",
+    "options": ["a. (1, 0, 0)", "b. (0, 1, 0)", "c. (0, 0, 1)", "d. (1, 1, 1)"],
+    "correct option": "b",
+    "chapter": "Three Dimensional Geometry"
+  },
+  "57": {
+    "Question": "What is the volume of the parallelepiped formed by the vectors A = i + 2j, B = 3i - j, and C = 2i + 4j?",
+    "options": ["a. 4 cubic units", "b. 8 cubic units", "c. 12 cubic units", "d. 16 cubic units"],
+    "correct option": "c",
+    "chapter": "Three Dimensional Geometry"
+  },
+  "58": {
+    "Question": "In a class of 40 students, 20 students like Mathematics, 15 like Physics, and 25 like Chemistry. How many students like both Mathematics and Physics?",
+    "options": ["a. 5", "b. 10", "c. 15", "d. 20"],
+    "correct option": "b",
+    "chapter": "Probability"
+  },
+  "59": {
+    "Question": "A standard deck of playing cards has 52 cards. What is the probability of drawing a face card (jack, queen, or king) at random?",
+    "options": ["a. 1/13", "b. 1/4", "c. 3/13", "d. 1/3"],
+    "correct option": "c",
+    "chapter": "Probability"
+  },
+  "60": {
+    "Question": "If f(x) = 2x^2 - 3x + 1, what is the value of f(3)?",
+    "options": ["a. 4", "b. 7", "c. 10", "d. 13"],
+    "correct option": "d",
+    "chapter": "Relations and Functions"
+  },
+  "61": {
+    "Question": "Which of the following is the range of the function f(x) = x^2 - 4x + 4?",
+    "options": ["a. All real numbers", "b. Only negative real numbers", "c. Only non-positive real numbers", "d. Only even numbers"],
+    "correct option": "c",
+    "chapter": "Relations and Functions"
+  },
+  "62": {
+    "Question": "If f(x) = |x - 3|, what is the value of f(3)?",
+    "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
+    "correct option": "a",
+    "chapter": "Relations and Functions"
+  },
+  "63": {
+    "Question": "What is the inverse of the function f(x) = 2x + 1?",
+    "options": ["a. f^(-1)(x) = (x - 1)/2", "b. f^(-1)(x) = (x + 1)/2", "c. f^(-1)(x) = (2x - 1)", "d. f^(-1)(x) = (2x + 1)"],
+    "correct option": "a",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "64": {
+    "Question": "What is the principal value of tan^(-1)(1)?",
+    "options": ["a. π/4", "b. π/3", "c. π/6", "d. 2π/3"],
+    "correct option": "c",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "65": {
+    "Question": "What is the period of the function f(x) = sin(3x)?",
+    "options": ["a. π", "b. 2π", "c. π/3", "d. 4π"],
+    "correct option": "b",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "66": {
+    "Question": "If A = [[3, 2], [5, 4]] and B = [[1, 0], [2, 1]], what is the product of A and B?",
+    "options": ["a. [[4, 3], [6, 5]]", "b. [[5, 3], [9, 5]]", "c. [[3, 2], [5, 4]]", "d. [[5, 3], [7, 5]]"],
+    "correct option": "b",
+    "chapter": "Matrices"
+  },
+  "67": {
+    "Question": "What is the determinant of the 2x2 matrix [[6, 7], [8, 9]]?",
+    "options": ["a. 2", "b. 3", "c. 1", "d. 0"],
+    "correct option": "d",
+    "chapter": "Matrices"
+  },
+  "68": {
+    "Question": "Which of the following is a property of determinants?",
+    "options": ["a. det(AB) = det(A) * det(B)", "b. det(A^T) = det(A)", "c. det(kA) = k * det(A) (where k is a scalar)", "d. det(A + B) = det(A) + det(B)"],
+    "correct option": "a",
+    "chapter": "Matrices"
+  },
+  "69": {
+    "Question": "What is the rank of the matrix [[3, 4], [6, 8]]?",
+    "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+    "correct option": "a",
+    "chapter": "Determinants"
+  },
+  "70": {
+    "Question": "Which of the following is the derivative of y = 5x^2 - 3x + 2?",
+    "options": ["a. y' = 10x - 3", "b. y' = 5x - 3", "c. y' = 10x - 2", "d. y' = 5x - 2"],
+    "correct option": "a",
+    "chapter": "Continuity and Differentiability"
+  },
+  "71": {
+    "Question": "What is the slope of the tangent to the curve y = x^3 at the point (3, 27)?",
+    "options": ["a. 6", "b. 9", "c. 18", "d. 27"],
+    "correct option": "b",
+    "chapter": "Continuity and Differentiability"
+  },
+  "72": {
+    "Question": "What is the derivative of sin(x) with respect to x?",
+    "options": ["a. cos(x)", "b. -cos(x)", "c. sin(x)", "d. -sin(x)"],
+    "correct option": "a",
+    "chapter": "Continuity and Differentiability"
+  },
+  "73": {
+    "Question": "What is the value of lim(x->0) (sin(x)/x)?",
+    "options": ["a. 0", "b. 1", "c. ∞", "d. -1"],
+    "correct option": "b",
+    "chapter": "Continuity and Differentiability"
+  },
+  "74": {
+    "Question": "What is the derivative of the function y = e^(3x) with respect to x?",
+    "options": ["a. 3e^(3x)", "b. 3e^(3x) + C", "c. e^(3x)", "d. 9e^(3x)"],
+    "correct option": "a",
+    "chapter": "Applications of Derivatives"
+  },
+  "75": {
+    "Question": "What is the local minimum value of the function y = x^4 - 2x^2?",
+    "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
+    "correct option": "a",
+    "chapter": "Applications of Derivatives"
+  },
+  "76": {
+    "Question": "What is the definite integral of the function f(x) = 4x from 1 to 5?",
+    "options": ["a. 12", "b. 16", "c. 20", "d. 24"],
+    "correct option": "b",
+    "chapter": "Integrals"
+  },
+  "77": {
+    "Question": "What is the area under the curve y = e^(2x) from x = 0 to x = 2?",
+    "options": ["a. e^4", "b. e^2", "c. e^3", "d. e^5"],
+    "correct option": "c",
+    "chapter": "Integrals"
+  },
+  "78": {
+    "Question": "What is the value of ∫(0 to π/2) cos(x) dx?",
+    "options": ["a. 1", "b. π/2", "c. 0", "d. π"],
+    "correct option": "b",
+    "chapter": "Integrals"
+  },
+  "79": {
+    "Question": "Which of the following is the formula for integration by parts?",
+    "options": ["a. ∫u dv = uv - ∫v du", "b. ∫u dv = ∫v du", "c. ∫u dv = uv + ∫v du", "d. ∫u dv = u/v + C"],
+    "correct option": "a",
+    "chapter": "Applications of Integrals"
+  },
+  "80": {
+    "Question": "What is the solution to the differential equation dy/dx = 2x?",
+    "options": ["a. y = x^2 + C", "b. y = 2x + C", "c. y = x + C", "d. y = 4x + C"],
+    "correct option": "a",
+    "chapter": "Differential Equations"
+  },
+  "81": {
+    "Question": "What is the magnitude of the cross product of vectors A = 2i + j and B = 3i - 2j?",
+    "options": ["a. √10", "b. √13", "c. √15", "d. √26"],
+    "correct option": "a",
+    "chapter": "Vector Algebra"
+  },
+  "82": {
+    "Question": "What is the dot product of vectors A = 3i + 4j and B = 2i - 5j?",
+    "options": ["a. -2", "b. 2", "c. 7", "d. -7"],
+    "correct option": "c",
+    "chapter": "Vector Algebra"
+  },
+  "83": {
+    "Question": "Which of the following is the vector triple product of vectors A, B, and C?",
+    "options": ["a. A x (B x C)", "b. (A x B) x C", "c. A x B x C", "d. A • (B x C)"],
+    "correct option": "b",
+    "chapter": "Vector Algebra"
+  },
+  "84": {
+    "Question": "What is the direction cosines of a vector that is parallel to the x-axis?",
+    "options": ["a. (1, 0, 0)", "b. (0, 1, 0)", "c. (0, 0, 1)", "d. (1, 1, 1)"],
+    "correct option": "a",
+    "chapter": "Three Dimensional Geometry"
+  },
+  "85": {
+    "Question": "What is the volume of the parallelepiped formed by the vectors A = i + j, B = 2i - j, and C = 3i + 2j?",
+    "options": ["a. 1 cubic unit", "b. 2 cubic units", "c. 3 cubic units", "d. 4 cubic units"],
+    "correct option": "b",
+    "chapter": "Three Dimensional Geometry"
+  },
+  "86": {
+    "Question": "In a class of 50 students, 30 students like Biology, 25 like Physics, and 35 like Chemistry. How many students like both Biology and Physics?",
+    "options": ["a. 5", "b. 10", "c. 15", "d. 20"],
+    "correct option": "c",
+    "chapter": "Probability"
+  },
+  "87": {
+    "Question": "A standard deck of playing cards has 52 cards. What is the probability of drawing a red card (hearts or diamonds) at random?",
+    "options": ["a. 1/2", "b. 1/4", "c. 1/3", "d. 2/3"],
+    "correct option": "c",
+    "chapter": "Probability"
+  },
+  "88": {
+    "Question": "If f(x) = 3x^2 - 2x + 1, what is the value of f(2)?",
+    "options": ["a. 5", "b. 7", "c. 9", "d. 11"],
+    "correct option": "c",
+    "chapter": "Relations and Functions"
+  },
+  "89": {
+    "Question": "Which of the following is the range of the function f(x) = x^2 - 2x + 2?",
+    "options": ["a. All real numbers", "b. Only negative real numbers", "c. Only non-positive real numbers", "d. Only even numbers"],
+    "correct option": "c",
+    "chapter": "Relations and Functions"
+  },
+  "90": {
+    "Question": "If f(x) = |x - 4|, what is the value of f(4)?",
+    "options": ["a. 0", "b. 1", "c. 2", "d. 4"],
+    "correct option": "a",
+    "chapter": "Relations and Functions"
+  },
+  "91": {
+    "Question": "What is the inverse of the function f(x) = 3x + 2?",
+    "options": ["a. f^(-1)(x) = (x - 2)/3", "b. f^(-1)(x) = (x + 2)/3", "c. f^(-1)(x) = (3x - 2)", "d. f^(-1)(x) = (3x + 2)"],
+    "correct option": "a",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "92": {
+    "Question": "What is the principal value of sin^(-1)(1/2)?",
+    "options": ["a. π/4", "b. π/6", "c. π/3", "d. 2π/3"],
+    "correct option": "b",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "93": {
+    "Question": "What is the period of the function f(x) = cos(2x)?",
+    "options": ["a. π", "b. 2π", "c. π/2", "d. 4π"],
+    "correct option": "c",
+    "chapter": "Inverse Trigonometric Functions"
+  },
+  "94": {
+    "Question": "If A = [[2, 3], [4, 5]] and B = [[1, 0], [2, 1]], what is the product of A and B?",
+    "options": ["a. [[5, 3], [8, 4]]", "b. [[6, 3], [10, 5]]", "c. [[4, 3], [6, 5]]", "d. [[6, 4], [8, 6]]"],
+    "correct option": "b",
+    "chapter": "Matrices"
+  },
+  "95": {
+    "Question": "What is the determinant of the 2x2 matrix [[4, 5], [6, 7]]?",
+    "options": ["a. 3", "b. 4", "c. 2", "d. 1"],
+    "correct option": "a",
+    "chapter": "Matrices"
+  },
+  "96": {
+    "Question": "Which of the following is a property of determinants?",
+    "options": ["a. det(AB) = det(A) * det(B)", "b. det(A^T) = det(A)", "c. det(kA) = k * det(A) (where k is a scalar)", "d. det(A + B) = det(A) + det(B)"],
+    "correct option": "a",
+    "chapter": "Matrices"
+  },
+  "97": {
+    "Question": "What is the rank of the matrix [[3, 5], [6, 10]]?",
+    "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
+    "correct option": "a",
+    "chapter": "Determinants"
+  },
+  "98": {
+    "Question": "Which of the following is the derivative of y = 2x^2 - x + 4?",
+    "options": ["a. y' = 4x - 1", "b. y' = 2x - 1", "c. y' = 4x - 2", "d. y' = 2x - 2"],
+    "correct option": "a",
+    "chapter": "Continuity and Differentiability"
+  },
+  "99": {
+    "Question": "What is the slope of the tangent to the curve y = x^3 at the point (1, 1)?",
+    "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
+    "correct option": "b",
+    "chapter": "Continuity and Differentiability"
+  },
+  "100": {
+    "Question": "What is the derivative of tan(x) with respect to x?",
+    "options": ["a. sec^2(x)", "b. -sec^2(x)", "c. cos^2(x)", "d. -cos^2(x)"],
+    "correct option": "a",
+    "chapter": "Continuity and Differentiability"
   }
-  
+}

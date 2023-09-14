@@ -1,303 +1,602 @@
 {
-    "1": {
-      "Question": "What is the basic unit of life?",
-      "options": ["Cell", "Tissue", "Organ", "Organism"],
-      "correct option": "a",
-      "chapter": "The Living World"
-    },
-    "2": {
-      "Question": "Who is considered the father of modern taxonomy?",
-      "options": ["Charles Darwin", "Gregor Mendel", "Carl Linnaeus", "Alfred Wallace"],
-      "correct option": "c",
-      "chapter": "The Living World"
-    },
-    "3": {
-      "Question": "Which domain includes prokaryotic organisms?",
-      "options": ["Eukarya", "Bacteria", "Archaea", "Fungi"],
-      "correct option": "b",
-      "chapter": "The Living World"
-    },
-    "4": {
-      "Question": "Which kingdom includes multicellular eukaryotic organisms that lack cell walls?",
-      "options": ["Plantae", "Animalia", "Protista", "Fungi"],
-      "correct option": "b",
-      "chapter": "Biological Classification"
-    },
-    "5": {
-      "Question": "Which group of plants typically shows alternation of generations in their life cycle?",
-      "options": ["Angiosperms", "Gymnosperms", "Bryophytes", "Pteridophytes"],
-      "correct option": "c",
-      "chapter": "Plant Kingdom"
-    },
-    "6": {
-      "Question": "Which phylum includes organisms with a notochord and dorsal hollow nerve cord?",
-      "options": ["Arthropoda", "Chordata", "Mollusca", "Porifera"],
-      "correct option": "b",
-      "chapter": "Animal Kingdom"
-    },
-    "7": {
-      "Question": "What is the primary function of roots in plants?",
-      "options": ["Photosynthesis", "Transpiration", "Anchorage", "Reproduction"],
-      "correct option": "c",
-      "chapter": "Morphology of Flowering Plants"
-    },
-    "8": {
-      "Question": "Which tissue in plants is responsible for the transport of water and minerals?",
-      "options": ["Parenchyma", "Collenchyma", "Sclerenchyma", "Xylem"],
-      "correct option": "d",
-      "chapter": "Anatomy of Flowering Plants"
-    },
-    "9": {
-      "Question": "In which type of circulatory system does blood flow through open spaces or sinuses?",
-      "options": ["Open circulatory system", "Closed circulatory system", "Both A and B", "Neither A nor B"],
-      "correct option": "a",
-      "chapter": "Structural Organisation in Animals"
-    },
-    "10": {
-      "Question": "Which organelle is often referred to as the 'powerhouse of the cell'?",
-      "options": ["Golgi apparatus", "Lysosome", "Mitochondrion", "Ribosome"],
-      "correct option": "c",
-      "chapter": "Cell: The Unit of Life"
-    },
-    "11": {
-      "Question": "Which type of biomolecules are enzymes primarily composed of?",
-      "options": ["Carbohydrates", "Proteins", "Lipids", "Nucleic acids"],
-      "correct option": "b",
-      "chapter": "Biomolecules"
-    },
-    "12": {
-      "Question": "What is the process by which cells divide and produce identical daughter cells?",
-      "options": ["Meiosis", "Mitosis", "Fertilization", "Gametogenesis"],
-      "correct option": "b",
-      "chapter": "Cell Cycle and Cell Division"
-    },
-    "13": {
-      "Question": "Which tissue in plants is responsible for the transport of organic nutrients?",
-      "options": ["Phloem", "Xylem", "Epidermis", "Cortex"],
-      "correct option": "a",
-      "chapter": "Transport in Plants"
-    },
-    "14": {
-      "Question": "Which essential mineral nutrient is required for the formation of chlorophyll in plants?",
-      "options": ["Iron", "Calcium", "Phosphorus", "Potassium"],
-      "correct option": "a",
-      "chapter": "Mineral Nutrition"
-    },
-    "15": {
-      "Question": "During photosynthesis, where does the light-dependent reaction occur in the chloroplast?",
-      "options": ["Stroma", "Thylakoid membrane", "Outer membrane", "Inner membrane"],
-      "correct option": "b",
-      "chapter": "Photosynthesis in Higher Plants"
-    },
-    "16": {
-      "Question": "Which gas is exchanged during the process of respiration in plants?",
-      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
-      "correct option": "b",
-      "chapter": "Respiration in Plants"
-    },
-    "17": {
-      "Question": "What is the process by which plants increase in height and girth?",
-      "options": ["Mitosis", "Meiosis", "Meristematic growth", "Senescence"],
-      "correct option": "c",
-      "chapter": "Plant Growth and Development"
-    },
-    "18": {
-      "Question": "Which digestive enzyme breaks down proteins into peptides?",
-      "options": ["Amylase", "Lipase", "Trypsin", "Pepsin"],
-      "correct option": "c",
-      "chapter": "Digestion and Absorption"
-    },
-    "19": {
-      "Question": "In which part of the respiratory system does the exchange of oxygen and carbon dioxide occur in humans?",
-      "options": ["Trachea", "Bronchi", "Alveoli", "Pharynx"],
-      "correct option": "c",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    "20": {
-      "Question": "What is the major component of blood plasma?",
-      "options": ["Red blood cells", "White blood cells", "Platelets", "Water"],
-      "correct option": "d",
-      "chapter": "Body Fluids and Circulation"
-    },
-    "21": {
-      "Question": "Which organ is responsible for the production of urine in humans?",
-      "options": ["Liver", "Heart", "Kidney", "Stomach"],
-      "correct option": "c",
-      "chapter": "Excretory Products and their Elimination"
-    },
-    "22": {
-      "Question": "Which type of joint allows movement in multiple directions, like the hip joint?",
-      "options": ["Ball-and-socket joint", "Hinge joint", "Pivot joint", "Fixed joint"],
-      "correct option": "a",
-      "chapter": "Locomotion and Movement"
-    },
-    "23": {
-      "Question": "What is the main function of the central nervous system?",
-      "options": ["Digestion", "Coordination of body movements", "Respiration", "Blood circulation"],
-      "correct option": "b",
-      "chapter": "Neural Control and Coordination"
-    },
-    "24": {
-      "Question": "Which gland is responsible for producing insulin in the human body?",
-      "options": ["Adrenal gland", "Thyroid gland", "Pancreas", "Pituitary gland"],
-      "correct option": "c",
-      "chapter": "Chemical Coordination and Integration"
-    },
-    "25": {
-      "Question": "Which of the following is not a characteristic of living organisms?",
-      "options": ["Reproduction", "Growth and development", "Response to stimuli", "Inheritance of acquired traits"],
-      "correct option": "d",
-      "chapter": "The Living World"
-    },
-    "26": {
-      "Question": "Which group of plants reproduces through spores and lacks vascular tissue?",
-      "options": ["Bryophytes", "Pteridophytes", "Gymnosperms", "Angiosperms"],
-      "correct option": "a",
-      "chapter": "Plant Kingdom"
-    },
-    "27": {
-      "Question": "Which of the following is not a component of the plant cell wall?",
-      "options": ["Cellulose", "Lignin", "Pectin", "Chitin"],
-      "correct option": "d",
-      "chapter": "Morphology of Flowering Plants"
-    },
-    "28": {
-      "Question": "What is the primary function of the stomata in plant leaves?",
-      "options": ["Photosynthesis", "Transpiration", "Anchorage", "Reproduction"],
-      "correct option": "b",
-      "chapter": "Anatomy of Flowering Plants"
-    },
-    "29": {
-      "Question": "Which tissue in animals is responsible for connecting and supporting other tissues and organs?",
-      "options": ["Muscle tissue", "Nervous tissue", "Connective tissue", "Epithelial tissue"],
-      "correct option": "c",
-      "chapter": "Structural Organisation in Animals"
-    },
-    "30": {
-      "Question": "Which organelle is responsible for the synthesis of proteins in a cell?",
-      "options": ["Golgi apparatus", "Lysosome", "Mitochondrion", "Ribosome"],
-      "correct option": "d",
-      "chapter": "Cell: The Unit of Life"
-    },
-    "31": {
-      "Question": "Which type of biomolecule is a major source of energy for the body?",
-      "options": ["Carbohydrates", "Proteins", "Lipids", "Nucleic acids"],
-      "correct option": "a",
-      "chapter": "Biomolecules"
-    },
-    "32": {
-      "Question": "Which type of cell division results in the formation of gametes?",
-      "options": ["Mitosis", "Meiosis", "Fertilization", "Binary fission"],
-      "correct option": "b",
-      "chapter": "Cell Cycle and Cell Division"
-    },
-    "33": {
-      "Question": "Which tissue in plants is responsible for the transport of organic nutrients?",
-      "options": ["Phloem", "Xylem", "Epidermis", "Cortex"],
-      "correct option": "a",
-      "chapter": "Transport in Plants"
-    },
-    "34": {
-      "Question": "Which essential mineral nutrient is required for the formation of chlorophyll in plants?",
-      "options": ["Iron", "Calcium", "Phosphorus", "Potassium"],
-      "correct option": "a",
-      "chapter": "Mineral Nutrition"
-    },
-    "35": {
-      "Question": "During photosynthesis, where does the light-dependent reaction occur in the chloroplast?",
-      "options": ["Stroma", "Thylakoid membrane", "Outer membrane", "Inner membrane"],
-      "correct option": "b",
-      "chapter": "Photosynthesis in Higher Plants"
-    },
-    "36": {
-      "Question": "Which gas is exchanged during the process of respiration in plants?",
-      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
-      "correct option": "b",
-      "chapter": "Respiration in Plants"
-    },
-    "37": {
-      "Question": "What is the process by which plants increase in height and girth?",
-      "options": ["Mitosis", "Meiosis", "Meristematic growth", "Senescence"],
-      "correct option": "c",
-      "chapter": "Plant Growth and Development"
-    },
-    "38": {
-      "Question": "Which digestive enzyme breaks down proteins into peptides?",
-      "options": ["Amylase", "Lipase", "Trypsin", "Pepsin"],
-      "correct option": "c",
-      "chapter": "Digestion and Absorption"
-    },
-    "39": {
-      "Question": "In which part of the respiratory system does the exchange of oxygen and carbon dioxide occur in humans?",
-      "options": ["Trachea", "Bronchi", "Alveoli", "Pharynx"],
-      "correct option": "c",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    "40": {
-      "Question": "What is the major component of blood plasma?",
-      "options": ["Red blood cells", "White blood cells", "Platelets", "Water"],
-      "correct option": "d",
-      "chapter": "Body Fluids and Circulation"
-    },
-    "41": {
-      "Question": "Which organ is responsible for the production of urine in humans?",
-      "options": ["Liver", "Heart", "Kidney", "Stomach"],
-      "correct option": "c",
-      "chapter": "Excretory Products and their Elimination"
-    },
-    "42": {
-      "Question": "Which type of joint allows movement in multiple directions, like the hip joint?",
-      "options": ["Ball-and-socket joint", "Hinge joint", "Pivot joint", "Fixed joint"],
-      "correct option": "a",
-      "chapter": "Locomotion and Movement"
-    },
-    "43": {
-      "Question": "What is the main function of the central nervous system?",
-      "options": ["Digestion", "Coordination of body movements", "Respiration", "Blood circulation"],
-      "correct option": "b",
-      "chapter": "Neural Control and Coordination"
-    },
-    "44": {
-      "Question": "Which gland is responsible for producing insulin in the human body?",
-      "options": ["Adrenal gland", "Thyroid gland", "Pancreas", "Pituitary gland"],
-      "correct option": "c",
-      "chapter": "Chemical Coordination and Integration"
-    },
-    "45": {
-      "Question": "Which of the following is not a characteristic of living organisms?",
-      "options": ["Reproduction", "Growth and development", "Response to stimuli", "Inheritance of acquired traits"],
-      "correct option": "d",
-      "chapter": "The Living World"
-    },
-    "46": {
-      "Question": "Which group of plants reproduces through spores and lacks vascular tissue?",
-      "options": ["Bryophytes", "Pteridophytes", "Gymnosperms", "Angiosperms"],
-      "correct option": "a",
-      "chapter": "Plant Kingdom"
-    },
-    "47": {
-      "Question": "Which of the following is not a component of the plant cell wall?",
-      "options": ["Cellulose", "Lignin", "Pectin", "Chitin"],
-      "correct option": "d",
-      "chapter": "Morphology of Flowering Plants"
-    },
-    "48": {
-      "Question": "What is the primary function of the stomata in plant leaves?",
-      "options": ["Photosynthesis", "Transpiration", "Anchorage", "Reproduction"],
-      "correct option": "b",
-      "chapter": "Anatomy of Flowering Plants"
-    },
-    "49": {
-      "Question": "Which tissue in animals is responsible for connecting and supporting other tissues and organs?",
-      "options": ["Muscle tissue", "Nervous tissue", "Connective tissue", "Epithelial tissue"],
-      "correct option": "c",
-      "chapter": "Structural Organisation in Animals"
-    },
-    "50": {
-      "Question": "Which organelle is responsible for the synthesis of proteins in a cell?",
-      "options": ["Golgi apparatus", "Lysosome", "Mitochondrion", "Ribosome"],
-      "correct option": "d",
-      "chapter": "Cell: The Unit of Life"
-    }
+  "1": {
+    "Question": "What is the basic unit of life?",
+    "options": ["Cell", "Tissue", "Organ", "Organism"],
+    "correct option": "a",
+    "chapter": "The Living World"
+  },
+  "2": {
+    "Question": "Which cell organelle is responsible for energy production in the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "correct option": "b",
+    "chapter": "Cell: The Unit of Life"
+  },
+  "3": {
+    "Question": "What is the function of ribosomes in a cell?",
+    "options": ["Protein synthesis", "Lipid synthesis", "DNA replication", "Energy production"],
+    "correct option": "a",
+    "chapter": "Cell: The Unit of Life"
+  },
+  "4": {
+    "Question": "Which gas is responsible for the greenhouse effect on Earth?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correct option": "b",
+    "chapter": "Cell: The Unit of Life"
+  },
+  "5": {
+    "Question": "What is the primary function of the cell membrane?",
+    "options": ["Energy production", "Cell division", "Selective permeability", "Protein synthesis"],
+    "correct option": "c",
+    "chapter": "Cell: The Unit of Life"
+  },
+  "6": {
+    "Question": "What is the term for the process of cell eating solid particles?",
+    "options": ["Exocytosis", "Endocytosis", "Phagocytosis", "Pinocytosis"],
+    "correct option": "c",
+    "chapter": "Cell: The Unit of Life"
+  },
+  "7": {
+    "Question": "Which of the following is not a function of the Golgi apparatus?",
+    "options": ["Protein modification", "Lipid synthesis", "Package and transport of molecules", "Formation of lysosomes"],
+    "correct option": "b",
+    "chapter": "Cell: The Unit of Life"
+  },
+  "8": {
+    "Question": "What is the function of the chloroplast in plant cells?",
+    "options": ["Photosynthesis", "Cell division", "Protein synthesis", "Respiration"],
+    "correct option": "a",
+    "chapter": "Cell: The Unit of Life"
+  },
+  "9": {
+    "Question": "Which of the following is a storage polysaccharide in animals?",
+    "options": ["Starch", "Cellulose", "Glycogen", "Chitin"],
+    "correct option": "c",
+    "chapter": "Biomolecules"
+  },
+  "10": {
+    "Question": "Which biomolecule is known as the 'energy currency' of the cell?",
+    "options": ["Carbohydrates", "Proteins", "Nucleic acids", "ATP"],
+    "correct option": "d",
+    "chapter": "Biomolecules"
+  },
+  "11": {
+    "Question": "What is the chemical formula of glucose?",
+    "options": ["C6H12O6", "CH4O2", "C2H5OH", "C4H8O4"],
+    "correct option": "a",
+    "chapter": "Biomolecules"
+  },
+  "12": {
+    "Question": "Which nucleic acid is responsible for the storage of genetic information?",
+    "options": ["DNA", "RNA", "ATP", "Glycogen"],
+    "correct option": "a",
+    "chapter": "Cell Cycle and Cell Division"
+  },
+  "13": {
+    "Question": "What is the longest phase of the cell cycle?",
+    "options": ["G1 phase", "S phase", "G2 phase", "M phase"],
+    "correct option": "a",
+    "chapter": "Cell Cycle and Cell Division"
+  },
+  "14": {
+    "Question": "What is the process by which a diploid cell divides to form four haploid cells?",
+    "options": ["Mitosis", "Cytokinesis", "Meiosis", "Binary fission"],
+    "correct option": "c",
+    "chapter": "Cell Cycle and Cell Division"
+  },
+  "15": {
+    "Question": "What is the name of the enzyme responsible for unwinding the DNA double helix during replication?",
+    "options": ["DNA polymerase", "RNA polymerase", "Helicase", "Ligase"],
+    "correct option": "c",
+    "chapter": "Biomolecules"
+  },
+  "16": {
+    "Question": "Which gas is produced during photosynthesis?",
+    "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+    "correct option": "a",
+    "chapter": "Photosynthesis in Higher Plants"
+  },
+  "17": {
+    "Question": "What is the pigment responsible for capturing light energy during photosynthesis?",
+    "options": ["Chlorophyll", "Carotenoids", "Xanthophylls", "Phycocyanin"],
+    "correct option": "a",
+    "chapter": "Photosynthesis in Higher Plants"
+  },
+  "18": {
+    "Question": "In which part of the plant does photosynthesis primarily occur?",
+    "options": ["Roots", "Stem", "Leaves", "Flowers"],
+    "correct option": "c",
+    "chapter": "Photosynthesis in Higher Plants"
+  },
+  "19": {
+    "Question": "What is the primary function of the stomata in plant leaves?",
+    "options": ["Transpiration", "Photosynthesis", "Nutrient absorption", "Reproduction"],
+    "correct option": "a",
+    "chapter": "Photosynthesis in Higher Plants"
+  },
+  "20": {
+    "Question": "Which process involves the conversion of glucose into pyruvate without the use of oxygen?",
+    "options": ["Fermentation", "Glycolysis", "Citric acid cycle", "Oxidative phosphorylation"],
+    "correct option": "b",
+    "chapter": "Respiration in Plants"
+  },
+  "21": {
+    "Question": "In which part of the cell does glycolysis take place?",
+    "options": ["Cytoplasm", "Mitochondria", "Nucleus", "Endoplasmic reticulum"],
+    "correct option": "a",
+    "chapter": "Respiration in Plants"
+  },
+  "22": {
+    "Question": "Which gas is produced during anaerobic respiration in humans?",
+    "options": ["Oxygen", "Carbon dioxide", "Methane", "Hydrogen"],
+    "correct option": "b",
+    "chapter": "Respiration in Plants"
+  },
+  "23": {
+    "Question": "What is the term for the loss of water vapor from the aerial parts of plants?",
+    "options": ["Transpiration", "Photosynthesis", "Respiration", "Translocation"],
+    "correct option": "a",
+    "chapter": "Transport in Plants"
+  },
+  "24": {
+    "Question": "Which tissue in plants is responsible for the transport of water and nutrients?",
+    "options": ["Epidermis", "Xylem", "Phloem", "Collenchyma"],
+    "correct option": "b",
+    "chapter": "Transport in Plants"
+  },
+  "25": {
+    "Question": "Which of the following is not a component of phloem tissue?",
+    "options": ["Sieve tubes", "Companion cells", "Tracheids", "Phloem fibers"],
+    "correct option": "c",
+    "chapter": "Transport in Plants"
+  },
+  "26": {
+    "Question": "Which hormone is responsible for the elongation of plant cells?",
+    "options": ["Auxin", "Gibberellin", "Cytokinin", "Abscisic acid"],
+    "correct option": "a",
+    "chapter": "Transport in Plants"
+  },
+  "27": {
+    "Question": "What is the role of ADH (antidiuretic hormone) in the human body?",
+    "options": ["Promoting water reabsorption in the kidneys", "Stimulating growth", "Enhancing digestion", "Regulating blood pressure"],
+    "correct option": "a",
+    "chapter": "Excretory Products and Their Elimination"
+  },
+  "28": {
+    "Question": "Which of the following is a nitrogenous waste product in humans?",
+    "options": ["Urea", "Ammonia", "Glucose", "Creatinine"],
+    "correct option": "a",
+    "chapter": "Excretory Products and Their Elimination"
+  },
+  "29": {
+    "Question": "What is the functional unit of the kidney?",
+    "options": ["Nephron", "Neuron", "Glomerulus", "Renin"],
+    "correct option": "a",
+    "chapter": "Excretory Products and Their Elimination"
+  },
+  "30": {
+    "Question": "What is the process of removal of metabolic waste products from the body?",
+    "options": ["Digestion", "Respiration", "Excretion", "Circulation"],
+    "correct option": "c",
+    "chapter": "Excretory Products and Their Elimination"
+  },
+  "31": {
+    "Question": "Which of the following is not a function of the liver in humans?",
+    "options": ["Detoxification", "Bile production", "Insulin secretion", "Metabolism of nutrients"],
+    "correct option": "c",
+    "chapter": "Digestion and Absorption"
+  },
+  "32": {
+    "Question": "What is the enzyme responsible for the digestion of carbohydrates in the mouth?",
+    "options": ["Amylase", "Pepsin", "Lipase", "Trypsin"],
+    "correct option": "a",
+    "chapter": "Digestion and Absorption"
+  },
+  "33": {
+    "Question": "Which of the following is the main site of absorption of nutrients in the human digestive system?",
+    "options": ["Stomach", "Liver", "Small intestine", "Large intestine"],
+    "correct option": "c",
+    "chapter": "Digestion and Absorption"
+  },
+  "34": {
+    "Question": "What is the pH of the gastric juice in the stomach?",
+    "options": ["Neutral (pH 7)", "Acidic (pH 2-3)", "Alkaline (pH 10-11)", "Slightly acidic (pH 5-6)"],
+    "correct option": "b",
+    "chapter": "Digestion and Absorption"
+  },
+  "35": {
+    "Question": "What is the role of bile in the digestion of fats?",
+    "options": ["Digestion of proteins", "Emulsification of fats", "Absorption of carbohydrates", "Neutralization of stomach acid"],
+    "correct option": "b",
+    "chapter": "Digestion and Absorption"
+  },
+  "36": {
+    "Question": "Which of the following is not a function of the nervous system?",
+    "options": ["Sensory perception", "Motor control", "Hormone secretion", "Integration of information"],
+    "correct option": "c",
+    "chapter": "Breathing and Exchange of Gases"
+  },
+  "37": {
+    "Question": "Which part of the human brain is responsible for coordinating voluntary muscle movements?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hippocampus"],
+    "correct option": "b",
+    "chapter": "Breathing and Exchange of Gases"
+  },
+  "38": {
+    "Question": "What is the term for the volume of air that remains in the lungs after a forced exhalation?",
+    "options": ["Residual volume", "Tidal volume", "Inspiratory reserve volume", "Expiratory reserve volume"],
+    "correct option": "a",
+    "chapter": "Breathing and Exchange of Gases"
+  },
+  "39": {
+    "Question": "Which gas is primarily responsible for the exchange of gases in the alveoli of the lungs?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+    "correct option": "a",
+    "chapter": "Breathing and Exchange of Gases"
+  },
+  "40": {
+    "Question": "What is the name of the enzyme present in saliva that helps in the digestion of starch?",
+    "options": ["Amylase", "Pepsin", "Lipase", "Trypsin"],
+    "correct option": "a",
+    "chapter": "Breathing and Exchange of Gases"
+  },
+  "41": {
+    "Question": "Which hormone regulates blood sugar levels in the human body?",
+    "options": ["Insulin", "Adrenaline", "Testosterone", "Estrogen"],
+    "correct option": "a",
+    "chapter": "Body Fluids and Circulation"
+  },
+  "42": {
+    "Question": "What is the name of the protein responsible for blood clotting?",
+    "options": ["Hemoglobin", "Albumin", "Fibrin", "Keratin"],
+    "correct option": "c",
+    "chapter": "Body Fluids and Circulation"
+  },
+  "43": {
+    "Question": "What is the role of platelets in blood?",
+    "options": ["Oxygen transport", "Immunity", "Blood clotting", "Carbon dioxide transport"],
+    "correct option": "c",
+    "chapter": "Body Fluids and Circulation"
+  },
+  "44": {
+    "Question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "options": ["Aorta", "Pulmonary artery", "Pulmonary vein", "Vena cava"],
+    "correct option": "c",
+    "chapter": "Body Fluids and Circulation"
+  },
+  "45": {
+    "Question": "What is the normal range of blood pressure in adults?",
+    "options": ["90/60 mmHg", "120/80 mmHg", "140/90 mmHg", "160/100 mmHg"],
+    "correct option": "b",
+    "chapter": "Body Fluids and Circulation"
+  },
+  "46": {
+    "Question": "Which part of the human eye is responsible for adjusting the focal length to focus on objects at different distances?",
+    "options": ["Retina", "Cornea", "Lens", "Sclera"],
+    "correct option": "c",
+    "chapter": "Body Fluids and Circulation"
+  },
+  "47": {
+    "Question": "Which of the following is responsible for the transmission of electrical impulses in neurons?",
+    "options": ["Axon", "Dendrite", "Cell body", "Nucleus"],
+    "correct option": "a",
+    "chapter": "Neural Control and Coordination"
+  },
+  "48": {
+    "Question": "What is the junction between two neurons called?",
+    "options": ["Synapse", "Axon", "Dendrite", "Neurotransmitter"],
+    "correct option": "a",
+    "chapter": "Neural Control and Coordination"
+  },
+  "49": {
+    "Question": "Which part of the brain is responsible for maintaining balance and coordination of body movements?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hippocampus"],
+    "correct option": "b",
+    "chapter": "Neural Control and Coordination"
+  },
+  "50": {
+    "Question": "What is the name of the hormone that regulates the sleep-wake cycle in humans?",
+    "options": ["Insulin", "Melatonin", "Adrenaline", "Thyroxine"],
+    "correct option": "b",
+    "chapter": "Neural Control and Coordination"
+  },
+  "51": {
+    "Question": "Which gland is known as the 'master gland' of the endocrine system?",
+    "options": ["Pituitary gland", "Thyroid gland", "Adrenal gland", "Pancreas"],
+    "correct option": "a",
+    "chapter": "Chemical Coordination and Integration"
+  },
+  "52": {
+    "Question": "What is the function of the hormone insulin?",
+    "options": ["Stimulating growth", "Regulating blood sugar levels", "Increasing heart rate", "Controlling body temperature"],
+    "correct option": "b",
+    "chapter": "Chemical Coordination and Integration"
+  },
+  "53": {
+    "Question": "Which hormone is responsible for the development of secondary sexual characteristics in males?",
+    "options": ["Estrogen", "Progesterone", "Testosterone", "Prolactin"],
+    "correct option": "c",
+    "chapter": "Chemical Coordination and Integration"
+  },
+  "54": {
+    "Question": "Which hormone is produced by the adrenal glands in response to stress?",
+    "options": ["Insulin", "Cortisol", "Thyroxine", "Melatonin"],
+    "correct option": "b",
+    "chapter": "Chemical Coordination and Integration"
+  },
+  "55": {
+    "Question": "What is the process by which plants bend towards light called?",
+    "options": ["Phototropism", "Geotropism", "Hydrotropism", "Chemotropism"],
+    "correct option": "a",
+    "chapter": "Plant Growth and Development"
+  },
+  "56": {
+    "Question": "Which plant hormone is responsible for the elongation of plant cells and bending towards light?",
+    "options": ["Auxin", "Gibberellin", "Cytokinin", "Abscisic acid"],
+    "correct option": "a",
+    "chapter": "Plant Growth and Development"
+  },
+  "57": {
+    "Question": "What is the process by which a seed develops into a young plant?",
+    "options": ["Germination", "Photosynthesis", "Fertilization", "Pollination"],
+    "correct option": "a",
+    "chapter": "Plant Growth and Development"
+  },
+  "58": {
+    "Question": "Which part of a plant produces pollen grains?",
+    "options": ["Stigma", "Style", "Ovary", "Anther"],
+    "correct option": "d",
+    "chapter": "Plant Growth and Development"
+  },
+  "59": {
+    "Question": "What is the term for the transfer of pollen from the anther to the stigma of a flower?",
+    "options": ["Fertilization", "Pollination", "Germination", "Photosynthesis"],
+    "correct option": "b",
+    "chapter": "Plant Growth and Development"
+  },
+  "60": {
+    "Question": "Which type of tissue is responsible for the growth in length of plant stems and roots?",
+    "options": ["Epidermal tissue", "Meristematic tissue", "Vascular tissue", "Ground tissue"],
+    "correct option": "b",
+    "chapter": "Plant Growth and Development"
+  },
+  "61": {
+    "Question": "What is the primary function of the male reproductive system in humans?",
+    "options": ["Production of sperm", "Production of eggs", "Fertilization", "Pregnancy"],
+    "correct option": "a",
+    "chapter": "Human Reproduction"
+  },
+  "62": {
+    "Question": "What is the function of the female reproductive system in humans?",
+    "options": ["Production of sperm", "Production of eggs", "Fertilization", "Pregnancy"],
+    "correct option": "b",
+    "chapter": "Human Reproduction"
+  },
+  "63": {
+    "Question": "What is the name of the tube that carries sperm from the testes to the urethra in males?",
+    "options": ["Epididymis", "Vas deferens", "Prostate gland", "Seminal vesicle"],
+    "correct option": "b",
+    "chapter": "Human Reproduction"
+  },
+  "64": {
+    "Question": "What is the process of fusion of a sperm cell with an egg cell called?",
+    "options": ["Fertilization", "Pollination", "Germination", "Budding"],
+    "correct option": "a",
+    "chapter": "Human Reproduction"
+  },
+  "65": {
+    "Question": "What is the name of the hormone responsible for the maintenance of pregnancy in females?",
+    "options": ["Estrogen", "Progesterone", "Testosterone", "Prolactin"],
+    "correct option": "b",
+    "chapter": "Human Reproduction"
+  },
+  "66": {
+    "Question": "Which of the following is not a method of contraception?",
+    "options": ["Oral contraceptives", "Condoms", "Intrauterine devices (IUDs)", "In vitro fertilization (IVF)"],
+    "correct option": "d",
+    "chapter": "Reproductive Health"
+  },
+  "67": {
+    "Question": "What is the term for the removal of the foreskin from the penis?",
+    "options": ["Circumcision", "Sterilization", "Vasectomy", "Tubectomy"],
+    "correct option": "a",
+    "chapter": "Reproductive Health"
+  },
+  "68": {
+    "Question": "Which of the following sexually transmitted infections is caused by a bacterium?",
+    "options": ["HIV/AIDS", "Gonorrhea", "Herpes", "Hepatitis B"],
+    "correct option": "b",
+    "chapter": "Reproductive Health"
+  },
+  "69": {
+    "Question": "What is the term for the surgical procedure for female sterilization?",
+    "options": ["Circumcision", "Sterilization", "Vasectomy", "Tubectomy"],
+    "correct option": "d",
+    "chapter": "Reproductive Health"
+  },
+  "70": {
+    "Question": "What is the name of the gas responsible for the depletion of the ozone layer?",
+    "options": ["Oxygen", "Carbon dioxide", "Chlorofluorocarbons (CFCs)", "Methane"],
+    "correct option": "c",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "71": {
+    "Question": "What is the term for the process of selective breeding of plants and animals to improve their quality and quantity?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Hybridization"],
+    "correct option": "d",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "72": {
+    "Question": "Which of the following is not a method of asexual reproduction in plants?",
+    "options": ["Budding", "Layering", "Cutting", "Pollination"],
+    "correct option": "d",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "73": {
+    "Question": "What is the term for the process of transferring pollen from the anther of one flower to the stigma of another flower of the same species?",
+    "options": ["Fertilization", "Pollination", "Germination", "Budding"],
+    "correct option": "b",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "74": {
+    "Question": "Which of the following is a genetically modified (GM) crop?",
+    "options": ["Wheat", "Rice", "Cotton", "Soybean"],
+    "correct option": "c",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "75": {
+    "Question": "What is the process of breaking down complex organic compounds into simpler ones by microorganisms called?",
+    "options": ["Decomposition", "Fermentation", "Digestion", "Photosynthesis"],
+    "correct option": "a",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "76": {
+    "Question": "Which microorganism is used in the production of bread and alcohol?",
+    "options": ["Bacteria", "Fungi", "Algae", "Protozoa"],
+    "correct option": "b",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "77": {
+    "Question": "What is the term for the process of conversion of milk into curd?",
+    "options": ["Fermentation", "Pasteurization", "Sterilization", "Filtration"],
+    "correct option": "a",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "78": {
+    "Question": "Which microorganism is responsible for the production of antibiotics like penicillin?",
+    "options": ["Bacteria", "Fungi", "Algae", "Protozoa"],
+    "correct option": "b",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "79": {
+    "Question": "What is the term for the process of killing or inhibiting the growth of disease-causing microorganisms in food or water?",
+    "options": ["Decomposition", "Fermentation", "Disinfection", "Sterilization"],
+    "correct option": "c",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "80": {
+    "Question": "Which gas is responsible for the depletion of the ozone layer?",
+    "options": ["Oxygen", "Carbon dioxide", "Chlorofluorocarbons (CFCs)", "Methane"],
+    "correct option": "c",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "81": {
+    "Question": "What is the term for the process of selective breeding of plants and animals to improve their quality and quantity?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Hybridization"],
+    "correct option": "d",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "82": {
+    "Question": "Which of the following is not a method of asexual reproduction in plants?",
+    "options": ["Budding", "Layering", "Cutting", "Pollination"],
+    "correct option": "d",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "83": {
+    "Question": "What is the term for the process of transferring pollen from the anther of one flower to the stigma of another flower of the same species?",
+    "options": ["Fertilization", "Pollination", "Germination", "Budding"],
+    "correct option": "b",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "84": {
+    "Question": "Which of the following is a genetically modified (GM) crop?",
+    "options": ["Wheat", "Rice", "Cotton", "Soybean"],
+    "correct option": "c",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "85": {
+    "Question": "What is the process of breaking down complex organic compounds into simpler ones by microorganisms called?",
+    "options": ["Decomposition", "Fermentation", "Digestion", "Photosynthesis"],
+    "correct option": "a",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "86": {
+    "Question": "Which microorganism is used in the production of bread and alcohol?",
+    "options": ["Bacteria", "Fungi", "Algae", "Protozoa"],
+    "correct option": "b",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "87": {
+    "Question": "What is the term for the process of conversion of milk into curd?",
+    "options": ["Fermentation", "Pasteurization", "Sterilization", "Filtration"],
+    "correct option": "a",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "88": {
+    "Question": "Which microorganism is responsible for the production of antibiotics like penicillin?",
+    "options": ["Bacteria", "Fungi", "Algae", "Protozoa"],
+    "correct option": "b",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "89": {
+    "Question": "What is the term for the process of killing or inhibiting the growth of disease-causing microorganisms in food or water?",
+    "options": ["Decomposition", "Fermentation", "Disinfection", "Sterilization"],
+    "correct option": "c",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "90": {
+    "Question": "Which gas is responsible for the depletion of the ozone layer?",
+    "options": ["Oxygen", "Carbon dioxide", "Chlorofluorocarbons (CFCs)", "Methane"],
+    "correct option": "c",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "91": {
+    "Question": "What is the term for the process of selective breeding of plants and animals to improve their quality and quantity?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Hybridization"],
+    "correct option": "d",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "92": {
+    "Question": "Which of the following is not a method of asexual reproduction in plants?",
+    "options": ["Budding", "Layering", "Cutting", "Pollination"],
+    "correct option": "d",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "93": {
+    "Question": "What is the term for the process of transferring pollen from the anther of one flower to the stigma of another flower of the same species?",
+    "options": ["Fertilization", "Pollination", "Germination", "Budding"],
+    "correct option": "b",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "94": {
+    "Question": "Which of the following is a genetically modified (GM) crop?",
+    "options": ["Wheat", "Rice", "Cotton", "Soybean"],
+    "correct option": "c",
+    "chapter": "Strategies for Enhancement in Food Production"
+  },
+  "95": {
+    "Question": "What is the process of breaking down complex organic compounds into simpler ones by microorganisms called?",
+    "options": ["Decomposition", "Fermentation", "Digestion", "Photosynthesis"],
+    "correct option": "a",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "96": {
+    "Question": "Which microorganism is used in the production of bread and alcohol?",
+    "options": ["Bacteria", "Fungi", "Algae", "Protozoa"],
+    "correct option": "b",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "97": {
+    "Question": "What is the term for the process of conversion of milk into curd?",
+    "options": ["Fermentation", "Pasteurization", "Sterilization", "Filtration"],
+    "correct option": "a",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "98": {
+    "Question": "Which microorganism is responsible for the production of antibiotics like penicillin?",
+    "options": ["Bacteria", "Fungi", "Algae", "Protozoa"],
+    "correct option": "b",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "99": {
+    "Question": "What is the term for the process of killing or inhibiting the growth of disease-causing microorganisms in food or water?",
+    "options": ["Decomposition", "Fermentation", "Disinfection", "Sterilization"],
+    "correct option": "c",
+    "chapter": "Microbes in Human Welfare"
+  },
+  "100": {
+    "Question": "Which gas is responsible for the depletion of the ozone layer?",
+    "options": ["Oxygen", "Carbon dioxide", "Chlorofluorocarbons (CFCs)", "Methane"],
+    "correct option": "c",
+    "chapter": "Strategies for Enhancement in Food Production"
   }
-  
+}

@@ -1,303 +1,602 @@
 {
-    "1": {
-      "Question": "What is the SI unit of length?",
-      "options": ["a. Meter", "b. Kilogram", "c. Second", "d. Ampere"],
-      "correct option": "a",
-      "chapter": "Units and Measurements"
-    },
-    "2": {
-      "Question": "Which of the following is a scalar quantity?",
-      "options": ["a. Force", "b. Velocity", "c. Distance", "d. Displacement"],
-      "correct option": "c",
-      "chapter": "Units and Measurements"
-    },
-    "3": {
-      "Question": "A car moves along a straight road with a constant speed. What can you say about its acceleration?",
-      "options": ["a. Zero", "b. Positive", "c. Negative", "d. Variable"],
-      "correct option": "a",
-      "chapter": "Motion in a Straight Line"
-    },
-    "4": {
-      "Question": "In which of the following cases is the average velocity of an object in a certain time interval equal to its instantaneous velocity?",
-      "options": ["a. Uniform motion in a straight line", "b. Accelerated motion", "c. Random motion", "d. Motion in a plane"],
-      "correct option": "a",
-      "chapter": "Motion in a Straight Line"
-    },
-    "5": {
-      "Question": "Which of the following statements is a vector equation?",
-      "options": ["a. F = ma", "b. E = mc²", "c. E = hf", "d. F = GMm/r²"],
-      "correct option": "d",
-      "chapter": "Laws of Motion"
-    },
-    "6": {
-      "Question": "What is the SI unit of work and energy?",
-      "options": ["a. Volt", "b. Joule", "c. Watt", "d. Kilogram"],
-      "correct option": "b",
-      "chapter": "Work, Energy, and Power"
-    },
-    "7": {
-      "Question": "Which of the following is a conservative force?",
-      "options": ["a. Frictional force", "b. Tension in a string", "c. Magnetic force", "d. Air resistance"],
-      "correct option": "b",
-      "chapter": "Work, Energy, and Power"
-    },
-    "8": {
-      "Question": "What is the SI unit of power?",
-      "options": ["a. Joule", "b. Watt", "c. Volt", "d. Ohm"],
-      "correct option": "b",
-      "chapter": "Work, Energy, and Power"
-    },
-    "9": {
-      "Question": "Which of the following statements is true for an ideal machine?",
-      "options": ["a. It has 100% efficiency.", "b. It cannot do any work.", "c. It has 0% efficiency.", "d. It violates the laws of physics."],
-      "correct option": "a",
-      "chapter": "Work, Energy, and Power"
-    },
-    "10": {
-      "Question": "What is the value of the universal gravitational constant G?",
-      "options": ["a. 9.8 m/s²", "b. 6.674 × 10⁻¹¹ Nm²/kg²", "c. 3 × 10⁸ m/s", "d. 1.6 × 10⁻¹⁹ C"],
-      "correct option": "b",
-      "chapter": "Gravitation"
-    },
-    "11": {
-      "Question": "What is the weight of an object?",
-      "options": ["a. The force of gravity acting on it", "b. Its mass multiplied by acceleration due to gravity", "c. Its volume multiplied by density", "d. Its mass divided by acceleration due to gravity"],
-      "correct option": "b",
-      "chapter": "Gravitation"
-    },
-    "12": {
-      "Question": "Which of the following materials is not a good conductor of heat?",
-      "options": ["a. Metal", "b. Wood", "c. Plastic", "d. Glass"],
-      "correct option": "c",
-      "chapter": "Thermodynamics"
-    },
-    "13": {
-      "Question": "What is the SI unit of temperature?",
-      "options": ["a. Joule", "b. Kelvin", "c. Celsius", "d. Watt"],
-      "correct option": "b",
-      "chapter": "Thermodynamics"
-    },
-    "14": {
-      "Question": "In which state of matter do particles have the highest kinetic energy?",
-      "options": ["a. Solid", "b. Liquid", "c. Gas", "d. Plasma"],
-      "correct option": "d",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    "15": {
-      "Question": "Which of the following is a simple harmonic motion?",
-      "options": ["a. Earth's rotation", "b. Pendulum oscillation", "c. Car accelerating on a straight road", "d. Ball rolling on a smooth surface"],
-      "correct option": "b",
-      "chapter": "Oscillations"
-    },
-    "16": {
-      "Question": "What is the wavelength of a wave with a frequency of 500 Hz and a speed of 340 m/s?",
-      "options": ["a. 0.68 m", "b. 0.17 m", "c. 1.47 m", "d. 0.01 m"],
-      "correct option": "b",
-      "chapter": "Waves"
-    },
-    "17": {
-      "Question": "What is the phenomenon of bending of light when it passes from one medium to another with a different refractive index called?",
-      "options": ["a. Reflection", "b. Dispersion", "c. Refraction", "d. Diffraction"],
-      "correct option": "c",
-      "chapter": "Optics"
-    },
-    "18": {
-      "Question": "Which of the following colors of light has the longest wavelength?",
-      "options": ["a. Red", "b. Blue", "c. Green", "d. Violet"],
-      "correct option": "a",
-      "chapter": "Optics"
-    },
-    "19": {
-      "Question": "What is the principle behind the operation of a microscope?",
-      "options": ["a. Reflection of light", "b. Refraction of light", "c. Interference of light", "d. Dispersion of light"],
-      "correct option": "b",
-      "chapter": "Optics"
-    },
-    "20": {
-      "Question": "Which of the following is not a type of electromagnetic radiation?",
-      "options": ["a. Visible light", "b. X-rays", "c. Sound waves", "d. Gamma rays"],
-      "correct option": "c",
-      "chapter": "Electromagnetic Waves"
-    },
-    "21": {
-      "Question": "What is the SI unit of electric charge?",
-      "options": ["a. Volt", "b. Ampere", "c. Coulomb", "d. Ohm"],
-      "correct option": "c",
-      "chapter": "Electric Charges and Fields"
-    },
-    "22": {
-      "Question": "What is the direction of the electric field lines near a positive point charge?",
-      "options": ["a. Radial and outward", "b. Radial and inward", "c. Circular", "d. Tangential"],
-      "correct option": "a",
-      "chapter": "Electric Charges and Fields"
-    },
-    "23": {
-      "Question": "What is the SI unit of electric potential difference?",
-      "options": ["a. Joule", "b. Volt", "c. Ampere", "d. Coulomb"],
-      "correct option": "b",
-      "chapter": "Electric Potential and Capacitance"
-    },
-    "24": {
-      "Question": "What is the formula for the capacitance (C) of a parallel plate capacitor?",
-      "options": ["a. C = Q/V", "b. C = V/Q", "c. C = Q²/V", "d. C = V²/Q"],
-      "correct option": "a",
-      "chapter": "Electric Potential and Capacitance"
-    },
-    "25": {
-      "Question": "Which of the following is not a semiconductor material?",
-      "options": ["a. Silicon", "b. Germanium", "c. Copper", "d. Gallium arsenide"],
-      "correct option": "c",
-      "chapter": "Current Electricity"
-    },
-    "26": {
-      "Question": "What is the SI unit of electric current?",
-      "options": ["a. Volt", "b. Ampere", "c. Coulomb", "d. Ohm"],
-      "correct option": "b",
-      "chapter": "Current Electricity"
-    },
-    "27": {
-      "Question": "Which of the following phenomena is used in the working of an electric generator?",
-      "options": ["a. Ohm's law", "b. Faraday's law of electromagnetic induction", "c. Ampere's law", "d. Gauss's law"],
-      "correct option": "b",
-      "chapter": "Moving Charges and Magnetism"
-    },
-    "28": {
-      "Question": "What is the SI unit of magnetic field strength (magnetic field intensity)?",
-      "options": ["a. Weber", "b. Ampere", "c. Tesla", "d. Hertz"],
-      "correct option": "b",
-      "chapter": "Moving Charges and Magnetism"
-    },
-    "29": {
-      "Question": "Which of the following materials is not attracted by a magnet?",
-      "options": ["a. Iron", "b. Steel", "c. Copper", "d. Nickel"],
-      "correct option": "c",
-      "chapter": "Moving Charges and Magnetism"
-    },
-    "30": {
-      "Question": "What is the phenomenon of electromagnetic induction?",
-      "options": ["a. Generation of electricity from magnets", "b. Generation of magnetism from electricity", "c. Production of electric current in a conductor by changing magnetic field", "d. Production of magnetic field in a conductor by changing electric field"],
-      "correct option": "c",
-      "chapter": "Electromagnetic Induction"
-    },
-    "31": {
-      "Question": "What is the SI unit of inductance?",
-      "options": ["a. Weber", "b. Henry", "c. Ampere", "d. Coulomb"],
-      "correct option": "b",
-      "chapter": "Electromagnetic Induction"
-    },
-    "32": {
-      "Question": "What is the concept of wave-particle duality in quantum mechanics?",
-      "options": ["a. Particles can exist in multiple places at once.", "b. Particles can have both wave-like and particle-like properties.", "c. Particles cannot exist in a wave-like state.", "d. Particles cannot exhibit interference patterns."],
-      "correct option": "b",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    "33": {
-      "Question": "What is the energy associated with a photon of light?",
-      "options": ["a. Mass energy", "b. Kinetic energy", "c. Potential energy", "d. Quantum energy"],
-      "correct option": "d",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    "34": {
-      "Question": "What is the work function of a material?",
-      "options": ["a. The energy required to remove an electron from the material's surface", "b. The energy released when an electron is added to the material", "c. The potential energy of the material's electrons", "d. The energy required to accelerate electrons in the material"],
-      "correct option": "a",
-      "chapter": "Atoms and Nuclei"
-    },
-    "35": {
-      "Question": "Which of the following particles has the least mass?",
-      "options": ["a. Electron", "b. Proton", "c. Neutron", "d. Alpha particle"],
-      "correct option": "a",
-      "chapter": "Atoms and Nuclei"
-    },
-    "36": {
-      "Question": "What is the half-life of a radioactive substance?",
-      "options": ["a. The time it takes for all the substance to decay", "b. The time it takes for half of the substance to decay", "c. The time it takes for the substance to become stable", "d. The time it takes for the substance to emit radiation"],
-      "correct option": "b",
-      "chapter": "Nuclear Physics"
-    },
-    "37": {
-      "Question": "What is the SI unit of activity (radioactive decay rate)?",
-      "options": ["a. Becquerel", "b. Curie", "c. Gray", "d. Sievert"],
-      "correct option": "a",
-      "chapter": "Nuclear Physics"
-    },
-    "38": {
-      "Question": "Which of the following particles carries a positive charge?",
-      "options": ["a. Electron", "b. Neutron", "c. Proton", "d. Photon"],
-      "correct option": "c",
-      "chapter": "Particle Physics"
-    },
-    "39": {
-      "Question": "What is the purpose of a cyclotron in particle physics?",
-      "options": ["a. To detect cosmic rays", "b. To accelerate charged particles", "c. To study electromagnetic waves", "d. To generate X-rays"],
-      "correct option": "b",
-      "chapter": "Particle Physics"
-    },
-    "40": {
-      "Question": "What is the fundamental particle of a chemical element?",
-      "options": ["a. Molecule", "b. Atom", "c. Ion", "d. Neutron"],
-      "correct option": "b",
-      "chapter": "Particle Physics"
-    },
-    "41": {
-      "Question": "Which of the following phenomena is related to interference of light?",
-      "options": ["a. Photoelectric effect", "b. Compton scattering", "c. Young's double-slit experiment", "d. Rutherford scattering"],
-      "correct option": "c",
-      "chapter": "Optics"
-    },
-    "42": {
-      "Question": "What is the principle of conservation of momentum?",
-      "options": ["a. The total energy of an isolated system is constant.", "b. The total angular momentum of an isolated system is constant.", "c. The total linear momentum of an isolated system is constant.", "d. The total charge of an isolated system is constant."],
-      "correct option": "c",
-      "chapter": "Systems of Particles and Rotational Motion"
-    },
-    "43": {
-      "Question": "What is the acceleration due to gravity near the surface of the Earth?",
-      "options": ["a. 9.8 m/s²", "b. 6.674 × 10⁻¹¹ Nm²/kg²", "c. 3 × 10⁸ m/s", "d. 1.6 × 10⁻¹⁹ C"],
-      "correct option": "a",
-      "chapter": "Gravitation"
-    },
-    "44": {
-      "Question": "What is the Pascal's principle?",
-      "options": ["a. The pressure applied at any point in an incompressible fluid is transmitted undiminished throughout the fluid.", "b. The velocity of a fluid in a pipe increases when the pipe narrows.", "c. The volume of a gas is inversely proportional to its pressure at constant temperature.", "d. The buoyant force on an object in a fluid is equal to the weight of the fluid displaced by the object."],
-      "correct option": "a",
-      "chapter": "Fluid Mechanics"
-    },
-    "45": {
-      "Question": "What is the SI unit of frequency?",
-      "options": ["a. Hertz", "b. Watt", "c. Pascal", "d. Weber"],
-      "correct option": "a",
-      "chapter": "Waves"
-    },
-    "46": {
-      "Question": "Which of the following statements is true for an incompressible fluid?",
-      "options": ["a. Its density changes with pressure.", "b. Its volume changes with pressure.", "c. Its pressure changes with volume.", "d. Its density remains constant."],
-      "correct option": "d",
-      "chapter": "Fluid Mechanics"
-    },
-    "47": {
-      "Question": "What is the phenomenon of dispersion of light?",
-      "options": ["a. Bending of light when it passes through a medium with a different refractive index", "b. Breaking of light into its component colors", "c. Total internal reflection of light", "d. Reflection of light from a rough surface"],
-      "correct option": "b",
-      "chapter": "Optics"
-    },
-    "48": {
-      "Question": "What is the SI unit of magnetic flux?",
-      "options": ["a. Weber", "b. Ampere", "c. Tesla", "d. Hertz"],
-      "correct option": "a",
-      "chapter": "Electromagnetic Induction"
-    },
-    "49": {
-      "Question": "What is the SI unit of radiation dose equivalent?",
-      "options": ["a. Becquerel", "b. Gray", "c. Sievert", "d. Tesla"],
-      "correct option": "c",
-      "chapter": "Modern Physics"
-    },
-    "50": {
-      "Question": "Which of the following is not a type of electromagnetic radiation?",
-      "options": ["a. Radio waves", "b. Infrared radiation", "c. Sound waves", "d. Ultraviolet radiation"],
-      "correct option": "c",
-      "chapter": "Electromagnetic Waves"
-    }
+  "1": {
+    "Question": "What is the SI unit of electric current?",
+    "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+    "correct option": "b",
+    "chapter": "Units and Measurements"
+  },
+  "2": {
+    "Question": "Which of the following is a scalar quantity?",
+    "options": ["Velocity", "Force", "Mass", "Acceleration"],
+    "correct option": "c",
+    "chapter": "Units and Measurements"
+  },
+  "3": {
+    "Question": "What is the SI unit of electric potential?",
+    "options": ["Joule", "Ampere", "Coulomb", "Volt"],
+    "correct option": "d",
+    "chapter": "Units and Measurements"
+  },
+  "4": {
+    "Question": "Which law of motion is also known as the law of inertia?",
+    "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+    "correct option": "a",
+    "chapter": "Motion in a Straight Line"
+  },
+  "5": {
+    "Question": "What is the SI unit of force?",
+    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "correct option": "a",
+    "chapter": "Motion in a Straight Line"
+  },
+  "6": {
+    "Question": "What is the dimensional formula for work done?",
+    "options": ["M L^2 T^-2", "M L T^-2", "M L T^-1", "M^-1 L^-1 T^2"],
+    "correct option": "a",
+    "chapter": "Motion in a Straight Line"
+  },
+  "7": {
+    "Question": "Which of the following is a vector quantity?",
+    "options": ["Speed", "Time", "Distance", "Displacement"],
+    "correct option": "d",
+    "chapter": "Motion in a Plane"
+  },
+  "8": {
+    "Question": "What is the SI unit of angular velocity?",
+    "options": ["Radian per second", "Hertz", "Meter per second", "Newton per meter"],
+    "correct option": "a",
+    "chapter": "Motion in a Plane"
+  },
+  "9": {
+    "Question": "Which law of motion states that 'to every action, there is an equal and opposite reaction'?",
+    "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+    "correct option": "c",
+    "chapter": "Laws of Motion"
+  },
+  "10": {
+    "Question": "What is the SI unit of momentum?",
+    "options": ["Kilogram per meter", "Newton", "Kilogram meter per second", "Joule"],
+    "correct option": "c",
+    "chapter": "Laws of Motion"
+  },
+  "11": {
+    "Question": "What is the force of gravity acting on an object with a mass of 10 kg?",
+    "options": ["9.8 N", "10 N", "98 N", "100 N"],
+    "correct option": "a",
+    "chapter": "Gravitation"
+  },
+  "12": {
+    "Question": "What is the value of acceleration due to gravity (g) on Earth's surface?",
+    "options": ["10 m/s²", "9.8 m/s²", "9 m/s²", "11 m/s²"],
+    "correct option": "b",
+    "chapter": "Gravitation"
+  },
+  "13": {
+    "Question": "What is the SI unit of work?",
+    "options": ["Joule", "Newton", "Watt", "Kilogram per meter"],
+    "correct option": "a",
+    "chapter": "Work, Energy, and Power"
+  },
+  "14": {
+    "Question": "Which of the following is a conservative force?",
+    "options": ["Friction", "Tension", "Gravity", "Drag"],
+    "correct option": "c",
+    "chapter": "Work, Energy, and Power"
+  },
+  "15": {
+    "Question": "What is the law of conservation of energy?",
+    "options": ["Energy cannot be created or destroyed, only converted from one form to another.", "Energy can be created but not destroyed.", "Energy can be destroyed but not created.", "Energy remains constant regardless of any process."],
+    "correct option": "a",
+    "chapter": "Work, Energy, and Power"
+  },
+  "16": {
+    "Question": "What is the SI unit of power?",
+    "options": ["Watt", "Joule", "Newton", "Coulomb"],
+    "correct option": "a",
+    "chapter": "Work, Energy, and Power"
+  },
+  "17": {
+    "Question": "Which of the following is not a type of mechanical wave?",
+    "options": ["Sound wave", "Light wave", "Water wave", "Seismic wave"],
+    "correct option": "b",
+    "chapter": "Mechanical Properties of Fluids"
+  },
+  "18": {
+    "Question": "What is the SI unit of pressure?",
+    "options": ["Pascal", "Newton", "Joule", "Watt"],
+    "correct option": "a",
+    "chapter": "Mechanical Properties of Fluids"
+  },
+  "19": {
+    "Question": "What is the SI unit of surface tension?",
+    "options": ["N/m", "N/m²", "N/m³", "N·m"],
+    "correct option": "a",
+    "chapter": "Mechanical Properties of Solids"
+  },
+  "20": {
+    "Question": "Which of the following is an example of a non-conservative force?",
+    "options": ["Gravity", "Tension", "Friction", "Normal force"],
+    "correct option": "c",
+    "chapter": "Thermal Properties of Matter"
+  },
+  "21": {
+    "Question": "What is the SI unit of thermal conductivity?",
+    "options": ["Watt per meter-Kelvin", "Joule per second", "Pascal per meter", "Newton per meter"],
+    "correct option": "a",
+    "chapter": "Thermal Properties of Matter"
+  },
+  "22": {
+    "Question": "What is the specific heat capacity of water?",
+    "options": ["1 J/g°C", "2 J/g°C", "3 J/g°C", "4 J/g°C"],
+    "correct option": "a",
+    "chapter": "Thermal Properties of Matter"
+  },
+  "23": {
+    "Question": "What is the SI unit of electric charge?",
+    "options": ["Ampere", "Coulomb", "Volt", "Ohm"],
+    "correct option": "b",
+    "chapter": "Thermal Properties of Matter"
+  },
+  "24": {
+    "Question": "What is the SI unit of capacitance?",
+    "options": ["Farad", "Coulomb", "Ampere", "Ohm"],
+    "correct option": "a",
+    "chapter": "Electric Charges and Fields"
+  },
+  "25": {
+    "Question": "What is the SI unit of electric potential energy?",
+    "options": ["Joule", "Ampere", "Coulomb", "Volt"],
+    "correct option": "a",
+    "chapter": "Electric Charges and Fields"
+  },
+  "26": {
+    "Question": "Which of the following materials is a good conductor of electricity?",
+    "options": ["Wood", "Plastic", "Copper", "Rubber"],
+    "correct option": "c",
+    "chapter": "Electric Charges and Fields"
+  },
+  "27": {
+    "Question": "What is the SI unit of electric field intensity?",
+    "options": ["Volt per meter", "Joule per coulomb", "Ampere per second", "Ohm per volt"],
+    "correct option": "a",
+    "chapter": "Electric Charges and Fields"
+  },
+  "28": {
+    "Question": "What is the direction of the electric field lines around a positive charge?",
+    "options": ["Radial and outward", "Radial and inward", "Parallel to the charge", "Circular"],
+    "correct option": "a",
+    "chapter": "Electric Charges and Fields"
+  },
+  "29": {
+    "Question": "What is the SI unit of magnetic field strength?",
+    "options": ["Ampere per meter", "Volt per meter", "Joule per coulomb", "Ohm per volt"],
+    "correct option": "a",
+    "chapter": "Magnetism and Matter"
+  },
+  "30": {
+    "Question": "Which of the following is not a magnetic material?",
+    "options": ["Iron", "Copper", "Nickel", "Cobalt"],
+    "correct option": "b",
+    "chapter": "Magnetism and Matter"
+  },
+  "31": {
+    "Question": "What is the SI unit of magnetic susceptibility?",
+    "options": ["Dimensionless", "Ampere per meter", "Volt per meter", "Joule per coulomb"],
+    "correct option": "a",
+    "chapter": "Magnetism and Matter"
+  },
+  "32": {
+    "Question": "Which of the following statements is true for a convex lens?",
+    "options": ["It can only form virtual, diminished images.", "It can only form real, inverted images.", "It can form both real and virtual images depending on the object's position.", "It cannot form images."],
+    "correct option": "c",
+    "chapter": "Ray Optics and Optical Instruments"
+  },
+  "33": {
+    "Question": "What is the SI unit of refractive index?",
+    "options": ["Dimensionless", "Meter per second", "Radian per second", "Newton per meter"],
+    "correct option": "a",
+    "chapter": "Ray Optics and Optical Instruments"
+  },
+  "34": {
+    "Question": "Which of the following phenomena is responsible for the formation of a rainbow?",
+    "options": ["Refraction", "Diffraction", "Dispersion", "Interference"],
+    "correct option": "c",
+    "chapter": "Wave Optics"
+  },
+  "35": {
+    "Question": "What is the speed of light in a vacuum?",
+    "options": ["3 × 10^7 m/s", "3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^9 m/s"],
+    "correct option": "b",
+    "chapter": "Wave Optics"
+  },
+  "36": {
+    "Question": "What is the SI unit of radioactive decay constant?",
+    "options": ["Second", "Becquerel", "Gray", "Coulomb per kilogram"],
+    "correct option": "b",
+    "chapter": "Dual Nature of Radiation and Matter"
+  },
+  "37": {
+    "Question": "Which of the following particles has the least mass?",
+    "options": ["Electron", "Proton", "Neutron", "Alpha particle"],
+    "correct option": "a",
+    "chapter": "Dual Nature of Radiation and Matter"
+  },
+  "38": {
+    "Question": "What is the SI unit of half-life of a radioactive substance?",
+    "options": ["Second", "Becquerel", "Gray", "Coulomb per kilogram"],
+    "correct option": "a",
+    "chapter": "Atoms"
+  },
+  "39": {
+    "Question": "Which of the following is not a component of the fundamental particles of an atom?",
+    "options": ["Electron", "Proton", "Neutron", "Alpha particle"],
+    "correct option": "d",
+    "chapter": "Atoms"
+  },
+  "40": {
+    "Question": "What is the maximum number of electrons that can occupy the first energy level (n=1) of an atom?",
+    "options": ["2", "6", "8", "18"],
+    "correct option": "a",
+    "chapter": "Structure of Atom"
+  },
+  "41": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "Ne", "Ni", "No"],
+    "correct option": "a",
+    "chapter": "Structure of Atom"
+  },
+  "42": {
+    "Question": "What is the SI unit of electric current?",
+    "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+    "correct option": "b",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "43": {
+    "Question": "What is the molecular formula of water?",
+    "options": ["H", "H2O", "O", "HO2"],
+    "correct option": "b",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "44": {
+    "Question": "Which of the following is a non-polar molecule?",
+    "options": ["H2O", "CO2", "NH3", "CH4"],
+    "correct option": "d",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "45": {
+    "Question": "What is the chemical formula for methane?",
+    "options": ["CH3OH", "CH4", "C2H5OH", "CO2"],
+    "correct option": "b",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "46": {
+    "Question": "Which of the following is a noble gas?",
+    "options": ["Hydrogen", "Oxygen", "Helium", "Nitrogen"],
+    "correct option": "c",
+    "chapter": "Chemical Thermodynamics"
+  },
+  "47": {
+    "Question": "What is the SI unit of temperature?",
+    "options": ["Celsius", "Kelvin", "Fahrenheit", "Rankine"],
+    "correct option": "b",
+    "chapter": "Chemical Thermodynamics"
+  },
+  "48": {
+    "Question": "What is the SI unit of entropy?",
+    "options": ["Joule per kelvin", "Joule", "Coulomb per second", "Watt per meter"],
+    "correct option": "a",
+    "chapter": "Chemical Thermodynamics"
+  },
+  "49": {
+    "Question": "Which of the following is an exothermic process?",
+    "options": ["Freezing of water", "Boiling of water", "Melting of ice", "Evaporation of water"],
+    "correct option": "a",
+    "chapter": "Chemical Thermodynamics"
+  },
+  "50": {
+    "Question": "What is the chemical formula for sulfuric acid?",
+    "options": ["HCl", "HNO3", "H2SO4", "H3PO4"],
+    "correct option": "c",
+    "chapter": "Chemical Equilibrium"
+  },
+  "51": {
+    "Question": "What is the SI unit of molar concentration?",
+    "options": ["Mole per liter", "Mole", "Mole per cubic meter", "Mole per kilogram"],
+    "correct option": "a",
+    "chapter": "Chemical Equilibrium"
+  },
+  "52": {
+    "Question": "Which of the following statements is true for an endothermic reaction?",
+    "options": ["It releases heat.", "It absorbs heat.", "It does not involve heat.", "It is spontaneous."],
+    "correct option": "b",
+    "chapter": "Chemical Equilibrium"
+  },
+  "53": {
+    "Question": "What is the chemical formula for glucose?",
+    "options": ["C2H4O2", "C6H12O6", "C3H6O3", "C4H8O4"],
+    "correct option": "b",
+    "chapter": "Chemical Kinetics"
+  },
+  "54": {
+    "Question": "What is the rate constant (k) in a first-order reaction?",
+    "options": ["Zero", "1st power of concentration", "2nd power of concentration", "3rd power of concentration"],
+    "correct option": "b",
+    "chapter": "Chemical Kinetics"
+  },
+  "55": {
+    "Question": "Which of the following factors does not affect the rate of a chemical reaction?",
+    "options": ["Temperature", "Pressure", "Concentration of reactants", "Catalyst"],
+    "correct option": "b",
+    "chapter": "Chemical Kinetics"
+  },
+  "56": {
+    "Question": "What is the SI unit of rate constant (k) in a second-order reaction?",
+    "options": ["M^-1 s^-1", "M s^-1", "M^-1 s", "M^-2 s^-1"],
+    "correct option": "a",
+    "chapter": "Chemical Kinetics"
+  },
+  "57": {
+    "Question": "What is the chemical formula for acetic acid?",
+    "options": ["HCl", "HNO3", "H2SO4", "CH3COOH"],
+    "correct option": "d",
+    "chapter": "Surface Chemistry"
+  },
+  "58": {
+    "Question": "What is the phenomenon of adsorption?",
+    "options": ["Binding of molecules to the bulk of a solid or liquid", "Formation of a layer of molecules on the surface of a solid or liquid", "Vaporization of a liquid", "Dissolution of a solid in a liquid"],
+    "correct option": "b",
+    "chapter": "Surface Chemistry"
+  },
+  "59": {
+    "Question": "Which of the following is an example of a lyophilic colloid?",
+    "options": ["Starch in water", "Clay in water", "Gold sol", "Protein in water"],
+    "correct option": "d",
+    "chapter": "Surface Chemistry"
+  },
+  "60": {
+    "Question": "What is the process of the conversion of a gas into a liquid?",
+    "options": ["Vaporization", "Condensation", "Sublimation", "Evaporation"],
+    "correct option": "b",
+    "chapter": "General Principles and Processes of Isolation of Elements"
+  },
+  "61": {
+    "Question": "Which of the following is a reducing agent?",
+    "options": ["Oxidizing agent", "Metal", "Non-metal", "Cathode"],
+    "correct option": "c",
+    "chapter": "General Principles and Processes of Isolation of Elements"
+  },
+  "62": {
+    "Question": "What is the process of converting an ore into its oxide by heating it strongly in the presence of excess air?",
+    "options": ["Roasting", "Smelting", "Refining", "Froth floatation"],
+    "correct option": "a",
+    "chapter": "General Principles and Processes of Isolation of Elements"
+  },
+  "63": {
+    "Question": "Which of the following is a commonly used method for the concentration of ores?",
+    "options": ["Roasting", "Smelting", "Refining", "Froth floatation"],
+    "correct option": "d",
+    "chapter": "General Principles and Processes of Isolation of Elements"
+  },
+  "64": {
+    "Question": "What is the chemical formula for sodium chloride?",
+    "options": ["NaCl", "Na2CO3", "Na2SO4", "NaHCO3"],
+    "correct option": "a",
+    "chapter": "Hydrogen"
+  },
+  "65": {
+    "Question": "Which of the following elements is not a diatomic molecule?",
+    "options": ["Oxygen", "Hydrogen", "Nitrogen", "Helium"],
+    "correct option": "d",
+    "chapter": "Hydrogen"
+  },
+  "66": {
+    "Question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"],
+    "correct option": "c",
+    "chapter": "Hydrogen"
+  },
+  "67": {
+    "Question": "What is the chemical formula for ammonia?",
+    "options": ["NH2", "NH3", "N2H4", "N2H2"],
+    "correct option": "b",
+    "chapter": "Hydrogen"
+  },
+  "68": {
+    "Question": "Which of the following is a greenhouse gas?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "correct option": "b",
+    "chapter": "s-block Elements"
+  },
+  "69": {
+    "Question": "What is the chemical formula for calcium oxide?",
+    "options": ["CaO", "CaOH", "CaCO3", "Ca(OH)2"],
+    "correct option": "a",
+    "chapter": "s-block Elements"
+  },
+  "70": {
+    "Question": "Which of the following elements is an alkaline earth metal?",
+    "options": ["Sodium", "Potassium", "Calcium", "Chlorine"],
+    "correct option": "c",
+    "chapter": "s-block Elements"
+  },
+  "71": {
+    "Question": "What is the chemical formula for potassium hydroxide?",
+    "options": ["KOH", "NaOH", "Ca(OH)2", "H2SO4"],
+    "correct option": "a",
+    "chapter": "s-block Elements"
+  },
+  "72": {
+    "Question": "Which of the following elements is a noble gas?",
+    "options": ["Sodium", "Potassium", "Argon", "Chlorine"],
+    "correct option": "c",
+    "chapter": "p-block Elements"
+  },
+  "73": {
+    "Question": "What is the chemical formula for methane?",
+    "options": ["CH3OH", "CH4", "C2H5OH", "CO2"],
+    "correct option": "b",
+    "chapter": "p-block Elements"
+  },
+  "74": {
+    "Question": "Which of the following is a halogen?",
+    "options": ["Sodium", "Potassium", "Bromine", "Calcium"],
+    "correct option": "c",
+    "chapter": "p-block Elements"
+  },
+  "75": {
+    "Question": "What is the chemical formula for sulfuric acid?",
+    "options": ["HCl", "HNO3", "H2SO4", "H3PO4"],
+    "correct option": "c",
+    "chapter": "p-block Elements"
+  },
+  "76": {
+    "Question": "Which of the following is a lanthanide series element?",
+    "options": ["Neodymium", "Iron", "Copper", "Zinc"],
+    "correct option": "a",
+    "chapter": "d and f Block Elements"
+  },
+  "77": {
+    "Question": "What is the chemical formula for ferrous sulfate?",
+    "options": ["FeSO3", "Fe2(SO4)3", "FeSO4", "Fe2O3"],
+    "correct option": "c",
+    "chapter": "d and f Block Elements"
+  },
+  "78": {
+    "Question": "Which of the following is a transition metal?",
+    "options": ["Potassium", "Calcium", "Iron", "Sodium"],
+    "correct option": "c",
+    "chapter": "d and f Block Elements"
+  },
+  "79": {
+    "Question": "What is the chemical formula for potassium dichromate?",
+    "options": ["K2CrO4", "K2Cr2O7", "K2SO4", "K2CO3"],
+    "correct option": "b",
+    "chapter": "d and f Block Elements"
+  },
+  "80": {
+    "Question": "Which of the following elements is a halogen?",
+    "options": ["Sodium", "Potassium", "Bromine", "Calcium"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "81": {
+    "Question": "What is the coordination number of a complex compound?",
+    "options": ["Number of ligands bonded to the central metal atom", "Number of atoms in the compound", "Number of bonds in the compound", "Number of valence electrons in the compound"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "82": {
+    "Question": "What is the chemical formula for potassium ferrocyanide?",
+    "options": ["K3[Fe(CN)6]", "K2[Fe(CN)6]", "K4[Fe(CN)6]", "K2Fe2(CN)6"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "83": {
+    "Question": "Which of the following is used as an antiseptic?",
+    "options": ["Potassium dichromate", "Potassium permanganate", "Potassium ferrocyanide", "Potassium sulfate"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "84": {
+    "Question": "What is the chemical formula for calcium carbonate?",
+    "options": ["CaCO3", "CaSO4", "Ca(NO3)2", "CaCl2"],
+    "correct option": "a",
+    "chapter": "Haloalkanes and Haloarenes"
+  },
+  "85": {
+    "Question": "Which of the following is an example of a haloalkane?",
+    "options": ["Methanol", "Ethanol", "Chloroform", "Acetone"],
+    "correct option": "c",
+    "chapter": "Haloalkanes and Haloarenes"
+  },
+  "86": {
+    "Question": "What is the chemical formula for chloroform?",
+    "options": ["CH3OH", "CH4", "CHCl3", "CH2Cl2"],
+    "correct option": "c",
+    "chapter": "Haloalkanes and Haloarenes"
+  },
+  "87": {
+    "Question": "Which of the following is an example of a haloarene?",
+    "options": ["Chloroform", "Benzene", "Ethanol", "Acetone"],
+    "correct option": "b",
+    "chapter": "Haloalkanes and Haloarenes"
+  },
+  "88": {
+    "Question": "What is the chemical formula for acetic acid?",
+    "options": ["HCl", "HNO3", "H2SO4", "CH3COOH"],
+    "correct option": "d",
+    "chapter": "Alcohols, Phenols, and Ethers"
+  },
+  "89": {
+    "Question": "Which of the following is an example of an alcohol?",
+    "options": ["Acetone", "Phenol", "Methanol", "Benzene"],
+    "correct option": "c",
+    "chapter": "Alcohols, Phenols, and Ethers"
+  },
+  "90": {
+    "Question": "What is the chemical formula for phenol?",
+    "options": ["C6H6O", "C6H5OH", "C6H12O6", "C6H10O"],
+    "correct option": "b",
+    "chapter": "Alcohols, Phenols, and Ethers"
+  },
+  "91": {
+    "Question": "Which of the following is an example of an ether?",
+    "options": ["Methanol", "Ethanol", "Diethyl ether", "Chloroform"],
+    "correct option": "c",
+    "chapter": "Alcohols, Phenols, and Ethers"
+  },
+  "92": {
+    "Question": "What is the chemical formula for glucose?",
+    "options": ["C2H4O2", "C6H12O6", "C3H6O3", "C4H8O4"],
+    "correct option": "b",
+    "chapter": "Aldehydes, Ketones, and Carboxylic Acids"
+  },
+  "93": {
+    "Question": "Which functional group is present in aldehydes?",
+    "options": ["-OH", "-COOH", "-CHO", "-NH2"],
+    "correct option": "-CHO",
+    "chapter": "Aldehydes, Ketones, and Carboxylic Acids"
+  },
+  "94": {
+    "Question": "What is the chemical formula for acetic acid?",
+    "options": ["HCl", "HNO3", "H2SO4", "CH3COOH"],
+    "correct option": "d",
+    "chapter": "Aldehydes, Ketones, and Carboxylic Acids"
+  },
+  "95": {
+    "Question": "Which of the following is a carboxylic acid?",
+    "options": ["Acetone", "Acetic acid", "Methanol", "Ethanol"],
+    "correct option": "b",
+    "chapter": "Aldehydes, Ketones, and Carboxylic Acids"
+  },
+  "96": {
+    "Question": "What is the chemical formula for sodium chloride?",
+    "options": ["NaCl", "Na2CO3", "Na2SO4", "NaHCO3"],
+    "correct option": "a",
+    "chapter": "Organic Compounds Containing Nitrogen"
+  },
+  "97": {
+    "Question": "Which of the following is an example of an amine?",
+    "options": ["Acetone", "Ammonia", "Methanol", "Ethanol"],
+    "correct option": "b",
+    "chapter": "Organic Compounds Containing Nitrogen"
+  },
+  "98": {
+    "Question": "What is the chemical formula for ammonia?",
+    "options": ["NH2", "NH3", "N2H4", "N2H2"],
+    "correct option": "b",
+    "chapter": "Organic Compounds Containing Nitrogen"
+  },
+  "99": {
+    "Question": "Which of the following is an example of an amide?",
+    "options": ["Methanol", "Ethanol", "Diethyl ether", "Acetamide"],
+    "correct option": "d",
+    "chapter": "Organic Compounds Containing Nitrogen"
+  },
+  "100": {
+    "Question": "What is the chemical formula for calcium carbonate?",
+    "options": ["CaCO3", "CaSO4", "Ca(NO3)2", "CaCl2"],
+    "correct option": "a",
+    "chapter": "Biomolecules"
   }
-  
+}

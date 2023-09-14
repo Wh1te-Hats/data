@@ -1,303 +1,602 @@
 {
-    "1": {
-      "Question": "What is the cardinality of the set {1, 2, 3, 4, 5}?",
-      "options": ["a. 5", "b. 10", "c. 4", "d. 3"],
-      "correct option": "a",
-      "chapter": "Sets"
-    },
-    "2": {
-      "Question": "Which of the following is an example of a reflexive relation?",
-      "options": ["a. Less than", "b. Greater than", "c. Equal to", "d. Divisible by"],
-      "correct option": "c",
-      "chapter": "Relations and Functions"
-    },
-    "3": {
-      "Question": "In a right triangle, what is the trigonometric ratio for the sine of an angle?",
-      "options": ["a. Opposite/Hypotenuse", "b. Adjacent/Hypotenuse", "c. Opposite/Adjacent", "d. Hypotenuse/Adjacent"],
-      "correct option": "a",
-      "chapter": "Trigonometry"
-    },
-    "4": {
-      "Question": "What is the value of i², where i is the imaginary unit?",
-      "options": ["a. 0", "b. 1", "c. -1", "d. i"],
-      "correct option": "c",
-      "chapter": "Complex Numbers"
-    },
-    "5": {
-      "Question": "Which of the following is the solution set for the inequality 2x - 3 < 5?",
-      "options": ["a. x > 4", "b. x < 4", "c. x > 6", "d. x < 6"],
-      "correct option": "a",
-      "chapter": "Linear Inequalities"
-    },
-    "6": {
-      "Question": "How many ways can you arrange the letters of the word 'MATH'?",
-      "options": ["a. 6", "b. 12", "c. 24", "d. 4"],
-      "correct option": "c",
-      "chapter": "Permutations and Combinations"
-    },
-    "7": {
-      "Question": "What is the coefficient of x² in the expansion of (x + 2)³?",
-      "options": ["a. 1", "b. 2", "c. 4", "d. 8"],
-      "correct option": "d",
-      "chapter": "Binomial Theorem"
-    },
-    "8": {
-      "Question": "What is the sum of the first n terms of an arithmetic progression with first term a and common difference d?",
-      "options": ["a. n(a + d)", "b. n(a + 2d)", "c. n(2a + d)", "d. n(2a + nd)"],
-      "correct option": "a",
-      "chapter": "Sequences and Series"
-    },
-    "9": {
-      "Question": "What is the slope of the line passing through the points (2, 3) and (4, 7)?",
-      "options": ["a. 2", "b. 4", "c. 1/2", "d. 3"],
-      "correct option": "c",
-      "chapter": "Straight Lines"
-    },
-    "10": {
-      "Question": "Which conic section is formed when a plane intersects a cone parallel to its base?",
-      "options": ["a. Circle", "b. Ellipse", "c. Parabola", "d. Hyperbola"],
-      "correct option": "b",
-      "chapter": "Conic Sections"
-    },
-    "11": {
-      "Question": "What is the equation of the line passing through the points (1, 2, 3) and (4, 5, 6) in three-dimensional space?",
-      "options": ["a. x - y + z = 0", "b. x + y - z = 0", "c. x + y + z = 0", "d. x - y - z = 0"],
-      "correct option": "b",
-      "chapter": "Introduction to Three-Dimensional Geometry"
-    },
-    "12": {
-      "Question": "What is the limit of (x² - 4)/(x - 2) as x approaches 2?",
-      "options": ["a. 4", "b. 0", "c. 2", "d. 1"],
-      "correct option": "c",
-      "chapter": "Limits and Derivatives"
-    },
-    "13": {
-      "Question": "Which of the following is a valid mathematical statement?",
-      "options": ["a. 2 + 2 = 5", "b. 3 x 3 = 7", "c. π is a rational number", "d. 2/0 is defined"],
-      "correct option": "c",
-      "chapter": "Mathematical Reasoning"
-    },
-    "14": {
-      "Question": "What is the mode of the dataset: {2, 4, 4, 6, 7, 7, 7, 8, 9}?",
-      "options": ["a. 4", "b. 6", "c. 7", "d. 8"],
-      "correct option": "c",
-      "chapter": "Statistics"
-    },
-    "15": {
-      "Question": "In a deck of playing cards, what is the probability of drawing a red card?",
-      "options": ["a. 1/2", "b. 1/4", "c. 1/3", "d. 2/3"],
-      "correct option": "c",
-      "chapter": "Probability"
-    },
-    "16": {
-      "Question": "In set theory, what is the complement of a set A denoted as A'?",
-      "options": ["a. The set A", "b. The empty set", "c. The universal set", "d. The set of prime numbers"],
-      "correct option": "b",
-      "chapter": "Sets"
-    },
-    "17": {
-      "Question": "Which of the following is an example of a one-to-one function?",
-      "options": ["a. f(x) = x²", "b. f(x) = 2x + 3", "c. f(x) = |x|", "d. f(x) = sin(x)"],
-      "correct option": "b",
-      "chapter": "Relations and Functions"
-    },
-    "18": {
-      "Question": "What is the value of sin(90 degrees)?",
-      "options": ["a. 0", "b. 1", "c. -1", "d. Undefined"],
-      "correct option": "b",
-      "chapter": "Trigonometry"
-    },
-    "19": {
-      "Question": "What is the sum of complex numbers (3 + 2i) and (-1 - 4i)?",
-      "options": ["a. 2 - 2i", "b. 2 - 6i", "c. 2 + 6i", "d. -2 - 6i"],
-      "correct option": "b",
-      "chapter": "Complex Numbers"
-    },
-    "20": {
-      "Question": "Which of the following is the solution to the inequality 2x + 3 < 7?",
-      "options": ["a. x < 2", "b. x > 2", "c. x < 4", "d. x > 4"],
-      "correct option": "a",
-      "chapter": "Linear Inequalities"
-    },
-    "21": {
-      "Question": "How many ways can you choose 2 items from a set of 5 items?",
-      "options": ["a. 5", "b. 10", "c. 15", "d. 20"],
-      "correct option": "b",
-      "chapter": "Permutations and Combinations"
-    },
-    "22": {
-      "Question": "What is the coefficient of x³ in the expansion of (x - 1)⁵?",
-      "options": ["a. 1", "b. -1", "c. 5", "d. -5"],
-      "correct option": "d",
-      "chapter": "Binomial Theorem"
-    },
-    "23": {
-      "Question": "What is the sum of the first n terms of a geometric progression with first term a and common ratio r?",
-      "options": ["a. n(a + r)", "b. a/(1 - r)", "c. a(1 - r^n)/(1 - r)", "d. a(1 - r)/(1 + r)"],
-      "correct option": "c",
-      "chapter": "Sequences and Series"
-    },
-    "24": {
-      "Question": "What is the equation of the line with slope 3 and passing through the point (-1, 2)?",
-      "options": ["a. y = 3x - 5", "b. y = 3x + 1", "c. y = 2x + 3", "d. y = -x + 5"],
-      "correct option": "b",
-      "chapter": "Straight Lines"
-    },
-    "25": {
-      "Question": "Which conic section is formed when a plane intersects a cone at an angle to its base but not parallel to it?",
-      "options": ["a. Circle", "b. Ellipse", "c. Parabola", "d. Hyperbola"],
-      "correct option": "d",
-      "chapter": "Conic Sections"
-    },
-    "26": {
-      "Question": "What is the distance between the points (1, 2, 3) and (4, 5, 6) in three-dimensional space?",
-      "options": ["a. √3", "b. √6", "c. √9", "d. √27"],
-      "correct option": "b",
-      "chapter": "Introduction to Three-Dimensional Geometry"
-    },
-    "27": {
-      "Question": "What is the value of lim(x -> 0) sin(x)/x?",
-      "options": ["a. 1", "b. 0", "c. ∞", "d. Undefined"],
-      "correct option": "a",
-      "chapter": "Limits and Derivatives"
-    },
-    "28": {
-      "Question": "Which of the following is not a valid statement in mathematical reasoning?",
-      "options": ["a. If P, then Q.", "b. If Q, then P.", "c. P and Q.", "d. P or Q."],
-      "correct option": "b",
-      "chapter": "Mathematical Reasoning"
-    },
-    "29": {
-      "Question": "What is the median of the dataset: {5, 7, 2, 1, 6, 3, 8, 4}?",
-      "options": ["a. 3", "b. 4", "c. 5", "d. 6"],
-      "correct option": "b",
-      "chapter": "Statistics"
-    },
-    "30": {
-      "Question": "If the probability of an event A is 0.4, what is the probability of the complement of A?",
-      "options": ["a. 0.6", "b. 0.4", "c. 1", "d. 0"],
-      "correct option": "a",
-      "chapter": "Probability"
-    },
-    "31": {
-      "Question": "What is the universal set in set theory?",
-      "options": ["a. The empty set", "b. The set containing all elements under consideration", "c. The set containing no elements", "d. The set of natural numbers"],
-      "correct option": "b",
-      "chapter": "Sets"
-    },
-    "32": {
-      "Question": "Which of the following functions is neither injective nor surjective?",
-      "options": ["a. f(x) = x²", "b. f(x) = 2x + 3", "c. f(x) = |x|", "d. f(x) = sin(x)"],
-      "correct option": "a",
-      "chapter": "Relations and Functions"
-    },
-    "33": {
-      "Question": "What is the value of cos(0 degrees)?",
-      "options": ["a. 0", "b. 1", "c. -1", "d. Undefined"],
-      "correct option": "b",
-      "chapter": "Trigonometry"
-    },
-    "34": {
-      "Question": "What is the product of complex numbers (2 + 3i) and (4 - 5i)?",
-      "options": ["a. 2 - 11i", "b. 26 + 7i", "c. -7 + 26i", "d. -11 - 2i"],
-      "correct option": "d",
-      "chapter": "Complex Numbers"
-    },
-    "35": {
-      "Question": "Which of the following is the solution to the inequality 3x - 2 > 10?",
-      "options": ["a. x < 4", "b. x > 4", "c. x < -4", "d. x > -4"],
-      "correct option": "b",
-      "chapter": "Linear Inequalities"
-    },
-    "36": {
-      "Question": "In a group of 10 people, how many ways can you select a committee of 3 members?",
-      "options": ["a. 10", "b. 30", "c. 120", "d. 720"],
-      "correct option": "c",
-      "chapter": "Permutations and Combinations"
-    },
-    "37": {
-      "Question": "What is the coefficient of x⁴ in the expansion of (x + 3)⁷?",
-      "options": ["a. 35", "b. 63", "c. 105", "d. 210"],
-      "correct option": "b",
-      "chapter": "Binomial Theorem"
-    },
-    "38": {
-      "Question": "What is the sum of the first n terms of a harmonic progression with first term a and common difference d?",
-      "options": ["a. n(a + d)", "b. a/(1 + d)", "c. a(1 + d^n)/(1 - d)", "d. a(1 - d)/(1 + d)"],
-      "correct option": "b",
-      "chapter": "Sequences and Series"
-    },
-    "39": {
-      "Question": "What is the equation of the line with slope -2/3 passing through the point (3, 4)?",
-      "options": ["a. y = -2/3x - 2", "b. y = -2/3x + 2", "c. y = 2/3x - 2", "d. y = 2/3x + 2"],
-      "correct option": "a",
-      "chapter": "Straight Lines"
-    },
-    "40": {
-      "Question": "Which conic section is formed when a plane intersects a cone at an angle to its base but not parallel to it?",
-      "options": ["a. Circle", "b. Ellipse", "c. Parabola", "d. Hyperbola"],
-      "correct option": "d",
-      "chapter": "Conic Sections"
-    },
-    "41": {
-      "Question": "What is the distance between the points (1, 2, 3) and (4, 5, 6) in three-dimensional space?",
-      "options": ["a. √3", "b. √6", "c. √9", "d. √27"],
-      "correct option": "b",
-      "chapter": "Introduction to Three-Dimensional Geometry"
-    },
-    "42": {
-      "Question": "What is the limit of (x - 2)/(x² - 4) as x approaches 2?",
-      "options": ["a. 0", "b. 1/2", "c. 1", "d. Undefined"],
-      "correct option": "b",
-      "chapter": "Limits and Derivatives"
-    },
-    "43": {
-      "Question": "Which of the following is not a valid statement in mathematical reasoning?",
-      "options": ["a. If P, then Q.", "b. If Q, then P.", "c. P and Q.", "d. P or Q."],
-      "correct option": "b",
-      "chapter": "Mathematical Reasoning"
-    },
-    "44": {
-      "Question": "What is the mode of the dataset: {2, 4, 4, 6, 7, 7, 7, 8, 9}?",
-      "options": ["a. 4", "b. 6", "c. 7", "d. 8"],
-      "correct option": "c",
-      "chapter": "Statistics"
-    },
-    "45": {
-      "Question": "In a deck of playing cards, what is the probability of drawing a red card?",
-      "options": ["a. 1/2", "b. 1/4", "c. 1/3", "d. 2/3"],
-      "correct option": "c",
-      "chapter": "Probability"
-    },
-    "46": {
-      "Question": "In set theory, what is the complement of a set A denoted as A'?",
-      "options": ["a. The set A", "b. The empty set", "c. The universal set", "d. The set of prime numbers"],
-      "correct option": "b",
-      "chapter": "Sets"
-    },
-    "47": {
-      "Question": "Which of the following functions is neither injective nor surjective?",
-      "options": ["a. f(x) = x²", "b. f(x) = 2x + 3", "c. f(x) = |x|", "d. f(x) = sin(x)"],
-      "correct option": "a",
-      "chapter": "Relations and Functions"
-    },
-    "48": {
-      "Question": "What is the value of sin(90 degrees)?",
-      "options": ["a. 0", "b. 1", "c. -1", "d. Undefined"],
-      "correct option": "b",
-      "chapter": "Trigonometry"
-    },
-    "49": {
-      "Question": "What is the product of complex numbers (2 + 3i) and (4 - 5i)?",
-      "options": ["a. 2 - 11i", "b. 26 + 7i", "c. -7 + 26i", "d. -11 - 2i"],
-      "correct option": "d",
-      "chapter": "Complex Numbers"
-    },
-    "50": {
-      "Question": "Which of the following is the solution to the inequality 3x - 2 > 10?",
-      "options": ["a. x < 4", "b. x > 4", "c. x < -4", "d. x > -4"],
-      "correct option": "b",
-      "chapter": "Linear Inequalities"
-    }
+  "1": {
+    "Question": "What is the value of √(2^2 + 3^2)?",
+    "options": ["4", "5", "6", "7"],
+    "correct option": "b",
+    "chapter": "Sets"
+  },
+  "2": {
+    "Question": "If A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, what is A ∩ B?",
+    "options": ["{1, 2}", "{3, 4}", "{5, 6}", "{1, 2, 3, 4, 5, 6}"],
+    "correct option": "b",
+    "chapter": "Sets"
+  },
+  "3": {
+    "Question": "What is the universal set for a set containing all prime numbers less than 10?",
+    "options": ["{1, 2, 3, 4, 5, 6, 7, 8, 9}", "{2, 3, 5, 7}", "{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}", "{1, 3, 5, 7, 9}"],
+    "correct option": "b",
+    "chapter": "Sets"
+  },
+  "4": {
+    "Question": "What is the complement of a set A with respect to the universal set U?",
+    "options": ["A ∪ U", "A ∩ U", "U - A", "A - U"],
+    "correct option": "c",
+    "chapter": "Sets"
+  },
+  "5": {
+    "Question": "In a survey of 200 people, 120 liked pizza and 80 liked burgers. How many liked both pizza and burgers?",
+    "options": ["40", "60", "80", "100"],
+    "correct option": "b",
+    "chapter": "Sets"
+  },
+  "6": {
+    "Question": "If a set A has 5 elements and a set B has 7 elements, how many elements can the union of A and B have at most?",
+    "options": ["5", "7", "11", "12"],
+    "correct option": "d",
+    "chapter": "Sets"
+  },
+  "7": {
+    "Question": "What is the value of (sin 30° + cos 60°)?",
+    "options": ["1", "2", "√3", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "8": {
+    "Question": "What is the value of tan 45°?",
+    "options": ["0", "1", "√2", "2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "9": {
+    "Question": "What is the value of sin^2 60°?",
+    "options": ["1/4", "1/2", "3/4", "√3/2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "10": {
+    "Question": "If sin θ = 1/2, what is the value of θ in degrees?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "11": {
+    "Question": "What is the value of cos^2 45°?",
+    "options": ["1/4", "1/2", "3/4", "√2/2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "12": {
+    "Question": "If cos θ = 0, what is the value of θ in degrees?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correct option": "d",
+    "chapter": "Trigonometry"
+  },
+  "13": {
+    "Question": "What is the value of tan 60°?",
+    "options": ["1/2", "√3/2", "√2", "2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "14": {
+    "Question": "What is the value of sin 90°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "15": {
+    "Question": "What is the value of cos 30°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "16": {
+    "Question": "If θ is an acute angle and tan θ = 3/4, what is the value of cos θ?",
+    "options": ["3/4", "4/5", "5/3", "√7/25"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "17": {
+    "Question": "What is the value of (1 - sin^2 θ) for any angle θ?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "18": {
+    "Question": "If tan θ = 5/12, what is the value of sin θ?",
+    "options": ["5/12", "12/5", "1/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "19": {
+    "Question": "What is the value of sin 0°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "20": {
+    "Question": "What is the value of tan 30°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "21": {
+    "Question": "If θ is an acute angle and sin θ = 4/5, what is the value of cos θ?",
+    "options": ["4/5", "3/5", "5/4", "5/3"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "22": {
+    "Question": "What is the value of cos 0°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "23": {
+    "Question": "What is the value of sin^2 45°?",
+    "options": ["1/4", "1/2", "3/4", "√2/2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "24": {
+    "Question": "If θ is an acute angle and sin θ = 3/5, what is the value of tan θ?",
+    "options": ["3/5", "5/3", "4/5", "5/4"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "25": {
+    "Question": "What is the value of cos 60°?",
+    "options": ["0", "1/2", "√2/2", "√3/2"],
+    "correct option": "d",
+    "chapter": "Trigonometry"
+  },
+  "26": {
+    "Question": "If cos θ = 1/2, what is the value of θ in degrees?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "27": {
+    "Question": "What is the value of (sin 45° + cos 45°)?",
+    "options": ["0", "1", "√2", "2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "28": {
+    "Question": "If tan θ = 4/3, what is the value of θ in degrees?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "29": {
+    "Question": "What is the value of sin 120°?",
+    "options": ["1/2", "√2/2", "√3/2", "1"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "30": {
+    "Question": "If θ is an acute angle and cos θ = 3/4, what is the value of sin θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "31": {
+    "Question": "What is the value of tan 45° - cot 45°?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "32": {
+    "Question": "If θ is an acute angle and tan θ = 3/4, what is the value of sin θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "33": {
+    "Question": "What is the value of cos^2 30°?",
+    "options": ["1/4", "1/2", "3/4", "√3/2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "34": {
+    "Question": "What is the value of (sin 60° + cos 30°)?",
+    "options": ["1", "2", "√3", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "35": {
+    "Question": "If θ is an acute angle and sin θ = 5/13, what is the value of cos θ?",
+    "options": ["5/13", "13/5", "12/13", "√7/25"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "36": {
+    "Question": "What is the value of (tan 30° + cot 60°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "37": {
+    "Question": "If sin θ = 3/5 and cos θ = 4/5, what is the value of tan θ?",
+    "options": ["3/4", "4/3", "3/5", "4/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "38": {
+    "Question": "What is the value of tan 90°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "39": {
+    "Question": "If cos θ = 0, what is the value of θ in degrees?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correct option": "d",
+    "chapter": "Trigonometry"
+  },
+  "40": {
+    "Question": "What is the value of sin 180°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "41": {
+    "Question": "What is the value of cos 90°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "42": {
+    "Question": "If sin θ = 1, what is the value of θ in degrees?",
+    "options": ["30°", "45°", "60°", "90°"],
+    "correct option": "d",
+    "chapter": "Trigonometry"
+  },
+  "43": {
+    "Question": "What is the value of tan 0°?",
+    "options": ["0", "1", "√2/2", "√3/2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "44": {
+    "Question": "If θ is an acute angle and cos θ = 12/13, what is the value of sin θ?",
+    "options": ["12/13", "13/12", "5/13", "√7/25"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "45": {
+    "Question": "What is the value of (sin 45° - cos 45°)?",
+    "options": ["0", "1", "√2", "2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "46": {
+    "Question": "If θ is an acute angle and tan θ = 12/5, what is the value of cos θ?",
+    "options": ["12/5", "5/12", "5/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "47": {
+    "Question": "What is the value of (1 + tan^2 60°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "48": {
+    "Question": "If θ is an acute angle and cos θ = 5/13, what is the value of tan θ?",
+    "options": ["5/13", "13/5", "5/12", "12/5"],
+    "correct option": "d",
+    "chapter": "Trigonometry"
+  },
+  "49": {
+    "Question": "What is the value of (sin 60° - cos 30°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "50": {
+    "Question": "If sin θ = 5/13 and tan θ = 5/12, what is the value of cos θ?",
+    "options": ["5/12", "12/5", "5/13", "13/5"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "51": {
+    "Question": "What is the value of (cot 45° + sec 30°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "52": {
+    "Question": "If cos θ = 5/13 and sec θ = 13/5, what is the value of sin θ?",
+    "options": ["5/13", "13/5", "5/12", "12/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "53": {
+    "Question": "What is the value of (sin 30° - cos 60°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "54": {
+    "Question": "If θ is an acute angle and sin θ = 3/5, what is the value of cos θ?",
+    "options": ["3/5", "4/5", "5/4", "√7/25"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "55": {
+    "Question": "What is the value of (tan 30° + cot 60°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "56": {
+    "Question": "If θ is an acute angle and cos θ = 4/5, what is the value of tan θ?",
+    "options": ["4/5", "5/4", "3/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "57": {
+    "Question": "What is the value of (sin 60° - cos 30°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "58": {
+    "Question": "If sin θ = 12/13 and cos θ = 5/13, what is the value of tan θ?",
+    "options": ["12/5", "5/12", "5/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "59": {
+    "Question": "What is the value of (tan 45° + cot 45°)?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "60": {
+    "Question": "If θ is an acute angle and sin θ = 5/13, what is the value of cos θ?",
+    "options": ["5/13", "13/5", "5/12", "12/5"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "61": {
+    "Question": "What is the value of (cot 60° + sec 30°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "62": {
+    "Question": "If sin θ = 13/5 and tan θ = 5/12, what is the value of cos θ?",
+    "options": ["5/12", "12/5", "5/13", "13/5"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "63": {
+    "Question": "What is the value of (cot 30° + sec 60°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "d",
+    "chapter": "Trigonometry"
+  },
+  "64": {
+    "Question": "If θ is an acute angle and cos θ = 3/4, what is the value of tan θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "65": {
+    "Question": "What is the value of (cot 45° - sec 45°)?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "66": {
+    "Question": "If sin θ = 3/5 and cos θ = 4/5, what is the value of tan θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "67": {
+    "Question": "What is the value of (cot 60° - sec 30°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "68": {
+    "Question": "If θ is an acute angle and cos θ = 5/12, what is the value of tan θ?",
+    "options": ["5/12", "12/5", "5/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "69": {
+    "Question": "What is the value of (sin 30° + cos 60°) / (cos 30° + sin 60°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "70": {
+    "Question": "If sin θ = 3/5 and tan θ = 4/3, what is the value of cos θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "71": {
+    "Question": "What is the value of (sin 45° - cos 45°) / (cos 45° - sin 45°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "72": {
+    "Question": "If θ is an acute angle and tan θ = 5/12, what is the value of cos θ?",
+    "options": ["5/12", "12/5", "5/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "73": {
+    "Question": "What is the value of (tan 30° + cot 60°) / (cot 30° + tan 60°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "74": {
+    "Question": "If sin θ = 4/5 and cos θ = 3/5, what is the value of tan θ?",
+    "options": ["4/3", "3/4", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "75": {
+    "Question": "What is the value of (cot 45° + sec 45°) / (sec 45° + cot 45°)?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "76": {
+    "Question": "If θ is an acute angle and cos θ = 3/4, what is the value of tan θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "77": {
+    "Question": "What is the value of (cot 30° - sec 60°) / (sec 30° - cot 60°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "78": {
+    "Question": "If sin θ = 5/13 and tan θ = 12/5, what is the value of cos θ?",
+    "options": ["5/12", "12/5", "5/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "79": {
+    "Question": "What is the value of (tan 45° - cot 45°) / (cot 45° - tan 45°)?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "80": {
+    "Question": "If θ is an acute angle and cos θ = 4/5, what is the value of tan θ?",
+    "options": ["4/5", "5/4", "3/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "81": {
+    "Question": "What is the value of (sin 60° + cos 30°) / (cos 60° + sin 30°)?",
+    "options": ["1", "2", "√3", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "82": {
+    "Question": "If sin θ = 3/5 and cos θ = 5/13, what is the value of tan θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "83": {
+    "Question": "What is the value of (tan 30° - cot 60°) / (cot 30° - tan 60°)?",
+    "options": ["0", "1", "√3", "√2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "84": {
+    "Question": "If θ is an acute angle and cos θ = 12/13, what is the value of tan θ?",
+    "options": ["12/5", "5/12", "5/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "85": {
+    "Question": "What is the value of (cot 45° + sec 45°) / (sec 45° + cot 45°)?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "86": {
+    "Question": "If sin θ = 12/13 and cos θ = 4/5, what is the value of tan θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "87": {
+    "Question": "What is the value of (cot 60° + sec 60°) / (sec 60° + cot 60°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "d",
+    "chapter": "Trigonometry"
+  },
+  "88": {
+    "Question": "If θ is an acute angle and cos θ = 5/12, what is the value of tan θ?",
+    "options": ["5/12", "12/5", "5/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "89": {
+    "Question": "What is the value of (sin 30° + cos 60°) / (cos 30° - sin 60°)?",
+    "options": ["1", "2", "√3", "√2"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "90": {
+    "Question": "If sin θ = 3/5 and tan θ = 3/4, what is the value of cos θ?",
+    "options": ["4/3", "3/4", "5/4", "√7/25"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "91": {
+    "Question": "What is the value of (tan 45° + cot 45°) / (cot 45° - tan 45°)?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "92": {
+    "Question": "If θ is an acute angle and cos θ = 3/5, what is the value of tan θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "93": {
+    "Question": "What is the value of (cot 30° + sec 30°) / (sec 30° + cot 30°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "94": {
+    "Question": "If sin θ = 5/13 and tan θ = 4/3, what is the value of cos θ?",
+    "options": ["3/4", "4/3", "5/4", "√7/25"],
+    "correct option": "b",
+    "chapter": "Trigonometry"
+  },
+  "95": {
+    "Question": "What is the value of (cot 45° - sec 45°) / (sec 45° - cot 45°)?",
+    "options": ["0", "1", "2", "√2"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "96": {
+    "Question": "If θ is an acute angle and cos θ = 4/5, what is the value of tan θ?",
+    "options": ["4/5", "5/4", "3/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "97": {
+    "Question": "What is the value of (sin 60° + cos 60°) / (cos 60° - sin 60°)?",
+    "options": ["1", "2", "√3", "√2"],
+    "correct option": "c",
+    "chapter": "Trigonometry"
+  },
+  "98": {
+    "Question": "If sin θ = 4/5 and cos θ = 3/5, what is the value of tan θ?",
+    "options": ["4/3", "3/4", "5/4", "√7/25"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "99": {
+    "Question": "What is the value of (cot 60° - sec 60°) / (sec 60° - cot 60°)?",
+    "options": ["0", "1", "2", "√3"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
+  },
+  "100": {
+    "Question": "If sin θ = 5/13 and cos θ = 12/13, what is the value of tan θ?",
+    "options": ["12/5", "5/12", "5/13", "13/5"],
+    "correct option": "a",
+    "chapter": "Trigonometry"
   }
-  
+}

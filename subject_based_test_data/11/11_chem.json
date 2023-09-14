@@ -1,303 +1,602 @@
 {
-    "1": {
-      "Question": "What is the atomic number of hydrogen?",
-      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
-      "correct option": "a",
-      "chapter": "Structure of Atom"
-    },
-    "2": {
-      "Question": "Which subatomic particle is negatively charged?",
-      "options": ["a. Proton", "b. Neutron", "c. Electron", "d. Nucleus"],
-      "correct option": "c",
-      "chapter": "Structure of Atom"
-    },
-    "3": {
-      "Question": "What is the mass number of an atom?",
-      "options": ["a. Number of protons", "b. Number of electrons", "c. Number of protons + neutrons", "d. Number of neutrons"],
-      "correct option": "c",
-      "chapter": "Structure of Atom"
-    },
-    "4": {
-      "Question": "What is the chemical symbol for oxygen?",
-      "options": ["a. O", "b. Ox", "c. Oc", "d. Oxg"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "5": {
-      "Question": "How many electrons can the first energy level (n=1) hold?",
-      "options": ["a. 2", "b. 6", "c. 8", "d. 18"],
-      "correct option": "a",
-      "chapter": "Structure of Atom"
-    },
-    "6": {
-      "Question": "What is the atomic number of carbon?",
-      "options": ["a. 5", "b. 6", "c. 7", "d. 8"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "7": {
-      "Question": "What is the chemical symbol for sodium?",
-      "options": ["a. Sa", "b. So", "c. Na", "d. No"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "8": {
-      "Question": "Which element is known as the 'Noble Gas'?",
-      "options": ["a. Helium", "b. Neon", "c. Argon", "d. Krypton"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "9": {
-      "Question": "How many electrons are there in the outermost shell of a sodium atom?",
-      "options": ["a. 1", "b. 2", "c. 7", "d. 8"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "10": {
-      "Question": "Which element has the atomic number 18?",
-      "options": ["a. Oxygen", "b. Carbon", "c. Neon", "d. Hydrogen"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "11": {
-      "Question": "What is the chemical symbol for potassium?",
-      "options": ["a. K", "b. Po", "c. Ko", "d. Pt"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "12": {
-      "Question": "How many electrons are there in the outermost shell of a chlorine atom?",
-      "options": ["a. 1", "b. 2", "c. 7", "d. 8"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "13": {
-      "Question": "What is the chemical symbol for iron?",
-      "options": ["a. Ir", "b. Fe", "c. In", "d. Fr"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "14": {
-      "Question": "Which element has the atomic number 8?",
-      "options": ["a. Neon", "b. Carbon", "c. Oxygen", "d. Hydrogen"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "15": {
-      "Question": "What is the chemical symbol for hydrogen?",
-      "options": ["a. Hg", "b. Hy", "c. He", "d. H"],
-      "correct option": "d",
-      "chapter": "Structure of Atom"
-    },
-    "16": {
-      "Question": "Which element has the atomic number 1?",
-      "options": ["a. Hydrogen", "b. Helium", "c. Lithium", "d. Beryllium"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "17": {
-      "Question": "What is the chemical symbol for helium?",
-      "options": ["a. He", "b. H", "c. Hy", "d. Hei"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "18": {
-      "Question": "How many protons are there in the nucleus of a nitrogen atom?",
-      "options": ["a. 5", "b. 6", "c. 7", "d. 8"],
-      "correct option": "c",
-      "chapter": "Structure of Atom"
-    },
-    "19": {
-      "Question": "What is the chemical symbol for nitrogen?",
-      "options": ["a. N", "b. Ni", "c. Ne", "d. Nu"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "20": {
-      "Question": "Which element has the atomic number 10?",
-      "options": ["a. Neon", "b. Carbon", "c. Oxygen", "d. Hydrogen"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "21": {
-      "Question": "What is the chemical symbol for carbon?",
-      "options": ["a. Ca", "b. Co", "c. Cu", "d. C"],
-      "correct option": "d",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "22": {
-      "Question": "How many electrons are there in the outermost shell of a helium atom?",
-      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
-      "correct option": "a",
-      "chapter": "Structure of Atom"
-    },
-    "23": {
-      "Question": "What is the chemical symbol for silicon?",
-      "options": ["a. Si", "b. S", "c. Sl", "d. Se"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "24": {
-      "Question": "What is the chemical symbol for magnesium?",
-      "options": ["a. M", "b. Mg", "c. Ma", "d. Mn"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "25": {
-      "Question": "How many electrons can the second energy level (n=2) hold?",
-      "options": ["a. 2", "b. 6", "c. 8", "d. 18"],
-      "correct option": "c",
-      "chapter": "Structure of Atom"
-    },
-    "26": {
-      "Question": "Which element has the atomic number 6?",
-      "options": ["a. Oxygen", "b. Carbon", "c. Neon", "d. Hydrogen"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "27": {
-      "Question": "What is the chemical symbol for neon?",
-      "options": ["a. Ne", "b. No", "c. Na", "d. Ni"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "28": {
-      "Question": "How many neutrons are there in the nucleus of a helium atom?",
-      "options": ["a. 0", "b. 1", "c. 2", "d. 3"],
-      "correct option": "b",
-      "chapter": "Structure of Atom"
-    },
-    "29": {
-      "Question": "What is the chemical symbol for fluorine?",
-      "options": ["a. Fl", "b. Fu", "c. F", "d. Fr"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "30": {
-      "Question": "Which element has the atomic number 2?",
-      "options": ["a. Hydrogen", "b. Helium", "c. Lithium", "d. Beryllium"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "31": {
-      "Question": "What is the chemical symbol for aluminum?",
-      "options": ["a. Alu", "b. Al", "c. Ai", "d. Ag"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "32": {
-      "Question": "How many electrons are there in the outermost shell of a potassium atom?",
-      "options": ["a. 1", "b. 2", "c. 7", "d. 8"],
-      "correct option": "d",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "33": {
-      "Question": "What is the chemical symbol for phosphorus?",
-      "options": ["a. Ph", "b. P", "c. Po", "d. Pa"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "34": {
-      "Question": "Which element has the atomic number 7?",
-      "options": ["a. Oxygen", "b. Carbon", "c. Neon", "d. Nitrogen"],
-      "correct option": "d",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "35": {
-      "Question": "What is the chemical symbol for sulfur?",
-      "options": ["a. Su", "b. S", "c. Sl", "d. Sa"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "36": {
-      "Question": "How many electrons are there in the outermost shell of a chlorine atom?",
-      "options": ["a. 1", "b. 2", "c. 7", "d. 8"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "37": {
-      "Question": "What is the chemical symbol for sodium?",
-      "options": ["a. Sa", "b. So", "c. Na", "d. No"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "38": {
-      "Question": "How many electrons are there in the outermost shell of a helium atom?",
-      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
-      "correct option": "a",
-      "chapter": "Structure of Atom"
-    },
-    "39": {
-      "Question": "What is the chemical symbol for iron?",
-      "options": ["a. Ir", "b. Fe", "c. In", "d. Fr"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "40": {
-      "Question": "Which element has the atomic number 8?",
-      "options": ["a. Neon", "b. Carbon", "c. Oxygen", "d. Hydrogen"],
-      "correct option": "c",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "41": {
-      "Question": "What is the chemical symbol for hydrogen?",
-      "options": ["a. Hg", "b. Hy", "c. He", "d. H"],
-      "correct option": "d",
-      "chapter": "Structure of Atom"
-    },
-    "42": {
-      "Question": "Which element has the atomic number 1?",
-      "options": ["a. Hydrogen", "b. Helium", "c. Lithium", "d. Beryllium"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "43": {
-      "Question": "What is the chemical symbol for helium?",
-      "options": ["a. He", "b. H", "c. Hy", "d. Hei"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "44": {
-      "Question": "How many protons are there in the nucleus of a nitrogen atom?",
-      "options": ["a. 5", "b. 6", "c. 7", "d. 8"],
-      "correct option": "c",
-      "chapter": "Structure of Atom"
-    },
-    "45": {
-      "Question": "What is the chemical symbol for nitrogen?",
-      "options": ["a. N", "b. Ni", "c. Ne", "d. Nu"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "46": {
-      "Question": "Which element has the atomic number 10?",
-      "options": ["a. Neon", "b. Carbon", "c. Oxygen", "d. Hydrogen"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "47": {
-      "Question": "What is the chemical symbol for carbon?",
-      "options": ["a. Ca", "b. Co", "c. Cu", "d. C"],
-      "correct option": "d",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "48": {
-      "Question": "How many electrons are there in the outermost shell of a helium atom?",
-      "options": ["a. 1", "b. 2", "c. 3", "d. 4"],
-      "correct option": "a",
-      "chapter": "Structure of Atom"
-    },
-    "49": {
-      "Question": "What is the chemical symbol for silicon?",
-      "options": ["a. Si", "b. S", "c. Sl", "d. Se"],
-      "correct option": "a",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    },
-    "50": {
-      "Question": "What is the chemical symbol for magnesium?",
-      "options": ["a. M", "b. Mg", "c. Ma", "d. Mn"],
-      "correct option": "b",
-      "chapter": "Classification of Elements and Periodicity in Properties"
-    }
+  "1": {
+    "Question": "What is the SI unit of temperature?",
+    "options": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
+    "correct option": "c",
+    "chapter": "Some Basic Concepts of Chemistry"
+  },
+  "2": {
+    "Question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+    "correct option": "b",
+    "chapter": "Some Basic Concepts of Chemistry"
+  },
+  "3": {
+    "Question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Hg"],
+    "correct option": "a",
+    "chapter": "Some Basic Concepts of Chemistry"
+  },
+  "4": {
+    "Question": "Which subatomic particle has a positive charge?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleon"],
+    "correct option": "a",
+    "chapter": "Structure of Atom"
+  },
+  "5": {
+    "Question": "What is the total number of electrons in a carbon atom?",
+    "options": ["2", "4", "6", "8"],
+    "correct option": "c",
+    "chapter": "Structure of Atom"
+  },
+  "6": {
+    "Question": "What is the atomic number of hydrogen?",
+    "options": ["1", "2", "3", "4"],
+    "correct option": "a",
+    "chapter": "Structure of Atom"
+  },
+  "7": {
+    "Question": "Which element has the symbol 'Na'?",
+    "options": ["Sodium", "Silicon", "Sulfur", "Silver"],
+    "correct option": "a",
+    "chapter": "Classification of Elements and Periodicity in Properties"
+  },
+  "8": {
+    "Question": "What is the name of the first element in the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "a",
+    "chapter": "Classification of Elements and Periodicity in Properties"
+  },
+  "9": {
+    "Question": "Which of the following elements is a noble gas?",
+    "options": ["Oxygen", "Nitrogen", "Argon", "Chlorine"],
+    "correct option": "c",
+    "chapter": "Classification of Elements and Periodicity in Properties"
+  },
+  "10": {
+    "Question": "What is the chemical symbol for potassium?",
+    "options": ["K", "P", "Pt", "Kr"],
+    "correct option": "a",
+    "chapter": "Classification of Elements and Periodicity in Properties"
+  },
+  "11": {
+    "Question": "What is the mass number of an element?",
+    "options": ["The number of protons in the nucleus", "The number of neutrons in the nucleus", "The sum of protons and neutrons in the nucleus", "The number of electrons in the nucleus"],
+    "correct option": "c",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "12": {
+    "Question": "Which type of bond is formed between two nonmetals by sharing electrons?",
+    "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+    "correct option": "b",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "13": {
+    "Question": "What is the chemical formula for water?",
+    "options": ["H2O2", "H2O", "HO2", "H3O"],
+    "correct option": "b",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "14": {
+    "Question": "Which gas is produced during the photosynthesis of plants?",
+    "options": ["Oxygen", "Carbon dioxide", "Methane", "Hydrogen"],
+    "correct option": "a",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "15": {
+    "Question": "What is the chemical formula for methane?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "a",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "16": {
+    "Question": "What is the chemical formula for ammonia?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "c",
+    "chapter": "Chemical Bonding and Molecular Structure"
+  },
+  "17": {
+    "Question": "Which of the following is a greenhouse gas?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+    "correct option": "b",
+    "chapter": "States of Matter"
+  },
+  "18": {
+    "Question": "What is the chemical formula for carbon dioxide?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "b",
+    "chapter": "States of Matter"
+  },
+  "19": {
+    "Question": "What is the SI unit of pressure?",
+    "options": ["Pascal (Pa)", "Newton (N)", "Joule (J)", "Watt (W)"],
+    "correct option": "a",
+    "chapter": "States of Matter"
+  },
+  "20": {
+    "Question": "Which state of matter has a definite volume but no definite shape?",
+    "options": ["Solid", "Liquid", "Gas", "Plasma"],
+    "correct option": "b",
+    "chapter": "States of Matter"
+  },
+  "21": {
+    "Question": "What is the process of a liquid turning into a gas at its boiling point?",
+    "options": ["Sublimation", "Condensation", "Vaporization", "Fusion"],
+    "correct option": "c",
+    "chapter": "States of Matter"
+  },
+  "22": {
+    "Question": "Which of the following is an example of a heterogeneous mixture?",
+    "options": ["Saltwater", "Air", "Homogenized milk", "Orange juice"],
+    "correct option": "d",
+    "chapter": "Thermodynamics"
+  },
+  "23": {
+    "Question": "What is the SI unit of energy?",
+    "options": ["Pascal (Pa)", "Joule (J)", "Newton (N)", "Watt (W)"],
+    "correct option": "b",
+    "chapter": "Thermodynamics"
+  },
+  "24": {
+    "Question": "Which law of thermodynamics states that energy cannot be created or destroyed, only transferred or converted?",
+    "options": ["Zeroth law", "First law", "Second law", "Third law"],
+    "correct option": "b",
+    "chapter": "Thermodynamics"
+  },
+  "25": {
+    "Question": "What is the SI unit of heat?",
+    "options": ["Kelvin (K)", "Joule (J)", "Calorie (cal)", "Watt (W)"],
+    "correct option": "c",
+    "chapter": "Thermodynamics"
+  },
+  "26": {
+    "Question": "Which gas law relates the pressure and volume of a gas at constant temperature?",
+    "options": ["Boyle's law", "Charles's law", "Gay-Lussac's law", "Avogadro's law"],
+    "correct option": "a",
+    "chapter": "Equilibrium"
+  },
+  "27": {
+    "Question": "What is the chemical formula for methane?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "a",
+    "chapter": "Equilibrium"
+  },
+  "28": {
+    "Question": "What is the chemical formula for ammonia?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "c",
+    "chapter": "Equilibrium"
+  },
+  "29": {
+    "Question": "Which type of reaction involves the combination of two or more substances to form a new substance?",
+    "options": ["Decomposition reaction", "Combustion reaction", "Displacement reaction", "Synthesis reaction"],
+    "correct option": "d",
+    "chapter": "Equilibrium"
+  },
+  "30": {
+    "Question": "What is the chemical formula for hydrogen peroxide?",
+    "options": ["H2O2", "H2O", "HO2", "H3O"],
+    "correct option": "a",
+    "chapter": "Redox Reactions"
+  },
+  "31": {
+    "Question": "In a redox reaction, what is the substance that loses electrons called?",
+    "options": ["Oxidizing agent", "Reducing agent", "Catalyst", "Reactant"],
+    "correct option": "b",
+    "chapter": "Redox Reactions"
+  },
+  "32": {
+    "Question": "What is the chemical formula for sodium chloride?",
+    "options": ["NaCl", "KCl", "MgCl2", "CaCl2"],
+    "correct option": "a",
+    "chapter": "Hydrogen"
+  },
+  "33": {
+    "Question": "What is the chemical formula for potassium chloride?",
+    "options": ["NaCl", "KCl", "MgCl2", "CaCl2"],
+    "correct option": "b",
+    "chapter": "Hydrogen"
+  },
+  "34": {
+    "Question": "What is the chemical formula for magnesium chloride?",
+    "options": ["NaCl", "KCl", "MgCl2", "CaCl2"],
+    "correct option": "c",
+    "chapter": "Hydrogen"
+  },
+  "35": {
+    "Question": "What is the chemical formula for calcium chloride?",
+    "options": ["NaCl", "KCl", "MgCl2", "CaCl2"],
+    "correct option": "d",
+    "chapter": "Hydrogen"
+  },
+  "36": {
+    "Question": "What is the chemical formula for water?",
+    "options": ["H2O2", "H2O", "HO2", "H3O"],
+    "correct option": "b",
+    "chapter": "s-Block Elements"
+  },
+  "37": {
+    "Question": "Which element belongs to Group 1 of the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "c",
+    "chapter": "s-Block Elements"
+  },
+  "38": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "a",
+    "chapter": "s-Block Elements"
+  },
+  "39": {
+    "Question": "What is the chemical symbol for potassium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "b",
+    "chapter": "s-Block Elements"
+  },
+  "40": {
+    "Question": "What is the chemical symbol for magnesium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "c",
+    "chapter": "s-Block Elements"
+  },
+  "41": {
+    "Question": "What is the chemical symbol for calcium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "d",
+    "chapter": "s-Block Elements"
+  },
+  "42": {
+    "Question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["NaOH", "KOH", "Mg(OH)2", "Ca(OH)2"],
+    "correct option": "d",
+    "chapter": "p-Block Elements"
+  },
+  "43": {
+    "Question": "Which element belongs to Group 17 of the periodic table?",
+    "options": ["Oxygen", "Fluorine", "Chlorine", "Bromine"],
+    "correct option": "c",
+    "chapter": "p-Block Elements"
+  },
+  "44": {
+    "Question": "What is the chemical symbol for fluorine?",
+    "options": ["O", "F", "Cl", "Br"],
+    "correct option": "b",
+    "chapter": "p-Block Elements"
+  },
+  "45": {
+    "Question": "What is the chemical symbol for chlorine?",
+    "options": ["O", "F", "Cl", "Br"],
+    "correct option": "c",
+    "chapter": "p-Block Elements"
+  },
+  "46": {
+    "Question": "What is the chemical symbol for bromine?",
+    "options": ["O", "F", "Cl", "Br"],
+    "correct option": "d",
+    "chapter": "p-Block Elements"
+  },
+  "47": {
+    "Question": "What is the chemical formula for methane?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "a",
+    "chapter": "p-Block Elements"
+  },
+  "48": {
+    "Question": "What is the chemical formula for carbon dioxide?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "b",
+    "chapter": "d- and f-Block Elements"
+  },
+  "49": {
+    "Question": "Which element belongs to Group 18 of the periodic table?",
+    "options": ["Neon", "Argon", "Krypton", "Xenon"],
+    "correct option": "b",
+    "chapter": "d- and f-Block Elements"
+  },
+  "50": {
+    "Question": "What is the chemical symbol for argon?",
+    "options": ["Ne", "Ar", "Kr", "Xe"],
+    "correct option": "b",
+    "chapter": "d- and f-Block Elements"
+  },
+  "51": {
+    "Question": "What is the chemical symbol for krypton?",
+    "options": ["Ne", "Ar", "Kr", "Xe"],
+    "correct option": "c",
+    "chapter": "d- and f-Block Elements"
+  },
+  "52": {
+    "Question": "What is the chemical symbol for xenon?",
+    "options": ["Ne", "Ar", "Kr", "Xe"],
+    "correct option": "d",
+    "chapter": "d- and f-Block Elements"
+  },
+  "53": {
+    "Question": "What is the chemical formula for methane?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "54": {
+    "Question": "What is the chemical formula for ammonia?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "55": {
+    "Question": "What is the chemical formula for water?",
+    "options": ["H2O2", "H2O", "HO2", "H3O"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "56": {
+    "Question": "What is the chemical formula for hydrogen peroxide?",
+    "options": ["H2O2", "H2O", "HO2", "H3O"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "57": {
+    "Question": "Which of the following is a transition metal?",
+    "options": ["Sodium", "Potassium", "Copper", "Zinc"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "58": {
+    "Question": "What is the chemical formula for sodium chloride?",
+    "options": ["NaCl", "KCl", "MgCl2", "CaCl2"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "59": {
+    "Question": "What is the chemical formula for potassium chloride?",
+    "options": ["NaCl", "KCl", "MgCl2", "CaCl2"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "60": {
+    "Question": "What is the chemical formula for magnesium chloride?",
+    "options": ["NaCl", "KCl", "MgCl2", "CaCl2"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "61": {
+    "Question": "What is the chemical formula for calcium chloride?",
+    "options": ["NaCl", "KCl", "MgCl2", "CaCl2"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "62": {
+    "Question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["NaOH", "KOH", "Mg(OH)2", "Ca(OH)2"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "63": {
+    "Question": "Which element belongs to Group 1 of the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "64": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "65": {
+    "Question": "What is the chemical symbol for potassium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "66": {
+    "Question": "What is the chemical symbol for magnesium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "67": {
+    "Question": "What is the chemical symbol for calcium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "68": {
+    "Question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["NaOH", "KOH", "Mg(OH)2", "Ca(OH)2"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "69": {
+    "Question": "Which element belongs to Group 1 of the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "70": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "71": {
+    "Question": "What is the chemical symbol for potassium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "72": {
+    "Question": "What is the chemical symbol for magnesium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "73": {
+    "Question": "What is the chemical symbol for calcium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "74": {
+    "Question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["NaOH", "KOH", "Mg(OH)2", "Ca(OH)2"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "75": {
+    "Question": "Which element belongs to Group 1 of the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "76": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "77": {
+    "Question": "What is the chemical symbol for potassium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "78": {
+    "Question": "What is the chemical symbol for magnesium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "79": {
+    "Question": "What is the chemical symbol for calcium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "80": {
+    "Question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["NaOH", "KOH", "Mg(OH)2", "Ca(OH)2"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "81": {
+    "Question": "Which element belongs to Group 1 of the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "82": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "83": {
+    "Question": "What is the chemical symbol for potassium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "84": {
+    "Question": "What is the chemical symbol for magnesium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "85": {
+    "Question": "What is the chemical symbol for calcium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "86": {
+    "Question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["NaOH", "KOH", "Mg(OH)2", "Ca(OH)2"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "87": {
+    "Question": "Which element belongs to Group 1 of the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "88": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "89": {
+    "Question": "What is the chemical symbol for potassium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "90": {
+    "Question": "What is the chemical symbol for magnesium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "91": {
+    "Question": "What is the chemical symbol for calcium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "92": {
+    "Question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["NaOH", "KOH", "Mg(OH)2", "Ca(OH)2"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "93": {
+    "Question": "Which element belongs to Group 1 of the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "94": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
+  },
+  "95": {
+    "Question": "What is the chemical symbol for potassium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "b",
+    "chapter": "Coordination Compounds"
+  },
+  "96": {
+    "Question": "What is the chemical symbol for magnesium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "97": {
+    "Question": "What is the chemical symbol for calcium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "98": {
+    "Question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["NaOH", "KOH", "Mg(OH)2", "Ca(OH)2"],
+    "correct option": "d",
+    "chapter": "Coordination Compounds"
+  },
+  "99": {
+    "Question": "Which element belongs to Group 1 of the periodic table?",
+    "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+    "correct option": "c",
+    "chapter": "Coordination Compounds"
+  },
+  "100": {
+    "Question": "What is the chemical symbol for sodium?",
+    "options": ["Na", "K", "Mg", "Ca"],
+    "correct option": "a",
+    "chapter": "Coordination Compounds"
   }
-  
+}

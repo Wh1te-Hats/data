@@ -1,303 +1,1027 @@
 {
-    "1": {
-      "Question": "What is the fundamental property of an object that gives rise to electric forces?",
-      "options": ["a. Mass", "b. Charge", "c. Speed", "d. Density"],
-      "correct option": "b",
-      "chapter": "Electric Charges and Fields"
-    },
-    "2": {
-      "Question": "Which law describes the force between two point charges?",
-      "options": ["a. Newton's First Law", "b. Coulomb's Law", "c. Faraday's Law", "d. Ampere's Law"],
-      "correct option": "b",
-      "chapter": "Electric Charges and Fields"
-    },
-    "3": {
-      "Question": "What is the SI unit of electric field?",
-      "options": ["a. Joule", "b. Coulomb", "c. Volt", "d. Newton per coulomb"],
-      "correct option": "d",
-      "chapter": "Electric Charges and Fields"
-    },
-    "4": {
-      "Question": "What is the electric field inside a charged conductor at equilibrium?",
-      "options": ["a. Zero", "b. Infinity", "c. Variable", "d. Constant"],
-      "correct option": "a",
-      "chapter": "Electric Charges and Fields"
-    },
-    "5": {
-      "Question": "What is the work done in moving a test charge of 2C through a potential difference of 12V?",
-      "options": ["a. 6 J", "b. 12 J", "c. 24 J", "d. 0.5 J"],
-      "correct option": "c",
-      "chapter": "Electrostatic Potential and Capacitance"
-    },
-    "6": {
-      "Question": "What is the energy stored in a capacitor with capacitance C and potential difference V?",
-      "options": ["a. CV²", "b. 0.5 CV²", "c. 0.5 CV", "d. C/V"],
-      "correct option": "b",
-      "chapter": "Electrostatic Potential and Capacitance"
-    },
-    "7": {
-      "Question": "Which of the following materials is a good conductor of electricity?",
-      "options": ["a. Rubber", "b. Wood", "c. Copper", "d. Glass"],
-      "correct option": "c",
-      "chapter": "Current Electricity"
-    },
-    "8": {
-      "Question": "What is the SI unit of electric current?",
+  "1": {
+      "Question": "What is the SI unit of electric charge?",
       "options": ["a. Ampere", "b. Volt", "c. Coulomb", "d. Ohm"],
-      "correct option": "a",
-      "chapter": "Current Electricity"
-    },
-    "9": {
-      "Question": "In a series circuit, how are the currents in different components related?",
-      "options": ["a. They are the same.", "b. They add up.", "c. They subtract from each other.", "d. They are inversely proportional to resistance."],
-      "correct option": "a",
-      "chapter": "Current Electricity"
-    },
-    "10": {
-      "Question": "What is the phenomenon of a changing magnetic field inducing an electromotive force (emf) in a conductor called?",
-      "options": ["a. Faraday's Law of Electromagnetism", "b. Coulomb's Law", "c. Ampere's Law", "d. Ohm's Law"],
-      "correct option": "a",
-      "chapter": "Electromagnetic Induction"
-    },
-    "11": {
-      "Question": "What is the direction of the induced current in a coil when the magnetic field passing through it decreases?",
-      "options": ["a. Clockwise", "b. Counterclockwise", "c. No current is induced.", "d. It depends on the coil's resistance."],
-      "correct option": "a",
-      "chapter": "Electromagnetic Induction"
-    },
-    "12": {
-      "Question": "What is the frequency of an alternating current with a period of 0.02 seconds?",
-      "options": ["a. 20 Hz", "b. 40 Hz", "c. 50 Hz", "d. 100 Hz"],
       "correct option": "c",
-      "chapter": "Alternating Current"
-    },
-    "13": {
-      "Question": "What is the wavelength of an electromagnetic wave with a frequency of 3 × 10⁸ Hz?",
-      "options": ["a. 1 m", "b. 2 m", "c. 3 m", "d. 1/3 m"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "2": {
+      "Question": "What is the formula for electric field strength (E)?",
+      "options": ["a. E = Q / (4πε₀r²)", "b. E = Q / (2πε₀r)", "c. E = Q / r", "d. E = Q / (ε₀r)"],
       "correct option": "a",
-      "chapter": "Electromagnetic Waves"
-    },
-    "14": {
-      "Question": "What is the phenomenon of bending of light when it passes from one medium to another with a different refractive index called?",
-      "options": ["a. Reflection", "b. Dispersion", "c. Refraction", "d. Diffraction"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "3": {
+      "Question": "Which of the following statements is true about electric field lines?",
+      "options": [
+          "a. Electric field lines never intersect.",
+          "b. Electric field lines always form closed loops.",
+          "c. Electric field lines are straight lines.",
+          "d. Electric field lines have no specific pattern."
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "4": {
+      "Question": "What is the net electric flux through a closed surface that contains an electric dipole?",
+      "options": ["a. Zero", "b. Positive", "c. Negative", "d. Can be positive or negative"],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "5": {
+      "Question": "Which of the following materials is a good conductor of electricity?",
+      "options": ["a. Wood", "b. Rubber", "c. Copper", "d. Glass"],
       "correct option": "c",
-      "chapter": "Ray Optics and Optical Instruments"
-    },
-    "15": {
-      "Question": "What is the critical angle for total internal reflection when light travels from glass to air (n_glass = 1.5)?",
-      "options": ["a. 30 degrees", "b. 45 degrees", "c. 60 degrees", "d. 90 degrees"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "6": {
+      "Question": "The electric potential at a point due to a point charge is 30 V. What is the electric potential energy of a 2 µC charge placed at that point?",
+      "options": ["a. 15 J", "b. 30 J", "c. 60 J", "d. 120 J"],
       "correct option": "c",
-      "chapter": "Ray Optics and Optical Instruments"
-    },
-    "16": {
-      "Question": "Which of the following colors of light has the shortest wavelength?",
-      "options": ["a. Red", "b. Blue", "c. Green", "d. Violet"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "7": {
+      "Question": "What is the SI unit of electric potential?",
+      "options": ["a. Volt", "b. Joule", "c. Coulomb", "d. Ampere"],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "8": {
+      "Question": "Two point charges, Q1 = 4 μC and Q2 = -6 μC, are placed 10 cm apart in vacuum. What is the electric force between them?",
+      "options": ["a. 180 N", "b. 540 N", "c. 900 N", "d. 360 N"],
       "correct option": "d",
-      "chapter": "Wave Optics"
-    },
-    "17": {
-      "Question": "What is the energy of a photon of light with a wavelength of 400 nm?",
-      "options": ["a. 2.5 × 10⁻¹⁹ J", "b. 3.0 × 10⁻¹⁹ J", "c. 4.8 × 10⁻¹⁹ J", "d. 6.6 × 10⁻³⁴ J"],
-      "correct option": "b",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    "18": {
-      "Question": "What is the number of electrons in one mole of an element?",
-      "options": ["a. 6.022 × 10²³", "b. 1.602 × 10⁻¹⁹", "c. 9.8 m/s²", "d. 12 J"],
-      "correct option": "a",
-      "chapter": "Atoms"
-    },
-    "19": {
-      "Question": "What is the mass number of an element?",
-      "options": ["a. The number of protons in the nucleus", "b. The number of protons plus neutrons in the nucleus", "c. The number of electrons in the atom", "d. The atomic number minus the number of neutrons"],
-      "correct option": "b",
-      "chapter": "Nuclei"
-    },
-    "20": {
-      "Question": "Which of the following particles is not a part of the nucleus of an atom?",
-      "options": ["a. Proton", "b. Neutron", "c. Electron", "d. Alpha particle"],
-      "correct option": "c",
-      "chapter": "Nuclei"
-    },
-    "21": {
-      "Question": "What is the function of a transistor in electronic circuits?",
-      "options": ["a. To produce sound waves", "b. To amplify or switch electronic signals", "c. To generate electromagnetic waves", "d. To store digital data"],
-      "correct option": "b",
-      "chapter": "Semiconductor Electronics"
-    },
-    "22": {
-      "Question": "Which of the following is not a type of modulation used in communication systems?",
-      "options": ["a. AM (Amplitude Modulation)", "b. FM (Frequency Modulation)", "c. PM (Phase Modulation)", "d. DM (Density Modulation)"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "9": {
+      "Question": "Which of the following is not a property of electric lines of force?",
+      "options": [
+          "a. They originate from positive charges.",
+          "b. They terminate on negative charges.",
+          "c. They are always perpendicular to the surface of a conductor.",
+          "d. They can cross each other."
+      ],
       "correct option": "d",
-      "chapter": "Communication Systems"
-    },
-    "23": {
-      "Question": "What is the SI unit of capacitance?",
-      "options": ["a. Ohm", "b. Volt", "c. Farad", "d. Weber"],
-      "correct option": "c",
-      "chapter": "Electrostatic Potential and Capacitance"
-    },
-    "24": {
-      "Question": "In a simple circuit, what is the relationship between current, voltage, and resistance according to Ohm's law?",
-      "options": ["a. I = V + R", "b. V = I/R", "c. R = I/V", "d. V = I + R"],
-      "correct option": "b",
-      "chapter": "Current Electricity"
-    },
-    "25": {
-      "Question": "What is the direction of the magnetic field lines outside a bar magnet?",
-      "options": ["a. From north pole to south pole", "b. From south pole to north pole", "c. They are not well-defined outside.", "d. Radial and outward"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "10": {
+      "Question": "What is the value of ε₀, the permittivity of free space?",
+      "options": ["a. 8.85 x 10⁻¹² C²/Nm²", "b. 9.81 m/s²", "c. 3 x 10⁸ m/s", "d. 6.67 x 10⁻¹¹ Nm²/kg²"],
       "correct option": "a",
-      "chapter": "Magnetism and Matter"
-    },
-    "26": {
-      "Question": "Which of the following materials is typically used as a core in electromagnets?",
-      "options": ["a. Wood", "b. Rubber", "c. Iron", "d. Glass"],
-      "correct option": "c",
-      "chapter": "Magnetism and Matter"
-    },
-    "27": {
-      "Question": "What is the SI unit of magnetic susceptibility?",
-      "options": ["a. Hertz", "b. Henry", "c. Ampere", "d. Dimensionless"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "11": {
+      "Question": "What is the work done in moving a 1 µC charge from point A to point B in an electric field, if the potential difference between A and B is 10 V?",
+      "options": ["a. 0.1 J", "b. 0.01 J", "c. 10 J", "d. 1 J"],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "12": {
+      "Question": "In which of the following cases is the electric potential energy of a system of charges positive?",
+      "options": [
+          "a. Like charges at a large distance",
+          "b. Unlike charges at a small distance",
+          "c. Like charges at a small distance",
+          "d. Unlike charges at a large distance"
+      ],
       "correct option": "d",
-      "chapter": "Magnetism and Matter"
-    },
-    "28": {
-      "Question": "What is the direction of the magnetic field inside a current-carrying solenoid?",
-      "options": ["a. From north to south", "b. From south to north", "c. It depends on the current direction.", "d. Radial and outward"],
-      "correct option": "b",
-      "chapter": "Electromagnetic Induction"
-    },
-    "29": {
-      "Question": "What is the power factor in an AC circuit when the phase difference between voltage and current is zero?",
-      "options": ["a. 0", "b. 1", "c. -1", "d. 0.5"],
-      "correct option": "b",
-      "chapter": "Alternating Current"
-    },
-    "30": {
-      "Question": "What is the speed of light in a vacuum?",
-      "options": ["a. 3 × 10⁸ m/s", "b. 2.5 × 10⁷ m/s", "c. 4 × 10⁷ m/s", "d. 2.99 × 10⁸ m/s"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "13": {
+      "Question": "What is the formula for the capacitance (C) of a capacitor?",
+      "options": [
+          "a. C = Q/V",
+          "b. C = V/Q",
+          "c. C = Q²/V",
+          "d. C = V²/Q"
+      ],
       "correct option": "a",
-      "chapter": "Electromagnetic Waves"
-    },
-    "31": {
-      "Question": "Which optical instrument is used to correct nearsightedness or farsightedness?",
-      "options": ["a. Microscope", "b. Telescope", "c. Camera", "d. Eyeglasses"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "14": {
+      "Question": "What is the energy stored in a capacitor of capacitance C when it is charged to a potential difference V?",
+      "options": [
+          "a. U = 0.5 CV²",
+          "b. U = 0.5 QV",
+          "c. U = 0.5 Q²/C",
+          "d. U = CV²"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "15": {
+      "Question": "What is the SI unit of the electric potential?",
+      "options": ["a. Joule", "b. Volt", "c. Ampere", "d. Ohm"],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "16": {
+      "Question": "What is the relationship between the electric field (E) and electric potential (V) in an electric field?",
+      "options": [
+          "a. E = V²",
+          "b. E = √V",
+          "c. E = -dV/dr",
+          "d. E = -∇V"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "17": {
+      "Question": "A conductor has a net charge of 2 μC. How many excess electrons are present on the conductor?",
+      "options": ["a. 1.25 x 10¹⁹", "b. 3.2 x 10¹⁸", "c. 5 x 10¹⁸", "d. 6.25 x 10¹⁸"],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "18": {
+      "Question": "What is the potential energy of a system of two charges, Q1 and Q2, separated by a distance r?",
+      "options": [
+          "a. U = (kQ₁Q₂) / r²",
+          "b. U = (Q₁Q₂) / (4πε₀r)",
+          "c. U = kQ₁Q₂r",
+          "d. U = (Q₁Q₂) / r"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "19": {
+      "Question": "What is the electric field inside a conductor at electrostatic equilibrium?",
+      "options": [
+          "a. Zero",
+          "b. Maximum",
+          "c. Indeterminate",
+          "d. Non-uniform"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "20": {
+      "Question": "What is the relationship between the electric field and potential gradient in a region with a uniform electric field?",
+      "options": [
+          "a. E is proportional to V",
+          "b. E is inversely proportional to V",
+          "c. E is equal to dV/dr",
+          "d. E is equal to ∇V"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "21": {
+      "Question": "A charge of -2 µC is placed at the origin. What is the electric potential at a point 4 meters away from the origin along the x-axis?",
+      "options": ["a. -8 V", "b. -2 V", "c. 2 V", "d. 8 V"],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "22": {
+      "Question": "Two charges, +Q and -Q, are placed 3 meters apart. At what point between them is the electric potential zero?",
+      "options": ["a. 1 meter from +Q", "b. 1.5 meters from +Q", "c. 2 meters from +Q", "d. 2.5 meters from +Q"],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "23": {
+      "Question": "What is the potential energy of a system of two charges, +Q and -Q, when they are at a very large separation distance?",
+      "options": [
+          "a. Zero",
+          "b. Q² / (4πε₀R)",
+          "c. Q² / (4πε₀)",
+          "d. Q / (4πε₀R)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "24": {
+      "Question": "The electric potential at a point in an electric field is 15 V. If a 3 µC charge is placed at that point, what is the electric potential energy of the charge?",
+      "options": ["a. 45 J", "b. 5 J", "c. 15 J", "d. 225 J"],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "25": {
+      "Question": "What is the principle of a Van de Graaff generator based on?",
+      "options": [
+          "a. Electric induction",
+          "b. Electromagnetic induction",
+          "c. Electrostatic induction",
+          "d. Electromagnetic resonance"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "26": {
+      "Question": "What is the formula for the electric field due to an infinitely long straight uniformly charged wire?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λ / r)",
+          "b. E = (1 / 2πε₀) * (λ / r)",
+          "c. E = (2πε₀) * (λ / r)",
+          "d. E = (1 / 2ε₀) * (λ / r)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "27": {
+      "Question": "What is the electric field inside a conductor in electrostatic equilibrium?",
+      "options": [
+          "a. Zero",
+          "b. Maximum",
+          "c. Non-uniform",
+          "d. Uniform"
+      ],
       "correct option": "d",
-      "chapter": "Ray Optics and Optical Instruments"
-    },
-    "32": {
-      "Question": "What is the phenomenon of dispersion of light?",
-      "options": ["a. Bending of light when it passes through a medium with a different refractive index", "b. Breaking of light into its component colors", "c. Total internal reflection of light", "d. Reflection of light from a rough surface"],
-      "correct option": "b",
-      "chapter": "Ray Optics and Optical Instruments"
-    },
-    "33": {
-      "Question": "What is the formula for the focal length of a lens?",
-      "options": ["a. f = R/2", "b. f = 2R", "c. f = 1/R", "d. f = 2/R"],
-      "correct option": "c",
-      "chapter": "Ray Optics and Optical Instruments"
-    },
-    "34": {
-      "Question": "What is the interference pattern produced when two identical waves with a phase difference of 180 degrees superpose?",
-      "options": ["a. Constructive interference", "b. Destructive interference", "c. No interference pattern", "d. Diffraction pattern"],
-      "correct option": "b",
-      "chapter": "Wave Optics"
-    },
-    "35": {
-      "Question": "What is the SI unit of the Planck constant (h)?",
-      "options": ["a. Joule", "b. Second", "c. Ampere", "d. Joule-second"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "28": {
+      "Question": "What is the work done in moving a charge along a closed equipotential surface?",
+      "options": ["a. Zero", "b. Maximum", "c. Minimum", "d. Indeterminate"],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "29": {
+      "Question": "What is the relationship between the electric field (E) and potential difference (V) between two points?",
+      "options": [
+          "a. E ∝ V²",
+          "b. E ∝ 1/V",
+          "c. E = -∇V",
+          "d. E = -dV/dr"
+      ],
       "correct option": "d",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    "36": {
-      "Question": "What is the concept of wave-particle duality in quantum mechanics?",
-      "options": ["a. Particles can exist in multiple places at once.", "b. Particles can have both wave-like and particle-like properties.", "c. Particles cannot exist in a wave-like state.", "d. Particles cannot exhibit interference patterns."],
-      "correct option": "b",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    "37": {
-      "Question": "What is the energy of a photon of light with a frequency of 6 × 10¹⁴ Hz?",
-      "options": ["a. 2.5 × 10⁻¹⁹ J", "b. 3.0 × 10⁻¹⁹ J", "c. 4.8 × 10⁻¹⁹ J", "d. 6.6 × 10⁻³⁴ J"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "30": {
+      "Question": "What is the formula for the electric potential energy (U) of a system of two point charges, Q1 and Q2, separated by a distance r?",
+      "options": [
+          "a. U = kQ₁Q₂r",
+          "b. U = (kQ₁Q₂) / r",
+          "c. U = (Q₁Q₂) / (4πε₀r)",
+          "d. U = (Q₁Q₂) / r²"
+      ],
       "correct option": "a",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    "38": {
-      "Question": "What is the half-life of a radioactive substance?",
-      "options": ["a. The time it takes for all the substance to decay", "b. The time it takes for half of the substance to decay", "c. The time it takes for the substance to become stable", "d. The time it takes for the substance to emit radiation"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "31": {
+      "Question": "What is the formula for the electric field (E) due to a uniformly charged thin spherical shell?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r²)",
+          "d. E = (2 / ε₀) * (Q / r²)"
+      ],
       "correct option": "b",
-      "chapter": "Nuclei"
-    },
-    "39": {
-      "Question": "What is the SI unit of activity (radioactive decay rate)?",
-      "options": ["a. Becquerel", "b. Curie", "c. Gray", "d. Sievert"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "32": {
+      "Question": "What is the formula for the electric field (E) due to an infinite plane sheet of charge with charge density σ?",
+      "options": [
+          "a. E = (σ / 2ε₀) * (1 - 2πε₀r)",
+          "b. E = (σ / ε₀) * (1 - 2πε₀r)",
+          "c. E = (σ / 2ε₀) * (1 - 4πε₀r)",
+          "d. E = (σ / ε₀) * (1 - 4πε₀r)"
+      ],
       "correct option": "a",
-      "chapter": "Nuclear Physics"
-    },
-    "40": {
-      "Question": "Which of the following particles carries a positive charge?",
-      "options": ["a. Electron", "b. Neutron", "c. Proton", "d. Photon"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "33": {
+      "Question": "What is the formula for the capacitance (C) of a parallel plate capacitor with plate area A and separation distance d?",
+      "options": [
+          "a. C = (ε₀A) / d",
+          "b. C = (d / ε₀A)",
+          "c. C = (A / ε₀d)",
+          "d. C = (ε₀d) / A"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "34": {
+      "Question": "What is the energy stored in a capacitor of capacitance C when it is charged to a potential difference V?",
+      "options": [
+          "a. U = 0.5 CV²",
+          "b. U = 0.5 QV",
+          "c. U = 0.5 Q²/C",
+          "d. U = CV²"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "35": {
+      "Question": "What is the principle of a lightning conductor or lightning rod?",
+      "options": [
+          "a. To attract lightning",
+          "b. To repel lightning",
+          "c. To conduct lightning safely to the ground",
+          "d. To generate lightning"
+      ],
       "correct option": "c",
-      "chapter": "Nuclear Physics"
-    },
-    "41": {
-      "Question": "What is the purpose of a cyclotron in particle physics?",
-      "options": ["a. To detect cosmic rays", "b. To accelerate charged particles", "c. To study electromagnetic waves", "d. To generate X-rays"],
-      "correct option": "b",
-      "chapter": "Nuclear Physics"
-    },
-    "42": {
-      "Question": "What is the fundamental particle of a chemical element?",
-      "options": ["a. Molecule", "b. Atom", "c. Ion", "d. Neutron"],
-      "correct option": "b",
-      "chapter": "Particle Physics"
-    },
-    "43": {
-      "Question": "Which of the following phenomena is related to interference of light?",
-      "options": ["a. Photoelectric effect", "b. Compton scattering", "c. Young's double-slit experiment", "d. Rutherford scattering"],
-      "correct option": "c",
-      "chapter": "Optics"
-    },
-    "44": {
-      "Question": "What is the principle of conservation of momentum?",
-      "options": ["a. The total energy of an isolated system is constant.", "b. The total angular momentum of an isolated system is constant.", "c. The total linear momentum of an isolated system is constant.", "d. The total charge of an isolated system is constant."],
-      "correct option": "c",
-      "chapter": "Systems of Particles and Rotational Motion"
-    },
-    "45": {
-      "Question": "What is the acceleration due to gravity near the surface of the Earth?",
-      "options": ["a. 9.8 m/s²", "b. 6.674 × 10⁻¹¹ Nm²/kg²", "c. 3 × 10⁸ m/s", "d. 1.6 × 10⁻¹⁹ C"],
-      "correct option": "a",
-      "chapter": "Gravitation"
-    },
-    "46": {
-      "Question": "What is the Pascal's principle?",
-      "options": ["a. The pressure applied at any point in an incompressible fluid is transmitted undiminished throughout the fluid.", "b. The velocity of a fluid in a pipe increases when the pipe narrows.", "c. The volume of a gas is inversely proportional to its pressure at constant temperature.", "d. The buoyant force on an object in a fluid is equal to the weight of the fluid displaced by the object."],
-      "correct option": "a",
-      "chapter": "Fluid Mechanics"
-    },
-    "47": {
-      "Question": "What is the SI unit of frequency?",
-      "options": ["a. Hertz", "b. Watt", "c. Pascal", "d. Weber"],
-      "correct option": "a",
-      "chapter": "Waves"
-    },
-    "48": {
-      "Question": "Which of the following statements is true for an incompressible fluid?",
-      "options": ["a. Its density changes with pressure.", "b. Its volume changes with pressure.", "c. Its pressure changes with volume.", "d. Its density remains constant."],
+      "chapter": "Electric Charges and Fields"
+  },
+  "36": {
+      "Question": "What is the electric field intensity inside a charged conductor?",
+      "options": [
+          "a. Zero",
+          "b. Maximum",
+          "c. Non-uniform",
+          "d. Uniform"
+      ],
       "correct option": "d",
-      "chapter": "Fluid Mechanics"
-    },
-    "49": {
-      "Question": "What is the phenomenon of dispersion of light?",
-      "options": ["a. Bending of light when it passes through a medium with a different refractive index", "b. Breaking of light into its component colors", "c. Total internal reflection of light", "d. Reflection of light from a rough surface"],
-      "correct option": "b",
-      "chapter": "Optics"
-    },
-    "50": {
-      "Question": "What is the SI unit of magnetic flux?",
-      "options": ["a. Weber", "b. Ampere", "c. Tesla", "d. Hertz"],
+      "chapter": "Electric Charges and Fields"
+  },
+  "37": {
+      "Question": "What is the formula for the electric field (E) due to a uniformly charged thin wire of infinite length?",
+      "options": [
+          "a. E = (λ / 2πε₀r)",
+          "b. E = (λ / 4πε₀r)",
+          "c. E = (2λ / ε₀r)",
+          "d. E = (λ / ε₀r)"
+      ],
       "correct option": "a",
-      "chapter": "Electromagnetic Induction"
+      "chapter": "Electric Charges and Fields"
+  },
+  "38": {
+      "Question": "What is the electric field inside a dielectric material when it is polarized?",
+      "options": [
+          "a. Zero",
+          "b. Maximum",
+          "c. Non-uniform",
+          "d. Uniform"
+      ],
+      "correct option": "d",
+      "chapter": "Electric Charges and Fields"
+  },
+  "39": {
+      "Question": "What is the relationship between the energy stored in a capacitor (U) and the square of its charge (Q)?",
+      "options": [
+          "a. U ∝ Q²",
+          "b. U ∝ 1/Q²",
+          "c. U = Q²",
+          "d. U = 1/Q²"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "40": {
+      "Question": "In a parallel plate capacitor, what happens to the capacitance if the separation distance between the plates is increased?",
+      "options": [
+          "a. Increases",
+          "b. Decreases",
+          "c. Remains the same",
+          "d. Becomes zero"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "41": {
+      "Question": "What is the formula for the electric field (E) due to an infinite uniformly charged plane sheet with charge density σ?",
+      "options": [
+          "a. E = (σ / 2ε₀)",
+          "b. E = (σ / ε₀)",
+          "c. E = (σ / 4ε₀)",
+          "d. E = (σ / 8ε₀)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "42": {
+      "Question": "What is the relationship between the energy stored in a capacitor (U) and the potential difference (V) across its plates?",
+      "options": [
+          "a. U ∝ V²",
+          "b. U ∝ 1/V²",
+          "c. U = 0.5 CV",
+          "d. U = 2CV"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "43": {
+      "Question": "What is the dielectric constant (κ) of a vacuum?",
+      "options": [
+          "a. 0",
+          "b. 1",
+          "c. ∞",
+          "d. κ"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "44": {
+      "Question": "What is the formula for the electric field (E) due to a uniformly charged thin spherical shell?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r²)",
+          "d. E = (2 / ε₀) * (Q / r²)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "45": {
+      "Question": "What is the formula for the electric field (E) due to a uniformly charged non-conducting solid sphere?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r²)",
+          "d. E = (2 / ε₀) * (Q / r²)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "46": {
+      "Question": "What is the formula for the energy stored in a capacitor (U) in terms of the electric field (E) and the volume (V) between the plates?",
+      "options": [
+          "a. U = (1/2ε₀) ∫ E² dV",
+          "b. U = ∫ E dV",
+          "c. U = ε₀ ∫ E² dV",
+          "d. U = 0.5 ε₀ ∫ E dV"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "47": {
+      "Question": "What is the formula for the electric field (E) due to a uniformly charged non-conducting solid sphere at a point outside the sphere?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r²)",
+          "d. E = (2 / ε₀) * (Q / r²)"
+      ],
+      "correct option": "d",
+      "chapter": "Electric Charges and Fields"
+  },
+  "48": {
+      "Question": "What is the formula for the energy stored in a capacitor (U) in terms of the charge (Q) and the capacitance (C)?",
+      "options": [
+          "a. U = 0.5 CV²",
+          "b. U = 0.5 QV",
+          "c. U = 0.5 Q²/C",
+          "d. U = CV²"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "49": {
+      "Question": "What is the relationship between the electric field (E) and the surface charge density (σ) on a conductor?",
+      "options": [
+          "a. E ∝ σ",
+          "b. E ∝ 1/σ",
+          "c. E = σ/ε₀",
+          "d. E = ε₀/σ"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "50": {
+      "Question": "What is the formula for the electric field (E) inside a uniformly charged non-conducting solid sphere at a point inside the sphere?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r)",
+          "d. E = (2 / ε₀) * (Q / r)"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "51": {
+      "Question": "What is the formula for the energy stored in a parallel plate capacitor in terms of its capacitance (C) and the potential difference (V) between the plates?",
+      "options": [
+          "a. U = 0.5 CV²",
+          "b. U = 0.5 QV",
+          "c. U = 0.5 Q²/C",
+          "d. U = CV²"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "52": {
+      "Question": "What is the relationship between the electric field (E) and the surface charge density (σ) on a conductor?",
+      "options": [
+          "a. E ∝ σ",
+          "b. E ∝ 1/σ",
+          "c. E = σ/ε₀",
+          "d. E = ε₀/σ"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "53": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting solid sphere?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r)",
+          "d. E = (2 / ε₀) * (Q / r)"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "54": {
+      "Question": "What is the formula for the electric field (E) due to a uniformly charged non-conducting solid sphere at a point on the surface of the sphere?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r)",
+          "d. E = (2 / ε₀) * (Q / r)"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "55": {
+      "Question": "What is the formula for the energy stored in a capacitor (U) in terms of its capacitance (C) and the charge (Q) on its plates?",
+      "options": [
+          "a. U = 0.5 CV²",
+          "b. U = 0.5 QV",
+          "c. U = 0.5 Q²/C",
+          "d. U = CV²"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "56": {
+      "Question": "What is the formula for the electric field (E) due to a uniformly charged non-conducting solid sphere at a point inside the sphere?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r)",
+          "d. E = (2 / ε₀) * (Q / r)"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "57": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting solid sphere?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / r²)",
+          "b. E = (1 / 2πε₀) * (Q / r²)",
+          "c. E = (1 / ε₀) * (Q / r)",
+          "d. E = (2 / ε₀) * (Q / r)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "58": {
+      "Question": "What is the formula for the electric field (E) due to an infinitely long straight uniformly charged wire?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λ / r²)",
+          "b. E = (1 / 2πε₀) * (λ / r²)",
+          "c. E = (2πε₀) * (λ / r)",
+          "d. E = (1 / 2ε₀) * (λ / r)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "59": {
+      "Question": "What is the formula for the electric field (E) due to an infinitely long straight uniformly charged wire at a distance r from the wire?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λ / r)",
+          "b. E = (1 / 2πε₀) * (λ / r)",
+          "c. E = (2πε₀) * (λ / r)",
+          "d. E = (1 / 2ε₀) * (λ / r)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "60": {
+      "Question": "What is the formula for the electric field (E) due to a uniformly charged non-conducting rod of finite length?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λ / r)",
+          "b. E = (1 / 2πε₀) * (λ / r)",
+          "c. E = (2πε₀) * (λ / r)",
+          "d. E = (1 / 2ε₀) * (λ / r)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "61": {
+      "Question": "What is the formula for the electric field (E) at a point on the axial line of a uniformly charged non-conducting rod of finite length?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (2λ / r)",
+          "b. E = (1 / 2πε₀) * (2λ / r)",
+          "c. E = (2πε₀) * (2λ / r)",
+          "d. E = (1 / 2ε₀) * (2λ / r)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "62": {
+      "Question": "What is the formula for the electric field (E) at a point on the equatorial line of a uniformly charged non-conducting rod of finite length?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λ / r)",
+          "b. E = (1 / 2πε₀) * (λ / r)",
+          "c. E = (2πε₀) * (λ / r)",
+          "d. E = (1 / 2ε₀) * (λ / r)"
+      ],
+      "correct option": "d",
+      "chapter": "Electric Charges and Fields"
+  },
+  "63": {
+      "Question": "What is the formula for the electric field (E) at the center of a uniformly charged non-conducting ring of radius R and charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / R²)",
+          "b. E = (1 / 2πε₀) * (Q / R²)",
+          "c. E = (2πε₀) * (Q / R)",
+          "d. E = (1 / 2ε₀) * (Q / R)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "64": {
+      "Question": "What is the formula for the electric field (E) at a point on the axis of a uniformly charged non-conducting ring of radius R and charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / R²)",
+          "b. E = (1 / 2πε₀) * (Q / R²)",
+          "c. E = (2πε₀) * (Q / R)",
+          "d. E = (1 / 2ε₀) * (Q / R)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "65": {
+      "Question": "What is the formula for the electric field (E) at a point on the axis of a uniformly charged non-conducting disk of radius R and charge density σ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (σ / R²)",
+          "b. E = (1 / 2πε₀) * (σ / R²)",
+          "c. E = (2πε₀) * (σ / R)",
+          "d. E = (1 / 2ε₀) * (σ / R)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "66": {
+      "Question": "What is the formula for the electric field (E) at a point on the axis of a uniformly charged non-conducting disk of radius R and charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / R²)",
+          "b. E = (1 / 2πε₀) * (Q / R²)",
+          "c. E = (2πε₀) * (Q / R)",
+          "d. E = (1 / 2ε₀) * (Q / R)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "67": {
+      "Question": "What is the formula for the electric field (E) at a point on the axis of a uniformly charged non-conducting sphere of radius R and charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Q / R²)",
+          "b. E = (1 / 2πε₀) * (Q / R²)",
+          "c. E = (2πε₀) * (Q / R)",
+          "d. E = (1 / 2ε₀) * (Q / R)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "68": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting sphere of radius R and charge density ρ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (ρr / 3ε₀)",
+          "b. E = (1 / 2πε₀) * (ρr / 3ε₀)",
+          "c. E = (2πε₀) * (ρr / 3ε₀)",
+          "d. E = (1 / 2ε₀) * (ρr / 3ε₀)"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "69": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting sphere of radius R and charge density ρ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (ρR³ / r²)",
+          "b. E = (1 / 2πε₀) * (ρR³ / r²)",
+          "c. E = (2πε₀) * (ρR³ / r)",
+          "d. E = (1 / 2ε₀) * (ρR³ / r)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "70": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting sphere of radius R and charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (Qr / 3ε₀R²)",
+          "b. E = (1 / 2πε₀) * (Qr / 3ε₀R²)",
+          "c. E = (2πε₀) * (Qr / 3ε₀R)",
+          "d. E = (1 / 2ε₀) * (Qr / 3ε₀R)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "71": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting sphere of radius R and charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (QR / r²)",
+          "b. E = (1 / 2πε₀) * (QR / r²)",
+          "c. E = (2πε₀) * (QR / r)",
+          "d. E = (1 / 2ε₀) * (QR / r)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "72": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting cylinder of radius R and charge density λ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λr / 2ε₀)",
+          "b. E = (1 / 2πε₀) * (λr / 2ε₀)",
+          "c. E = (2πε₀) * (λr / 2ε₀)",
+          "d. E = (1 / 2ε₀) * (λr / 2ε₀)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "73": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting cylinder of radius R and charge density λ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λR² / r)",
+          "b. E = (1 / 2πε₀) * (λR² / r)",
+          "c. E = (2πε₀) * (λR² / r)",
+          "d. E = (1 / 2ε₀) * (λR² / r)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "74": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting cylindrical shell of radius R and charge density λ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λr / ε₀)",
+          "b. E = (1 / 2πε₀) * (λr / ε₀)",
+          "c. E = (2πε₀) * (λr / ε₀)",
+          "d. E = (1 / 2ε₀) * (λr / ε₀)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "75": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting cylindrical shell of radius R and charge density λ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (λR² / r)",
+          "b. E = (1 / 2πε₀) * (λR² / r)",
+          "c. E = (2πε₀) * (λR² / r)",
+          "d. E = (1 / 2ε₀) * (λR² / r)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "76": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting cylindrical shell of radius R and charge density σ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (σr / 2ε₀)",
+          "b. E = (1 / 2πε₀) * (σr / 2ε₀)",
+          "c. E = (2πε₀) * (σr / 2ε₀)",
+          "d. E = (1 / 2ε₀) * (σr / 2ε₀)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "77": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting cylindrical shell of radius R and charge density σ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (σR² / r)",
+          "b. E = (1 / 2πε₀) * (σR² / r)",
+          "c. E = (2πε₀) * (σR² / r)",
+          "d. E = (1 / 2ε₀) * (σR² / r)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "78": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting spherical shell of radius R and charge density σ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (σR / ε₀)",
+          "b. E = (1 / 2πε₀) * (σR / ε₀)",
+          "c. E = (2πε₀) * (σR / ε₀)",
+          "d. E = (1 / 2ε₀) * (σR / ε₀)"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "79": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting spherical shell of radius R and charge density σ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (σR² / r)",
+          "b. E = (1 / 2πε₀) * (σR² / r)",
+          "c. E = (2πε₀) * (σR² / r)",
+          "d. E = (1 / 2ε₀) * (σR² / r)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "80": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting spherical shell of radius R and charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (QR / 3ε₀R²)",
+          "b. E = (1 / 2πε₀) * (QR / 3ε₀R²)",
+          "c. E = (2πε₀) * (QR / 3ε₀R)",
+          "d. E = (1 / 2ε₀) * (QR / 3ε₀R)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "81": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting spherical shell of radius R and charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (QR² / r²)",
+          "b. E = (1 / 2πε₀) * (QR² / r²)",
+          "c. E = (2πε₀) * (QR² / r)",
+          "d. E = (1 / 2ε₀) * (QR² / r)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "82": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting sphere of radius R and total charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (QR / ε₀R³)",
+          "b. E = (1 / 2πε₀) * (QR / ε₀R³)",
+          "c. E = (2πε₀) * (QR / ε₀R²)",
+          "d. E = (1 / 2ε₀) * (QR / ε₀R³)"
+      ],
+      "correct option": "a",
+      "chapter": "Electric Charges and Fields"
+  },
+  "83": {
+      "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting sphere of radius R and total charge Q?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (QR / r²)",
+          "b. E = (1 / 2πε₀) * (QR / r²)",
+          "c. E = (2πε₀) * (QR / r)",
+          "d. E = (1 / 2ε₀) * (QR / r²)"
+      ],
+      "correct option": "b",
+      "chapter": "Electric Charges and Fields"
+  },
+  "84": {
+      "Question": "What is the formula for the electric field (E) inside a uniformly charged non-conducting sphere of radius R and charge density ρ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (ρr / 3ε₀)",
+          "b. E = (1 / 2πε₀) * (ρr / 3ε₀)",
+          "c. E = (2πε₀) * (ρr / 3ε₀)",
+          "d. E = (1 / 2ε₀) * (ρr / 3ε₀)"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+  "85": {
+      "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting spherical shell of radius R and charge density ρ?",
+      "options": [
+          "a. E = (1 / 4πε₀) * (ρr / ε₀)",
+          "b. E = (1 / 2πε₀) * (ρr / ε₀)",
+          "c. E = (2πε₀) * (ρr / ε₀)",
+          "d. E = (1 / 2ε₀) * (ρr / ε₀)"
+      ],
+      "correct option": "c",
+      "chapter": "Electric Charges and Fields"
+  },
+    "86": {
+        "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting spherical shell of radius R and charge Q?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (QR / ε₀R³)",
+            "b. E = (1 / 2πε₀) * (QR / ε₀R³)",
+            "c. E = (2πε₀) * (QR / ε₀R²)",
+            "d. E = (1 / 2ε₀) * (QR / ε₀R³)"
+        ],
+        "correct option": "a",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "87": {
+        "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting spherical shell of radius R and total charge Q?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (QR / ε₀R³)",
+            "b. E = (1 / 2πε₀) * (QR / ε₀R³)",
+            "c. E = (2πε₀) * (QR / ε₀R²)",
+            "d. E = (1 / 2ε₀) * (QR / ε₀R³)"
+        ],
+        "correct option": "a",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "88": {
+        "Question": "What is the formula for the electric field (E) inside a uniformly charged non-conducting spherical shell of radius R and charge density σ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (σR / ε₀)",
+            "b. E = (1 / 2πε₀) * (σR / ε₀)",
+            "c. E = (2πε₀) * (σR / ε₀)",
+            "d. E = (1 / 2ε₀) * (σR / ε₀)"
+        ],
+        "correct option": "c",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "89": {
+        "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting spherical shell of radius R and charge density ρ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (ρr / 3ε₀)",
+            "b. E = (1 / 2πε₀) * (ρr / 3ε₀)",
+            "c. E = (2πε₀) * (ρr / 3ε₀)",
+            "d. E = (1 / 2ε₀) * (ρr / 3ε₀)"
+        ],
+        "correct option": "c",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "90": {
+        "Question": "What is the formula for the electric field (E) inside a uniformly charged non-conducting cylindrical shell of radius R and charge density σ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (σR / 2ε₀)",
+            "b. E = (1 / 2πε₀) * (σR / 2ε₀)",
+            "c. E = (2πε₀) * (σR / 2ε₀)",
+            "d. E = (1 / 2ε₀) * (σR / 2ε₀)"
+        ],
+        "correct option": "b",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "91": {
+        "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting cylindrical shell of radius R and charge density λ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (λr / 2ε₀)",
+            "b. E = (1 / 2πε₀) * (λr / 2ε₀)",
+            "c. E = (2πε₀) * (λr / 2ε₀)",
+            "d. E = (1 / 2ε₀) * (λr / 2ε₀)"
+        ],
+        "correct option": "b",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "92": {
+        "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting cylindrical shell of radius R and charge density σ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (σR² / r)",
+            "b. E = (1 / 2πε₀) * (σR² / r)",
+            "c. E = (2πε₀) * (σR² / r)",
+            "d. E = (1 / 2ε₀) * (σR² / r)"
+        ],
+        "correct option": "b",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "93": {
+        "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting cylindrical shell of radius R and charge density λ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (λr / ε₀)",
+            "b. E = (1 / 2πε₀) * (λr / ε₀)",
+            "c. E = (2πε₀) * (λr / ε₀)",
+            "d. E = (1 / 2ε₀) * (λr / ε₀)"
+        ],
+        "correct option": "c",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "94": {
+        "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting cylindrical shell of radius R and charge density λ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (λR² / r)",
+            "b. E = (1 / 2πε₀) * (λR² / r)",
+            "c. E = (2πε₀) * (λR² / r)",
+            "d. E = (1 / 2ε₀) * (λR² / r)"
+        ],
+        "correct option": "a",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "95": {
+        "Question": "What is the formula for the electric field (E) inside a uniformly charged non-conducting cylindrical shell of radius R and charge density ρ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (ρr / 3ε₀)",
+            "b. E = (1 / 2πε₀) * (ρr / 3ε₀)",
+            "c. E = (2πε₀) * (ρr / 3ε₀)",
+            "d. E = (1 / 2ε₀) * (ρr / 3ε₀)"
+        ],
+        "correct option": "c",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "96": {
+        "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting cylindrical shell of radius R and charge density σ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (σr / 2ε₀)",
+            "b. E = (1 / 2πε₀) * (σr / 2ε₀)",
+            "c. E = (2πε₀) * (σr / 2ε₀)",
+            "d. E = (1 / 2ε₀) * (σr / 2ε₀)"
+        ],
+        "correct option": "b",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "97": {
+        "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting spherical shell of radius R and charge Q?",
+        "options":[
+            "a. E = (1 / 4πε₀) * (QR / 3ε₀R²)",
+            "b. E = (1 / 2πε₀) * (QR / 3ε₀R²)",
+            "c. E = (2πε₀) * (QR / 3ε₀R)",
+            "d. E = (1 / 2ε₀) * (QR / 3ε₀R)"
+        ],
+        "correct option": "a",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "98": {
+        "Question": "What is the formula for the electric field (E) at a point outside a uniformly charged non-conducting spherical shell of radius R and charge Q?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (QR² / r²)",
+            "b. E = (1 / 2πε₀) * (QR² / r²)",
+            "c. E = (2πε₀) * (QR² / r)",
+            "d. E = (1 / 2ε₀) * (QR² / r)"
+        ],
+        "correct option": "b",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "99": {
+        "Question": "What is the formula for the electric field (E) inside a uniformly charged non-conducting sphere of radius R and charge density ρ?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (ρr / 3ε₀)",
+            "b. E = (1 / 2πε₀) * (ρr / 3ε₀)",
+            "c. E = (2πε₀) * (ρr / 3ε₀)",
+            "d. E = (1 / 2ε₀) * (ρr / 3ε₀)"
+        ],
+        "correct option": "c",
+        "Chapter": "Electric Charges and Fields"
+    },
+    "100": {
+        "Question": "What is the formula for the electric field (E) at a point inside a uniformly charged non-conducting sphere of radius R and total charge Q?",
+        "options": [
+            "a. E = (1 / 4πε₀) * (QR / ε₀R³)",
+            "b. E = (1 / 2πε₀) * (QR / ε₀R³)",
+            "c. E = (2πε₀) * (QR / ε₀R²)",
+            "d. E = (1 / 2ε₀) * (QR / ε₀R³)"
+        ],
+        "correct option": "a",
+        "Chapter": "Electric Charges and Fields"
     }
-  }
-  
+}
