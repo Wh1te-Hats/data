@@ -1,0 +1,482 @@
+[
+    {
+        "Sl no.": 1,
+        "Name": "Knowledgeum Academy",
+        "Address": "Jayanagar,  Bangalore (Bengaluru),  Karnataka,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "VIII - XII"
+    },
+    {
+        "Sl no.": 2,
+        "Name": "The Shri Ram School",
+        "Address": "DLF Phase 3,  Gurgaon (Gurugram),  Haryana,  India",
+        "Gender": "CISCE, IB, CIE, NIOS School",
+        "Board": "CIE",
+        "Grade": "VI - XII"
+    },
+    {
+        "Sl no.": 3,
+        "Name": "RBK International School",
+        "Address": "Bhayander East,  Mira Bhayandar,  Maharashtra,  India",
+        "Gender": "CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 4,
+        "Name": "Witty International School Udaipur",
+        "Address": "Sukher,  Bargaon,  Rajasthan,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 5,
+        "Name": "Mahindra United World College (UWC)",
+        "Address": " Pune,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "XI - XII"
+    },
+    {
+        "Sl no.": 6,
+        "Name": "JBM Global School",
+        "Address": "Sector 132,  Noida,  Uttar Pradesh,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 7,
+        "Name": "Goldcrest International School",
+        "Address": "Vashi,  Navi Mumbai,  Maharashtra,  India",
+        "Gender": "IB, CIE, SEN School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    },
+    {
+        "Sl no.": 8,
+        "Name": "The Punjab Public School",
+        "Address": " Nabha,  Punjab,  India",
+        "Gender": "CISCE, CIE School",
+        "Board": "CIE",
+        "Grade": "IV - XII"
+    },
+    {
+        "Sl no.": 9,
+        "Name": "VIBGYOR High",
+        "Address": "Uchgaon,  Kolhapur,  Maharashtra,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 10,
+        "Name": "JBCN International School Oshiwara",
+        "Address": "Andheri West,  Mumbai,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Pre-nursery - XII"
+    },
+    {
+        "Sl no.": 11,
+        "Name": "King's College India",
+        "Address": "Sector 5,  Rohtak,  Haryana,  India",
+        "Gender": "CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 12,
+        "Name": "Mainadevi Bajaj International School",
+        "Address": "Malad West,  Mumbai,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 13,
+        "Name": "Suncity School",
+        "Address": "Sector 54,  Gurgaon (Gurugram),  Haryana,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    },
+    {
+        "Sl no.": 14,
+        "Name": "Apollo International School",
+        "Address": "Bari,  Ganaur,  Haryana,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "Pre-nursery - XII"
+    },
+    {
+        "Sl no.": 15,
+        "Name": "Delhi Public School (DPS)",
+        "Address": "Karhans,  Panipat,  Haryana,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 16,
+        "Name": "The Ardee School",
+        "Address": "New Friends Colony,  Delhi,  Delhi,  India",
+        "Gender": "IB, CIE, Montessori, Montessori School",
+        "Board": "CIE",
+        "Grade": "Pre-nursery - XII"
+    },
+    {
+        "Sl no.": 17,
+        "Name": "VIBGYOR High",
+        "Address": "NIBM,  Pune,  Maharashtra,  India",
+        "Gender": "CBSE, CISCE, CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 18,
+        "Name": "Sree Vidyanikethan International School",
+        "Address": "Rangampet,  Tirupati,  Andhra Pradesh,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "IV - XII"
+    },
+    {
+        "Sl no.": 19,
+        "Name": "Daly College",
+        "Address": " Indore,  Madhya Pradesh,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    },
+    {
+        "Sl no.": 20,
+        "Name": "Dr. Pillai Global Academy",
+        "Address": "New Panvel,  Panvel,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 21,
+        "Name": "Apeejay School International Wing",
+        "Address": "Sheikh Sarai,  Delhi,  Delhi,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    },
+    {
+        "Sl no.": 22,
+        "Name": "MDK International School",
+        "Address": "Kelnian,  Sirsa,  Haryana,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "Pre-nursery - XII"
+    },
+    {
+        "Sl no.": 23,
+        "Name": "Oakridge International School",
+        "Address": " Mohali,  Punjab,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 24,
+        "Name": "The Cathedral Vidya School",
+        "Address": " Lonavala,  Maharashtra,  India",
+        "Gender": "CISCE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "IV - XII"
+    },
+    {
+        "Sl no.": 25,
+        "Name": "Oakridge International School",
+        "Address": "Thagarapuvalasa,  Bheemunipatnam,  Andhra Pradesh,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 26,
+        "Name": "Aditya Birla World Academy",
+        "Address": "Tulsiwadi,  Mumbai,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "LKG - XII"
+    },
+    {
+        "Sl no.": 27,
+        "Name": "Sarala Birla Academy",
+        "Address": "Bannerghatta,  Bangalore (Bengaluru),  Karnataka,  India",
+        "Gender": "CISCE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "V - XII"
+    },
+    {
+        "Sl no.": 28,
+        "Name": "Ryan Global School",
+        "Address": "Andheri West,  Mumbai,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 29,
+        "Name": "Oakridge International School",
+        "Address": "Bowrampet,  Dundigal,  Telangana,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 30,
+        "Name": "The Sanskaar Valley School",
+        "Address": "NLIU,  Bhopal,  Madhya Pradesh,  India",
+        "Gender": "CISCE, CIE, NIOS School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 31,
+        "Name": "DY Patil International School",
+        "Address": "Nerul,  Navi Mumbai,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 32,
+        "Name": "Seedling The World School",
+        "Address": "Sapetia,  Udaipur,  Rajasthan,  India",
+        "Gender": "CIE School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    },
+    {
+        "Sl no.": 33,
+        "Name": "Amity Global School",
+        "Address": "Sector 44,  Noida,  Uttar Pradesh,  India",
+        "Gender": "CIE, Montessori School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 34,
+        "Name": "Akal Academy",
+        "Address": " Baru Sahib,  Himachal Pradesh,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 35,
+        "Name": "The International School Bangalore",
+        "Address": "Whitefield,  Bangalore (Bengaluru),  Karnataka,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Pre KG - XII"
+    },
+    {
+        "Sl no.": 36,
+        "Name": "The Indian Public School",
+        "Address": "Senapathipalayam,  Erode,  Tamil Nadu,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    },
+    {
+        "Sl no.": 37,
+        "Name": "Neerja Modi School",
+        "Address": "Mansarovar,  Jaipur,  Rajasthan,  India",
+        "Gender": "CBSE, IB, CIE, AP School",
+        "Board": "CIE",
+        "Grade": "LKG - XII"
+    },
+    {
+        "Sl no.": 38,
+        "Name": "MIT Pune's Vishwashanti Gurukul",
+        "Address": " Pune,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 39,
+        "Name": "TRIO World Academy",
+        "Address": "Sahakar Nagar,  Bangalore (Bengaluru),  Karnataka,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 40,
+        "Name": "Jankidevi Public School Pratap Nagar",
+        "Address": "Pratap Nagar,  Sanganer,  Rajasthan,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 41,
+        "Name": "Mody School",
+        "Address": " Laxmangarh,  Rajasthan,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "III - XII"
+    },
+    {
+        "Sl no.": 42,
+        "Name": "Billabong High International School ",
+        "Address": "Sector 34,  Noida,  Uttar Pradesh,  India",
+        "Gender": "CBSE, CIE, Integrated Curriculum School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 43,
+        "Name": "The Emerald Heights International School",
+        "Address": "Royal Krishna Bunglows,  Indore,  Madhya Pradesh,  India",
+        "Gender": "CBSE, CIE, AP School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 44,
+        "Name": "The Indian Public School",
+        "Address": " Kovilpalayam,  Tamil Nadu,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    },
+    {
+        "Sl no.": 45,
+        "Name": "RBK International Academy",
+        "Address": "Chedda Nagar,  Mumbai,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 46,
+        "Name": "Modern Vidya Niketan (MVN) School",
+        "Address": " Palwal,  Haryana,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "Pre-nursery - XII"
+    },
+    {
+        "Sl no.": 47,
+        "Name": "Amity Global School",
+        "Address": "Sector 46,  Gurgaon (Gurugram),  Haryana,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Pre-nursery - XII"
+    },
+    {
+        "Sl no.": 48,
+        "Name": "The Doon School",
+        "Address": " Dehradun,  Uttarakhand,  India",
+        "Gender": "CISCE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "VII - XII"
+    },
+    {
+        "Sl no.": 49,
+        "Name": "Indus International School",
+        "Address": "Shankarpally,  Hyderabad,  Telangana,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 50,
+        "Name": "DY Patil International School",
+        "Address": "Worli,  Mumbai,  Maharashtra,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Playgroup - XII"
+    },
+    {
+        "Sl no.": 51,
+        "Name": "Heritage Xperiential Learning School",
+        "Address": "Sector 62,  Gurgaon (Gurugram),  Haryana,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 52,
+        "Name": "The Ardee School",
+        "Address": "Sector 52,  Gurgaon (Gurugram),  Haryana,  India",
+        "Gender": "CIE, Montessori, Montessori School",
+        "Board": "CIE",
+        "Grade": "Toddler Program - XII"
+    },
+    {
+        "Sl no.": 53,
+        "Name": "Genesis Global School",
+        "Address": "Sector 132,  Noida,  Uttar Pradesh,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Pre-nursery - XII"
+    },
+    {
+        "Sl no.": 54,
+        "Name": "Jayshree Periwal International School",
+        "Address": "Jhai,  Jaipur,  Rajasthan,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 55,
+        "Name": "Hiranandani Foundation School and HFS International",
+        "Address": "Powai,  Mumbai,  Maharashtra,  India",
+        "Gender": "CISCE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "LKG - XII"
+    },
+    {
+        "Sl no.": 56,
+        "Name": "DPS International",
+        "Address": "Saket,  Delhi,  Delhi,  India",
+        "Gender": "CIE School",
+        "Board": "CIE",
+        "Grade": "V - XII"
+    },
+    {
+        "Sl no.": 57,
+        "Name": "The Indian Public School",
+        "Address": "Punnam,  Karur,  Tamil Nadu,  India",
+        "Gender": "CBSE, CIE School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    },
+    {
+        "Sl no.": 58,
+        "Name": "KiiT International School",
+        "Address": "Patia,  Bhubaneswar,  Odisha,  India",
+        "Gender": "CBSE, IB, CIE, Montessori, Playway School",
+        "Board": "CIE",
+        "Grade": "Nursery - XII"
+    },
+    {
+        "Sl no.": 59,
+        "Name": "Sangam School Of Excellence",
+        "Address": "RIICO,  Bhilwara,  Rajasthan,  India",
+        "Gender": "CBSE, IB, CIE School",
+        "Board": "CIE",
+        "Grade": "LKG - XII"
+    },
+    {
+        "Sl no.": 60,
+        "Name": "Hiranandani Upscale School",
+        "Address": "Egattur,  Kelambakkam,  Tamil Nadu,  India",
+        "Gender": "IB, CIE School",
+        "Board": "CIE",
+        "Grade": "I - XII"
+    }
+]

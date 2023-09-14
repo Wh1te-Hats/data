@@ -1,0 +1,410 @@
+[
+  {
+    "Sl no.": 1,
+    "Name": "Sri Venkateshwara Vidhylaya Higher Secondary School",
+    "Address": "Thasampalayam,  Gobichettipalayam,  Tamil Nadu,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "I - XII"
+  },
+  {
+    "Sl no.": 2,
+    "Name": "Alpha English Higher Secondary School",
+    "Address": "Muthialpet,  Puducherry,  Puducherry,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "I - XII"
+  },
+  {
+    "Sl no.": 3,
+    "Name": "The Kashmir Valley School",
+    "Address": "Humhama,  Badgam,  Jammu and Kashmir,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "Nursery - XII"
+  },
+  {
+    "Sl no.": 4,
+    "Name": "Tree House High School GSEB",
+    "Address": "Atladara,  Vadodara,  Gujarat,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "Nursery - XII"
+  },
+  {
+    "Sl no.": 5,
+    "Name": "Tirathbai Kalachand Higher Secondary School",
+    "Address": "Godha Colony,  Indore,  Madhya Pradesh,  India",
+    "Gender": "State Board, Montessori School",
+    "Board": "State Board",
+    "Grade": "Nursery - XII"
+  },
+  {
+    "Sl no.": 6,
+    "Name": "Atomic Energy Junior College",
+    "Address": "Anushakti Nagar,  Mumbai,  Maharashtra,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "XI - XII"
+  },
+  {
+    "Sl no.": 7,
+    "Name": "Delhi Public School",
+    "Address": "Athwajan,  Srinagar,  Jammu and Kashmir,  India",
+    "Gender": "CBSE, State Board School",
+    "Board": "State Board",
+    "Grade": "LKG - XII"
+  },
+  {
+    "Sl no.": 8,
+    "Name": "Universe Public Senior Secondary School",
+    "Address": "Meenawala,  Jaipur,  Rajasthan,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "Nursery - XII"
+  },
+  {
+    "Sl no.": 9,
+    "Name": "Tyndale Biscoe School",
+    "Address": "Press Colony,  Srinagar,  Jammu and Kashmir,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "Nursery - XII"
+  },
+  {
+    "Sl no.": 10,
+    "Name": "Tyndale Biscoe And Mallinson School",
+    "Address": " Tangmarg,  Jammu and Kashmir,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "Nursery - XII"
+  },
+  {
+    "Sl no.": 11,
+    "Name": "St. Kabir School",
+    "Address": "Saiyed Vasna,  Vadodara,  Gujarat,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "I - XII"
+  },
+  {
+    "Sl no.": 12,
+    "Name": "Atomic Energy Central School 1",
+    "Address": "Moula Ali,  Secunderabad,  Telangana,  India",
+    "Gender": "CBSE, State Board School",
+    "Board": "State Board",
+    "Grade": "LKG - XII"
+  },
+  {
+    "Sl no.": 13,
+    "Name": "Sharada Residential School",
+    "Address": "Kunjibettu,  Udupi,  Karnataka,  India",
+    "Gender": "CISCE, State Board School",
+    "Board": "State Board",
+    "Grade": "VI - XII"
+  },
+  {
+    "Sl no.": 14,
+    "Name": "The Mallinson School",
+    "Address": "Press Colony,  Srinagar,  Jammu and Kashmir,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "Nursery - XII"
+  },
+  {
+    "Sl no.": 15,
+    "Name": "Sharada Vidyanikethana PU College",
+    "Address": "Talapady,  Mangalore (Mangaluru),  Karnataka,  India",
+    "Gender": "CBSE, State Board School",
+    "Board": "State Board",
+    "Grade": "XI - XII"
+  },
+  {
+    "Sl no.": 16,
+    "Name": "Universe Public School",
+    "Address": "Khatipura,  Jaipur,  Rajasthan,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "Nursery - XII"
+  },
+  {
+    "Sl no.": 17,
+    "Name": "Sharada Pre-University College",
+    "Address": "Kodialbail,  Mangalore (Mangaluru),  Karnataka,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "XI - XII"
+  },
+  {
+    "Sl no.": 18,
+    "Name": "School of Specialized Excellence",
+    "Address": "Rohini Sector 18,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 19,
+    "Name": "School of Specialized Excellence",
+    "Address": "IP Extension,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 20,
+    "Name": "School of Specialized Excellence",
+    "Address": "Gautam Puri,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 21,
+    "Name": "School of Specialized Excellence",
+    "Address": "Gandhi Nagar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 22,
+    "Name": "School of Specialized Excellence",
+    "Address": "Yamuna Vihar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 23,
+    "Name": "School of Specialized Excellence",
+    "Address": "Surajmal Vihar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 24,
+    "Name": "Wonderland High School And Junior College",
+    "Address": "Titoli,  Igatpuri,  Maharashtra,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "I - XII"
+  },
+  {
+    "Sl no.": 25,
+    "Name": "School of Specialized Excellence",
+    "Address": "Nand Nagri,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 26,
+    "Name": "School of Specialized Excellence",
+    "Address": "Shalimar Bagh,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 27,
+    "Name": "School of Specialized Excellence",
+    "Address": "Rohini Sector 23,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 28,
+    "Name": "School of Specialized Excellence",
+    "Address": "Hari Nagar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 29,
+    "Name": "School of Specialized Excellence",
+    "Address": "Rohini Sector 17,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 30,
+    "Name": "School of Specialized Excellence",
+    "Address": "Rohini Sector 11,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 31,
+    "Name": "School of Specialized Excellence",
+    "Address": "Dwarka Sector 22,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 32,
+    "Name": "School of Specialized Excellence",
+    "Address": "Dwarka Sector 19,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 33,
+    "Name": "School of Specialized Excellence",
+    "Address": "Dwarka Sector 6,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 34,
+    "Name": "School of Specialized Excellence",
+    "Address": "Shalimar Bagh,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 35,
+    "Name": "School of Specialized Excellence",
+    "Address": "INA Colony,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 36,
+    "Name": "School of Specialized Excellence",
+    "Address": "Andrews Ganj,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 37,
+    "Name": "School of Specialized Excellence",
+    "Address": "Karol Bagh,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 38,
+    "Name": "School of Specialized Excellence",
+    "Address": "Madanpur Khadar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 39,
+    "Name": "School of Specialized Excellence",
+    "Address": "Dwarka Sector 22,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 40,
+    "Name": "School of Specialized Excellence",
+    "Address": "Kishan Ganj,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 41,
+    "Name": "School of Specialized Excellence",
+    "Address": "Sector 10A Narela,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 42,
+    "Name": "School of Specialized Excellence",
+    "Address": "Rohini Sector 18,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 43,
+    "Name": "School of Specialized Excellence",
+    "Address": "IP Extension,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 44,
+    "Name": "School of Specialized Excellence",
+    "Address": "Gautam Puri,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 45,
+    "Name": "School of Specialized Excellence",
+    "Address": "Gandhi Nagar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 46,
+    "Name": "School of Specialized Excellence",
+    "Address": "Yamuna Vihar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 47,
+    "Name": "School of Specialized Excellence",
+    "Address": "Ludlow Castle,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 48,
+    "Name": "School of Specialized Excellence",
+    "Address": "Paschim Vihar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 49,
+    "Name": "School of Specialized Excellence",
+    "Address": "Surajmal Vihar,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  },
+  {
+    "Sl no.": 50,
+    "Name": "Shree Ambe Vidyalaya",
+    "Address": "Waghodia Rd,  Vadodara,  Gujarat,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "LKG - XII"
+  },
+  {
+    "Sl no.": 51,
+    "Name": "School of Specialized Excellence",
+    "Address": "Nand Nagri,  Delhi,  Delhi,  India",
+    "Gender": "State Board School",
+    "Board": "State Board",
+    "Grade": "IX - XII"
+  }
+]
