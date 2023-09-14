@@ -298,6 +298,367 @@
       "options": ["a. Carbon dioxide (CO2)", "b. Nitrogen oxides (NOx)", "c. Oxygen (O2)", "d. Water vapor (H2O)"],
       "correct option": "b",
       "chapter": "Environmental Issues"
+    },
+    {
+    "51": {
+        "Question": "What is the term for the type of cell division that leads to the formation of gametes (sperm and egg cells) in humans?",
+        "options": ["a. Mitosis", "b. Meiosis", "c. Binary fission", "d. Budding"],
+        "correct option": "b",
+        "chapter": "Human Reproduction"
+    },
+    "52": {
+        "Question": "In human females, where does fertilization typically occur?",
+        "options": ["a. Uterus", "b. Ovary", "c. Fallopian tube", "d. Cervix"],
+        "correct option": "c",
+        "chapter": "Human Reproduction"
+    },
+    "53": {
+        "Question": "What is the term for the early developmental stage of an embryo that consists of a hollow ball of cells?",
+        "options": ["a. Zygote", "b. Blastula", "c. Morula", "d. Fetus"],
+        "correct option": "b",
+        "chapter": "Human Reproduction"
+    },
+    "54": {
+        "Question": "Which hormone is responsible for the maintenance of pregnancy in humans?",
+        "options": ["a. Estrogen", "b. Progesterone", "c. Testosterone", "d. Follicle-stimulating hormone (FSH)"],
+        "correct option": "b",
+        "chapter": "Human Reproduction"
+    },
+    "55": {
+        "Question": "What is the function of the seminiferous tubules in the male reproductive system?",
+        "options": ["a. Production of sperm", "b. Storage of sperm", "c. Production of testosterone", "d. Maturation of sperm"],
+        "correct option": "a",
+        "chapter": "Human Reproduction"
+    },
+    "56": {
+        "Question": "In which part of the female reproductive system does fertilization usually occur?",
+        "options": ["a. Uterus", "b. Ovary", "c. Fallopian tube", "d. Cervix"],
+        "correct option": "c",
+        "chapter": "Human Reproduction"
+    },
+    "57": {
+        "Question": "What is the term for the shedding of the uterine lining, which occurs in the absence of pregnancy?",
+        "options": ["a. Menstruation", "b. Ovulation", "c. Fertilization", "d. Implantation"],
+        "correct option": "a",
+        "chapter": "Human Reproduction"
+    },
+    "58": {
+        "Question": "Which of the following is a method of contraception that involves the surgical cutting or sealing of the vas deferens in males?",
+        "options": ["a. Tubectomy", "b. Vasectomy", "c. IUD insertion", "d. Oral contraceptives"],
+        "correct option": "b",
+        "chapter": "Human Reproduction"
+    },
+    "59": {
+        "Question": "What is the purpose of amniotic fluid during pregnancy?",
+        "options": ["a. To nourish the fetus", "b. To provide oxygen to the mother", "c. To cushion and protect the fetus", "d. To aid in digestion"],
+        "correct option": "c",
+        "chapter": "Human Reproduction"
+    },
+    "60": {
+        "Question": "In the context of genetics, what is a Punnett square used for?",
+        "options": ["a. Calculating the probability of genetic traits in offspring", "b. Measuring DNA replication", "c. Determining the number of chromosomes in a cell", "d. Studying protein synthesis"],
+        "correct option": "a",
+        "chapter": "Principles of Inheritance and Variation"
+    },
+    "61": {
+        "Question": "What is a genetic disorder caused by the presence of an extra chromosome 21?",
+        "options": ["a. Hemophilia", "b. Down syndrome", "c. Cystic fibrosis", "d. Huntington's disease"],
+        "correct option": "b",
+        "chapter": "Principles of Inheritance and Variation"
+    },
+    "62": {
+        "Question": "What is the term for the process of producing genetically identical organisms through asexual reproduction?",
+        "options": ["a. Cloning", "b. Fertilization", "c. Meiosis", "d. Hybridization"],
+        "correct option": "a",
+        "chapter": "Principles of Inheritance and Variation"
+    },
+    "63": {
+        "Question": "What is the role of RNA polymerase in gene expression?",
+        "options": ["a. Replication of DNA", "b. Transcription of DNA to RNA", "c. Translation of RNA to protein", "d. DNA repair"],
+        "correct option": "b",
+        "chapter": "Molecular Basis of Inheritance"
+    },
+    "64": {
+        "Question": "In DNA, what does the base adenine (A) always pair with?",
+        "options": ["a. Guanine (G)", "b. Thymine (T)", "c. Cytosine (C)", "d. Uracil (U)"],
+        "correct option": "b",
+        "chapter": "Molecular Basis of Inheritance"
+    },
+    "65": {
+        "Question": "What is the term for the transfer of genetic information from mRNA to a protein?",
+        "options": ["a. Replication", "b. Translation", "c. Transcription", "d. Reproduction"],
+        "correct option": "b",
+        "chapter": "Molecular Basis of Inheritance"
+    },
+    "66": {
+        "Question": "In the process of evolution, what does the term 'adaptation' refer to?",
+        "options": ["a. The process of speciation", "b. The extinction of species", "c. The gradual change of a species to better fit its environment", "d. The formation of new species"],
+        "correct option": "c",
+        "chapter": "Evolution"
+    },
+    "67": {
+        "Question": "What is the term for the process by which species evolve into two or more species over time?",
+        "options": ["a. Extinction", "b. Speciation", "c. Adaptation", "d. Convergent evolution"],
+        "correct option": "b",
+        "chapter": "Evolution"
+    },
+    "68": {
+        "Question": "What is the fossil record, and how does it provide evidence for evolution?",
+        "options": ["a. It is a record of all living organisms on Earth.", "b. It is a record of extinct species preserved in rocks and sediments.", "c. It is a record of genetic mutations in organisms.", "d. It is a record of all known species on Earth."],
+        "correct option": "b",
+        "chapter": "Evolution"
+    },
+    "69": {
+        "Question": "What is convergent evolution, and provide an example.",
+        "options": ["a. The evolution of species towards a common ancestor.", "b. The evolution of species with similar traits due to similar environmental pressures.", "c. The evolution of species that are not related.", "d. The evolution of species in isolation."],
+        "correct option": "b",
+        "chapter": "Evolution"
+    },
+    "70": {
+        "Question": "What is biodiversity, and why is it important for the environment?",
+        "options": ["a. Biodiversity refers to the number of endangered species in an ecosystem.", "b. Biodiversity refers to the number of species in an ecosystem.", "c. Biodiversity refers to the variety of life forms on Earth, including species diversity, genetic diversity, and ecosystem diversity.", "d. Biodiversity refers to the total biomass of an ecosystem."],
+        "correct option": "c",
+        "chapter": "Biodiversity and Conservation"
+    },
+    "71": {
+        "Question": "What is the term for the process by which organisms with favorable traits survive and reproduce, leading to the gradual change of a population over time?",
+        "options": ["a. Natural selection", "b. Genetic drift", "c. Artificial selection", "d. Mutation"],
+        "correct option": "a",
+        "chapter": "Evolution"
+    },
+    "72": {
+        "Question": "Explain the concept of antibiotic resistance in bacteria and its implications for human health.",
+        "options": ["a. Antibiotic resistance is the ability of bacteria to produce antibiotics.", "b. Antibiotic resistance is the ability of bacteria to resist the effects of antibiotics, making infections harder to treat.", "c. Antibiotic resistance is a mechanism by which bacteria become photosynthetic.", "d. Antibiotic resistance has no impact on human health."],
+        "correct option": "b",
+        "chapter": "Evolution"
+    },
+    "73": {
+        "Question": "What is genetic drift, and how does it differ from natural selection?",
+        "options": ["a. Genetic drift is the random change in allele frequencies in a population, while natural selection is the process of organisms with favorable traits surviving and reproducing.", "b. Genetic drift is the process of organisms adapting to their environment, while natural selection is the random change in allele frequencies.", "c. Genetic drift is the same as natural selection.", "d. Genetic drift is the process of mutation in genes."],
+        "correct option": "a",
+        "chapter": "Evolution"
+    },
+    "74": {
+        "Question": "Define the term 'speciation' and provide an example of how it occurs.",
+        "options": ["a. Speciation is the process of individuals from different species mating and producing offspring.", "b. Speciation is the process by which new species evolve from existing species, often due to geographical isolation.", "c. Speciation is the process by which species become extinct.", "d. Speciation is the process of hybridization between unrelated species."],
+        "correct option": "b",
+        "chapter": "Evolution"
+    },
+    "75": {
+        "Question": "Explain the concept of ecological succession and provide an example of primary and secondary succession.",
+        "options": ["a. Ecological succession is the process by which species migrate to different ecosystems.", "b. Ecological succession is the process by which species become extinct.", "c. Ecological succession is the process by which ecosystems undergo a series of changes over time, typically following a disturbance.", "d. Ecological succession is the process of genetic evolution within a species."],
+        "correct option": "c",
+        "chapter": "Ecosystems"
+    },
+    "76": {
+        "Question": "What is biomagnification, and how does it affect the food chain?",
+        "options": ["a. Biomagnification is the process of species evolving to higher trophic levels in a food chain.", "b. Biomagnification is the process of increasing the concentration of toxic substances at higher trophic levels in a food chain.", "c. Biomagnification is the process of species competing for food within a food chain.", "d. Biomagnification has no effect on food chains."],
+        "correct option": "b",
+        "chapter": "Ecosystems"
+    },
+    "77": {
+        "Question": "Discuss the concept of the water cycle in ecosystems and its importance.",
+        "options": ["a. The water cycle is the process of water being converted into ice in polar regions.", "b. The water cycle is the process of water being absorbed by plants.", "c. The water cycle is the continuous movement of water between the atmosphere, land, and oceans, and it plays a crucial role in maintaining Earth's ecosystems.", "d. The water cycle has no impact on ecosystems."],
+        "correct option": "c",
+        "chapter": "Ecosystems"
+    },
+    "78": {
+        "Question": "What are decomposers, and what role do they play in nutrient cycling?",
+        "options": ["a. Decomposers are large mammals that feed on plant matter in ecosystems.", "b. Decomposers are organisms that break down dead organic matter, returning nutrients to the ecosystem.", "c. Decomposers are top predators in food chains.", "d. Decomposers are producers in ecosystems."],
+        "correct option": "b",
+        "chapter": "Ecosystems"
+    },
+    "79": {
+        "Question": "Explain the concept of food chains and food webs in ecosystems, and how they illustrate the flow of energy and nutrients.",
+        "options": ["a. Food chains are linear sequences of organisms consuming each other, while food webs are complex networks of interconnected food chains. They illustrate the flow of energy and nutrients in ecosystems.", "b. Food chains and food webs are the same concept.", "c. Food chains and food webs have no relevance in ecology.", "d. Food chains illustrate the flow of water in ecosystems, while food webs illustrate the flow of air."],
+        "correct option": "a",
+        "chapter": "Ecosystems"
+    },
+    "80": {
+        "Question": "Define the term 'biome' and provide an example of a terrestrial biome and an aquatic biome.",
+        "options": ["a. A biome is a small-scale ecosystem.", "b. A biome is a type of animal.", "c. A biome is a large, distinct, terrestrial or aquatic region characterized by a particular climate and set of organisms.", "d. A biome is a type of rock."],
+        "correct option": "c",
+        "chapter": "Ecosystems"
+    },
+    "81": {
+        "Question": "What is the term for the process by which green plants convert light energy into chemical energy stored in glucose molecules?",
+        "options": ["a. Respiration", "b. Photosynthesis", "c. Fermentation", "d. Oxidation"],
+        "correct option": "b",
+        "chapter": "Photosynthesis in Higher Plants"
+    },
+    "82": {
+        "Question": "Explain the role of chlorophyll in photosynthesis.",
+        "options": ["a. Chlorophyll absorbs carbon dioxide.", "b. Chlorophyll stores energy in the form of glucose.", "c. Chlorophyll captures light energy and converts it into chemical energy during photosynthesis.", "d. Chlorophyll is a waste product of photosynthesis."],
+        "correct option": "c",
+        "chapter": "Photosynthesis in Higher Plants"
+    },
+    "83": {
+        "Question": "What is the main product of the light-dependent reactions of photosynthesis?",
+        "options": ["a. Oxygen", "b. Carbon dioxide", "c. Glucose", "d. Water"],
+        "correct option": "a",
+        "chapter": "Photosynthesis in Higher Plants"
+    },
+    "84": {
+        "Question": "Describe the role of the Calvin cycle in photosynthesis.",
+        "options": ["a. The Calvin cycle captures light energy.", "b. The Calvin cycle releases oxygen.", "c. The Calvin cycle converts carbon dioxide into glucose.", "d. The Calvin cycle produces ATP."],
+        "correct option": "c",
+        "chapter": "Photosynthesis in Higher Plants"
+    },
+    "85": {
+        "Question": "What is transpiration in plants, and how does it relate to the movement of water and nutrients?",
+        "options": ["a. Transpiration is the process of root development.", "b. Transpiration is the process of water and nutrients being absorbed by plant roots.", "c. Transpiration is the loss of water vapor from the aerial parts of plants, and it helps in the movement of water and nutrients through the plant.", "d. Transpiration has no role in plant physiology."],
+        "correct option": "c",
+        "chapter": "Transport in Plants"
+    },
+    "86": {
+        "Question": "Explain how the structure of xylem and phloem is adapted for their respective functions in plant transport.",
+        "options": ["a. Xylem is adapted for the transport of organic molecules, while phloem is adapted for the transport of water and minerals.", "b. Xylem is adapted for the transport of water and minerals, while phloem is adapted for structural support.", "c. Xylem is composed of living cells, while phloem is composed of non-living cells.", "d. Xylem contains vessel elements for efficient water transport, while phloem contains sieve tubes for nutrient transport."],
+        "correct option": "d",
+        "chapter": "Transport in Plants"
+    },
+    "87": {
+        "Question": "What is the significance of the opening and closing of stomata in plant leaves?",
+        "options": ["a. Stomata control the amount of sunlight received by leaves.", "b. Stomata regulate the exchange of gases (such as carbon dioxide and oxygen) and water vapor between the plant and the atmosphere.", "c. Stomata store excess water for later use.", "d. Stomata are responsible for photosynthesis in plants."],
+        "correct option": "b",
+        "chapter": "Transport in Plants"
+    },
+    "88": {
+        "Question": "Describe the role of hormones in plant growth and development.",
+        "options": ["a. Hormones in plants control the uptake of minerals from the soil.", "b. Hormones in plants regulate the movement of water through xylem and phloem.", "c. Hormones in plants influence cell division, elongation, and differentiation, as well as responses to environmental stimuli.", "d. Hormones in plants are responsible for photosynthesis."],
+        "correct option": "c",
+        "chapter": "Plant Growth and Development"
+    },
+    "89": {
+        "Question": "What is apical dominance in plants, and how does it affect the growth of branches and buds?",
+        "options": ["a. Apical dominance is the process by which lateral branches grow more vigorously than the main stem.", "b. Apical dominance is the suppression of the growth of lateral buds by the terminal bud.", "c. Apical dominance is the process by which roots dominate over shoots in plants.", "d. Apical dominance has no role in plant growth."],
+        "correct option": "b",
+        "chapter": "Plant Growth and Development"
+    },
+    "90": {
+        "Question": "Explain the concept of tropism in plants, and provide examples of different types of tropisms.",
+        "options": ["a. Tropism is the process of water absorption by plant roots.", "b. Tropism is the growth or movement of a plant in response to an external stimulus, such as light or gravity.", "c. Tropism is the process of leaf senescence in plants.", "d. Tropism is the process of seed germination."],
+        "correct option": "b",
+        "chapter": "Plant Growth and Development"
+    },
+    "91": {
+        "Question": "What is the primary function of the kidney in the human body?",
+        "options": ["a. Digestion of food", "b. Filtration of blood and regulation of fluid balance", "c. Production of insulin", "d. Oxygen exchange in the lungs"],
+        "correct option": "b",
+        "chapter": "Excretory Products and Their Elimination"
+    },
+    "92": {
+        "Question": "Explain the process of filtration in the kidneys and where it occurs.",
+        "options": ["a. Filtration is the process of urine formation in the bladder.", "b. Filtration is the process of removing toxins from the bloodstream.", "c. Filtration is the process of separating red blood cells from white blood cells in the kidneys.", "d. Filtration occurs in the glomerulus of the nephron, where blood is filtered to form urine."],
+        "correct option": "d",
+        "chapter": "Excretory Products and Their Elimination"
+    },
+    "93": {
+        "Question": "What are nephrons, and what is their role in the excretory system?",
+        "options": ["a. Nephrons are a type of hormone in the body.", "b. Nephrons are small blood vessels in the lungs.", "c. Nephrons are the functional units of the kidney that filter blood, reabsorb essential substances, and secrete waste products to form urine.", "d. Nephrons are the primary organs of the excretory system."],
+        "correct option": "c",
+        "chapter": "Excretory Products and Their Elimination"
+    },
+    "94": {
+        "Question": "Explain the process of reabsorption in the nephrons and its significance.",
+        "options": ["a. Reabsorption is the process of filtering waste products from the blood.", "b. Reabsorption is the process of eliminating excess water from the body.", "c. Reabsorption is the process of reclaiming essential substances (such as glucose and ions) from the filtrate back into the bloodstream.", "d. Reabsorption is the process of removing urea from the body."],
+        "correct option": "c",
+        "chapter": "Excretory Products and Their Elimination"
+    },
+    "95": {
+        "Question": "What is the role of the urinary bladder in the excretory system?",
+        "options": ["a. The urinary bladder produces urine.", "b. The urinary bladder stores urine until it is eliminated from the body.", "c. The urinary bladder filters blood.", "d. The urinary bladder secretes hormones."],
+        "correct option": "b",
+        "chapter": "Excretory Products and Their Elimination"
+    },
+    "96": {
+        "Question": "Explain the concept of osmoregulation and its importance in maintaining internal balance.",
+        "options": ["a. Osmoregulation is the regulation of oxygen levels in the body.", "b. Osmoregulation is the regulation of water and solute concentrations in the body to maintain internal balance and prevent dehydration or overhydration.", "c. Osmoregulation is the process of breaking down carbohydrates in the body.", "d. Osmoregulation is the regulation of blood pressure in the body."],
+        "correct option": "b",
+        "chapter": "Excretory Products and Their Elimination"
+    },
+    "97": {
+        "Question": "What is the significance of urine formation and excretion in the body?",
+        "options": ["a. Urine formation and excretion are essential for maintaining water balance in the body.", "b. Urine formation and excretion have no significance in the body.", "c. Urine formation and excretion are primarily for nutrient absorption.", "d. Urine formation and excretion regulate body temperature."],
+        "correct option": "a",
+        "chapter": "Excretory Products and Their Elimination"
+    },
+    "98": {
+        "Question": "Describe the structure and function of the human respiratory system.",
+        "options": ["a. The respiratory system consists of the heart and blood vessels.", "b. The respiratory system consists of the lungs, airways, and diaphragm, and its primary function is the exchange of oxygen and carbon dioxide between the body and the environment.", "c. The respiratory system is responsible for digesting food.", "d. The respiratory system is responsible for excreting waste products from the body."],
+        "correct option": "b",
+        "chapter": "Breathing and Exchange of Gases"
+    },
+    "99": {
+        "Question": "Explain the process of breathing in humans, including inhalation and exhalation.",
+        "options": ["a. Breathing is the process of consuming oxygen from the atmosphere.", "b. Breathing is the process of exchanging gases between the bloodstream and body cells.", "c. Breathing is the process of breaking down food in the body.", "d. Breathing has no specific process."],
+        "correct option": "b",
+        "chapter": "Breathing and Exchange of Gases"
+    },
+    "100": {
+        "Question": "What is the role of hemoglobin in the transport of oxygen and carbon dioxide in the blood?",
+        "options": ["a. Hemoglobin is responsible for filtering oxygen from the blood.", "b. Hemoglobin is responsible for excreting carbon dioxide from the body.", "c. Hemoglobin is a protein in red blood cells that binds to oxygen in the lungs and releases it to body tissues, while also carrying carbon dioxide from body tissues to the lungs for exhalation.", "d. Hemoglobin is a waste product of metabolism."],
+        "correct option": "c",
+        "chapter": "Breathing and Exchange of Gases"
+    },
+    "101": {
+        "Question": "What is the role of the diaphragm in the process of breathing?",
+        "options": ["a. The diaphragm filters the air we breathe.", "b. The diaphragm pumps oxygen into the bloodstream.", "c. The diaphragm contracts and relaxes to change the volume of the thoracic cavity, allowing air to be drawn into and expelled from the lungs.", "d. The diaphragm has no role in breathing."],
+        "correct option": "c",
+        "chapter": "Breathing and Exchange of Gases"
+    },
+    "102": {
+        "Question": "What is the primary function of the respiratory pigment myoglobin?",
+        "options": ["a. Myoglobin helps in digestion.", "b. Myoglobin transports oxygen in the bloodstream.", "c. Myoglobin stores oxygen in muscle cells for use during strenuous physical activity.", "d. Myoglobin is a waste product of respiration."],
+        "correct option": "c",
+        "chapter": "Breathing and Exchange of Gases"
+    },
+    "103": {
+        "Question": "Explain the concept of vital capacity in the context of lung function.",
+        "options": ["a. Vital capacity is the total volume of air in the lungs.", "b. Vital capacity is the maximum volume of air that can be forcibly exhaled after a maximum inhalation.", "c. Vital capacity is the volume of air that remains in the lungs after exhalation.", "d. Vital capacity is the same as tidal volume."],
+        "correct option": "b",
+        "chapter": "Breathing and Exchange of Gases"
+    },
+    "104": {
+        "Question": "What is the significance of the Bohr effect in oxygen transport by hemoglobin?",
+        "options": ["a. The Bohr effect reduces the oxygen-carrying capacity of hemoglobin in the blood.", "b. The Bohr effect enhances the binding of oxygen to hemoglobin in tissues with higher carbon dioxide levels, ensuring efficient oxygen delivery to active cells.", "c. The Bohr effect has no role in oxygen transport.", "d. The Bohr effect is responsible for the formation of blood clots."],
+        "correct option": "b",
+        "chapter": "Breathing and Exchange of Gases"
+    },
+    "105": {
+        "Question": "Describe the process of external respiration and internal respiration in the human body.",
+        "options": ["a. External respiration is the exchange of oxygen and carbon dioxide between blood and body tissues, while internal respiration is the exchange of gases between the lungs and the atmosphere.", "b. External respiration is the transport of gases in the bloodstream, while internal respiration is the exchange of gases between the cells and extracellular fluid.", "c. External respiration is the production of ATP in cells, while internal respiration is the exchange of gases between the bloodstream and cells.", "d. External respiration and internal respiration are the same processes."],
+        "correct option": "a",
+        "chapter": "Breathing and Exchange of Gases"
+    },
+    "106": {
+        "Question": "What are the main functions of the circulatory system in the human body?",
+        "options": ["a. The circulatory system is responsible for digestion.", "b. The circulatory system filters waste products from the blood.", "c. The circulatory system transports oxygen, nutrients, hormones, and waste products to and from cells and tissues.", "d. The circulatory system has no specific functions."],
+        "correct option": "c",
+        "chapter": "Transport in Humans"
+    },
+    "107": {
+        "Question": "Explain the difference between arteries and veins in terms of their structure and function.",
+        "options": ["a. Arteries carry deoxygenated blood away from the heart, while veins carry oxygenated blood back to the heart.", "b. Arteries have thinner walls and carry blood under low pressure, while veins have thicker walls and carry blood under high pressure.", "c. Arteries carry blood away from the heart under high pressure, while veins carry blood back to the heart under low pressure.", "d. Arteries and veins have the same structure and function."],
+        "correct option": "c",
+        "chapter": "Transport in Humans"
+    },
+    "108": {
+        "Question": "What is the role of the heart in the circulatory system?",
+        "options": ["a. The heart pumps blood to the lungs for oxygenation.", "b. The heart filters the blood and removes waste products.", "c. The heart is responsible for producing hormones.", "d. The heart pumps oxygenated blood to the body's tissues and receives deoxygenated blood from the tissues."],
+        "correct option": "d",
+        "chapter": "Transport in Humans"
+    },
+    "109": {
+        "Question": "Describe the structure and function of red blood cells (erythrocytes) in the blood.",
+        "options": ["a. Red blood cells are responsible for blood clotting.", "b. Red blood cells transport oxygen from the lungs to body tissues and carry carbon dioxide from body tissues to the lungs for exhalation.", "c. Red blood cells store oxygen in muscle cells.", "d. Red blood cells are involved in immune responses."],
+        "correct option": "b",
+        "chapter": "Transport in Humans"
+    },
+    "110": {
+        "Question": "Explain how blood clotting is controlled in the human body and why it is important.",
+        "options": ["a. Blood clotting is controlled by the heart.", "b. Blood clotting is controlled by the liver.", "c. Blood clotting is a complex process involving platelets and clotting factors, and it is important for preventing excessive bleeding when blood vessels are damaged.", "d. Blood clotting is controlled by the spleen."],
+        "correct option": "c",
+        "chapter": "Transport in Humans"
     }
-  }
+}
   
