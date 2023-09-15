@@ -1,0 +1,92 @@
+{
+  "Private Engineering Entrance Exams in India": [
+    {
+      "Exam Name": "BITSAT",
+      "Description": "Birla Institute of Technology and Science Admission Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics", "English Proficiency", "Logical Reasoning"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with BITSAT score",
+      "Conducting Body": "Birla Institute of Technology and Science (BITS)"
+    },
+    {
+      "Exam Name": "VITEEE",
+      "Description": "VIT Engineering Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics", "English Aptitude"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with VITEEE rank",
+      "Conducting Body": "Vellore Institute of Technology (VIT)"
+    },
+    {
+      "Exam Name": "SRMJEEE",
+      "Description": "SRM Joint Engineering Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics", "English Language"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with SRMJEEE rank",
+      "Conducting Body": "SRM Institute of Science and Technology (SRMIST)"
+    },
+    {
+      "Exam Name": "AMUEEE",
+      "Description": "Aligarh Muslim University Engineering Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with AMUEEE rank",
+      "Conducting Body": "Aligarh Muslim University (AMU)"
+    },
+    {
+      "Exam Name": "JUET",
+      "Description": "Jammu University Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with JUET rank",
+      "Conducting Body": "University of Jammu"
+    },
+    {
+      "Exam Name": "KLU EEE",
+      "Description": "KL University Engineering Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with KLU EEE rank",
+      "Conducting Body": "KL Deemed to be University"
+    },
+    {
+      "Exam Name": "SRMHCAT",
+      "Description": "SRM University Haryana Common Aptitude Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics", "English Language"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with SRMHCAT rank",
+      "Conducting Body": "SRM University, Haryana"
+    },
+    {
+      "Exam Name": "KIITEE",
+      "Description": "Kalinga Institute of Industrial Technology Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with KIITEE rank",
+      "Conducting Body": "Kalinga Institute of Industrial Technology (KIIT)"
+    },
+    {
+      "Exam Name": "MU OET",
+      "Description": "Manipal University Online Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics", "English and General Aptitude"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with MU OET rank",
+      "Conducting Body": "Manipal Academy of Higher Education (MAHE)"
+    },
+    {
+      "Exam Name": "ATIT",
+      "Description": "Admission Test for ICFAI Tech",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with ATIT rank",
+      "Conducting Body": "ICFAI Foundation for Higher Education (IFHE)"
+    },
+    {
+      "Exam Name": "COMEDK UGET",
+      "Description": "Consortium of Medical, Engineering, and Dental Colleges of Karnataka Undergraduate Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with PCM",
+      "Pass Criteria": "Merit-based admission with COMEDK UGET rank",
+      "Conducting Body": "COMEDK"
+    }
+  ]
+}
