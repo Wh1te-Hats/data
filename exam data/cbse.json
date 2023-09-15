@@ -28,5 +28,60 @@
     "Subjects Covered": "Varies by discipline",
     "Eligibility": "Postgraduate degree required, specific criteria vary",
     "Minimum Pass": "Varies (candidates must score above cutoff)"
+  },
+  "International Mathematics Olympiad (IMO)": {
+    "Subjects Covered": "Mathematics",
+    "Eligibility Criteria": "Students from class 1 to class 12",
+    "Description": "Promotes mathematical excellence and problem-solving skills.",
+    "Average Pass Criteria": "Varies (based on rankings)"
+  },
+  "International Science Olympiad (ISO)": {
+    "Subjects Covered": "Physics, Chemistry, Biology, Astronomy",
+    "Eligibility Criteria": "Students from class 1 to class 12",
+    "Description": "Tests scientific knowledge and aptitude.",
+    "Average Pass Criteria": "Varies (based on rankings)"
+  },
+  "International English Olympiad (IEO)": {
+    "Subjects Covered": "English Language",
+    "Eligibility Criteria": "Students from class 1 to class 12",
+    "Description": "Assesses English language proficiency.",
+    "Average Pass Criteria": "Varies (based on rankings)"
+  },
+  "International Cyber Olympiad (ICO)": {
+    "Subjects Covered": "Computer Science, Information Technology",
+    "Eligibility Criteria": "Students from class 1 to class 12",
+    "Description": "Focuses on computer science and IT skills.",
+    "Average Pass Criteria": "Varies (based on rankings)"
+  },
+  "International Olympiad on Astronomy and Astrophysics (IOAA)": {
+    "Subjects Covered": "Astronomy, Astrophysics",
+    "Eligibility Criteria": "Students typically from class 11 and 12",
+    "Description": "For those interested in astronomy and astrophysics.",
+    "Average Pass Criteria": "Varies (based on rankings)"
+  },
+  "International Olympiad on Informatics (IOI)": {
+    "Subjects Covered": "Computer Programming",
+    "Eligibility Criteria": "Varies, open to students who excel in programming",
+    "Description": "Prestigious programming competition.",
+    "Average Pass Criteria": "Varies (based on rankings)"
+  },
+  "International Olympiad on Chemistry (IChO)": {
+    "Subjects Covered": "Chemistry",
+    "Eligibility Criteria": "Students interested in chemistry",
+    "Description": "Tests knowledge and skills in chemistry.",
+    "Average Pass Criteria": "Varies (based on rankings)"
+  },
+  "Indian National Olympiad in Informatics (INOI)": {
+    "Subjects Covered": "Computer Science, Programming",
+    "Eligibility Criteria": "Open to students meeting the criteria",
+    "Description": "First step for Indian students to qualify for IOI.",
+    "Average Pass Criteria": "Varies (based on rankings)"
+  },
+  "Indian National Mathematical Olympiad (INMO)": {
+    "Subjects Covered": "Mathematics",
+    "Eligibility Criteria": "Open to students meeting the criteria",
+    "Description": "First step for Indian students to qualify for IMO.",
+    "Average Pass Criteria": "Varies (based on rankings)"
   }
 }
+
