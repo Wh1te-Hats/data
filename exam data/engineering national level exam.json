@@ -2,48 +2,102 @@
   "National-Level Engineering Entrance Exams in India": {
     "BITSAT (Birla Institute of Technology and Science Admission Test)": {
       "Description": "Admission test for integrated first-degree programs at BITS Pilani campuses.",
-      "Eligibility Criteria": "10+2 or equivalent with Physics, Chemistry, and Mathematics as core subjects.",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, and Mathematics.",
       "Exam Details": {
-        "Papers": "Physics, Chemistry, Mathematics, Logical Reasoning, and English Proficiency.",
-        "Pass Marks": "Merit-based admission with cutoff scores for each BITS campus."
+        "Papers": "Physics, Chemistry, Mathematics, Logical Reasoning, English Proficiency",
+        "Pass Marks": "Merit-based admission with cutoff scores."
       },
       "Participating Institutes": "Birla Institute of Technology and Science (BITS) campuses."
     },
+    "BITSAT (with Biology)": {
+      "Description": "Admission test for integrated first-degree programs at BITS Pilani campuses with a focus on Biology-based courses.",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, and Biology.",
+      "Exam Details": {
+        "Papers": "Physics, Chemistry, Biology, Logical Reasoning, English Proficiency",
+        "Pass Marks": "Merit-based admission with cutoff scores for Biology-based programs at BITS campuses."
+      },
+      "Participating Institutes": "Birla Institute of Technology and Science (BITS) campuses offering Biology-based programs."
+    },
     "VIT Engineering Entrance Examination (VITEEE)": {
       "Description": "Entrance test for admission to B.Tech programs at VIT Vellore and other campuses.",
-      "Eligibility Criteria": "10+2 or equivalent with Physics, Chemistry, Mathematics/Biology, and English.",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, Mathematics/Biology, and English.",
       "Exam Details": {
-        "Papers": "Physics, Chemistry, Mathematics, and English.",
+        "Papers": "Physics, Chemistry, Mathematics, English",
         "Pass Marks": "Merit-based admission with rank in VITEEE."
       },
       "Participating Institutes": "Vellore Institute of Technology (VIT) campuses."
     },
+    "VITEEE (with Biology)": {
+      "Description": "Entrance test for admission to B.Tech programs at VIT Vellore and other campuses with a focus on Biology-based courses.",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, and Biology.",
+      "Exam Details": {
+        "Papers": "Physics, Chemistry, Biology, English",
+        "Pass Marks": "Merit-based admission with rank in VITEEE for Biology-based programs at VIT campuses."
+      },
+      "Participating Institutes": "Vellore Institute of Technology (VIT) campuses offering Biology-based programs."
+    },
     "SRMJEEE (SRM Joint Engineering Entrance Examination)": {
       "Description": "Entrance test for admission to B.Tech programs at SRM University campuses.",
-      "Eligibility Criteria": "10+2 or equivalent with Physics, Chemistry, Mathematics/Biology, and English.",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, Mathematics/Biology, and English.",
       "Exam Details": {
-        "Papers": "Physics, Chemistry, Mathematics/Biology, English, and Aptitude.",
+        "Papers": "Physics, Chemistry, Mathematics/Biology, English, Aptitude",
         "Pass Marks": "Merit-based admission with rank in SRMJEEE."
       },
       "Participating Institutes": "SRM Institute of Science and Technology (SRMIST) campuses."
     },
-    "JEE Main (Joint Entrance Examination Main)": {
-      "Description": "A national-level exam for admission to undergraduate engineering programs in India.",
-      "Eligibility Criteria": "10+2 or equivalent with Physics, Chemistry, and Mathematics as core subjects.",
+    "SRMJEEE UG (with Biology)": {
+      "Description": "Entrance test for admission to B.Tech programs at SRM University campuses with a focus on Biology-based courses.",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, and Biology.",
       "Exam Details": {
-        "Papers": "Paper 1 (for B.E./B.Tech courses) and Paper 2 (for B.Arch/B.Planning courses)",
-        "Pass Marks": "Varies by category and is determined through percentile scoring."
+        "Papers": "Physics, Chemistry, Biology, English, Aptitude",
+        "Pass Marks": "Merit-based admission with rank in SRMJEEE for Biology-based programs at SRMIST campuses."
       },
-      "Participating Institutes": "IITs, NITs, IIITs, CFTIs, and various state engineering colleges."
+      "Participating Institutes": "SRM Institute of Science and Technology (SRMIST) campuses offering Biology-based programs."
+    },
+    "IMU CET (Indian Maritime University Common Entrance Test)": {
+      "Description": "Entrance test for admission to undergraduate maritime programs in India.",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, Mathematics.",
+      "Exam Details": {
+        "Papers": "Physics, Chemistry, Mathematics, English, General Knowledge",
+        "Pass Marks": "Merit-based admission with rank in IMU CET."
+      },
+      "Participating Institutes": "Indian Maritime University (IMU) campuses."
+    },
+    "JEE Main (Joint Entrance Examination Main)": {
+      "Description": "National-level exam for admission to undergraduate engineering programs in India.",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, Mathematics.",
+      "Exam Details": {
+        "Papers": "Paper 1 (B.E./B.Tech) and Paper 2 (B.Arch/B.Planning)",
+        "Pass Marks": "Varies by category and is percentile-based."
+      },
+      "Participating Institutes": "IITs, NITs, IIITs, CFTIs, and state engineering colleges."
     },
     "JEE Advanced (Joint Entrance Examination Advanced)": {
       "Description": "The next stage after JEE Main for admission to IITs for undergraduate engineering programs.",
-      "Eligibility Criteria": "Qualified in JEE Main and top 2,50,000 rank holders are eligible.",
+      "Eligibility Criteria": "Qualified in JEE Main with top 2,50,000 rank holders eligible.",
       "Exam Details": {
-        "Papers": "Two papers of Physics, Chemistry, and Mathematics.",
-        "Pass Marks": "Varies by category and is determined through scoring."
+        "Papers": "Two papers in Physics, Chemistry, Mathematics.",
+        "Pass Marks": "Varies by category and is scoring-based."
       },
       "Participating Institutes": "Indian Institutes of Technology (IITs)."
+    },
+    "JEE Main Paper 2B - B. Planning": {
+      "Description": "Entrance exam for admission to undergraduate programs in architecture and planning.",
+      "Eligibility Criteria": "10+2 with Mathematics. Minimum 50% marks in aggregate and 50% marks in Physics, Chemistry, and Mathematics combined (5% relaxation for SC/ST and PwD candidates).",
+      "Exam Details": {
+        "Papers": "Mathematics, Aptitude Test, Planning Based Questions",
+        "Pass Marks": "Cutoff marks vary by year and institute."
+      },
+      "Participating Institutes": "Various architecture and planning institutes in India."
+    },
+    "AMU-AT (B Tech)": {
+      "Description": "Entrance exam for admission to B.Tech programs at Aligarh Muslim University (AMU).",
+      "Eligibility Criteria": "10+2 with Physics, Chemistry, and Mathematics.",
+      "Exam Details": {
+        "Papers": "Physics, Chemistry, Mathematics",
+        "Pass Marks": "Merit-based admission with rank in AMU-AT."
+      },
+      "Participating Institutes": "Aligarh Muslim University (AMU) campuses
     }
   }
 }
