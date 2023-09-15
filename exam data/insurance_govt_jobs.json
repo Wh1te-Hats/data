@@ -1,0 +1,74 @@
+{
+  "Government Job Exams in Insurance Sector in India": {
+    "LIC AAO (Life Insurance Corporation of India Assistant Administrative Officer)": {
+      "Description": "Recruitment exam for the appointment of Assistant Administrative Officers (AAO) in LIC.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, and Interview",
+        "Subjects": "Reasoning Ability, Quantitative Aptitude, General Knowledge, and English Language",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Organization": "Life Insurance Corporation of India (LIC)."
+    },
+    "NICL AO (National Insurance Company Limited Administrative Officer)": {
+      "Description": "Recruitment exam for the appointment of Administrative Officers (AO) in NICL.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, and Interview",
+        "Subjects": "English Language, Reasoning, Quantitative Aptitude, and General Awareness",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Organization": "National Insurance Company Limited (NICL)."
+    },
+    "UIIC AO (United India Insurance Company Administrative Officer)": {
+      "Description": "Recruitment exam for the appointment of Administrative Officers (AO) in UIIC.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, and Interview",
+        "Subjects": "Reasoning, Quantitative Aptitude, English Language, and General Awareness",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Organization": "United India Insurance Company (UIIC)."
+    },
+    "GIC Officer Scale I (General Insurance Corporation of India)": {
+      "Description": "Recruitment exam for the appointment of Officer Scale I in GIC.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Online Test and Interview",
+        "Subjects": "Technical and Professional Knowledge, Reasoning, English Language, and General Awareness",
+        "Pass Marks": "Cutoff scores for online test."
+      },
+      "Participating Organization": "General Insurance Corporation of India (GIC)."
+    },
+    "OICL AO (Oriental Insurance Company Limited Administrative Officer)": {
+      "Description": "Recruitment exam for the appointment of Administrative Officers (AO) in OICL.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, and Interview",
+        "Subjects": "English Language, Reasoning, Quantitative Aptitude, and General Awareness",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Organization": "Oriental Insurance Company Limited (OICL)."
+    },
+    "New India Assurance AO (Administrative Officer)": {
+      "Description": "Recruitment exam for the appointment of Administrative Officers (AO) in New India Assurance.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, and Interview",
+        "Subjects": "English Language, Reasoning, Quantitative Aptitude, and General Awareness",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Organization": "New India Assurance Company Limited."
+    },
+    "ESIC UDC (Employee's State Insurance Corporation Upper Division Clerk)": {
+      "Description": "Recruitment exam for the appointment of Upper Division Clerks (UDC) in ESIC.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary and Main",
+        "Subjects": "Numerical Ability, English Language, General Intelligence, and General Awareness",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Organization": "Employee's State Insurance Corporation (ESIC)."
+    }
+  }
+}
