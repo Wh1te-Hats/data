@@ -1,0 +1,91 @@
+{
+  "IB Program Exams and Assessments": {
+    "IB Middle Years Program (MYP) eAssessment": {
+      "Subjects Covered": [
+        "Language and Literature",
+        "Language Acquisition",
+        "Individuals and Societies",
+        "Sciences",
+        "Mathematics",
+        "Physical and Health Education",
+        "Design",
+        "Arts",
+        "Interdisciplinary Learning"
+      ],
+      "Eligibility Criteria": "Open to students in the MYP (typically class 9 to 10)",
+      "Minimum Pass Criteria": "Varies by subject and assessment type"
+    },
+    "IB Diploma Program (DP) Assessments": {
+      "Subjects Covered": "Varies by student choice (typically 6 subjects)",
+      "Eligibility Criteria": "Open to students in the DP (typically class 11 to 12)",
+      "Minimum Pass Criteria": "Varies by subject and assessment type (typically on a scale of 1 to 7)"
+    },
+    "IB Career-related Program (CP) Assessments": {
+      "Subjects Covered": "Varies by student choice (typically a mix of academic and career-related subjects)",
+      "Eligibility Criteria": "Open to students in the CP (typically class 11 to 12)",
+      "Minimum Pass Criteria": "Varies by subject and assessment type (typically on a scale of 1 to 7)"
+    }
+  },
+  "Olympiad Exams": {
+    "International Mathematics Olympiad (IMO)": {
+      "Subjects Covered": "Mathematics",
+      "Eligibility Criteria": "Students from class 1 to class 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Science Olympiad (ISO)": {
+      "Subjects Covered": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Astronomy"
+      ],
+      "Eligibility Criteria": "Students from class 1 to class 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International English Olympiad (IEO)": {
+      "Subjects Covered": "English Language",
+      "Eligibility Criteria": "Students from class 1 to class 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Cyber Olympiad (ICO)": {
+      "Subjects Covered": [
+        "Computer Science",
+        "Information Technology"
+      ],
+      "Eligibility Criteria": "Students from class 1 to class 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Olympiad on Astronomy and Astrophysics (IOAA)": {
+      "Subjects Covered": [
+        "Astronomy",
+        "Astrophysics"
+      ],
+      "Eligibility Criteria": "Students typically from class 11 and 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Olympiad on Informatics (IOI)": {
+      "Subjects Covered": "Computer Programming",
+      "Eligibility Criteria": "Varies, open to students who excel in programming",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Olympiad on Chemistry (IChO)": {
+      "Subjects Covered": "Chemistry",
+      "Eligibility Criteria": "Students interested in chemistry",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "Indian National Olympiad in Informatics (INOI)": {
+      "Subjects Covered": [
+        "Computer Science",
+        "Programming"
+      ],
+      "Eligibility Criteria": "Open to students meeting the criteria",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "Indian National Mathematical Olympiad (INMO)": {
+      "Subjects Covered": "Mathematics",
+      "Eligibility Criteria": "Open to students meeting the criteria",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    }
+  }
+}
+
