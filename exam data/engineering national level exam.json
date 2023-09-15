@@ -1,0 +1,49 @@
+{
+  "National-Level Engineering Entrance Exams in India": {
+    "BITSAT (Birla Institute of Technology and Science Admission Test)": {
+      "Description": "Admission test for integrated first-degree programs at BITS Pilani campuses.",
+      "Eligibility Criteria": "10+2 or equivalent with Physics, Chemistry, and Mathematics as core subjects.",
+      "Exam Details": {
+        "Papers": "Physics, Chemistry, Mathematics, Logical Reasoning, and English Proficiency.",
+        "Pass Marks": "Merit-based admission with cutoff scores for each BITS campus."
+      },
+      "Participating Institutes": "Birla Institute of Technology and Science (BITS) campuses."
+    },
+    "VIT Engineering Entrance Examination (VITEEE)": {
+      "Description": "Entrance test for admission to B.Tech programs at VIT Vellore and other campuses.",
+      "Eligibility Criteria": "10+2 or equivalent with Physics, Chemistry, Mathematics/Biology, and English.",
+      "Exam Details": {
+        "Papers": "Physics, Chemistry, Mathematics, and English.",
+        "Pass Marks": "Merit-based admission with rank in VITEEE."
+      },
+      "Participating Institutes": "Vellore Institute of Technology (VIT) campuses."
+    },
+    "SRMJEEE (SRM Joint Engineering Entrance Examination)": {
+      "Description": "Entrance test for admission to B.Tech programs at SRM University campuses.",
+      "Eligibility Criteria": "10+2 or equivalent with Physics, Chemistry, Mathematics/Biology, and English.",
+      "Exam Details": {
+        "Papers": "Physics, Chemistry, Mathematics/Biology, English, and Aptitude.",
+        "Pass Marks": "Merit-based admission with rank in SRMJEEE."
+      },
+      "Participating Institutes": "SRM Institute of Science and Technology (SRMIST) campuses."
+    },
+    "JEE Main (Joint Entrance Examination Main)": {
+      "Description": "A national-level exam for admission to undergraduate engineering programs in India.",
+      "Eligibility Criteria": "10+2 or equivalent with Physics, Chemistry, and Mathematics as core subjects.",
+      "Exam Details": {
+        "Papers": "Paper 1 (for B.E./B.Tech courses) and Paper 2 (for B.Arch/B.Planning courses)",
+        "Pass Marks": "Varies by category and is determined through percentile scoring."
+      },
+      "Participating Institutes": "IITs, NITs, IIITs, CFTIs, and various state engineering colleges."
+    },
+    "JEE Advanced (Joint Entrance Examination Advanced)": {
+      "Description": "The next stage after JEE Main for admission to IITs for undergraduate engineering programs.",
+      "Eligibility Criteria": "Qualified in JEE Main and top 2,50,000 rank holders are eligible.",
+      "Exam Details": {
+        "Papers": "Two papers of Physics, Chemistry, and Mathematics.",
+        "Pass Marks": "Varies by category and is determined through scoring."
+      },
+      "Participating Institutes": "Indian Institutes of Technology (IITs)."
+    }
+  }
+}
