@@ -1,0 +1,24 @@
+{
+  "National Talent Search Examination (NTSE)": {
+    "Description": "The NTSE is a national-level scholarship program to identify and nurture talent among class 10 students.",
+    "Eligibility Criteria": "Open to Indian students studying in class 10 in recognized schools.",
+    "Exam Details": {
+      "Stage 1": {
+        "Type": "Mental Ability Test (MAT) and Scholastic Aptitude Test (SAT)",
+        "Pass Marks": "Students must achieve the cutoff score determined by the respective state/UT authorities.",
+        "Selection": "Top-scoring students from each state/UT qualify for Stage 2."
+      },
+      "Stage 2": {
+        "Type": "Mental Ability Test (MAT) and Scholastic Aptitude Test (SAT)",
+        "Pass Marks": "Students must achieve the cutoff score set by the National Council of Educational Research and Training (NCERT).",
+        "Scholarship": "Selected students are awarded scholarships for higher education."
+      }
+    },
+    "Scholarship Amount": "The scholarship amount varies by the level of education: Rs. 1,250 per month for class 11 and 12, and Rs. 2,000 per month for undergraduate and postgraduate studies.",
+    "Benefits": {
+      "Mental Ability Test (MAT)": "Measures analytical and reasoning abilities.",
+      "Scholastic Aptitude Test (SAT)": "Evaluates subject-specific knowledge in mathematics, science, and social studies.",
+      "Scholarship": "Supports higher education and talent development."
+    }
+  }
+}
