@@ -1,0 +1,36 @@
+{
+  "State-Level Undergraduate Medical Entrance Exams in India": [
+    {
+      "Exam Name": "KCET (Karnataka Common Entrance Test) Medical",
+      "Description": "Karnataka Common Entrance Test for Medical Courses",
+      "State": "Karnataka",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "Karnataka Examination Authority (KEA)"
+    },
+    {
+      "Exam Name": "AP EAMCET (Andhra Pradesh Engineering, Agriculture, and Medical Common Entrance Test)",
+      "Description": "Engineering, Agriculture, and Medical Common Entrance Test",
+      "State": "Andhra Pradesh",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "Jawaharlal Nehru Technological University (JNTU), Kakinada"
+    },
+    {
+      "Exam Name": "TS EAMCET (Telangana Engineering, Agriculture, and Medical Common Entrance Test)",
+      "Description": "Engineering, Agriculture, and Medical Common Entrance Test",
+      "State": "Telangana",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "Jawaharlal Nehru Technological University (JNTU), Hyderabad"
+    },
+    {
+      "Exam Name": "MHT CET (Maharashtra Common Entrance Test) Medical",
+      "Description": "Maharashtra Common Entrance Test for Medical Courses",
+      "State": "Maharashtra",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "State Common Entrance Test Cell, Maharashtra"
+    }
+  ]
+}
