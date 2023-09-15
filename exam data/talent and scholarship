@@ -1,0 +1,29 @@
+{
+  "Talent and Scholarship Exams in India": {
+    "National Talent Search Examination (NTSE)": {
+      "Description": "A national-level scholarship program for class 10 students to identify and nurture talent.",
+      "Eligibility Criteria": "Open to Indian students studying in class 10 in recognized schools.",
+      "Pass Marks": "Students must achieve the cutoff score determined by the respective state/UT authorities."
+    },
+    "Kishore Vaigyanik Protsahan Yojana (KVPY)": {
+      "Description": "A scholarship program to encourage students to pursue scientific research careers.",
+      "Eligibility Criteria": "Open to Indian students in class 11 and 12 with science stream (PCB/PCM).",
+      "Pass Marks": "Selection is based on the KVPY aptitude test and interview."
+    },
+    "Indian National Olympiad (INO)": {
+      "Description": "A series of olympiad exams in subjects like mathematics, physics, chemistry, biology, astronomy, and junior science.",
+      "Eligibility Criteria": "Open to Indian students from class 9 to 12 with a passion for the respective subjects.",
+      "Pass Marks": "Varies by subject and performance in the respective olympiad."
+    },
+    "Jawaharlal Nehru Scholarship for Doctoral Studies (JNMF)": {
+      "Description": "A scholarship for Ph.D. students to promote higher education in India.",
+      "Eligibility Criteria": "Open to Indian students pursuing a Ph.D. in recognized universities.",
+      "Pass Marks": "Selection is based on academic merit and research proposal evaluation."
+    },
+    "National Means-Cum-Merit Scholarship (NMMS)": {
+      "Description": "A scholarship for class 8 students to encourage meritorious students from economically weaker sections.",
+      "Eligibility Criteria": "Open to Indian students studying in class 8 in government or government-aided schools.",
+      "Pass Marks": "Students must qualify the NMMS exam to be eligible for the scholarship."
+    }
+  }
+}
