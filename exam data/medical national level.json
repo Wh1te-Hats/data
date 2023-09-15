@@ -1,0 +1,39 @@
+{
+  "Undergraduate Medical Entrance Exams in India": [
+    {
+      "Exam Name": "NEET UG",
+      "Description": "National Eligibility cum Entrance Test for Undergraduate Medical Courses",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "National Testing Agency (NTA)"
+    },
+    {
+      "Exam Name": "AIIMS MBBS",
+      "Description": "All India Institute of Medical Sciences MBBS Entrance Exam",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)", "General Knowledge", "Aptitude"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "All India Institute of Medical Sciences (AIIMS)"
+    },
+    {
+      "Exam Name": "JIPMER MBBS",
+      "Description": "Jawaharlal Institute of Postgraduate Medical Education and Research MBBS Entrance Exam",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)", "English Comprehension and Logical Reasoning"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER)"
+    },
+    {
+      "Exam Name": "BHU MBBS/BDS",
+      "Description": "Banaras Hindu University MBBS/BDS Entrance Exam",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "Banaras Hindu University (BHU)"
+    },
+    {
+      "Exam Name": "MGIMS PMT",
+      "Description": "Mahatma Gandhi Institute of Medical Sciences Pre-Medical Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)", "English Comprehension"],
+      "Eligibility Criteria": "10+2 or equivalent with PCB",
+      "Conducting Body": "Mahatma Gandhi Institute of Medical Sciences (MGIMS)"
+    }
+  ]
+}
