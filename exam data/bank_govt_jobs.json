@@ -1,0 +1,74 @@
+{
+  "Government Job Exams in Banking Sector in India": {
+    "IBPS PO (Institute of Banking Personnel Selection Probationary Officer)": {
+      "Description": "Recruitment exam for the appointment of Probationary Officers (PO) in public sector banks.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, and Interview",
+        "Subjects": "English Language, Quantitative Aptitude, Reasoning Ability, General Awareness, and Computer Knowledge",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Banks": "Various public sector banks in India."
+    },
+    "SBI PO (State Bank of India Probationary Officer)": {
+      "Description": "Recruitment exam for the appointment of Probationary Officers (PO) in the State Bank of India.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, Group Discussion, and Interview",
+        "Subjects": "English Language, Quantitative Aptitude, Reasoning Ability, General Awareness, and Computer Knowledge",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Banks": "State Bank of India (SBI)."
+    },
+    "IBPS Clerk (Institute of Banking Personnel Selection Clerk)": {
+      "Description": "Recruitment exam for the appointment of Clerks in public sector banks.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary and Main",
+        "Subjects": "English Language, Numerical Ability, Reasoning Ability, and General Awareness",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Banks": "Various public sector banks in India."
+    },
+    "SBI Clerk (State Bank of India Clerk)": {
+      "Description": "Recruitment exam for the appointment of Clerks in the State Bank of India.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Preliminary and Main",
+        "Subjects": "English Language, Numerical Ability, Reasoning Ability, and General Awareness",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Banks": "State Bank of India (SBI)."
+    },
+    "RBI Grade B Officer (Reserve Bank of India Grade B Officer)": {
+      "Description": "Recruitment exam for the appointment of Grade B Officers in the Reserve Bank of India.",
+      "Eligibility Criteria": "Graduate degree in any discipline.",
+      "Exam Details": {
+        "Phases": "Phase I (Preliminary), Phase II (Main), and Interview",
+        "Subjects": "Economic and Social Issues, English Language, Finance and Management, and Quantitative Aptitude",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Bank": "Reserve Bank of India (RBI)."
+    },
+    "IBPS RRB (Institute of Banking Personnel Selection Regional Rural Banks)": {
+      "Description": "Recruitment exam for the appointment of Officers and Office Assistants in Regional Rural Banks (RRBs).",
+      "Eligibility Criteria": "Graduate degree for Officers and Graduate/Intermediate for Office Assistants.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, and Interview",
+        "Subjects": "Varies based on the specific post.",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Banks": "Regional Rural Banks (RRBs) across India."
+    },
+    "NABARD Grade A and B Officer (National Bank for Agriculture and Rural Development)": {
+      "Description": "Recruitment exam for the appointment of Grade A and Grade B Officers in NABARD.",
+      "Eligibility Criteria": "Varies by post but generally requires a graduate degree.",
+      "Exam Details": {
+        "Phases": "Preliminary, Main, and Interview",
+        "Subjects": "Varies by post.",
+        "Pass Marks": "Cutoff scores for each phase."
+      },
+      "Participating Bank": "National Bank for Agriculture and Rural Development (NABARD)."
+    }
+  }
+}
