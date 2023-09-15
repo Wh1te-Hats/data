@@ -1,0 +1,30 @@
+{
+  "Government Job Exams in Defense Sector for Grade 9-12 Students in India": {
+    "NDA (National Defense Academy) Exam": {
+      "Description": "Recruitment exam for the Indian Army, Navy, and Air Force for 10+2 (Intermediate) pass candidates.",
+      "Eligibility Criteria": "10+2 or equivalent qualification.",
+      "Exam Details": {
+        "Phases": "Written Exam, Interview/Personality Test",
+        "Subjects": "Mathematics and General Ability Test",
+        "Pass Marks": "Cutoff scores for written exam and interview."
+      },
+      "Participating Organizations": "Indian Army, Indian Navy, and Indian Air Force."
+    },
+    "Indian Coast Guard Navik GD Exam": {
+      "Description": "Recruitment exam for General Duty (GD) sailors in the Indian Coast Guard.",
+      "Eligibility Criteria": "10+2 or equivalent qualification with Mathematics and Physics as subjects.",
+      "Exam Details": {
+        "Phases": "Written Exam, Physical Fitness Test, and Medical Examination",
+        "Subjects": "Quantitative Aptitude, Mathematics, and Physics",
+        "Pass Marks": "Cutoff scores for written exam and fitness test."
+      },
+      "Participating Organization": "Indian Coast Guard."
+    },
+    "NCC Special Entry Scheme": {
+      "Description": "Special entry scheme for NCC (National Cadet Corps) certificate holders.",
+      "Eligibility Criteria": "10+2 or equivalent with NCC 'C' certificate.",
+      "Selection Process": "Shortlisting based on NCC certificates, SSB Interview, and Medical Examination.",
+      "Participating Organizations": "Indian Army, Indian Navy, and Indian Air Force."
+    }
+  }
+}
