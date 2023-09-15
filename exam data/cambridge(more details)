@@ -1,0 +1,135 @@
+{
+  "Cambridge Board Exams": {
+    "IGCSE (International General Certificate of Secondary Education)": {
+      "Subjects Covered": [
+        "Mathematics",
+        "Science (Physics, Chemistry, Biology)",
+        "English Language",
+        "Social Sciences",
+        "Languages (various options)",
+        "Business Studies",
+        "Information and Communication Technology (ICT)",
+        "Art and Design",
+        "Music",
+        "Physical Education",
+        "Global Perspectives",
+        "Travel and Tourism",
+        "Computer Science",
+        "Environmental Management",
+        "Additional Mathematics",
+        "Economics",
+        "History",
+        "Geography",
+        "Sociology",
+        "Psychology",
+        "and more..."
+      ],
+      "Eligibility Criteria": "Open to students in class 9 and above",
+      "Minimum Pass Criteria": "Typically grades A*-C (70%-100%) in individual subjects"
+    },
+    "AS and A Levels (Advanced Subsidiary and Advanced Levels)": {
+      "Subjects Covered": "Varies by student choice at AS and A Level",
+      "Eligibility Criteria": "Open to students in class 11 and above",
+      "Minimum Pass Criteria": "Varies by subject and exam board (typically A*-E for A Levels)"
+    },
+    "Cambridge IGCSE O Level": {
+      "Subjects Covered": [
+        "Mathematics",
+        "Science (Physics, Chemistry, Biology)",
+        "English Language",
+        "Business Studies",
+        "Computer Science",
+        "Economics",
+        "History",
+        "Geography",
+        "Accounting",
+        "Global Perspectives",
+        "and more..."
+      ],
+      "Eligibility Criteria": "Open to students in class 9 and above",
+      "Minimum Pass Criteria": "Typically grades A*-C (70%-100%) in individual subjects"
+    },
+    "Cambridge Pre-U": {
+      "Subjects Covered": "Varies by student choice at Principal and Short Course level",
+      "Eligibility Criteria": "Open to students in class 11 and above",
+      "Minimum Pass Criteria": "Varies by subject and exam board (typically D1-M1 for Principal Subjects)"
+    },
+    "Cambridge Checkpoint": {
+      "Subjects Covered": [
+        "English",
+        "Mathematics",
+        "Science (Biology, Chemistry, Physics)",
+        "Mathematics (Additional)",
+        "Global Perspectives"
+      ],
+      "Eligibility Criteria": "Open to students in class 8 and above",
+      "Minimum Pass Criteria": "Grades A*-C (70%-100%) in individual subjects"
+    },
+    "Cambridge International AICE Diploma": {
+      "Subjects Covered": "Varies by student choice from AS and A Level",
+      "Eligibility Criteria": "Open to students in class 11 and above",
+      "Minimum Pass Criteria": "Varies by subject and exam board (typically A*-E for A Level components)"
+    }
+  },
+  "Olympiad Exams": {
+    "International Mathematics Olympiad (IMO)": {
+      "Subjects Covered": "Mathematics",
+      "Eligibility Criteria": "Students from class 1 to class 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Science Olympiad (ISO)": {
+      "Subjects Covered": [
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Astronomy"
+      ],
+      "Eligibility Criteria": "Students from class 1 to class 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International English Olympiad (IEO)": {
+      "Subjects Covered": "English Language",
+      "Eligibility Criteria": "Students from class 1 to class 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Cyber Olympiad (ICO)": {
+      "Subjects Covered": [
+        "Computer Science",
+        "Information Technology"
+      ],
+      "Eligibility Criteria": "Students from class 1 to class 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Olympiad on Astronomy and Astrophysics (IOAA)": {
+      "Subjects Covered": [
+        "Astronomy",
+        "Astrophysics"
+      ],
+      "Eligibility Criteria": "Students typically from class 11 and 12",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Olympiad on Informatics (IOI)": {
+      "Subjects Covered": "Computer Programming",
+      "Eligibility Criteria": "Varies, open to students who excel in programming",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "International Olympiad on Chemistry (IChO)": {
+      "Subjects Covered": "Chemistry",
+      "Eligibility Criteria": "Students interested in chemistry",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "Indian National Olympiad in Informatics (INOI)": {
+      "Subjects Covered": [
+        "Computer Science",
+        "Programming"
+      ],
+      "Eligibility Criteria": "Open to students meeting the criteria",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    },
+    "Indian National Mathematical Olympiad (INMO)": {
+      "Subjects Covered": "Mathematics",
+      "Eligibility Criteria": "Open to students meeting the criteria",
+      "Minimum Pass Criteria": "Varies (based on rankings)"
+    }
+  }
+}
