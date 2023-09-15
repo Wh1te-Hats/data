@@ -1,0 +1,130 @@
+{
+  "State-Level Engineering Entrance Exams in India": [
+    {
+      "Exam Name": "AP EAMCET",
+      "Description": "Engineering, Agriculture, and Medical Common Entrance Test in Andhra Pradesh",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with rank in AP EAMCET"
+    },
+    {
+      "Exam Name": "KEAM",
+      "Description": "Kerala Engineering, Agriculture, and Medical Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with KEAM rank"
+    },
+    {
+      "Exam Name": "TNEA",
+      "Description": "Tamil Nadu Engineering Admissions",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission based on class 12 marks"
+    },
+    {
+      "Exam Name": "TS EAMCET",
+      "Description": "Telangana Engineering, Agriculture, and Medical Common Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with rank in TS EAMCET"
+    },
+    {
+      "Exam Name": "WBJEE",
+      "Description": "West Bengal Joint Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with WBJEE rank"
+    },
+    {
+      "Exam Name": "GUJCET",
+      "Description": "Gujarat Common Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics/Biology"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with GUJCET rank"
+    },
+    {
+      "Exam Name": "MHT CET",
+      "Description": "Maharashtra Common Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with MHT CET rank"
+    },
+    {
+      "Exam Name": "BCECE",
+      "Description": "Bihar Combined Entrance Competitive Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with BCECE rank"
+    },
+    {
+      "Exam Name": "UPSEE",
+      "Description": "Uttar Pradesh State Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with UPSEE rank"
+    },
+    {
+      "Exam Name": "Karnataka DCET",
+      "Description": "Karnataka Diploma Common Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "Diploma in Engineering",
+      "Pass Criteria": "Merit-based admission with DCET rank"
+    },
+    {
+      "Exam Name": "JCECE",
+      "Description": "Jharkhand Combined Entrance Competitive Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with JCECE rank"
+    },
+    {
+      "Exam Name": "OJEE",
+      "Description": "Odisha Joint Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with OJEE rank"
+    },
+    {
+      "Exam Name": "CET Delhi",
+      "Description": "Delhi Common Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with CET Delhi rank"
+    },
+    {
+      "Exam Name": "CET Karnataka",
+      "Description": "Karnataka Common Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with CET Karnataka rank"
+    },
+    {
+      "Exam Name": "HPCET",
+      "Description": "Himachal Pradesh Common Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with HPCET rank"
+    },
+    {
+      "Exam Name": "JEXPO",
+      "Description": "West Bengal Polytechnic Entrance Exam (JEXPO)",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10th standard or equivalent",
+      "Pass Criteria": "Merit-based admission with JEXPO rank"
+    },
+    {
+      "Exam Name": "CET Maharashtra",
+      "Description": "Maharashtra Health and Technical Common Entrance Test",
+      "Subjects Covered": ["Physics", "Chemistry", "Biology"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with CET Maharashtra rank"
+    },
+    {
+      "Exam Name": "CET Uttarakhand",
+      "Description": "Uttarakhand State Entrance Examination",
+      "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+      "Eligibility Criteria": "10+2 or equivalent with relevant subjects",
+      "Pass Criteria": "Merit-based admission with CET Uttarakhand rank"
+    },
+    {
+     
