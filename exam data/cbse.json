@@ -1,0 +1,32 @@
+{
+  "CBSE Class 10 Board Exam (Secondary School Examination)": {
+    "Subjects Covered": "Math, Science, Social Science, English, Additional Language",
+    "Eligibility": "Enrolled in class 10",
+    "Minimum Pass": "Varies (typically around 33-35%)"
+  },
+  "CBSE Class 12 Board Exam (Senior Secondary Examination)": {
+    "Subjects Covered": "Varies by stream",
+    "Eligibility": "Enrolled in class 12",
+    "Minimum Pass": "Varies each year"
+  },
+  "JEE Main": {
+    "Subjects Covered": "Physics, Chemistry, Mathematics",
+    "Eligibility": "Completed class 12 or in final year",
+    "Minimum Pass": "Varies each year (qualifying marks required)"
+  },
+  "NEET": {
+    "Subjects Covered": "Physics, Chemistry, Biology (Botany and Zoology)",
+    "Eligibility": "Completed class 12 with required subjects",
+    "Minimum Pass": "Varies each year (qualifying marks required)"
+  },
+  "CTET": {
+    "Subjects Covered": "Paper-I, Paper-II, Child Development, Languages, Math, Science, Social Studies",
+    "Eligibility": "Varies, typically senior secondary (class 12) qualification",
+    "Minimum Pass": "60% marks required to pass"
+  },
+  "NET": {
+    "Subjects Covered": "Varies by discipline",
+    "Eligibility": "Postgraduate degree required, specific criteria vary",
+    "Minimum Pass": "Varies (candidates must score above cutoff)"
+  }
+}
