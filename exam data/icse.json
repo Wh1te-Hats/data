@@ -1,0 +1,32 @@
+{
+  "ICSE Class 10 Board Exam (Indian Certificate of Secondary Education)": {
+    "Subjects Covered": ["English Language", "Second Language", "Mathematics", "Science (Physics, Chemistry, Biology)", "History & Civics", "Geography", "Environmental Science"],
+    "Eligibility Criteria": "Students enrolled in class 10",
+    "Minimum Pass Criteria": "Varies (typically around 33-35% in each subject)"
+  },
+  "ISC Class 12 Board Exam (Indian School Certificate)": {
+    "Subjects Covered": "Varies by chosen stream (e.g., Science, Commerce, Humanities)",
+    "Eligibility Criteria": "Students enrolled in class 12",
+    "Minimum Pass Criteria": "Varies each year (subject-specific)"
+  },
+  "JEE Main": {
+    "Subjects Covered": ["Physics", "Chemistry", "Mathematics"],
+    "Eligibility Criteria": "Completed class 12 or in final year (subject to change, refer to official notification)",
+    "Minimum Pass Criteria": "Varies each year (qualifying marks required)"
+  },
+  "NEET": {
+    "Subjects Covered": ["Physics", "Chemistry", "Biology (Botany and Zoology)"],
+    "Eligibility Criteria": "Completed class 12 with required subjects",
+    "Minimum Pass Criteria": "Varies each year (qualifying marks required)"
+  },
+  "ISCET (Indian School Certificate Examination for Teachers)": {
+    "Subjects Covered": ["Child Development and Pedagogy", "English Language Proficiency", "Mathematics and Science (for primary school) OR Social Studies (for upper primary school)"],
+    "Eligibility Criteria": "Varies by state or institution, typically senior secondary or equivalent",
+    "Minimum Pass Criteria": "Passing marks required in each subject"
+  },
+  "Olympiad Examinations (e.g., IMO, ISO)": {
+    "Subjects Covered": "Varies by Olympiad (e.g., Mathematics, Science, Astronomy)",
+    "Eligibility Criteria": "Open to students from class 1 to 12",
+    "Minimum Pass Criteria": "Varies by Olympiad, typically based on rankings"
+  }
+}
