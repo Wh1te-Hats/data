@@ -1,0 +1,426 @@
+[
+  {
+    "Question": "Which process involves the conversion of atmospheric nitrogen into a form that plants can use?",
+    "Option1": "Photosynthesis",
+    "Option2": "Nitrogen Fixation",
+    "Option3": "Transpiration",
+    "Option4": "Respiration",
+    "CorrectOption": "Nitrogen Fixation"
+  },
+  {
+    "Question": "What is the primary function of chlorophyll in plants?",
+    "Option1": "Nutrient Absorption",
+    "Option2": "Energy Storage",
+    "Option3": "Oxygen Production",
+    "Option4": "Photosynthesis",
+    "CorrectOption": "Photosynthesis"
+  },
+  {
+    "Question": "In agriculture, what is the purpose of using fertilizers?",
+    "Option1": "Pest Control",
+    "Option2": "Weed Suppression",
+    "Option3": "Nutrient Enrichment",
+    "Option4": "Water Conservation",
+    "CorrectOption": "Nutrient Enrichment"
+  },
+  {
+    "Question": "Which plant hormone is responsible for the elongation of cells and the growth of stems?",
+    "Option1": "Gibberellins",
+    "Option2": "Auxins",
+    "Option3": "Cytokinins",
+    "Option4": "Abscisic Acid",
+    "CorrectOption": "Auxins"
+  },
+  {
+    "Question": "What is the process by which green plants manufacture their own food using sunlight?",
+    "Option1": "Cellular Respiration",
+    "Option2": "Transpiration",
+    "Option3": "Photosynthesis",
+    "Option4": "Fermentation",
+    "CorrectOption": "Photosynthesis"
+  },
+  {
+    "Question": "Which of the following is a primary factor affecting crop growth in agriculture?",
+    "Option1": "Wind Speed",
+    "Option2": "Soil pH",
+    "Option3": "Cloud Cover",
+    "Option4": "Humidity",
+    "CorrectOption": "Soil pH"
+  },
+  {
+    "Question": "What is the term for the process of water movement from the roots to the leaves of a plant?",
+    "Option1": "Photosynthesis",
+    "Option2": "Transpiration",
+    "Option3": "Nutrient Absorption",
+    "Option4": "Cellular Respiration",
+    "CorrectOption": "Transpiration"
+  },
+  {
+    "Question": "Which of the following is a method of asexual reproduction in plants?",
+    "Option1": "Budding",
+    "Option2": "Seeds",
+    "Option3": "Spores",
+    "Option4": "Pollen",
+    "CorrectOption": "Budding"
+  },
+  {
+    "Question": "What is the role of mycorrhizal fungi in plant growth?",
+    "Option1": "Water Absorption",
+    "Option2": "Nutrient Absorption",
+    "Option3": "Photosynthesis",
+    "Option4": "Seed Germination",
+    "CorrectOption": "Nutrient Absorption"
+  },
+  {
+    "Question": "Which type of farming involves the cultivation of crops and the rearing of animals together?",
+    "Option1": "Horticulture",
+    "Option2": "Mixed Farming",
+    "Option3": "Aquaculture",
+    "Option4": "Silviculture",
+    "CorrectOption": "Mixed Farming"
+  },
+  {
+    "Question": "What is the term for the removal of undesirable or excess plants from a crop field?",
+    "Option1": "Fertilization",
+    "Option2": "Pollination",
+    "Option3": "Weeding",
+    "Option4": "Pruning",
+    "CorrectOption": "Weeding"
+  },
+  {
+    "Question": "Which of the following is a method of organic farming?",
+    "Option1": "Use of Synthetic Pesticides",
+    "Option2": "Crop Rotation",
+    "Option3": "Monoculture",
+    "Option4": "Genetic Modification",
+    "CorrectOption": "Crop Rotation"
+  },
+  {
+    "Question": "What is the term for the controlled raising of aquatic animals and plants for food?",
+    "Option1": "Pisciculture",
+    "Option2": "Apiculture",
+    "Option3": "Sericulture",
+    "Option4": "Aquaculture",
+    "CorrectOption": "Aquaculture"
+  },
+  {
+    "Question": "Which of the following is a greenhouse gas released during rice cultivation?",
+    "Option1": "Oxygen",
+    "Option2": "Carbon Dioxide",
+    "Option3": "Methane",
+    "Option4": "Nitrous Oxide",
+    "CorrectOption": "Methane"
+  },
+  {
+    "Question": "In the context of plant diseases, what is the term for the study of fungi?",
+    "Option1": "Virology",
+    "Option2": "Mycology",
+    "Option3": "Bacteriology",
+    "Option4": "Parasitology",
+    "CorrectOption": "Mycology"
+  },
+  {
+    "Question": "What is the process by which water is absorbed by plant roots from the soil?",
+    "Option1": "Photosynthesis",
+    "Option2": "Transpiration",
+    "Option3": "Hydration",
+    "Option4": "Capillary Action",
+    "CorrectOption": "Hydration"
+  },
+  {
+    "Question": "Which of the following is a method of preserving food by removing its moisture content?",
+    "Option1": "Fermentation",
+    "Option2": "Canning",
+    "Option3": "Drying",
+    "Option4": "Pickling",
+    "CorrectOption": "Drying"
+  },
+  {
+    "Question": "What is the term for the process of artificially inducing the formation of seeds without fertilization?",
+    "Option1": "Grafting",
+    "Option2": "Pollination",
+    "Option3": "Hybridization",
+    "Option4": "Parthenocarpy",
+    "CorrectOption": "Parthenocarpy"
+  },
+  {
+    "Question": "Which of the following is a major macronutrient essential for plant growth?",
+    "Option1": "Iron",
+    "Option2": "Calcium",
+    "Option3": "Phosphorus",
+    "Option4": "Zinc",
+    "CorrectOption": "Phosphorus"
+  },
+  {
+    "Question": "What is the term for the process of plant breeding to produce desirable traits?",
+    "Option1": "Grafting",
+    "Option2": "Hybridization",
+    "Option3": "Cloning",
+    "Option4": "Cultivation",
+    "CorrectOption": "Hybridization"
+  },
+  {
+    "Question": "In agriculture, what is the term for the removal of weeds by uprooting them from the soil?",
+    "Option1": "Plowing",
+    "Option2": "Tillage",
+    "Option3": "Harvesting",
+    "Option4": "Threshing",
+    "CorrectOption": "Tillage"
+  },
+  {
+    "Question": "Which of the following is a method of pest control that involves introducing natural predators?",
+    "Option1": "Biological Control",
+    "Option2": "Chemical Control",
+    "Option3": "Mechanical Control",
+    "Option4": "Cultural Control",
+    "CorrectOption": "Biological Control"
+  },
+  {
+    "Question": "What is the term for the cultivation of fruits and vegetables in a limited space, often indoors?",
+    "Option1": "Sericulture",
+    "Option2": "Horticulture",
+    "Option3": "Aquaculture",
+    "Option4": "Intensive Gardening",
+    "CorrectOption": "Intensive Gardening"
+  },
+  {
+    "Question": "Which of the following is a method of propagation involving the use of plant parts like stems and roots?",
+    "Option1": "Seeds",
+    "Option2": "Cuttings",
+    "Option3": "Bulbs",
+    "Option4": "Tubers",
+    "CorrectOption": "Cuttings"
+  },
+  {
+    "Question": "What is the term for the process of separating grains from the harvested crop?",
+    "Option1": "Winnowing",
+    "Option2": "Threshing",
+    "Option3": "Sowing",
+    "Option4": "Harvesting",
+    "CorrectOption": "Threshing"
+  },
+  {
+    "Question": "Which of the following is a method of food preservation involving the use of salt?",
+    "Option1": "Freezing",
+    "Option2": "Drying",
+    "Option3": "Canning",
+    "Option4": "Pickling",
+    "CorrectOption": "Pickling"
+  },
+  {
+    "Question": "What is the term for the science and practice of growing fruits?",
+    "Option1": "Floriculture",
+    "Option2": "Olericulture",
+    "Option3": "Pomology",
+    "Option4": "Viticulture",
+    "CorrectOption": "Pomology"
+  },
+  {
+    "Question": "Which gas is released by plants during photosynthesis?",
+    "Option1": "Oxygen",
+    "Option2": "Carbon Dioxide",
+    "Option3": "Methane",
+    "Option4": "Nitrogen",
+    "CorrectOption": "Oxygen"
+  },
+  {
+    "Question": "What is the term for the practice of growing crops without the use of synthetic pesticides and fertilizers?",
+    "Option1": "Organic Farming",
+    "Option2": "Conventional Farming",
+    "Option3": "Industrial Farming",
+    "Option4": "Genetically Modified Farming",
+    "CorrectOption": "Organic Farming"
+  },
+  {
+    "Question": "Which of the following is a method of plant breeding that involves crossing different varieties or species?",
+    "Option1": "Cloning",
+    "Option2": "Mutation Breeding",
+    "Option3": "Hybridization",
+    "Option4": "Tissue Culture",
+    "CorrectOption": "Hybridization"
+  },
+  {
+    "Question": "What is the term for the removal of the outer husk or covering of seeds or grains?",
+    "Option1": "Hulling",
+    "Option2": "Shelling",
+    "Option3": "Winnowing",
+    "Option4": "Threshing",
+    "CorrectOption": "Hulling"
+  },
+  {
+    "Question": "Which of the following is a method of preserving food by heating it to a high temperature to kill microorganisms?",
+    "Option1": "Freezing",
+    "Option2": "Drying",
+    "Option3": "Pasteurization",
+    "Option4": "Pickling",
+    "CorrectOption": "Pasteurization"
+  },
+  {
+    "Question": "What is the term for the process of transferring pollen from the male part to the female part of a flower?",
+    "Option1": "Fertilization",
+    "Option2": "Pollination",
+    "Option3": "Germination",
+    "Option4": "Seed Dispersal",
+    "CorrectOption": "Pollination"
+  },
+  {
+    "Question": "Which of the following is a method of seed dispersal by wind?",
+    "Option1": "Gravity Dispersal",
+    "Option2": "Animal Dispersal",
+    "Option3": "Water Dispersal",
+    "Option4": "Wind Dispersal",
+    "CorrectOption": "Wind Dispersal"
+  },
+  {
+    "Question": "What is the term for the process of converting atmospheric nitrogen into a form that plants can use?",
+    "Option1": "Photosynthesis",
+    "Option2": "Denitrification",
+    "Option3": "Ammonification",
+    "Option4": "Nitrogen Fixation",
+    "CorrectOption": "Nitrogen Fixation"
+  },
+  {
+    "Question": "Which of the following is a method of pest control that involves using chemical substances to kill or repel pests?",
+    "Option1": "Biological Control",
+    "Option2": "Mechanical Control",
+    "Option3": "Chemical Control",
+    "Option4": "Cultural Control",
+    "CorrectOption": "Chemical Control"
+  },
+  {
+    "Question": "In plant anatomy, what is the outermost protective layer of cells called?",
+    "Option1": "Xylem",
+    "Option2": "Phloem",
+    "Option3": "Epidermis",
+    "Option4": "Cambium",
+    "CorrectOption": "Epidermis"
+  },
+  {
+    "Question": "Which of the following is a method of seed dispersal by animals?",
+    "Option1": "Wind Dispersal",
+    "Option2": "Gravity Dispersal",
+    "Option3": "Water Dispersal",
+    "Option4": "Animal Dispersal",
+    "CorrectOption": "Animal Dispersal"
+  },
+  {
+    "Question": "What is the term for the process of removing excess water from the soil?",
+    "Option1": "Transpiration",
+    "Option2": "Irrigation",
+    "Option3": "Drainage",
+    "Option4": "Hydration",
+    "CorrectOption": "Drainage"
+  },
+  {
+    "Question": "Which of the following is a method of plant propagation involving the use of underground stems?",
+    "Option1": "Cuttings",
+    "Option2": "Tubers",
+    "Option3": "Bulbs",
+    "Option4": "Rhizomes",
+    "CorrectOption": "Rhizomes"
+  },
+  {
+    "Question": "What is the term for the process of transferring nutrients from the soil to the plant roots?",
+    "Option1": "Photosynthesis",
+    "Option2": "Nutrient Absorption",
+    "Option3": "Transpiration",
+    "Option4": "Hydration",
+    "CorrectOption": "Nutrient Absorption"
+  },
+  {
+    "Question": "Which of the following is a method of seed dispersal by water?",
+    "Option1": "Animal Dispersal",
+    "Option2": "Wind Dispersal",
+    "Option3": "Gravity Dispersal",
+    "Option4": "Water Dispersal",
+    "CorrectOption": "Water Dispersal"
+  },
+  {
+    "Question": "What is the term for the practice of growing plants in nutrient-rich solutions without soil?",
+    "Option1": "Hydroponics",
+    "Option2": "Aeroponics",
+    "Option3": "Aquaponics",
+    "Option4": "Geoponics",
+    "CorrectOption": "Hydroponics"
+  },
+  {
+    "Question": "Which of the following is a method of plant propagation involving the use of seeds?",
+    "Option1": "Cuttings",
+    "Option2": "Grafting",
+    "Option3": "Layering",
+    "Option4": "Seeds",
+    "CorrectOption": "Seeds"
+  },
+  {
+    "Question": "What is the term for the practice of growing two or more crops in the same field in sequential seasons?",
+    "Option1": "Crop Rotation",
+    "Option2": "Monoculture",
+    "Option3": "Polyculture",
+    "Option4": "Intercropping",
+    "CorrectOption": "Crop Rotation"
+  },
+  {
+    "Question": "Which of the following is a method of seed dispersal by explosive mechanisms?",
+    "Option1": "Gravity Dispersal",
+    "Option2": "Wind Dispersal",
+    "Option3": "Animal Dispersal",
+    "Option4": "Explosive Dispersal",
+    "CorrectOption": "Explosive Dispersal"
+  },
+  {
+    "Question": "What is the term for the process of transferring genetic material from one plant to another?",
+    "Option1": "Hybridization",
+    "Option2": "Cloning",
+    "Option3": "Grafting",
+    "Option4": "Genetic Modification",
+    "CorrectOption": "Genetic Modification"
+  },
+  {
+    "Question": "What is the term for the process of removing the outer husk or covering of seeds or grains?",
+    "Option1": "Hulling",
+    "Option2": "Shelling",
+    "Option3": "Winnowing",
+    "Option4": "Threshing",
+    "CorrectOption": "Hulling"
+  },
+  {
+    "Question": "Which of the following is a method of preserving food by drying it in the sun or air?",
+    "Option1": "Canning",
+    "Option2": "Freezing",
+    "Option3": "Dehydration",
+    "Option4": "Pickling",
+    "CorrectOption": "Dehydration"
+  },
+  {
+    "Question": "What is the term for the practice of growing plants without soil, using mineral nutrient solutions?",
+    "Option1": "Hydroponics",
+    "Option2": "Aeroponics",
+    "Option3": "Aquaponics",
+    "Option4": "Geoponics",
+    "CorrectOption": "Hydroponics"
+  },
+  {
+    "Question": "What is the term for the process of removing undesirable or excess plants from a crop field?",
+    "Option1": "Weeding",
+    "Option2": "Pruning",
+    "Option3": "Thinning",
+    "Option4": "Harvesting",
+    "CorrectOption": "Weeding"
+  },
+  {
+    "Question": "Which of the following is a method of plant propagation involving the use of plant parts like stems and roots?",
+    "Option1": "Cuttings",
+    "Option2": "Grafting",
+    "Option3": "Layering",
+    "Option4": "Bulbs",
+    "CorrectOption": "Cuttings"
+  },
+  {
+    "Question": "Which of the following is a method of pest control that involves using natural substances?",
+    "Option1": "Biological Control",
+    "Option2": "Chemical Control",
+    "Option3": "Mechanical Control",
+    "Option4": "Cultural Control",
+    "CorrectOption": "Biological Control"
+  }
+]

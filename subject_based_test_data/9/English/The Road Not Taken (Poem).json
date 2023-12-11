@@ -1,0 +1,307 @@
+[
+    {
+      "Question": "What is the title of the poem?",
+      "Option1": "The Path Less Traveled",
+      "Option2": "The Choices We Make",
+      "Option3": "The Road Less Taken",
+      "Option4": "The Journey Ahead",
+      "CorrectOption": "The Road Not Taken"
+    },
+    {
+      "Question": "Who is the author of the poem?",
+      "Option1": "Walt Whitman",
+      "Option2": "Emily Dickinson",
+      "Option3": "Langston Hughes",
+      "Option4": "Robert Frost",
+      "CorrectOption": "Robert Frost"
+    },
+    {
+      "Question": "What is the central theme of 'The Road Not Taken'?",
+      "Option1": "Individualism",
+      "Option2": "Nature's Beauty",
+      "Option3": "Life's Choices",
+      "Option4": "Eternal Love",
+      "CorrectOption": "Life's Choices"
+    },
+    {
+      "Question": "What is the significance of the diverging roads in the poem?",
+      "Option1": "They represent literal roads in a forest",
+      "Option2": "They symbolize life's choices and decisions",
+      "Option3": "They depict the poet's favorite hiking trails",
+      "Option4": "They represent the passage of time",
+      "CorrectOption": "They symbolize life's choices and decisions"
+    },
+    {
+      "Question": "How does the speaker feel about choosing the less-traveled road?",
+      "Option1": "Regretful",
+      "Option2": "Satisfied",
+      "Option3": "Indifferent",
+      "Option4": "Confused",
+      "CorrectOption": "Satisfied"
+    },
+    {
+      "Question": "What is the significance of the title 'The Road Not Taken'?",
+      "Option1": "It refers to a road never taken by anyone",
+      "Option2": "It highlights the regret of not taking a specific road",
+      "Option3": "It emphasizes the choices we make in life",
+      "Option4": "It suggests the importance of exploration",
+      "CorrectOption": "It emphasizes the choices we make in life"
+    },
+    {
+      "Question": "What does the speaker mean by 'Two roads diverged in a yellow wood'?",
+      "Option1": "The roads physically separated",
+      "Option2": "The roads led to different destinations",
+      "Option3": "A metaphor for life's choices",
+      "Option4": "A description of a forest scene",
+      "CorrectOption": "A metaphor for life's choices"
+    },
+    {
+      "Question": "What does the speaker imply by 'And sorry I could not travel both'?",
+      "Option1": "The speaker is physically unable to walk both paths",
+      "Option2": "The speaker regrets not having enough time to explore both options",
+      "Option3": "The speaker is emotionally torn between two choices",
+      "Option4": "The speaker apologizes for a missed opportunity",
+      "CorrectOption": "The speaker is emotionally torn between two choices"
+    },
+    {
+      "Question": "What does the 'yellow wood' symbolize in the poem?",
+      "Option1": "Autumn",
+      "Option2": "A magical forest",
+      "Option3": "A sunny meadow",
+      "Option4": "Life's choices and challenges",
+      "CorrectOption": "Life's choices and challenges"
+    },
+    {
+      "Question": "How does the poem explore the theme of individualism?",
+      "Option1": "By advocating conformity",
+      "Option2": "By encouraging group decisions",
+      "Option3": "By celebrating personal choices",
+      "Option4": "By discouraging uniqueness",
+      "CorrectOption": "By celebrating personal choices"
+    },
+    {
+      "Question": "What does the speaker mean by 'I doubted if I should ever come back'?",
+      "Option1": "The speaker fears getting lost",
+      "Option2": "The speaker doubts returning to the same place in the future",
+      "Option3": "The speaker anticipates a one-way journey",
+      "Option4": "The speaker is unsure about revisiting the location",
+      "CorrectOption": "The speaker anticipates a one-way journey"
+    },
+    {
+      "Question": "What emotions does the speaker experience when reflecting on the choice of paths?",
+      "Option1": "Joy and excitement",
+      "Option2": "Regret and uncertainty",
+      "Option3": "Indifference and apathy",
+      "Option4": "Satisfaction and contentment",
+      "CorrectOption": "Regret and uncertainty"
+    },
+    {
+      "Question": "How does the speaker describe the road he ultimately chooses?",
+      "Option1": "Worn and trodden",
+      "Option2": "Untouched and pristine",
+      "Option3": "Broad and inviting",
+      "Option4": "Narrow and overgrown",
+      "CorrectOption": "Grassy and less traveled"
+    },
+    {
+      "Question": "What does the speaker mean by 'And that has made all the difference'?",
+      "Option1": "The speaker regrets the choice made",
+      "Option2": "The speaker feels indifferent about the chosen path",
+      "Option3": "The speaker believes the chosen path has defined their life",
+      "Option4": "The speaker wishes for an alternative outcome",
+      "CorrectOption": "The speaker believes the chosen path has defined their life"
+    },
+    {
+      "Question": "What does the 'morning equally lay' suggest about the two paths?",
+      "Option1": "They are equally appealing",
+      "Option2": "They lead to the same destination",
+      "Option3": "They are equally challenging",
+      "Option4": "They are equally traveled",
+      "CorrectOption": "They are equally traveled"
+    },
+    {
+      "Question": "What is the significance of the line 'I kept the first for another day'?",
+      "Option1": "The speaker plans to return to the first road",
+      "Option2": "The speaker regrets not taking the first road",
+      "Option3": "The speaker dismisses the importance of the first road",
+      "Option4": "The speaker prefers the second road",
+      "CorrectOption": "The speaker plans to return to the first road"
+    },
+    {
+      "Question": "What message about decision-making does the poem convey?",
+      "Option1": "Decisions are unimportant",
+      "Option2": "Decisions shape one's destiny",
+      "Option3": "Decisions should be made impulsively",
+      "Option4": "Decisions are reversible",
+      "CorrectOption": "Decisions shape one's destiny"
+    },
+    {
+      "Question": "What does the speaker mean by 'Oh, I kept the first for another day!'?",
+      "Option1": "The speaker plans to explore both paths later",
+      "Option2": "The speaker is indecisive about the first path",
+      "Option3": "The speaker regrets not taking the first path",
+      "Option4": "The speaker dismisses the importance of the first path",
+      "CorrectOption": "The speaker plans to explore both paths later"
+    },
+    {
+      "Question": "How does the poem explore the idea of regret?",
+      "Option1": "It celebrates regret as a necessary experience",
+      "Option2": "It criticizes regret as a pointless emotion",
+      "Option3": "It portrays regret as an inevitable part of life",
+      "Option4": "It ignores the concept of regret",
+      "CorrectOption": "It portrays regret as an inevitable part of life"
+    },
+    {
+      "Question": "What does the speaker mean by 'Yet knowing how way leads on to way'?",
+      "Option1": "Every path leads to the same destination",
+      "Option2": "Decisions have a domino effect on one's life",
+      "Option3": "Life is a complex and interconnected journey",
+      "Option4": "Choosing a path is irrelevant",
+      "CorrectOption": "Decisions have a domino effect on one's life"
+    },
+    {
+      "Question": "What is the tone of the poem?",
+      "Option1": "Joyful",
+      "Option2": "Regretful",
+      "Option3": "Indifferent",
+      "Option4": "Hopeful",
+      "CorrectOption": "Regretful"
+    },
+    {
+      "Question": "What does the speaker mean by 'I shall be telling this with a sigh'?",
+      "Option1": "The speaker is tired",
+      "Option2": "The speaker is happy",
+      "Option3": "The speaker is sad",
+      "Option4": "The speaker is indifferent",
+      "CorrectOption": "The speaker is sad"
+    },
+    {
+      "Question": "How does the poem suggest the complexity of decision-making?",
+      "Option1": "Decisions are straightforward and simple",
+      "Option2": "Decisions are often reversible",
+      "Option3": "Decisions involve uncertainty and consequences",
+      "Option4": "Decisions are inconsequential",
+      "CorrectOption": "Decisions involve uncertainty and consequences"
+    },
+    {
+      "Question": "What does the speaker mean by 'I took the one less traveled by'?",
+      "Option1": "The speaker chose the popular path",
+      "Option2": "The speaker took a unique and unconventional path",
+      "Option3": "The speaker regrets not choosing the common path",
+      "Option4": "The speaker is lost",
+      "CorrectOption": "The speaker took a unique and unconventional path"
+    },
+    {
+      "Question": "What is the significance of the final stanza in the poem?",
+      "Option1": "It suggests the speaker's regret",
+      "Option2": "It reinforces the theme of individualism",
+      "Option3": "It reflects on the inevitability of choices",
+      "Option4": "It emphasizes the importance of the chosen path",
+      "CorrectOption": "It reflects on the inevitability of choices"
+    },
+    {
+      "Question": "What does the poem suggest about the nature of choices and their consequences?",
+      "Option1": "Choices have no consequences",
+      "Option2": "Choices are inconsequential",
+      "Option3": "Choices shape one's journey and destiny",
+      "Option4": "Choices are reversible",
+      "CorrectOption": "Choices shape one's journey and destiny"
+    },
+    {
+      "Question": "How does the speaker feel about the road he did not choose?",
+      "Option1": "Content",
+      "Option2": "Regretful",
+      "Option3": "Indifferent",
+      "Option4": "Proud",
+      "CorrectOption": "Regretful"
+    },
+    {
+      "Question": "What does the phrase 'ages and ages hence' suggest about the speaker's reflection?",
+      "Option1": "The speaker forgets the past",
+      "Option2": "The speaker reflects on the passage of time",
+      "Option3": "The speaker is timeless",
+      "Option4": "The speaker lives in the moment",
+      "CorrectOption": "The speaker reflects on the passage of time"
+    },
+    {
+      "Question": "How does the poem explore the concept of destiny?",
+      "Option1": "Destiny is pre-determined",
+      "Option2": "Destiny is irrelevant",
+      "Option3": "Destiny is shaped by choices",
+      "Option4": "Destiny is random",
+      "CorrectOption": "Destiny is shaped by choices"
+    },
+    {
+      "Question": "What does the poem suggest about the impact of choices on personal growth?",
+      "Option1": "Choices hinder personal growth",
+      "Option2": "Choices have no impact on personal growth",
+      "Option3": "Choices contribute to personal growth",
+      "Option4": "Personal growth is automatic",
+      "CorrectOption": "Choices contribute to personal growth"
+    },
+    {
+      "Question": "What does the speaker mean by 'Somewhere ages and ages hence'?",
+      "Option1": "The speaker is lost in time",
+      "Option2": "The speaker forgets the past",
+      "Option3": "The speaker reflects on the future",
+      "Option4": "The speaker lives in the present",
+      "CorrectOption": "The speaker reflects on the future"
+    },
+    {
+      "Question": "How does the poem challenge the idea of regret?",
+      "Option1": "It dismisses regret as insignificant",
+      "Option2": "It celebrates regret as a valuable experience",
+      "Option3": "It criticizes regret as a destructive emotion",
+      "Option4": "It ignores the concept of regret",
+      "CorrectOption": "It celebrates regret as a valuable experience"
+    },
+    {
+      "Question": "What does the speaker mean by 'And that has made all the difference'?",
+      "Option1": "The speaker feels indifferent about the choice",
+      "Option2": "The speaker regrets the choice",
+      "Option3": "The speaker is proud of the choice",
+      "Option4": "The choice has had a significant impact on the speaker's life",
+      "CorrectOption": "The choice has had a significant impact on the speaker's life"
+    },
+    {
+      "Question": "How does the poem explore the idea of exploring unconventional paths?",
+      "Option1": "It discourages exploring unconventional paths",
+      "Option2": "It promotes exploring unconventional paths",
+      "Option3": "It suggests exploring conventional paths",
+      "Option4": "It ignores the concept of exploration",
+      "CorrectOption": "It promotes exploring unconventional paths"
+    },
+    {
+      "Question": "What does the speaker mean by 'And looked down one as far as I could'?",
+      "Option1": "The speaker sees the end of one path",
+      "Option2": "The speaker examines both paths",
+      "Option3": "The speaker is afraid to look down",
+      "Option4": "The speaker cannot see the paths",
+      "CorrectOption": "The speaker examines both paths"
+    },
+    {
+      "Question": "What does the poem suggest about the impact of choices on an individual's legacy?",
+      "Option1": "Choices have no impact on an individual's legacy",
+      "Option2": "Choices determine an individual's legacy",
+      "Option3": "Legacy is irrelevant",
+      "Option4": "Legacy is predetermined",
+      "CorrectOption": "Choices determine an individual's legacy"
+    },
+    {
+      "Question": "How does the speaker feel about the road he ultimately chose?",
+      "Option1": "Satisfied",
+      "Option2": "Regretful",
+      "Option3": "Indifferent",
+      "Option4": "Anxious",
+      "CorrectOption": "Satisfied"
+    },
+    {
+      "Question": "What is the significance of the title 'The Road Not Taken'?",
+      "Option1": "It emphasizes the regret of not taking a specific road",
+      "Option2": "It highlights the importance of the chosen path",
+      "Option3": "It suggests the speaker is lost",
+      "Option4": "It focuses on the road left unexplored",
+      "CorrectOption": "It focuses on the road left unexplored"
+    }      
+  ]
+  

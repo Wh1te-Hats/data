@@ -1,0 +1,898 @@
+[
+  {
+    "Question": "What is the degree of the polynomial 4x^3 + 2x^2 - 7x + 1?",
+    "Option1": "3",
+    "Option2": "4",
+    "Option3": "2",
+    "Option4": "1",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "In the polynomial 3x^2 + 5x - 2, what is the coefficient of the linear term?",
+    "Option1": "5",
+    "Option2": "3",
+    "Option3": "-2",
+    "Option4": "2",
+    "CorrectOption": "5"
+  },
+  {
+    "Question": "What is the sum of the coefficients in the polynomial 2x^2 - 3x + 1?",
+    "Option1": "0",
+    "Option2": "2",
+    "Option3": "3",
+    "Option4": "6",
+    "CorrectOption": "0"
+  },
+  {
+    "Question": "In the polynomial 6x^4 - 2x^3 + 8x^2 - 5, what is the leading coefficient?",
+    "Option1": "6",
+    "Option2": "2",
+    "Option3": "-5",
+    "Option4": "-2",
+    "CorrectOption": "6"
+  },
+  {
+    "Question": "Which of the following is a quadratic polynomial?",
+    "Option1": "4x^2 - 3x + 1",
+    "Option2": "2x^3 + 5x^2 - 1",
+    "Option3": "7x - 4",
+    "Option4": "-2x + 3",
+    "CorrectOption": "4x^2 - 3x + 1"
+  },
+  {
+    "Question": "If a quadratic polynomial has roots x = 2 and x = -3, what is its factored form?",
+    "Option1": "(x - 2)(x + 3)",
+    "Option2": "(x + 2)(x - 3)",
+    "Option3": "(x - 2)(x - 3)",
+    "Option4": "(x + 2)(x + 3)",
+    "CorrectOption": "(x - 2)(x + 3)"
+  },
+  {
+    "Question": "What is the degree of the polynomial 2x^2 + 3x - 4?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "1",
+    "Option4": "4",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In the polynomial 4x^3 - 2x^2 + 6x - 1, what is the constant term?",
+    "Option1": "4",
+    "Option2": "-2",
+    "Option3": "6",
+    "Option4": "-1",
+    "CorrectOption": "-1"
+  },
+  {
+    "Question": "What is the product of the roots of the quadratic polynomial x^2 - 5x + 6?",
+    "Option1": "6",
+    "Option2": "5",
+    "Option3": "1",
+    "Option4": "-6",
+    "CorrectOption": "6"
+  },
+  {
+    "Question": "If a linear polynomial has a root x = -4, what is its factored form?",
+    "Option1": "(x - 4)",
+    "Option2": "(x + 4)",
+    "Option3": "(x - 4)^2",
+    "Option4": "(x + 4)^2",
+    "CorrectOption": "(x + 4)"
+  },
+  {
+    "Question": "What is the sum of the degrees of the terms in the polynomial 3x^2 + 2x - 5?",
+    "Option1": "6",
+    "Option2": "9",
+    "Option3": "1",
+    "Option4": "5",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "In the polynomial 7x^4 - 3x^2 + 2x - 1, what is the coefficient of the quadratic term?",
+    "Option1": "7",
+    "Option2": "-3",
+    "Option3": "2",
+    "Option4": "-1",
+    "CorrectOption": "-3"
+  },
+  {
+    "Question": "What is the leading term in the polynomial 2x^3 - 4x^2 + 7x + 1?",
+    "Option1": "2x^3",
+    "Option2": "-4x^2",
+    "Option3": "7x",
+    "Option4": "1",
+    "CorrectOption": "2x^3"
+  },
+  {
+    "Question": "In the polynomial 5x^2 - 2x + 8, what is the coefficient of the constant term?",
+    "Option1": "5",
+    "Option2": "-2",
+    "Option3": "8",
+    "Option4": "2",
+    "CorrectOption": "8"
+  },
+  {
+    "Question": "Which of the following is a linear polynomial?",
+    "Option1": "3x^2 + 2x + 1",
+    "Option2": "4x^3 - x^2 + 5",
+    "Option3": "2x - 7",
+    "Option4": "-3x + 1",
+    "CorrectOption": "2x - 7"
+  },
+  {
+    "Question": "If a cubic polynomial has roots x = -1, x = 2, and x = 3, what is its factored form?",
+    "Option1": "(x + 1)(x - 2)(x - 3)",
+    "Option2": "(x - 1)(x + 2)(x + 3)",
+    "Option3": "(x + 1)(x + 2)(x + 3)",
+    "Option4": "(x - 1)(x - 2)(x - 3)",
+    "CorrectOption": "(x + 1)(x - 2)(x - 3)"
+  },
+  {
+    "Question": "What is the degree of the polynomial -6x^5 + 4x^3 - 2x + 1?",
+    "Option1": "5",
+    "Option2": "3",
+    "Option3": "1",
+    "Option4": "6",
+    "CorrectOption": "5"
+  },
+  {
+    "Question": "In the polynomial 2x^2 - 5x + 3, what is the sum of the coefficients?",
+    "Option1": "0",
+    "Option2": "10",
+    "Option3": "5",
+    "Option4": "1",
+    "CorrectOption": "0"
+  },
+  {
+    "Question": "What is the constant term in the polynomial -3x^2 + 6x - 9?",
+    "Option1": "-3",
+    "Option2": "6",
+    "Option3": "-9",
+    "Option4": "9",
+    "CorrectOption": "-9"
+  },
+  {
+    "Question": "What is the product of the roots of the quadratic polynomial 2x^2 - 3x - 5?",
+    "Option1": "-5/2",
+    "Option2": "5/2",
+    "Option3": "1",
+    "Option4": "-1",
+    "CorrectOption": "-5/2"
+  },
+  {
+    "Question": "What is the degree of the polynomial -7x^4 + 3x^2 - 1?",
+    "Option1": "4",
+    "Option2": "2",
+    "Option3": "1",
+    "Option4": "7",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "In the polynomial 4x^3 - 2x^2 + 5x + 1, what is the coefficient of the constant term?",
+    "Option1": "4",
+    "Option2": "-2",
+    "Option3": "5",
+    "Option4": "1",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the leading term in the polynomial -3x^2 + 6x - 9?",
+    "Option1": "-3x^2",
+    "Option2": "6x",
+    "Option3": "-9",
+    "Option4": "9",
+    "CorrectOption": "-3x^2"
+  },
+  {
+    "Question": "In the polynomial 2x^4 + 3x^2 - 7, what is the sum of the coefficients?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "-7",
+    "Option4": "0",
+    "CorrectOption": "-2"
+  },
+  {
+    "Question": "Which of the following is a cubic polynomial?",
+    "Option1": "3x^2 + 2x + 1",
+    "Option2": "4x^3 - x^2 + 5",
+    "Option3": "2x - 7",
+    "Option4": "-3x + 1",
+    "CorrectOption": "4x^3 - x^2 + 5"
+  },
+  {
+    "Question": "If a quadratic polynomial has roots x = -2 and x = 5, what is its factored form?",
+    "Option1": "(x - 2)(x + 5)",
+    "Option2": "(x + 2)(x - 5)",
+    "Option3": "(x - 2)(x - 5)",
+    "Option4": "(x + 2)(x + 5)",
+    "CorrectOption": "(x + 2)(x - 5)"
+  },
+  {
+    "Question": "What is the degree of the polynomial 5x^2 - 3x + 1?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "1",
+    "Option4": "5",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In the polynomial -4x^3 + 2x^2 - 8x + 3, what is the coefficient of the linear term?",
+    "Option1": "-4",
+    "Option2": "2",
+    "Option3": "-8",
+    "Option4": "3",
+    "CorrectOption": "-8"
+  },
+  {
+    "Question": "What is the sum of the degrees of the terms in the polynomial 2x^2 + 4x - 6?",
+    "Option1": "8",
+    "Option2": "10",
+    "Option3": "2",
+    "Option4": "4",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "In the polynomial 3x^2 - 6x + 2, what is the coefficient of the quadratic term?",
+    "Option1": "3",
+    "Option2": "-6",
+    "Option3": "2",
+    "Option4": "6",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the value of the polynomial 2x^3 - 5x^2 + 3x - 1 when x = -2?",
+    "Option1": "7",
+    "Option2": "-13",
+    "Option3": "-23",
+    "Option4": "17",
+    "CorrectOption": "-23"
+  },
+  {
+    "Question": "In the polynomial -3x^4 + 2x^3 - 5x^2 + 7, what is the constant term?",
+    "Option1": "-3",
+    "Option2": "2",
+    "Option3": "-5",
+    "Option4": "7",
+    "CorrectOption": "7"
+  },
+  {
+    "Question": "What is the value of the polynomial x^3 - 4x^2 + 2x + 6 when x = 1?",
+    "Option1": "5",
+    "Option2": "3",
+    "Option3": "7",
+    "Option4": "5",
+    "CorrectOption": "5"
+  },
+  {
+    "Question": "In the polynomial 4x^5 - 2x^4 + 6x^3 - 1, what is the leading term?",
+    "Option1": "4x^5",
+    "Option2": "-2x^4",
+    "Option3": "6x^3",
+    "Option4": "-1",
+    "CorrectOption": "4x^5"
+  },
+  {
+    "Question": "Which of the following is a quartic polynomial?",
+    "Option1": "2x^3 - 5x^2 + 3x - 1",
+    "Option2": "4x^4 + x^3 - 5",
+    "Option3": "-7x + 4",
+    "Option4": "-2x^2 + 3",
+    "CorrectOption": "4x^4 + x^3 - 5"
+  },
+  {
+    "Question": "If a cubic polynomial has roots x = -1, x = 2, and x = 3, what is its constant term?",
+    "Option1": "-6",
+    "Option2": "24",
+    "Option3": "-18",
+    "Option4": "48",
+    "CorrectOption": "48"
+  },
+  {
+    "Question": "What is the value of the polynomial -2x^2 + 3x - 7 when x = 3?",
+    "Option1": "-20",
+    "Option2": "-29",
+    "Option3": "-2",
+    "Option4": "14",
+    "CorrectOption": "-20"
+  },
+  {
+    "Question": "In the polynomial 5x^2 - 2x + 1, what is the product of the roots?",
+    "Option1": "1/5",
+    "Option2": "1/2",
+    "Option3": "1",
+    "Option4": "-1",
+    "CorrectOption": "1/5"
+  },
+  {
+    "Question": "What is the value of the polynomial 3x^4 + 2x^3 - 6x^2 + 4x - 1 when x = -1?",
+    "Option1": "-6",
+    "Option2": "-8",
+    "Option3": "8",
+    "Option4": "6",
+    "CorrectOption": "6"
+  },
+  {
+    "Question": "In the polynomial -4x^3 + 2x^2 - 8x + 3, what is the coefficient of the quadratic term?",
+    "Option1": "-4",
+    "Option2": "2",
+    "Option3": "-8",
+    "Option4": "3",
+    "CorrectOption": "-8"
+  },
+  {
+    "Question": "What is the sum of the coefficients of the terms in the polynomial -2x^3 + 4x^2 - 6x + 1?",
+    "Option1": "0",
+    "Option2": "-3",
+    "Option3": "1",
+    "Option4": "-13",
+    "CorrectOption": "-3"
+  },
+  {
+    "Question": "In the polynomial 7x^5 - 3x^4 + 2x^3 - 5x^2 + 1, what is the leading coefficient?",
+    "Option1": "7",
+    "Option2": "-3",
+    "Option3": "2",
+    "Option4": "-5",
+    "CorrectOption": "7"
+  },
+  {
+    "Question": "What is the value of the polynomial 4x^2 - 2x + 5 when x = 0?",
+    "Option1": "4",
+    "Option2": "5",
+    "Option3": "-2",
+    "Option4": "0",
+    "CorrectOption": "5"
+  },
+  {
+    "Question": "In the polynomial -6x^4 + 2x^3 - 8x^2 + 3, what is the constant term?",
+    "Option1": "-6",
+    "Option2": "2",
+    "Option3": "-8",
+    "Option4": "3",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If a quadratic polynomial has roots x = 2 and x = -3, what is its constant term?",
+    "Option1": "6",
+    "Option2": "-5",
+    "Option3": "7",
+    "Option4": "-42",
+    "CorrectOption": "-42"
+  },
+  {
+    "Question": "What is the value of the polynomial 3x^2 + 2x - 5 when x = -1?",
+    "Option1": "-12",
+    "Option2": "6",
+    "Option3": "-8",
+    "Option4": "-6",
+    "CorrectOption": "-8"
+  },
+  {
+    "Question": "In the polynomial 6x^4 - 2x^3 + 8x^2 - 5, what is the coefficient of the linear term?",
+    "Option1": "6",
+    "Option2": "-2",
+    "Option3": "8",
+    "Option4": "-5",
+    "CorrectOption": "-5"
+  },
+  {
+    "Question": "In the polynomial 2x^2 - 5x + 3, what is the product of the roots?",
+    "Option1": "3/2",
+    "Option2": "3",
+    "Option3": "5/2",
+    "Option4": "2/3",
+    "CorrectOption": "3/2"
+  },
+  {
+    "Question": "What is the value of the polynomial -3x^3 + 2x^2 - 6x + 1 when x = -1?",
+    "Option1": "12",
+    "Option2": "8",
+    "Option3": "-4",
+    "Option4": "-10",
+    "CorrectOption": "-4"
+  },
+  {
+    "Question": "In the polynomial 5x^4 - 2x^3 + 6x^2 - 1, what is the coefficient of the constant term?",
+    "Option1": "5",
+    "Option2": "-2",
+    "Option3": "6",
+    "Option4": "-1",
+    "CorrectOption": "-1"
+  },
+  {
+    "Question": "What is the degree of the polynomial x^5 - 3x^3 + 2x - 4?",
+    "Option1": "5",
+    "Option2": "3",
+    "Option3": "1",
+    "Option4": "4",
+    "CorrectOption": "5"
+  },
+  {
+    "Question": "In the polynomial -4x^2 + 3x - 8, what is the sum of the coefficients?",
+    "Option1": "4",
+    "Option2": "10",
+    "Option3": "5",
+    "Option4": "-9",
+    "CorrectOption": "-9"
+  },
+  {
+    "Question": "If a quadratic polynomial has roots x = 2 and x = -5, what is its constant term?",
+    "Option1": "-10",
+    "Option2": "12",
+    "Option3": "8",
+    "Option4": "-20",
+    "CorrectOption": "-20"
+  },
+  {
+    "Question": "What is the value of the polynomial 2x^2 - 5x + 3 when x = 2?",
+    "Option1": "0",
+    "Option2": "-5",
+    "Option3": "7",
+    "Option4": "11",
+    "CorrectOption": "7"
+  },
+  {
+    "Question": "In the polynomial -6x^3 + 2x^2 - 8x + 3, what is the coefficient of the quadratic term?",
+    "Option1": "-6",
+    "Option2": "2",
+    "Option3": "-8",
+    "Option4": "3",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the sum of the degrees of the terms in the polynomial 4x^2 + 2x - 6?",
+    "Option1": "8",
+    "Option2": "10",
+    "Option3": "2",
+    "Option4": "4",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "In the polynomial -3x^2 + 6x - 9, what is the product of the coefficients?",
+    "Option1": "162",
+    "Option2": "-54",
+    "Option3": "54",
+    "Option4": "-162",
+    "CorrectOption": "-54"
+  },
+  {
+    "Question": "What is the value of the polynomial 3x^3 - 2x^2 + 4x - 1 when x = -3?",
+    "Option1": "16",
+    "Option2": "32",
+    "Option3": "-14",
+    "Option4": "-76",
+    "CorrectOption": "-76"
+  },
+  {
+    "Question": "In the polynomial 4x^5 - 2x^4 + 6x^3 - 1, what is the degree of the polynomial?",
+    "Option1": "5",
+    "Option2": "4",
+    "Option3": "3",
+    "Option4": "6",
+    "CorrectOption": "5"
+  },
+  {
+    "Question": "What is the value of the polynomial -2x^2 + 3x - 7 when x = 1?",
+    "Option1": "-6",
+    "Option2": "-8",
+    "Option3": "0",
+    "Option4": "12",
+    "CorrectOption": "-6"
+  },
+  {
+    "Question": "In the polynomial 5x^2 - 2x + 1, what is the sum of the coefficients?",
+    "Option1": "4",
+    "Option2": "5",
+    "Option3": "-2",
+    "Option4": "0",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which of the following is a quintic polynomial?",
+    "Option1": "3x^2 + 2x + 1",
+    "Option2": "4x^5 - x^2 + 5",
+    "Option3": "2x - 7",
+    "Option4": "-3x + 1",
+    "CorrectOption": "4x^5 - x^2 + 5"
+  },
+  {
+    "Question": "What is the value of the polynomial 4x^3 - 2x^2 + 5x - 3 when x = 3?",
+    "Option1": "88",
+    "Option2": "38",
+    "Option3": "52",
+    "Option4": "22",
+    "CorrectOption": "88"
+  },
+  {
+    "Question": "In the polynomial -5x^4 + 3x^3 - 2x^2 + 7x - 1, what is the coefficient of the linear term?",
+    "Option1": "-5",
+    "Option2": "3",
+    "Option3": "-2",
+    "Option4": "7",
+    "CorrectOption": "7"
+  },
+  {
+    "Question": "What is the degree of the polynomial 2x^4 - 5x^2 + 3?",
+    "Option1": "4",
+    "Option2": "2",
+    "Option3": "5",
+    "Option4": "3",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "In the polynomial 3x^3 + 2x^2 - 6x + 1, what is the product of the coefficients?",
+    "Option1": "36",
+    "Option2": "-36",
+    "Option3": "-12",
+    "Option4": "12",
+    "CorrectOption": "-36"
+  },
+  {
+    "Question": "Which of the following is a sextic polynomial?",
+    "Option1": "4x^6 + x^3 - 5",
+    "Option2": "-7x + 4",
+    "Option3": "-2x^2 + 3",
+    "Option4": "2x^4 - x^2 + 5",
+    "CorrectOption": "4x^6 + x^3 - 5"
+  },
+  {
+    "Question": "If a quartic polynomial has roots x = 1, x = -2, and x = 3, what is its constant term?",
+    "Option1": "12",
+    "Option2": "-10",
+    "Option3": "24",
+    "Option4": "-48",
+    "CorrectOption": "-48"
+  },
+  {
+    "Question": "What is the value of the polynomial -2x^2 + 4x - 1 when x = 0?",
+    "Option1": "-1",
+    "Option2": "1",
+    "Option3": "-2",
+    "Option4": "4",
+    "CorrectOption": "-1"
+  },
+  {
+    "Question": "In the polynomial 6x^4 - 3x^3 + 2x^2 - 5, what is the coefficient of the quadratic term?",
+    "Option1": "6",
+    "Option2": "-3",
+    "Option3": "2",
+    "Option4": "-5",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the sum of the coefficients of the terms in the polynomial -3x^2 + 5x - 2?",
+    "Option1": "0",
+    "Option2": "7",
+    "Option3": "-10",
+    "Option4": "3",
+    "CorrectOption": "0"
+  },
+  {
+    "Question": "In the polynomial 4x^3 - 2x^2 + 6x - 1, what is the leading coefficient?",
+    "Option1": "4",
+    "Option2": "-2",
+    "Option3": "6",
+    "Option4": "-1",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Find the remainder when the polynomial 2x^4 - 5x^3 + 3x^2 - 7x + 1 is divided by (x - 2).",
+    "Option1": "0",
+    "Option2": "8",
+    "Option3": "14",
+    "Option4": "3",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the coefficient of the x^2 term in the expansion of (3x - 2)^4?",
+    "Option1": "36",
+    "Option2": "18",
+    "Option3": "12",
+    "Option4": "9",
+    "CorrectOption": "12"
+  },
+  {
+    "Question": "If the roots of a quadratic polynomial are 3 and -5, what is the sum of the roots?",
+    "Option1": "-8",
+    "Option2": "-2",
+    "Option3": "8",
+    "Option4": "2",
+    "CorrectOption": "-8"
+  },
+  {
+    "Question": "In the polynomial 4x^3 - 3x^2 + 2x - 5, what is the value of the polynomial when x = -1?",
+    "Option1": "8",
+    "Option2": "-4",
+    "Option3": "-16",
+    "Option4": "0",
+    "CorrectOption": "-4"
+  },
+  {
+    "Question": "What is the degree of the product of a quadratic polynomial and a cubic polynomial?",
+    "Option1": "2",
+    "Option2": "5",
+    "Option3": "6",
+    "Option4": "8",
+    "CorrectOption": "5"
+  },
+  {
+    "Question": "If a polynomial is divided by (x - 3) and leaves a remainder of 7, what is the value of the polynomial when x = 3?",
+    "Option1": "0",
+    "Option2": "7",
+    "Option3": "3",
+    "Option4": "21",
+    "CorrectOption": "7"
+  },
+  {
+    "Question": "In the polynomial -2x^3 + 4x^2 - 6x + 1, what is the coefficient of the x term?",
+    "Option1": "2",
+    "Option2": "-6",
+    "Option3": "4",
+    "Option4": "-1",
+    "CorrectOption": "-6"
+  },
+  {
+    "Question": "What is the value of the polynomial 5x^2 - 2x + 3 when x = 1?",
+    "Option1": "6",
+    "Option2": "5",
+    "Option3": "0",
+    "Option4": "8",
+    "CorrectOption": "6"
+  },
+  {
+    "Question": "If a cubic polynomial has roots x = 2, x = -1, and x = 3, what is the product of the roots?",
+    "Option1": "6",
+    "Option2": "-6",
+    "Option3": "-2",
+    "Option4": "2",
+    "CorrectOption": "-6"
+  },
+  {
+    "Question": "Find the value of k if (2x - 3) is a factor of the polynomial 2x^2 - kx - 3.",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "-3",
+    "Option4": "-2",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the degree of the polynomial 3x^2 - 5x + 2?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "5",
+    "Option4": "6",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Solve the equation 2x - 7 = 3.",
+    "Option1": "x = 5",
+    "Option2": "x = -2",
+    "Option3": "x = 7",
+    "Option4": "x = 1",
+    "CorrectOption": "x = 5"
+  },
+  {
+    "Question": "Factorize the quadratic expression x^2 - 6x + 9.",
+    "Option1": "(x - 3)^2",
+    "Option2": "(x + 3)^2",
+    "Option3": "(x - 2)(x - 4)",
+    "Option4": "(x + 2)(x - 4)",
+    "CorrectOption": "(x - 3)^2"
+  },
+  {
+    "Question": "Find the sum of the roots of the equation 4x^2 - 8x + 3 = 0.",
+    "Option1": "1",
+    "Option2": "2",
+    "Option3": "4",
+    "Option4": "8",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a polynomial is divided by (x + 1) and leaves a remainder of 4, what is the value of the polynomial when x = -1?",
+    "Option1": "0",
+    "Option2": "4",
+    "Option3": "-4",
+    "Option4": "1",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Solve the system of linear equations: 3x - y = 5 and 2x + y = 7.",
+    "Option1": "x = 2, y = 1",
+    "Option2": "x = 1, y = 2",
+    "Option3": "x = 3, y = -2",
+    "Option4": "x = -2, y = 3",
+    "CorrectOption": "x = 2, y = 1"
+  },
+  {
+    "Question": "Find the value of k for which the system of equations 2x - y = 3 and kx + 2y = 7 has a unique solution.",
+    "Option1": "k = 2",
+    "Option2": "k = 3",
+    "Option3": "k = 4",
+    "Option4": "k = 5",
+    "CorrectOption": "k = 2"
+  },
+  {
+    "Question": "Factorize the quadratic expression 6x^2 - 13x + 6.",
+    "Option1": "(2x - 3)(3x - 2)",
+    "Option2": "(2x - 1)(3x - 6)",
+    "Option3": "(2x - 2)(3x - 3)",
+    "Option4": "(2x - 6)(3x - 1)",
+    "CorrectOption": "(2x - 3)(3x - 2)"
+  },
+  {
+    "Question": "Find the solution for the linear equation 4x + 5 = 2x - 3.",
+    "Option1": "x = -4",
+    "Option2": "x = 2",
+    "Option3": "x = 3",
+    "Option4": "x = -2",
+    "CorrectOption": "x = -2"
+  },
+  {
+    "Question": "Simplify the expression (2x^2 - 3)(x + 4).",
+    "Option1": "2x^3 + 5x^2 - 12x - 12",
+    "Option2": "2x^3 - 5x^2 + 12x - 12",
+    "Option3": "2x^3 - 5x^2 - 12x + 12",
+    "Option4": "2x^3 + 5x^2 + 12x + 12",
+    "CorrectOption": "2x^3 - 5x^2 - 12x + 12"
+  },
+  {
+    "Question": "Determine the roots of the quadratic equation 2x^2 - 7x + 3 = 0.",
+    "Option1": "x = 1/2, x = 3",
+    "Option2": "x = 2/3, x = 1",
+    "Option3": "x = 1/2, x = -3",
+    "Option4": "x = -2/3, x = -1",
+    "CorrectOption": "x = 1/2, x = 3"
+  },
+  {
+    "Question": "Solve the system of linear equations: 2x - y = 4 and 3x + 2y = 11.",
+    "Option1": "x = 3, y = -2",
+    "Option2": "x = 2, y = -1",
+    "Option3": "x = 1, y = 2",
+    "Option4": "x = -1, y = -3",
+    "CorrectOption": "x = 3, y = -2"
+  },
+  {
+    "Question": "Factorize the quadratic expression 5x^2 - 13x + 6.",
+    "Option1": "(5x - 3)(x - 2)",
+    "Option2": "(5x - 2)(x - 3)",
+    "Option3": "(5x + 2)(x - 3)",
+    "Option4": "(5x - 6)(x - 1)",
+    "CorrectOption": "(5x - 3)(x - 2)"
+  },
+  {
+    "Question": "Find the solution for the linear equation 3(x - 2) = 2(4 - x).",
+    "Option1": "x = 2",
+    "Option2": "x = 3",
+    "Option3": "x = -2",
+    "Option4": "x = -1",
+    "CorrectOption": "x = 2"
+  },
+  {
+    "Question": "Simplify the expression (2x^2 - 3)(x^2 + 4).",
+    "Option1": "2x^4 - 5x^2 - 12",
+    "Option2": "2x^4 + 5x^2 - 12",
+    "Option3": "2x^4 - 5x^2 + 12",
+    "Option4": "2x^4 + 5x^2 + 12",
+    "CorrectOption": "2x^4 - 5x^2 + 12"
+  },
+  {
+    "Question": "Find the value of k for which the equation (2x - 1)(kx + 2) = 0 has no solution.",
+    "Option1": "k = -2",
+    "Option2": "k = 1/2",
+    "Option3": "k = 2",
+    "Option4": "k = -1",
+    "CorrectOption": "k = -1"
+  },
+  {
+    "Question": "What are the roots of the quadratic equation 4x^2 - 8x + 4 = 0?",
+    "Option1": "x = 2",
+    "Option2": "x = 4",
+    "Option3": "x = 1",
+    "Option4": "x = 3",
+    "CorrectOption": "x = 2"
+  },
+  {
+    "Question": "If the quadratic expression ax^2 + bx + c has roots p and q, what is the sum of the roots?",
+    "Option1": "p + q = -b/a",
+    "Option2": "p + q = b/a",
+    "Option3": "p + q = c/a",
+    "Option4": "p + q = -c/a",
+    "CorrectOption": "p + q = -b/a"
+  },
+  {
+    "Question": "Factorize the expression x^3 - 8.",
+    "Option1": "(x - 2)(x^2 + 2x + 4)",
+    "Option2": "(x + 2)(x^2 - 2x + 4)",
+    "Option3": "(x - 2)(x^2 - 2x + 4)",
+    "Option4": "(x + 2)(x^2 + 2x + 4)",
+    "CorrectOption": "(x - 2)(x^2 + 2x + 4)"
+  },
+  {
+    "Question": "Solve the equation (3x - 1)(2x + 5) = 0.",
+    "Option1": "x = 1/3",
+    "Option2": "x = -5/2",
+    "Option3": "x = 1",
+    "Option4": "x = -5",
+    "CorrectOption": "x = 1/3, x = -5/2"
+  },
+  {
+    "Question": "If the quadratic expression ax^2 + bx + c has roots p and q, what is the product of the roots?",
+    "Option1": "pq = c/a",
+    "Option2": "pq = -c/a",
+    "Option3": "pq = b/a",
+    "Option4": "pq = -b/a",
+    "CorrectOption": "pq = c/a"
+  },
+  {
+    "Question": "Solve the system of linear equations: 3x + 2y = 8 and 2x - y = 4.",
+    "Option1": "x = 2, y = 1",
+    "Option2": "x = 3, y = -1",
+    "Option3": "x = 1, y = 2",
+    "Option4": "x = -1, y = -2",
+    "CorrectOption": "x = 2, y = 1"
+  },
+  {
+    "Question": "Factorize the quadratic expression 6x^2 - 11x + 4.",
+    "Option1": "(2x - 1)(3x - 4)",
+    "Option2": "(2x - 4)(3x - 1)",
+    "Option3": "(2x - 2)(3x - 2)",
+    "Option4": "(2x + 1)(3x - 4)",
+    "CorrectOption": "(2x - 1)(3x - 4)"
+  },
+  {
+    "Question": "Find the value of x in the equation (x + 3)(x - 2) = 0.",
+    "Option1": "x = -3",
+    "Option2": "x = 2",
+    "Option3": "x = 3",
+    "Option4": "x = -2",
+    "CorrectOption": "x = -3, x = 2"
+  },
+  {
+    "Question": "If the roots of the quadratic equation 2x^2 - 5x - 3 = 0 are p and q, what is the value of p^2 + q^2?",
+    "Option1": "10/3",
+    "Option2": "25/4",
+    "Option3": "8/3",
+    "Option4": "17/2",
+    "CorrectOption": "10/3"
+  },
+  {
+    "Question": "Solve the system of linear equations: 4x - 3y = 5 and 2x + y = 7.",
+    "Option1": "x = 2, y = 1",
+    "Option2": "x = 1, y = 2",
+    "Option3": "x = 3, y = -2",
+    "Option4": "x = -2, y = 3",
+    "CorrectOption": "x = 2, y = 1"
+  },
+  {
+    "Question": "Factorize the quadratic expression 9x^2 - 12x + 4.",
+    "Option1": "(3x - 2)^2",
+    "Option2": "(3x + 2)^2",
+    "Option3": "(3x - 4)(3x - 1)",
+    "Option4": "(3x + 4)(3x - 1)",
+    "CorrectOption": "(3x - 2)^2"
+  },
+  {
+    "Question": "Find the solution for the linear equation 2(3x - 1) = 3(2x + 4).",
+    "Option1": "x = 5",
+    "Option2": "x = -3",
+    "Option3": "x = 2",
+    "Option4": "x = 1",
+    "CorrectOption": "x = 5"
+  },
+  {
+    "Question": "Simplify the expression (x - 2)^3.",
+    "Option1": "x^3 - 2^3",
+    "Option2": "x^3 - 6x^2 + 12x - 8",
+    "Option3": "x^3 - 6x^2 + 12x - 4",
+    "Option4": "x^3 - 2",
+    "CorrectOption": "x^3 - 6x^2 + 12x - 8"
+  },
+  {
+    "Question": "Find the value of k for which the equation (4x - 3)(kx + 5) = 0 has equal roots.",
+    "Option1": "k = 3/5",
+    "Option2": "k = -5/4",
+    "Option3": "k = 3",
+    "Option4": "k = -3",
+    "CorrectOption": "k = -5/4"
+  }
+]

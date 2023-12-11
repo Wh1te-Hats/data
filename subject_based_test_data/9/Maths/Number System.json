@@ -1,0 +1,762 @@
+[
+  {
+    "Question": "Which of the following is not a rational number?",
+    "Option1": "2",
+    "Option2": "\u00e2\u02c6\u01613",
+    "Option3": "0.75",
+    "Option4": "-4",
+    "CorrectOption": "\u00e2\u02c6\u01613"
+  },
+  {
+    "Question": "What is the result of multiplying an irrational number by a rational number?",
+    "Option1": "Irrational Number",
+    "Option2": "Rational Number",
+    "Option3": "Zero",
+    "Option4": "Undefined",
+    "CorrectOption": "Irrational Number"
+  },
+  {
+    "Question": "Which of the following is a prime number?",
+    "Option1": "12",
+    "Option2": "15",
+    "Option3": "17",
+    "Option4": "21",
+    "CorrectOption": "17"
+  },
+  {
+    "Question": "What is the smallest prime number?",
+    "Option1": "1",
+    "Option2": "2",
+    "Option3": "3",
+    "Option4": "0",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "If a and b are rational numbers, then a + b is always:",
+    "Option1": "Irrational",
+    "Option2": "Rational",
+    "Option3": "Undefined",
+    "Option4": "Zero",
+    "CorrectOption": "Rational"
+  },
+  {
+    "Question": "What is the square root of 64?",
+    "Option1": "8",
+    "Option2": "6",
+    "Option3": "4",
+    "Option4": "2",
+    "CorrectOption": "8"
+  },
+  {
+    "Question": "Which of the following is a composite number?",
+    "Option1": "5",
+    "Option2": "11",
+    "Option3": "15",
+    "Option4": "13",
+    "CorrectOption": "15"
+  },
+  {
+    "Question": "If x is an irrational number, what is the value of x - x?",
+    "Option1": "Undefined",
+    "Option2": "Irrational",
+    "Option3": "Zero",
+    "Option4": "Rational",
+    "CorrectOption": "Zero"
+  },
+  {
+    "Question": "What is the decimal representation of the fraction 3/4?",
+    "Option1": "0.25",
+    "Option2": "0.5",
+    "Option3": "0.75",
+    "Option4": "1.25",
+    "CorrectOption": "0.75"
+  },
+  {
+    "Question": "Which of the following is not a real number?",
+    "Option1": "0",
+    "Option2": "\u00e2\u02c6\u0161(-1)",
+    "Option3": "3.14",
+    "Option4": "1/2",
+    "CorrectOption": "\u00e2\u02c6\u0161(-1)"
+  },
+  {
+    "Question": "What is the additive inverse of -7?",
+    "Option1": "7",
+    "Option2": "-7",
+    "Option3": "-1/7",
+    "Option4": "1/7",
+    "CorrectOption": "7"
+  },
+  {
+    "Question": "What is the result of dividing a rational number by zero?",
+    "Option1": "Undefined",
+    "Option2": "Zero",
+    "Option3": "Infinity",
+    "Option4": "One",
+    "CorrectOption": "Undefined"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of x * 0?",
+    "Option1": "Undefined",
+    "Option2": "0",
+    "Option3": "1",
+    "Option4": "x",
+    "CorrectOption": "0"
+  },
+  {
+    "Question": "What is the product of two irrational numbers?",
+    "Option1": "Irrational Number",
+    "Option2": "Rational Number",
+    "Option3": "Undefined",
+    "Option4": "Zero",
+    "CorrectOption": "Irrational Number"
+  },
+  {
+    "Question": "Which of the following is a natural number?",
+    "Option1": "-3",
+    "Option2": "0",
+    "Option3": "1",
+    "Option4": "\u00e2\u02c6\u01612",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of x/1?",
+    "Option1": "Undefined",
+    "Option2": "x",
+    "Option3": "1",
+    "Option4": "Rational",
+    "CorrectOption": "x"
+  },
+  {
+    "Question": "If the sum of two rational numbers is 3/4 and one of the numbers is 1/6, what is the other number?",
+    "Option1": "1/2",
+    "Option2": "2/3",
+    "Option3": "1/12",
+    "Option4": "5/6",
+    "CorrectOption": "5/6"
+  },
+  {
+    "Question": "If a = 3/5 and b = 7/10, what is the product of a and b?",
+    "Option1": "2/3",
+    "Option2": "3/5",
+    "Option3": "1/2",
+    "Option4": "21/50",
+    "CorrectOption": "21/50"
+  },
+  {
+    "Question": "If x = 2/3 and y = 5/6, what is the value of (x + y) / (x - y)?",
+    "Option1": "-11/13",
+    "Option2": "11/13",
+    "Option3": "-1",
+    "Option4": "1",
+    "CorrectOption": "11/13"
+  },
+  {
+    "Question": "If the difference of two rational numbers is 1/8 and one of the numbers is 3/4, what is the other number?",
+    "Option1": "1/2",
+    "Option2": "5/8",
+    "Option3": "7/8",
+    "Option4": "2/3",
+    "CorrectOption": "7/8"
+  },
+  {
+    "Question": "If p = 2/3 and q = 5/6, what is the value of (p * q) / (p + q)?",
+    "Option1": "5/12",
+    "Option2": "4/5",
+    "Option3": "3/5",
+    "Option4": "1/2",
+    "CorrectOption": "5/12"
+  },
+  {
+    "Question": "If x = 1/2 and y = 3/4, what is the value of (x - y) / (x + y)?",
+    "Option1": "-1/5",
+    "Option2": "1/5",
+    "Option3": "1/3",
+    "Option4": "-1/3",
+    "CorrectOption": "-1/5"
+  },
+  {
+    "Question": "If the product of two rational numbers is 2/15 and one of the numbers is 3/2, what is the other number?",
+    "Option1": "1/5",
+    "Option2": "4/5",
+    "Option3": "1/10",
+    "Option4": "1/3",
+    "CorrectOption": "1/10"
+  },
+  {
+    "Question": "If a = 5/6 and b = 7/8, what is the value of (a * b) / (a - b)?",
+    "Option1": "35/6",
+    "Option2": "5/48",
+    "Option3": "7/48",
+    "Option4": "35/48",
+    "CorrectOption": "35/6"
+  },
+  {
+    "Question": "If x = 2/3 and y = 4/5, what is the value of (x * y) / (x - y)?",
+    "Option1": "8/3",
+    "Option2": "2/5",
+    "Option3": "8/5",
+    "Option4": "2/3",
+    "CorrectOption": "8/5"
+  },
+  {
+    "Question": "If p = 3/4 and q = 5/6, what is the value of (p + q) / (p * q)?",
+    "Option1": "34/35",
+    "Option2": "10/17",
+    "Option3": "17/10",
+    "Option4": "35/34",
+    "CorrectOption": "34/35"
+  },
+  {
+    "Question": "If the sum of two rational numbers is 5/6 and one of the numbers is 1/3, what is the other number?",
+    "Option1": "2/3",
+    "Option2": "1/6",
+    "Option3": "3/4",
+    "Option4": "2/5",
+    "CorrectOption": "2/3"
+  },
+  {
+    "Question": "If a = 2/3 and b = 4/5, what is the value of (a - b) / (a + b)?",
+    "Option1": "-1/4",
+    "Option2": "1/4",
+    "Option3": "1/2",
+    "Option4": "-1/2",
+    "CorrectOption": "-1/4"
+  },
+  {
+    "Question": "If x = 3/4 and y = 5/6, what is the value of (x * y) / (x + y)?",
+    "Option1": "5/11",
+    "Option2": "11/5",
+    "Option3": "3/5",
+    "Option4": "5/3",
+    "CorrectOption": "5/11"
+  },
+  {
+    "Question": "If the difference of two rational numbers is 1/3 and one of the numbers is 5/6, what is the other number?",
+    "Option1": "1/6",
+    "Option2": "2/3",
+    "Option3": "3/4",
+    "Option4": "2/5",
+    "CorrectOption": "2/3"
+  },
+  {
+    "Question": "If p = 1/2 and q = 3/4, what is the value of (p * q) / (p - q)?",
+    "Option1": "3/2",
+    "Option2": "1/4",
+    "Option3": "3/4",
+    "Option4": "1/2",
+    "CorrectOption": "3/2"
+  },
+  {
+    "Question": "Which of the following is an irrational number?",
+    "Option1": "0.25",
+    "Option2": "\u00e2\u02c6\u01612",
+    "Option3": "3/4",
+    "Option4": "-5",
+    "CorrectOption": "\u00e2\u02c6\u01612"
+  },
+  {
+    "Question": "What is the decimal representation of the fraction 5/8?",
+    "Option1": "0.625",
+    "Option2": "0.5",
+    "Option3": "0.75",
+    "Option4": "0.8",
+    "CorrectOption": "0.625"
+  },
+  {
+    "Question": "If x is an irrational number, what is the value of x + x?",
+    "Option1": "Undefined",
+    "Option2": "2x",
+    "Option3": "2\u00e2\u02c6\u0161x",
+    "Option4": "2",
+    "CorrectOption": "2x"
+  },
+  {
+    "Question": "What is the additive inverse of -1/3?",
+    "Option1": "1/3",
+    "Option2": "-1/3",
+    "Option3": "-3",
+    "Option4": "3",
+    "CorrectOption": "1/3"
+  },
+  {
+    "Question": "If a = 3/4 and b = -2/3, what is the value of (a * b) / (a - b)?",
+    "Option1": "-1/5",
+    "Option2": "5/18",
+    "Option3": "1/6",
+    "Option4": "-5/18",
+    "CorrectOption": "5/18"
+  },
+  {
+    "Question": "What is the square root of 121?",
+    "Option1": "10",
+    "Option2": "11",
+    "Option3": "12",
+    "Option4": "13",
+    "CorrectOption": "11"
+  },
+  {
+    "Question": "If x is an irrational number, what is the value of x^2?",
+    "Option1": "Undefined",
+    "Option2": "2x",
+    "Option3": "x^2",
+    "Option4": "2",
+    "CorrectOption": "x^2"
+  },
+  {
+    "Question": "If p = 2/3 and q = \u00e2\u02c6\u01615, what is the value of p * q?",
+    "Option1": "2\u00e2\u02c6\u01615/3",
+    "Option2": "2/3\u00e2\u02c6\u01615",
+    "Option3": "\u00e2\u02c6\u01615/3",
+    "Option4": "2\u00e2\u02c6\u01615/9",
+    "CorrectOption": "2\u00e2\u02c6\u01615/3"
+  },
+  {
+    "Question": "If the sum of two irrational numbers is irrational, what can you conclude about their product?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It can be either rational or irrational"
+  },
+  {
+    "Question": "What is the result of dividing an irrational number by a rational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It can be either rational or irrational"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of \u00e2\u02c6\u0161x?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "What is the square root of 1?",
+    "Option1": "1",
+    "Option2": "-1",
+    "Option3": "0",
+    "Option4": "Undefined",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a = -3/4 and b = 5/6, what is the value of |a - b|?",
+    "Option1": "7/12",
+    "Option2": "1/12",
+    "Option3": "1/3",
+    "Option4": "7/6",
+    "CorrectOption": "7/12"
+  },
+  {
+    "Question": "If x is an irrational number, what is the value of 1/x?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "What is the product of two rational numbers?",
+    "Option1": "Irrational Number",
+    "Option2": "Rational Number",
+    "Option3": "Undefined",
+    "Option4": "Zero",
+    "CorrectOption": "Rational Number"
+  },
+  {
+    "Question": "If p = 3/5 and q = 2/3, what is the value of (p/q) + (q/p)?",
+    "Option1": "29/15",
+    "Option2": "15/29",
+    "Option3": "5/6",
+    "Option4": "6/5",
+    "CorrectOption": "29/15"
+  },
+  {
+    "Question": "What is the result of adding an irrational number and a rational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It can be either rational or irrational"
+  },
+  {
+    "Question": "If x is an irrational number, what is the value of x^3?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "What is the additive inverse of 3/4?",
+    "Option1": "-3/4",
+    "Option2": "3/4",
+    "Option3": "4/3",
+    "Option4": "-4/3",
+    "CorrectOption": "-3/4"
+  },
+  {
+    "Question": "If a = 5/6 and b = -2/3, what is the value of |a + b|?",
+    "Option1": "1/6",
+    "Option2": "2/3",
+    "Option3": "7/6",
+    "Option4": "5/6",
+    "CorrectOption": "7/6"
+  },
+  {
+    "Question": "If x is an irrational number, what is the value of \u00e2\u02c6\u0161(x^2)?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "What is the result of subtracting an irrational number from a rational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It can be either rational or irrational"
+  },
+  {
+    "Question": "If p = -2/3 and q = 3/4, what is the value of (p * q) / (p + q)?",
+    "Option1": "-3/10",
+    "Option2": "3/10",
+    "Option3": "-1/2",
+    "Option4": "1/2",
+    "CorrectOption": "-3/10"
+  },
+  {
+    "Question": "What is the result of multiplying an irrational number and a rational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of x^0?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is always zero"
+  },
+  {
+    "Question": "What is the additive inverse of -5/6?",
+    "Option1": "5/6",
+    "Option2": "-5/6",
+    "Option3": "-6/5",
+    "Option4": "6/5",
+    "CorrectOption": "5/6"
+  },
+  {
+    "Question": "If a = 3/4 and b = 2/3, what is the value of (a * b) / (a + b)?",
+    "Option1": "3/14",
+    "Option2": "14/3",
+    "Option3": "1/2",
+    "Option4": "2/7",
+    "CorrectOption": "3/14"
+  },
+  {
+    "Question": "What is the square root of 144?",
+    "Option1": "10",
+    "Option2": "12",
+    "Option3": "14",
+    "Option4": "16",
+    "CorrectOption": "12"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of x^(-1)?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is rational"
+  },
+  {
+    "Question": "What is the result of dividing a rational number by an irrational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "If p = 1/2 and q = 3/4, what is the value of (p/q) * (q/p)?",
+    "Option1": "3/8",
+    "Option2": "1/2",
+    "Option3": "2/3",
+    "Option4": "4/9",
+    "CorrectOption": "1/2"
+  },
+  {
+    "Question": "What is the additive inverse of 7/8?",
+    "Option1": "8/7",
+    "Option2": "-7/8",
+    "Option3": "-8/7",
+    "Option4": "7/8",
+    "CorrectOption": "-7/8"
+  },
+  {
+    "Question": "If a = -2/3 and b = 4/5, what is the value of |a - b|?",
+    "Option1": "7/15",
+    "Option2": "1/15",
+    "Option3": "1/3",
+    "Option4": "7/3",
+    "CorrectOption": "7/15"
+  },
+  {
+    "Question": "What is the square root of 169?",
+    "Option1": "10",
+    "Option2": "12",
+    "Option3": "13",
+    "Option4": "14",
+    "CorrectOption": "13"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of 1/x?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is rational"
+  },
+  {
+    "Question": "What is the product of an irrational number and an irrational number?",
+    "Option1": "Irrational Number",
+    "Option2": "Rational Number",
+    "Option3": "Undefined",
+    "Option4": "Zero",
+    "CorrectOption": "Irrational Number"
+  },
+  {
+    "Question": "If p = 3/5 and q = -2/3, what is the value of (p * q) / (p + q)?",
+    "Option1": "2/7",
+    "Option2": "-2/7",
+    "Option3": "-3/7",
+    "Option4": "3/7",
+    "CorrectOption": "-2/7"
+  },
+  {
+    "Question": "What is the result of multiplying a rational number and an irrational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of x^2?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is rational"
+  },
+  {
+    "Question": "What is the additive inverse of 2/3?",
+    "Option1": "3/2",
+    "Option2": "-2/3",
+    "Option3": "-3/2",
+    "Option4": "2/3",
+    "CorrectOption": "-2/3"
+  },
+  {
+    "Question": "If a = -5/6 and b = 3/4, what is the value of |a + b|?",
+    "Option1": "7/12",
+    "Option2": "1/12",
+    "Option3": "1/3",
+    "Option4": "7/6",
+    "CorrectOption": "7/6"
+  },
+  {
+    "Question": "What is the result of dividing an irrational number by an irrational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It can be either rational or irrational"
+  },
+  {
+    "Question": "If p = 1/2 and q = -3/4, what is the value of (p/q) + (q/p)?",
+    "Option1": "1/2",
+    "Option2": "-1/2",
+    "Option3": "5/6",
+    "Option4": "-5/6",
+    "CorrectOption": "-5/6"
+  },
+  {
+    "Question": "What is the square root of 196?",
+    "Option1": "10",
+    "Option2": "12",
+    "Option3": "14",
+    "Option4": "16",
+    "CorrectOption": "14"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of |x|?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is rational"
+  },
+  {
+    "Question": "What is the product of a rational number and an irrational number?",
+    "Option1": "Irrational Number",
+    "Option2": "Rational Number",
+    "Option3": "Undefined",
+    "Option4": "Zero",
+    "CorrectOption": "Irrational Number"
+  },
+  {
+    "Question": "If p = 3/5 and q = 2/3, what is the value of (p/q) * (q/p)?",
+    "Option1": "3/8",
+    "Option2": "1/2",
+    "Option3": "2/3",
+    "Option4": "4/9",
+    "CorrectOption": "1/2"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of x^(1/2)?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It can be either rational or irrational"
+  },
+  {
+    "Question": "If a = 2/3 and b = -4/5, what is the value of |a - b|?",
+    "Option1": "7/15",
+    "Option2": "1/15",
+    "Option3": "1/3",
+    "Option4": "7/3",
+    "CorrectOption": "7/15"
+  },
+  {
+    "Question": "What is the square root of 225?",
+    "Option1": "10",
+    "Option2": "12",
+    "Option3": "15",
+    "Option4": "18",
+    "CorrectOption": "15"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of x^(-2)?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is rational"
+  },
+  {
+    "Question": "If p = 1/2 and q = 3/4, what is the value of (p/q) - (q/p)?",
+    "Option1": "1/3",
+    "Option2": "3/2",
+    "Option3": "-1/2",
+    "Option4": "-3/4",
+    "CorrectOption": "3/2"
+  },
+  {
+    "Question": "What is the additive inverse of 4/7?",
+    "Option1": "7/4",
+    "Option2": "-4/7",
+    "Option3": "-7/4",
+    "Option4": "4/7",
+    "CorrectOption": "-4/7"
+  },
+  {
+    "Question": "If x is a rational number, what is the value of |x^2|?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is rational"
+  },
+  {
+    "Question": "What is the square root of 2 to 10 decimal places?",
+    "Option1": "1.4142135624",
+    "Option2": "1.7320508076",
+    "Option3": "2.2360679775",
+    "Option4": "3.1415926536",
+    "CorrectOption": "1.4142135624"
+  },
+  {
+    "Question": "If x is an irrational number, what is the value of \u00e2\u02c6\u0161(x^3)?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "What is the result of multiplying an irrational number and an irrational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "If a = -3/5 and b = 4/7, what is the value of |a - b|?",
+    "Option1": "11/35",
+    "Option2": "1/35",
+    "Option3": "3/5",
+    "Option4": "7/5",
+    "CorrectOption": "11/35"
+  },
+  {
+    "Question": "What is the result of adding an irrational number and an irrational number?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It can be either rational or irrational"
+  },
+  {
+    "Question": "If p = -1/3 and q = 2/5, what is the value of (p * q) / (p - q)?",
+    "Option1": "3/13",
+    "Option2": "-3/13",
+    "Option3": "13/3",
+    "Option4": "-13/3",
+    "CorrectOption": "-3/13"
+  },
+  {
+    "Question": "What is the square root of 3 to 10 decimal places?",
+    "Option1": "1.7320508076",
+    "Option2": "2.2360679775",
+    "Option3": "3.3166247904",
+    "Option4": "4.4721359550",
+    "CorrectOption": "1.7320508076"
+  },
+  {
+    "Question": "If x is an irrational number, what is the value of \u00e2\u02c6\u0161(x^2 + 1)?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "It can be either rational or irrational",
+    "Option4": "It is always zero",
+    "CorrectOption": "It is irrational"
+  },
+  {
+    "Question": "What is the result of dividing an irrational number by zero?",
+    "Option1": "It is rational",
+    "Option2": "It is irrational",
+    "Option3": "Undefined",
+    "Option4": "It is always zero",
+    "CorrectOption": "Undefined"
+  },
+  {
+    "Question": "If p = 1/2 and q = -3/4, what is the value of (p/q) * (q/p)?",
+    "Option1": "-1/2",
+    "Option2": "1/2",
+    "Option3": "-3/8",
+    "Option4": "3/8",
+    "CorrectOption": "-3/8"
+  }
+]

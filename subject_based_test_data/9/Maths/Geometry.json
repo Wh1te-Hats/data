@@ -1,0 +1,866 @@
+[
+  {
+    "Question": "What is the fundamental concept of geometry?",
+    "Option1": "Lines",
+    "Option2": "Points",
+    "Option3": "Shapes",
+    "Option4": "Angles",
+    "CorrectOption": "Points"
+  },
+  {
+    "Question": "Which ancient mathematician is known as the 'Father of Geometry'?",
+    "Option1": "Euclid",
+    "Option2": "Pythagoras",
+    "Option3": "Archimedes",
+    "Option4": "Thales",
+    "CorrectOption": "Euclid"
+  },
+  {
+    "Question": "What is the sum of the interior angles of a triangle?",
+    "Option1": "90 degrees",
+    "Option2": "120 degrees",
+    "Option3": "180 degrees",
+    "Option4": "360 degrees",
+    "CorrectOption": "180 degrees"
+  },
+  {
+    "Question": "In geometry, what is a point?",
+    "Option1": "A straight path that extends infinitely",
+    "Option2": "An exact location in space",
+    "Option3": "A closed figure with three sides",
+    "Option4": "A combination of angles",
+    "CorrectOption": "An exact location in space"
+  },
+  {
+    "Question": "What is a line in geometry?",
+    "Option1": "A set of points extending infinitely in both directions",
+    "Option2": "A closed figure with four sides",
+    "Option3": "A shape with no sides",
+    "Option4": "An exact location in space",
+    "CorrectOption": "A set of points extending infinitely in both directions"
+  },
+  {
+    "Question": "What is the angle sum property of a triangle?",
+    "Option1": "90 degrees",
+    "Option2": "120 degrees",
+    "Option3": "180 degrees",
+    "Option4": "360 degrees",
+    "CorrectOption": "180 degrees"
+  },
+  {
+    "Question": "What is the name of two angles whose sum is 90 degrees?",
+    "Option1": "Complementary angles",
+    "Option2": "Supplementary angles",
+    "Option3": "Vertical angles",
+    "Option4": "Adjacent angles",
+    "CorrectOption": "Complementary angles"
+  },
+  {
+    "Question": "If two lines are perpendicular, what is the measure of each angle formed?",
+    "Option1": "45 degrees",
+    "Option2": "60 degrees",
+    "Option3": "90 degrees",
+    "Option4": "180 degrees",
+    "CorrectOption": "90 degrees"
+  },
+  {
+    "Question": "What is the sum of interior angles in a hexagon?",
+    "Option1": "720 degrees",
+    "Option2": "540 degrees",
+    "Option3": "360 degrees",
+    "Option4": "180 degrees",
+    "CorrectOption": "720 degrees"
+  },
+  {
+    "Question": "What do you call two angles whose sum is 180 degrees?",
+    "Option1": "Complementary angles",
+    "Option2": "Supplementary angles",
+    "Option3": "Vertical angles",
+    "Option4": "Adjacent angles",
+    "CorrectOption": "Supplementary angles"
+  },
+  {
+    "Question": "What is the Pythagorean Theorem?",
+    "Option1": "a^2 = b^2 + c^2",
+    "Option2": "a^2 = b^2 - c^2",
+    "Option3": "a^2 + b^2 = c^2",
+    "Option4": "a^2 - b^2 = c^2",
+    "CorrectOption": "a^2 + b^2 = c^2"
+  },
+  {
+    "Question": "In an equilateral triangle, what is the measure of each angle?",
+    "Option1": "30 degrees",
+    "Option2": "45 degrees",
+    "Option3": "60 degrees",
+    "Option4": "90 degrees",
+    "CorrectOption": "60 degrees"
+  },
+  {
+    "Question": "What is the name for a triangle with all sides of different lengths?",
+    "Option1": "Equilateral triangle",
+    "Option2": "Isosceles triangle",
+    "Option3": "Scalene triangle",
+    "Option4": "Right-angled triangle",
+    "CorrectOption": "Scalene triangle"
+  },
+  {
+    "Question": "What is the exterior angle of a triangle equal to?",
+    "Option1": "Sum of its interior angles",
+    "Option2": "Difference of its interior angles",
+    "Option3": "Product of its interior angles",
+    "Option4": "Quotient of its interior angles",
+    "CorrectOption": "Sum of its interior angles"
+  },
+  {
+    "Question": "In a right-angled triangle, what is the side opposite the right angle called?",
+    "Option1": "Hypotenuse",
+    "Option2": "Adjacent side",
+    "Option3": "Opposite side",
+    "Option4": "Base",
+    "CorrectOption": "Hypotenuse"
+  },
+  {
+    "Question": "What is the sum of interior angles in a quadrilateral?",
+    "Option1": "90 degrees",
+    "Option2": "120 degrees",
+    "Option3": "180 degrees",
+    "Option4": "360 degrees",
+    "CorrectOption": "360 degrees"
+  },
+  {
+    "Question": "What is the name of a quadrilateral with opposite sides parallel and equal in length?",
+    "Option1": "Square",
+    "Option2": "Rectangle",
+    "Option3": "Rhombus",
+    "Option4": "Parallelogram",
+    "CorrectOption": "Parallelogram"
+  },
+  {
+    "Question": "In a rectangle, what is the measure of each interior angle?",
+    "Option1": "90 degrees",
+    "Option2": "120 degrees",
+    "Option3": "180 degrees",
+    "Option4": "360 degrees",
+    "CorrectOption": "90 degrees"
+  },
+  {
+    "Question": "What is the name of a quadrilateral with all sides and angles equal?",
+    "Option1": "Square",
+    "Option2": "Rectangle",
+    "Option3": "Rhombus",
+    "Option4": "Parallelogram",
+    "CorrectOption": "Square"
+  },
+  {
+    "Question": "If a quadrilateral has one pair of parallel sides, what is it called?",
+    "Option1": "Square",
+    "Option2": "Rectangle",
+    "Option3": "Trapezium",
+    "Option4": "Rhombus",
+    "CorrectOption": "Trapezium"
+  },
+  {
+    "Question": "What is the relationship between the radius and diameter of a circle?",
+    "Option1": "Radius = Diameter",
+    "Option2": "Radius = 2 * Diameter",
+    "Option3": "Radius = 0.5 * Diameter",
+    "Option4": "Radius = 3 * Diameter",
+    "CorrectOption": "Radius = 0.5 * Diameter"
+  },
+  {
+    "Question": "What is the formula to find the circumference of a circle?What is the formula to find the circumference of a circle?",
+    "Option1": "C = \u00cf\u20ac * r",
+    "Option2": "C = 2 * \u00cf\u20ac * r",
+    "Option3": "C = \u00cf\u20ac * d",
+    "Option4": "C = 2 * \u00cf\u20ac * d",
+    "CorrectOption": "C = 2 * \u00cf\u20ac * r"
+  },
+  {
+    "Question": "What is the measure of a central angle in a circle?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "Variable"
+  },
+  {
+    "Question": "What is the name of a line segment that connects two points on a circle?",
+    "Option1": "Radius",
+    "Option2": "Diameter",
+    "Option3": "Chord",
+    "Option4": "Tangent",
+    "CorrectOption": "Chord"
+  },
+  {
+    "Question": "Inscribed angles that intercept the same arc are always equal. What is this property called?",
+    "Option1": "Angle Sum Property",
+    "Option2": "Arc Addition Property",
+    "Option3": "Equal Angle Property",
+    "Option4": "Angle Bisector Property",
+    "CorrectOption": "Equal Angle Property"
+  },
+  {
+    "Question": "What is the area of a circle with radius 'r'?",
+    "Option1": "A = \u00cf\u20ac * r^2",
+    "Option2": "A = 2 * \u00cf\u20ac * r",
+    "Option3": "A = 0.5 * \u00cf\u20ac * r^2",
+    "Option4": "A = 4 * \u00cf\u20ac * r^2",
+    "CorrectOption": "A = \u00cf\u20ac * r^2"
+  },
+  {
+    "Question": "What is the sum of the opposite angles in a cyclic quadrilateral?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "180 degrees"
+  },
+  {
+    "Question": "What is the ratio of the circumference of a circle to its diameter?",
+    "Option1": "\u00cf\u20ac",
+    "Option2": "2\u00cf\u20ac",
+    "Option3": "0.5\u00cf\u20ac",
+    "Option4": "3\u00cf\u20ac",
+    "CorrectOption": "\u00cf\u20ac"
+  },
+  {
+    "Question": "Which of the following is a property of similar triangles?",
+    "Option1": "Corresponding angles are equal",
+    "Option2": "Corresponding sides are equal",
+    "Option3": "Both",
+    "Option4": "Neither",
+    "CorrectOption": "Both"
+  },
+  {
+    "Question": "What is the measure of an angle subtended by an arc of a circle at the center?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "Variable"
+  },
+  {
+    "Question": "What is the name of a line that touches a circle at exactly one point?",
+    "Option1": "Radius",
+    "Option2": "Diameter",
+    "Option3": "Chord",
+    "Option4": "Tangent",
+    "CorrectOption": "Tangent"
+  },
+  {
+    "Question": "What is the sum of the interior angles of a regular octagon?",
+    "Option1": "1080 degrees",
+    "Option2": "1200 degrees",
+    "Option3": "1440 degrees",
+    "Option4": "1800 degrees",
+    "CorrectOption": "1080 degrees"
+  },
+  {
+    "Question": "What is the name of a line that never touches a curve?",
+    "Option1": "Diameter",
+    "Option2": "Chord",
+    "Option3": "Tangent",
+    "Option4": "Secant",
+    "CorrectOption": "Tangent"
+  },
+  {
+    "Question": "What is the measure of an angle subtended by a major arc of a circle?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "Variable"
+  },
+  {
+    "Question": "What is the name of a quadrilateral with opposite sides parallel but unequal in length?",
+    "Option1": "Square",
+    "Option2": "Rectangle",
+    "Option3": "Rhombus",
+    "Option4": "Trapezium",
+    "CorrectOption": "Trapezium"
+  },
+  {
+    "Question": "In a right-angled triangle, what is the relationship between the squares of the legs and the square of the hypotenuse?",
+    "Option1": "a^2 + b^2 = c^2",
+    "Option2": "a^2 - b^2 = c^2",
+    "Option3": "a^2 = b^2 + c^2",
+    "Option4": "a^2 = b^2 - c^2",
+    "CorrectOption": "a^2 + b^2 = c^2"
+  },
+  {
+    "Question": "What is the measure of an angle subtended by a semicircle at the circumference?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "180 degrees"
+  },
+  {
+    "Question": "In a trapezium, what is the sum of the opposite angles?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "180 degrees"
+  },
+  {
+    "Question": "What is the area of a triangle with base 'b' and height 'h'?",
+    "Option1": "A = 0.5 * b * h",
+    "Option2": "A = b * h",
+    "Option3": "A = 2 * b * h",
+    "Option4": "A = 3 * b * h",
+    "CorrectOption": "A = 0.5 * b * h"
+  },
+  {
+    "Question": "Which statement is true about a square?",
+    "Option1": "All sides are equal",
+    "Option2": "Opposite sides are equal",
+    "Option3": "Both",
+    "Option4": "Neither",
+    "CorrectOption": "Both"
+  },
+  {
+    "Question": "What is the sum of the opposite angles in a parallelogram?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "180 degrees"
+  },
+  {
+    "Question": "What is the name for a quadrilateral with all sides and angles equal?",
+    "Option1": "Square",
+    "Option2": "Rectangle",
+    "Option3": "Rhombus",
+    "Option4": "Parallelogram",
+    "CorrectOption": "Square"
+  },
+  {
+    "Question": "What is the measure of an angle formed by the hands of a clock at 9:30?",
+    "Option1": "75 degrees",
+    "Option2": "90 degrees",
+    "Option3": "105 degrees",
+    "Option4": "120 degrees",
+    "CorrectOption": "75 degrees"
+  },
+  {
+    "Question": "In a cyclic quadrilateral, what is the sum of opposite angles?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "270 degrees",
+    "Option4": "360 degrees",
+    "CorrectOption": "180 degrees"
+  },
+  {
+    "Question": "What is the area of a square with side 's'?",
+    "Option1": "A = s^2",
+    "Option2": "A = 2s",
+    "Option3": "A = 0.5 * s^2",
+    "Option4": "A = 4s",
+    "CorrectOption": "A = s^2"
+  },
+  {
+    "Question": "What is the measure of an exterior angle of a regular hexagon?",
+    "Option1": "45 degrees",
+    "Option2": "60 degrees",
+    "Option3": "120 degrees",
+    "Option4": "135 degrees",
+    "CorrectOption": "60 degrees"
+  },
+  {
+    "Question": "What is the sum of the measures of the angles of a convex hexagon?",
+    "Option1": "540 degrees",
+    "Option2": "720 degrees",
+    "Option3": "900 degrees",
+    "Option4": "1080 degrees",
+    "CorrectOption": "720 degrees"
+  },
+  {
+    "Question": "What is the name of a triangle with all sides of different lengths?",
+    "Option1": "Equilateral triangle",
+    "Option2": "Isosceles triangle",
+    "Option3": "Scalene triangle",
+    "Option4": "Right-angled triangle",
+    "CorrectOption": "Scalene triangle"
+  },
+  {
+    "Question": "What is the measure of an angle in a regular pentagon?",
+    "Option1": "72 degrees",
+    "Option2": "90 degrees",
+    "Option3": "108 degrees",
+    "Option4": "120 degrees",
+    "CorrectOption": "108 degrees"
+  },
+  {
+    "Question": "In a circle, what is the relationship between the diameter and the radius?",
+    "Option1": "Radius = Diameter",
+    "Option2": "Radius = 2 * Diameter",
+    "Option3": "Radius = 0.5 * Diameter",
+    "Option4": "Radius = 3 * Diameter",
+    "CorrectOption": "Radius = 0.5 * Diameter"
+  },
+  {
+    "Question": "What is the measure of an angle subtended by an arc of a circle at the circumference?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "Variable"
+  },
+  {
+    "Question": "What is the formula for the area of a triangle with sides 'a', 'b', and 'c'?",
+    "Option1": "A = 0.5 * (a + b + c)",
+    "Option2": "A = \u00e2\u02c6\u0161(s * (s - a) * (s - b) * (s - c))",
+    "Option3": "A = (a * b * c) / 2",
+    "Option4": "A = a + b + c",
+    "CorrectOption": "A = \u00e2\u02c6\u0161(s * (s - a) * (s - b) * (s - c))"
+  },
+  {
+    "Question": "In a right-angled triangle, what is the relationship between the sides 'a', 'b', and 'c'?",
+    "Option1": "a^2 + b^2 = c^2",
+    "Option2": "a^2 - b^2 = c^2",
+    "Option3": "a^2 = b^2 + c^2",
+    "Option4": "a^2 = b^2 - c^2",
+    "CorrectOption": "a^2 + b^2 = c^2"
+  },
+  {
+    "Question": "What is the perimeter of a rectangle with length 'L' and width 'W'?",
+    "Option1": "P = 2L + 2W",
+    "Option2": "P = L + W",
+    "Option3": "P = 2(L + W)",
+    "Option4": "P = L * W",
+    "CorrectOption": "P = 2(L + W)"
+  },
+  {
+    "Question": "What is the sum of the interior angles of a regular heptagon?",
+    "Option1": "900 degrees",
+    "Option2": "1080 degrees",
+    "Option3": "1260 degrees",
+    "Option4": "1440 degrees",
+    "CorrectOption": "900 degrees"
+  },
+  {
+    "Question": "What is the name for a quadrilateral with opposite sides parallel and equal in length?",
+    "Option1": "Square",
+    "Option2": "Rectangle",
+    "Option3": "Rhombus",
+    "Option4": "Parallelogram",
+    "CorrectOption": "Parallelogram"
+  },
+  {
+    "Question": "In a right-angled triangle, what is the relationship between the acute angles?",
+    "Option1": "Equal",
+    "Option2": "Complementary",
+    "Option3": "Supplementary",
+    "Option4": "Vertical",
+    "CorrectOption": "Complementary"
+  },
+  {
+    "Question": "What is the area of a trapezium with bases 'a' and 'b' and height 'h'?",
+    "Option1": "A = 0.5 * (a + b) * h",
+    "Option2": "A = (a + b) * h",
+    "Option3": "A = 0.5 * a * b * h",
+    "Option4": "A = (a - b) * h",
+    "CorrectOption": "A = 0.5 * (a + b) * h"
+  },
+  {
+    "Question": "What is the sum of the interior angles of a regular nonagon?",
+    "Option1": "1080 degrees",
+    "Option2": "1260 degrees",
+    "Option3": "1440 degrees",
+    "Option4": "1620 degrees",
+    "CorrectOption": "1260 degrees"
+  },
+  {
+    "Question": "What is the name for a quadrilateral with only one pair of opposite sides parallel?",
+    "Option1": "Square",
+    "Option2": "Rectangle",
+    "Option3": "Rhombus",
+    "Option4": "Trapezium",
+    "CorrectOption": "Trapezium"
+  },
+  {
+    "Question": "What is the sum of the measures of the exterior angles of any polygon?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "360 degrees"
+  },
+  {
+    "Question": "In a trapezium, what is the sum of the interior angles?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "360 degrees"
+  },
+  {
+    "Question": "What is the ratio of the area of a square to its perimeter?",
+    "Option1": "1:2",
+    "Option2": "1:4",
+    "Option3": "1:6",
+    "Option4": "1:8",
+    "CorrectOption": "1:4"
+  },
+  {
+    "Question": "What is the name of a polygon with eight sides?",
+    "Option1": "Octagon",
+    "Option2": "Hexagon",
+    "Option3": "Pentagon",
+    "Option4": "Nonagon",
+    "CorrectOption": "Octagon"
+  },
+  {
+    "Question": "In a rectangle, what is the relationship between opposite sides?",
+    "Option1": "Equal",
+    "Option2": "Parallel",
+    "Option3": "Perpendicular",
+    "Option4": "None of the above",
+    "CorrectOption": "Equal"
+  },
+  {
+    "Question": "What is the formula for the area of a rhombus with diagonals 'd1' and 'd2'?",
+    "Option1": "A = 0.5 * d1 * d2",
+    "Option2": "A = (d1 + d2) / 2",
+    "Option3": "A = d1 * d2",
+    "Option4": "A = d1 + d2",
+    "CorrectOption": "A = 0.5 * d1 * d2"
+  },
+  {
+    "Question": "What is the sum of the measures of the angles in an irregular hexagon?",
+    "Option1": "540 degrees",
+    "Option2": "720 degrees",
+    "Option3": "900 degrees",
+    "Option4": "1080 degrees",
+    "CorrectOption": "Variable"
+  },
+  {
+    "Question": "What is the perimeter of an equilateral triangle with sides 's'?",
+    "Option1": "P = 2s",
+    "Option2": "P = 3s",
+    "Option3": "P = 4s",
+    "Option4": "P = 5s",
+    "CorrectOption": "P = 3s"
+  },
+  {
+    "Question": "What is the name of a triangle with one angle greater than 90 degrees?",
+    "Option1": "Acute-angled triangle",
+    "Option2": "Right-angled triangle",
+    "Option3": "Obtuse-angled triangle",
+    "Option4": "Scalene triangle",
+    "CorrectOption": "Obtuse-angled triangle"
+  },
+  {
+    "Question": "In a triangle, if the lengths of the sides are a, b, and c, what is Heron's formula for the area?",
+    "Option1": "A = \u00e2\u02c6\u0161(s * (s - a) * (s - b) * (s - c))",
+    "Option2": "A = 0.5 * (a + b + c)",
+    "Option3": "A = (a * b * c) / 2",
+    "Option4": "A = s * (s - a) * (s - b) * (s - c)",
+    "CorrectOption": "A = \u00e2\u02c6\u0161(s * (s - a) * (s - b) * (s - c))"
+  },
+  {
+    "Question": "What is the name of a polygon with twelve sides?",
+    "Option1": "Dodecagon",
+    "Option2": "Hexagon",
+    "Option3": "Octagon",
+    "Option4": "Decagon",
+    "CorrectOption": "Dodecagon"
+  },
+  {
+    "Question": "What is the relationship between the angles in a linear pair?",
+    "Option1": "Complementary",
+    "Option2": "Supplementary",
+    "Option3": "Vertical",
+    "Option4": "Opposite",
+    "CorrectOption": "Supplementary"
+  },
+  {
+    "Question": "What is the sum of the measures of the angles of a convex decagon?",
+    "Option1": "1440 degrees",
+    "Option2": "1620 degrees",
+    "Option3": "1800 degrees",
+    "Option4": "1980 degrees",
+    "CorrectOption": "1440 degrees"
+  },
+  {
+    "Question": "In a trapezium, what is the length of the median?",
+    "Option1": "Equal to the shorter base",
+    "Option2": "Equal to the longer base",
+    "Option3": "Average of the lengths of the bases",
+    "Option4": "Not related to the bases",
+    "CorrectOption": "Average of the lengths of the bases"
+  },
+  {
+    "Question": "What is the measure of an angle subtended by a minor arc of a circle?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "Variable"
+  },
+  {
+    "Question": "What is the formula for the area of a regular hexagon with side 's'?",
+    "Option1": "A = (3\u00e2\u02c6\u01613 * s^2) / 2",
+    "Option2": "A = 2 * s^2",
+    "Option3": "A = \u00e2\u02c6\u01613 * s",
+    "Option4": "A = 0.5 * s * (3 + \u00e2\u02c6\u01613)",
+    "CorrectOption": "A = (3\u00e2\u02c6\u01613 * s^2) / 2"
+  },
+  {
+    "Question": "What is the sum of the measures of the angles in a cyclic quadrilateral?",
+    "Option1": "360 degrees",
+    "Option2": "540 degrees",
+    "Option3": "720 degrees",
+    "Option4": "900 degrees",
+    "CorrectOption": "360 degrees"
+  },
+  {
+    "Question": "What is the name for a polygon with ten sides?",
+    "Option1": "Decagon",
+    "Option2": "Dodecagon",
+    "Option3": "Octagon",
+    "Option4": "Nonagon",
+    "CorrectOption": "Decagon"
+  },
+  {
+    "Question": "What is the area of a regular pentagon with side 's'?",
+    "Option1": "A = 0.25 * \u00e2\u02c6\u0161(5 * (5 + 2\u00e2\u02c6\u01615)) * s^2",
+    "Option2": "A = 0.5 * s * (5 + \u00e2\u02c6\u01615)",
+    "Option3": "A = 0.25 * \u00e2\u02c6\u01615 * s^2",
+    "Option4": "A = s^2 / 2",
+    "CorrectOption": "A = 0.25 * \u00e2\u02c6\u0161(5 * (5 + 2\u00e2\u02c6\u01615)) * s^2"
+  },
+  {
+    "Question": "What is the formula for the area of a regular octagon with side 's'?",
+    "Option1": "A = 2 * s^2",
+    "Option2": "A = 2 * s * (1 + \u00e2\u02c6\u01612)",
+    "Option3": "A = s^2 * (1 + \u00e2\u02c6\u01612)",
+    "Option4": "A = 4 * s^2",
+    "CorrectOption": "A = 2 * s^2 * (1 + \u00e2\u02c6\u01612)"
+  },
+  {
+    "Question": "What is the measure of an angle in a regular heptagon?",
+    "Option1": "108 degrees",
+    "Option2": "120 degrees",
+    "Option3": "126 degrees",
+    "Option4": "135 degrees",
+    "CorrectOption": "128.57 degrees"
+  },
+  {
+    "Question": "What is the name of a quadrilateral with one pair of parallel sides?",
+    "Option1": "Rhombus",
+    "Option2": "Trapezium",
+    "Option3": "Parallelogram",
+    "Option4": "Square",
+    "CorrectOption": "Trapezium"
+  },
+  {
+    "Question": "What is the relationship between opposite angles in a cyclic quadrilateral?",
+    "Option1": "Complementary",
+    "Option2": "Supplementary",
+    "Option3": "Equal",
+    "Option4": "None of the above",
+    "CorrectOption": "Supplementary"
+  },
+  {
+    "Question": "What is the formula for the area of a regular nonagon with side 's'?",
+    "Option1": "A = 0.25 * \u00e2\u02c6\u0161(9 * (9 + 2\u00e2\u02c6\u01615)) * s^2",
+    "Option2": "A = 0.5 * s * (9 + \u00e2\u02c6\u01615)",
+    "Option3": "A = 0.25 * \u00e2\u02c6\u01615 * s^2",
+    "Option4": "A = s^2 / 2",
+    "CorrectOption": "A = 0.25 * \u00e2\u02c6\u0161(9 * (9 + 2\u00e2\u02c6\u01615)) * s^2"
+  },
+  {
+    "Question": "What is the relationship between the diagonals in a rhombus?",
+    "Option1": "Equal",
+    "Option2": "Perpendicular",
+    "Option3": "Parallel",
+    "Option4": "None of the above",
+    "CorrectOption": "Perpendicular"
+  },
+  {
+    "Question": "What is the name of a polygon with fifteen sides?",
+    "Option1": "Decagon",
+    "Option2": "Pentadecagon",
+    "Option3": "Octadecagon",
+    "Option4": "Hexadecagon",
+    "CorrectOption": "Pentadecagon"
+  },
+  {
+    "Question": "What is the sum of the measures of the angles of a regular octagon?",
+    "Option1": "1080 degrees",
+    "Option2": "1260 degrees",
+    "Option3": "1440 degrees",
+    "Option4": "1620 degrees",
+    "CorrectOption": "1080 degrees"
+  },
+  {
+    "Question": "What is the formula for the area of a regular decagon with side 's'?",
+    "Option1": "A = 0.25 * \u00e2\u02c6\u0161(10 * (10 + 2\u00e2\u02c6\u01615)) * s^2",
+    "Option2": "A = 0.5 * s * (10 + \u00e2\u02c6\u01615)",
+    "Option3": "A = 0.25 * \u00e2\u02c6\u01615 * s^2",
+    "Option4": "A = s^2 / 2",
+    "CorrectOption": "A = 0.25 * \u00e2\u02c6\u0161(10 * (10 + 2\u00e2\u02c6\u01615)) * s^2"
+  },
+  {
+    "Question": "What is the sum of the interior angles of a regular 15-gon?",
+    "Option1": "2160 degrees",
+    "Option2": "2340 degrees",
+    "Option3": "2520 degrees",
+    "Option4": "2700 degrees",
+    "CorrectOption": "2520 degrees"
+  },
+  {
+    "Question": "In a cyclic quadrilateral, if one pair of opposite angles is 70 degrees, what is the measure of the remaining pair?",
+    "Option1": "110 degrees",
+    "Option2": "120 degrees",
+    "Option3": "130 degrees",
+    "Option4": "140 degrees",
+    "CorrectOption": "110 degrees"
+  },
+  {
+    "Question": "What is the formula for the area of a regular dodecagon with side 's'?",
+    "Option1": "A = 3 * s^2",
+    "Option2": "A = 2 * s^2 * (3 + \u00e2\u02c6\u01613)",
+    "Option3": "A = s^2 * (3 + \u00e2\u02c6\u01613)",
+    "Option4": "A = 4 * s^2",
+    "CorrectOption": "A = 3 * s^2 * (3 + \u00e2\u02c6\u01613)"
+  },
+  {
+    "Question": "What is the relationship between the diagonals in a rectangle?",
+    "Option1": "Equal",
+    "Option2": "Perpendicular",
+    "Option3": "Parallel",
+    "Option4": "None of the above",
+    "CorrectOption": "Equal"
+  },
+  {
+    "Question": "What is the formula for the area of a regular hexadecagon with side 's'?",
+    "Option1": "A = 4 * s^2",
+    "Option2": "A = 2 * s^2 * (4 + \u00e2\u02c6\u01614)",
+    "Option3": "A = s^2 * (4 + \u00e2\u02c6\u01614)",
+    "Option4": "A = 8 * s^2",
+    "CorrectOption": "A = 2 * s^2 * (4 + \u00e2\u02c6\u01614)"
+  },
+  {
+    "Question": "What is the relationship between the angles in a parallelogram?",
+    "Option1": "Complementary",
+    "Option2": "Supplementary",
+    "Option3": "Equal",
+    "Option4": "Opposite",
+    "CorrectOption": "Opposite"
+  },
+  {
+    "Question": "What is the sum of the measures of the exterior angles of a regular polygon?",
+    "Option1": "90 degrees",
+    "Option2": "180 degrees",
+    "Option3": "360 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "360 degrees"
+  },
+  {
+    "Question": "What is the name of a polygon with twenty sides?",
+    "Option1": "Icosagon",
+    "Option2": "Hexadecagon",
+    "Option3": "Octadecagon",
+    "Option4": "Tetracontagon",
+    "CorrectOption": "Icosagon"
+  },
+  {
+    "Question": "What is the sum of the measures of the angles of a convex heptagon?",
+    "Option1": "900 degrees",
+    "Option2": "1080 degrees",
+    "Option3": "1260 degrees",
+    "Option4": "1440 degrees",
+    "CorrectOption": "900 degrees"
+  },
+  {
+    "Question": "What is the formula for the area of a regular icosagon with side 's'?",
+    "Option1": "A = 5 * s^2",
+    "Option2": "A = 2 * s^2 * (5 + \u00e2\u02c6\u01615)",
+    "Option3": "A = s^2 * (5 + \u00e2\u02c6\u01615)",
+    "Option4": "A = 10 * s^2",
+    "CorrectOption": "A = 5 * s^2 * (5 + \u00e2\u02c6\u01615)"
+  },
+  {
+    "Question": "In a triangle, if one angle is 60 degrees and theother two angles are equal, what are the measures of the other twoangles?",
+    "Option1": "60 degrees each",
+    "Option2": "90 degrees each",
+    "Option3": "120 degrees each",
+    "Option4": "180 degrees each",
+    "CorrectOption": "60 degrees each"
+  },
+  {
+    "Question": "What is the formula for the area of a regularpentadecagon with side 's'?",
+    "Option1": "A = 0.25 * \u00e2\u02c6\u0161(15 * (15 + 2\u00e2\u02c6\u01615)) * s^2",
+    "Option2": "A = 0.5 * s * (15 + \u00e2\u02c6\u01615)",
+    "Option3": "A = 0.25 * \u00e2\u02c6\u01615 * s^2",
+    "Option4": "A = s^2 / 2",
+    "CorrectOption": "A = 0.25 * \u00e2\u02c6\u0161(15 * (15 + 2\u00e2\u02c6\u01615)) * s^2"
+  },
+  {
+    "Question": "What is the sum of the measures of the angles in aconvex 18-gon?",
+    "Option1": "2880 degrees",
+    "Option2": "3060 degrees",
+    "Option3": "3240 degrees",
+    "Option4": "3420 degrees",
+    "CorrectOption": "3240 degrees"
+  },
+  {
+    "Question": "In a rhombus, what is the measure of each angle?",
+    "Option1": "60 degrees",
+    "Option2": "90 degrees",
+    "Option3": "120 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "Variable"
+  },
+  {
+    "Question": "What is the formula for the area of a regular 30-gonwith side 's'?",
+    "Option1": "A = 7.5 * s^2",
+    "Option2": "A = 3 * s^2 * (5 + \u00e2\u02c6\u01615)",
+    "Option3": "A = s^2 * (5 + \u00e2\u02c6\u01615)",
+    "Option4": "A = 15 * s^2",
+    "CorrectOption": "A = 3 * s^2 * (5 + \u00e2\u02c6\u01615)"
+  },
+  {
+    "Question": "What is the measure of the central angle in a regularhexagon?",
+    "Option1": "60 degrees",
+    "Option2": "120 degrees",
+    "Option3": "180 degrees",
+    "Option4": "Variable",
+    "CorrectOption": "60 degrees"
+  },
+  {
+    "Question": "What is the formula for the area of a regularicosidigon with side 's'?",
+    "Option1": "A = 10 * s^2",
+    "Option2": "A = 4 * s^2 * (5 + \u00e2\u02c6\u01615)",
+    "Option3": "A = s^2 * (5 + \u00e2\u02c6\u01615)",
+    "Option4": "A = 20 * s^2",
+    "CorrectOption": "A = 4 * s^2 * (5 + \u00e2\u02c6\u01615)"
+  },
+  {
+    "Question": "What is the relationship between the sides in anisosceles trapezium?",
+    "Option1": "Equal",
+    "Option2": "Parallel",
+    "Option3": "Perpendicular",
+    "Option4": "None of the above",
+    "CorrectOption": "Parallel"
+  },
+  {
+    "Question": "What is the sum of the measures of the angles in aconvex 24-gon?",
+    "Option1": "3600 degrees",
+    "Option2": "3780 degrees",
+    "Option3": "3960 degrees",
+    "Option4": "4140 degrees",
+    "CorrectOption": "3960 degrees"
+  },
+  {
+    "Question": "In a kite, what is the relationship between the adjacent angles?",
+    "Option1": "Complementary",
+    "Option2": "Supplementary",
+    "Option3": "Equal",
+    "Option4": "Opposite",
+    "CorrectOption": "Supplementary"
+  }
+]

@@ -1,0 +1,211 @@
+[
+    {
+      "Question": "Who is the author of the poem 'No Men Are Foreign'?",
+      "Option1": "Robert Frost",
+      "Option2": "Langston Hughes",
+      "Option3": "James Kirkup",
+      "Option4": "Emily Dickinson",
+      "CorrectOption": "James Kirkup"
+    },
+    {
+      "Question": "What is the central theme of the poem?",
+      "Option1": "Isolation and loneliness",
+      "Option2": "Unity and brotherhood",
+      "Option3": "Nature and beauty",
+      "Option4": "Loss and grief",
+      "CorrectOption": "Unity and brotherhood"
+    },
+    {
+      "Question": "What message does the poem convey about human beings?",
+      "Option1": "Humans are inherently evil",
+      "Option2": "Humans are divided by nationality",
+      "Option3": "Humans are essentially the same and interconnected",
+      "Option4": "Humans are superior to other species",
+      "CorrectOption": "Humans are essentially the same and interconnected"
+    },
+    {
+      "Question": "What is the poet's attitude towards war in the poem?",
+      "Option1": "Celebration of war",
+      "Option2": "Indifference to war",
+      "Option3": "Condemnation of war",
+      "Option4": "Acceptance of war as a natural occurrence",
+      "CorrectOption": "Condemnation of war"
+    },
+    {
+      "Question": "What does the poet mean by the phrase 'no men are foreign'?",
+      "Option1": "All men are enemies",
+      "Option2": "There are no foreign lands",
+      "Option3": "All men are brothers and share a common humanity",
+      "Option4": "Foreign lands are dangerous",
+      "CorrectOption": "All men are brothers and share a common humanity"
+    },
+    {
+      "Question": "How does the poet describe the earth in the poem?",
+      "Option1": "As a battlefield",
+      "Option2": "As a paradise",
+      "Option3": "As a vast desert",
+      "Option4": "As a divided territory",
+      "CorrectOption": "As a paradise"
+    },
+    {
+      "Question": "What images or symbols are used in the poem to convey the message of unity?",
+      "Option1": "Barbed wire and boundaries",
+      "Option2": "Flags and emblems",
+      "Option3": "Hands clasped and shared bread",
+      "Option4": "Weapons and armor",
+      "CorrectOption": "Hands clasped and shared bread"
+    },
+    {
+      "Question": "What emotion or feeling does the poem evoke in the reader?",
+      "Option1": "Fear and anxiety",
+      "Option2": "Joy and fraternity",
+      "Option3": "Anger and resentment",
+      "Option4": "Despair and hopelessness",
+      "CorrectOption": "Joy and fraternity"
+    },
+    {
+      "Question": "How does the poem address the idea of nationality?",
+      "Option1": "It promotes nationalism",
+      "Option2": "It dismisses the concept of nationality",
+      "Option3": "It emphasizes the importance of nationality",
+      "Option4": "It transcends the boundaries of nationality",
+      "CorrectOption": "It transcends the boundaries of nationality"
+    },
+    {
+      "Question": "What is the poet's view on the differences between people?",
+      "Option1": "Differences should be celebrated",
+      "Option2": "Differences should be ignored",
+      "Option3": "Differences should be eliminated",
+      "Option4": "Differences are insurmountable",
+      "CorrectOption": "Differences should be eliminated"
+    },
+    {
+      "Question": "How does the poem suggest that individuals can contribute to peace?",
+      "Option1": "By remaining isolated from others",
+      "Option2": "By engaging in warfare",
+      "Option3": "By fostering understanding and brotherhood",
+      "Option4": "By building walls and barriers",
+      "CorrectOption": "By fostering understanding and brotherhood"
+    },
+    {
+      "Question": "What role does the concept of 'brotherhood' play in the poem?",
+      "Option1": "It is seen as an unrealistic and utopian idea",
+      "Option2": "It is celebrated as a fundamental truth of human existence",
+      "Option3": "It is dismissed as irrelevant",
+      "Option4": "It is considered a divisive concept",
+      "CorrectOption": "It is celebrated as a fundamental truth of human existence"
+    },
+    {
+      "Question": "What impact does war have on the earth, according to the poem?",
+      "Option1": "It rejuvenates the earth",
+      "Option2": "It scars and wounds the earth",
+      "Option3": "It has no impact on the earth",
+      "Option4": "It enhances the beauty of the earth",
+      "CorrectOption": "It scars and wounds the earth"
+    },
+    {
+      "Question": "How does the poem portray the consequences of war on humanity?",
+      "Option1": "As a source of joy and celebration",
+      "Option2": "As a necessary evil",
+      "Option3": "As a tragic and destructive force",
+      "Option4": "As a path to glory and honor",
+      "CorrectOption": "As a tragic and destructive force"
+    },
+    {
+      "Question": "What does the poem suggest about the interconnectedness of all human beings?",
+      "Option1": "Humans are independent and self-sufficient",
+      "Option2": "Humans are interdependent and connected by a shared humanity",
+      "Option3": "Humans should avoid connections with others",
+      "Option4": "Humans are isolated entities",
+      "CorrectOption": "Humans are interdependent and connected by a shared humanity"
+    },
+    {
+      "Question": "How does the poem challenge the notion of 'foreignness'?",
+      "Option1": "It reinforces the idea of foreignness",
+      "Option2": "It questions and rejects the concept of foreignness",
+      "Option3": "It defines foreignness as a positive trait",
+      "Option4": "It ignores the concept of foreignness",
+      "CorrectOption": "It questions and rejects the concept of foreignness"
+    },
+    {
+      "Question": "What role do the lines 'No men are foreign, No countries strange' play in the poem?",
+      "Option1": "They reinforce the idea of foreignness",
+      "Option2": "They express the poet's love for his own country",
+      "Option3": "They challenge the concept of foreignness and promote universal brotherhood",
+      "Option4": "They emphasize the differences between countries",
+      "CorrectOption": "They challenge the concept of foreignness and promote universal brotherhood"
+    },
+    {
+      "Question": "How does the poem suggest that individuals contribute to conflicts?",
+      "Option1": "By promoting understanding and empathy",
+      "Option2": "By building bridges and connections",
+      "Option3": "By harboring hatred and prejudices",
+      "Option4": "By working towards peace and harmony",
+      "CorrectOption": "By harboring hatred and prejudices"
+    },
+    {
+      "Question": "What is the significance of the title 'No Men Are Foreign'?",
+      "Option1": "It emphasizes the differences between people",
+      "Option2": "It challenges the concept of foreignness and promotes a sense of shared humanity",
+      "Option3": "It celebrates the uniqueness of each individual",
+      "Option4": "It suggests that all men are foreign to each other",
+      "CorrectOption": "It challenges the concept of foreignness and promotes a sense of shared humanity"
+    },
+    {
+      "Question": "How does the poem convey a sense of urgency regarding the message of unity?",
+      "Option1": "It suggests that unity can be achieved in the distant future",
+      "Option2": "It emphasizes the need for immediate action and understanding",
+      "Option3": "It dismisses the idea of unity as unattainable",
+      "Option4": "It ignores the urgency of the message",
+      "CorrectOption": "It emphasizes the need for immediate action and understanding"
+    },
+    {
+      "Question": "What role do the hands play in the poem?",
+      "Option1": "They symbolize aggression and violence",
+      "Option2": "They symbolize unity and brotherhood",
+      "Option3": "They represent the divisions between people",
+      "Option4": "They are irrelevant to the poem",
+      "CorrectOption": "They symbolize unity and brotherhood"
+    },
+    {
+      "Question": "How does the poem view the concept of 'borders'?",
+      "Option1": "Borders are necessary for the protection of nations",
+      "Option2": "Borders are irrelevant and should be eliminated",
+      "Option3": "Borders are essential for cultural preservation",
+      "Option4": "Borders are fluid and constantly changing",
+      "CorrectOption": "Borders are irrelevant and should be eliminated"
+    },
+    {
+      "Question": "What role does the idea of 'shared bread' play in the poem?",
+      "Option1": "It symbolizes scarcity and hunger",
+      "Option2": "It symbolizes the need for charity",
+      "Option3": "It symbolizes the sharing of resources and brotherhood",
+      "Option4": "It is unrelated to the theme of the poem",
+      "CorrectOption": "It symbolizes the sharing of resources and brotherhood"
+    },
+    {
+      "Question": "How does the poem explore the concept of forgiveness?",
+      "Option1": "It advocates for forgiveness in the face of conflict",
+      "Option2": "It dismisses the idea of forgiveness",
+      "Option3": "It suggests that forgiveness is impossible",
+      "Option4": "It does not address the concept of forgiveness",
+      "CorrectOption": "It advocates for forgiveness in the face of conflict"
+    },
+    {
+      "Question": "What impact does the poem aim to have on the reader?",
+      "Option1": "To create division and animosity",
+      "Option2": "To evoke sympathy for one particular nationality",
+      "Option3": "To promote a sense of unity and brotherhood",
+      "Option4": "To glorify war and conflict",
+      "CorrectOption": "To promote a sense of unity and brotherhood"
+    },
+    {
+      "Question": "What is the overall tone of the poem 'No Men Are Foreign'?",
+      "Option1": "Hopeful and optimistic",
+      "Option2": "Pessimistic and bleak",
+      "Option3": "Angry and resentful",
+      "Option4": "Indifferent and detached",
+      "CorrectOption": "Hopeful and optimistic"
+    }
+  ]
+  

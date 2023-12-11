@@ -1,0 +1,645 @@
+[
+    {
+      "Question": "Find the distance between the points (2, 3) and (-1, 5).",
+      "Option1": "5",
+      "Option2": "3√2",
+      "Option3": "√10",
+      "Option4": "6",
+      "CorrectOption": "√10"
+    },
+    {
+      "Question": "If the point (x, 4) lies on the y-axis, what is the value of x?",
+      "Option1": "4",
+      "Option2": "0",
+      "Option3": "x can be any real number",
+      "Option4": "undefined",
+      "CorrectOption": "x can be any real number"
+    },
+    {
+      "Question": "What is the slope of a line passing through the points (3, 4) and (5, 7)?",
+      "Option1": "2",
+      "Option2": "3/2",
+      "Option3": "1",
+      "Option4": "4/3",
+      "CorrectOption": "3/2"
+    },
+    {
+      "Question": "If the points (a, 2), (4, b), and (6, 8) are collinear, what is the value of a + b?",
+      "Option1": "10",
+      "Option2": "12",
+      "Option3": "14",
+      "Option4": "16",
+      "CorrectOption": "12"
+    },
+    {
+      "Question": "Find the midpoint of the line segment joining the points (1, 3) and (7, 9).",
+      "Option1": "(4, 6)",
+      "Option2": "(8, 12)",
+      "Option3": "(5, 7)",
+      "Option4": "(6, 8)",
+      "CorrectOption": "(4, 6)"
+    },
+    {
+      "Question": "If a line has a slope of 0, what can be said about the line?",
+      "Option1": "It is parallel to the y-axis",
+      "Option2": "It is parallel to the x-axis",
+      "Option3": "It passes through the origin",
+      "Option4": "It is perpendicular to the x-axis",
+      "CorrectOption": "It is parallel to the x-axis"
+    },
+    {
+      "Question": "The y-intercept of a line is the point where it intersects which axis?",
+      "Option1": "x-axis",
+      "Option2": "y-axis",
+      "Option3": "z-axis",
+      "Option4": "None of the above",
+      "CorrectOption": "y-axis"
+    },
+    {
+      "Question": "If the points (x, 2), (4, 5), and (6, 9) form an equilateral triangle, what is the value of x?",
+      "Option1": "2",
+      "Option2": "3",
+      "Option3": "4",
+      "Option4": "5",
+      "CorrectOption": "3"
+    },
+    {
+      "Question": "What is the equation of a line parallel to the y-axis?",
+      "Option1": "y = mx + b",
+      "Option2": "x = c",
+      "Option3": "y = c",
+      "Option4": "x = mx + b",
+      "CorrectOption": "x = c"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are equidistant from the y-axis, what can be said about the values of a and c?",
+      "Option1": "a = c",
+      "Option2": "b = d",
+      "Option3": "a = -c",
+      "Option4": "b = -d",
+      "CorrectOption": "a = c"
+    },
+
+    {
+      "Question": "What is the condition for three points (x1, y1),(x2, y2), and (x3, y3) to be collinear?",
+      "Option1": "x1 + x2 + x3 = 0",
+      "Option2": "y1 + y2 + y3 = 0",
+      "Option3": "x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2) = 0",
+      "Option4": "x1(x2 - x3) + y1(y2 - y3) = 0",
+      "CorrectOption": "x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2) = 0"
+    },
+    {
+      "Question": "If the line 2x - 3y = 6 is perpendicular toanother line, what is the slope of that line?",
+      "Option1": "2/3",
+      "Option2": "3/2",
+      "Option3": "-2/3",
+      "Option4": "-3/2",
+      "CorrectOption": "-3/2"
+    },
+    {
+      "Question": "What is the equation of a line perpendicular to y= 2x + 3 passing through the point (1, 4)?",
+      "Option1": "y = -2x + 6",
+      "Option2": "y = 2x - 2",
+      "Option3": "y = -2x + 5",
+      "Option4": "y = x + 3",
+      "CorrectOption": "y = -2x + 5"
+    },
+    {
+      "Question": "If the line passing through the points (a, b) and(c, d) is parallel to the x-axis, what can be said about thevalues of b and d?",
+      "Option1": "b = d",
+      "Option2": "a = c",
+      "Option3": "b = -d",
+      "Option4": "a = -c",
+      "CorrectOption": "b = d"
+    },
+    {
+      "Question": "What is the equation of a vertical line passingthrough the point (4, -3)?",
+      "Option1": "x = 4",
+      "Option2": "y = -3",
+      "Option3": "x = -3",
+      "Option4": "y = 4",
+      "CorrectOption": "x = 4"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are equidistantfrom the x-axis, what can be said about the values of b and d",
+      "Option1": "b = -d",
+      "Option2": "a = -c",
+      "Option3": "b = d",
+      "Option4": "a = c",
+      "CorrectOption": "b = -d"
+    },
+    {
+      "Question": "Find the equation of a circle with center (2, -1)and radius 5.",
+      "Option1": "(x - 2)^2 + (y + 1)^2 = 25",
+      "Option2": "(x + 2)^2 + (y - 1)^2 = 25",
+      "Option3": "(x - 2)^2 + (y - 1)^2 = 25",
+      "Option4": "(x + 2)^2 + (y + 1)^2 = 25",
+      "CorrectOption": "(x - 2)^2 + (y + 1)^2 = 25"
+    },
+    {
+      "Question": "If the slope of a line is undefined, what can besaid about the line?",
+      "Option1": "It is parallel to the y-axis",
+      "Option2": "It is parallel to the x-axis",
+      "Option3": "It passes through the origin",
+      "Option4": "It is perpendicular to the x-axis",
+      "CorrectOption": "It is parallel to the y-axis"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are symmetricwith respect to the x-axis, what can be said about the valuesof b and d?",
+      "Option1": "b = d",
+      "Option2": "a = c",
+      "Option3": "b = -d",
+      "Option4": "a = -c",
+      "CorrectOption": "b = -d"
+    },
+    {
+      "Question": "Find the equation of a line passing through thepoints (3, 5) and (6, 9).",
+      "Option1": "y = 2x + 1",
+      "Option2": "y = 3x + 2",
+      "Option3": "y = 4x + 1",
+      "Option4": "y = 3x + 1",
+      "CorrectOption": "y = 2x + 1"
+    },
+    {
+      "Question": "Determine the equation of a parabola with vertexat (1, -3) and focus at (1, -6).",
+      "Option1": "(x - 1)^2 = -3(y + 3)",
+      "Option2": "(x - 1)^2 = 3(y + 3)",
+      "Option3": "(x + 1)^2 = -3(y - 3)",
+      "Option4": "(x + 1)^2 = 3(y - 3)",
+      "CorrectOption": "(x - 1)^2 = -3(y + 3)"
+    },
+    {
+      "Question": "If a circle with radius 4 is inscribed in anequilateral triangle, what is the area of the triangle?",
+      "Option1": "16√3",
+      "Option2": "24√3",
+      "Option3": "32√3",
+      "Option4": "48√3",
+      "CorrectOption": "24√3"
+    },
+    {
+      "Question": "Find the length of the latus rectum of thehyperbola given by the equation 4x^2 - 9y^2 = 36.",
+      "Option1": "6",
+      "Option2": "8",
+      "Option3": "10",
+      "Option4": "12",
+      "CorrectOption": "8"
+    },
+    {
+      "Question": "What is the eccentricity of an ellipse withsemi-major axis 5 and semi-minor axis 3?",
+      "Option1": "2/3",
+      "Option2": "3/5",
+      "Option3": "4/5",
+      "Option4": "5/3",
+      "CorrectOption": "4/5"
+    },
+    {
+      "Question": "The equation of a line is given by 2x - 3y = 12.What is the distance between the line and the point (4, -1)?",
+      "Option1": "2",
+      "Option2": "3",
+      "Option3": "4",
+      "Option4": "5",
+      "CorrectOption": "4"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are collinear,what is the condition for a, b, c, and d?",
+      "Option1": "a/c = b/d",
+      "Option2": "a/d = b/c",
+      "Option3": "a/b = c/d",
+      "Option4": "a/c = d/b",
+      "CorrectOption": "a/c = b/d"
+    },
+    {
+      "Question": "Find the equation of a circle passing through thepoints (1, 3), (4, 6), and (6, 8).",
+      "Option1": "(x - 2)^2 + (y - 4)^2 = 10",
+      "Option2": "(x + 2)^2 + (y - 1)^2 = 10",
+      "Option3": "(x - 2)^2 + (y + 1)^2 = 10",
+      "Option4": "(x + 2)^2 + (y + 4)^2 = 10",
+      "CorrectOption": "(x + 2)^2 + (y - 1)^2 = 10"
+    },
+    {
+      "Question": "Find the area of the quadrilateral formed by thepoints (1, 2), (3, 5), (6, 4), and (4, 1).",
+      "Option1": "12 square units",
+      "Option2": "14 square units",
+      "Option3": "16 square units",
+      "Option4": "18 square units",
+      "CorrectOption": "12 square units"
+    },
+    {
+      "Question": "What is the equation of the ellipse with centerat (2, -3), semi-major axis 5, and semi-minor axis 3?",
+      "Option1": "(x - 2)^2/25 + (y + 3)^2/9 = 1",
+      "Option2": "(x + 2)^2/25 + (y - 3)^2/9 = 1",
+      "Option3": "(x - 2)^2/9 + (y + 3)^2/25 = 1",
+      "Option4": "(x + 2)^2/9 + (y - 3)^2/25 = 1",
+      "CorrectOption": "(x - 2)^2/25 + (y + 3)^2/9 = 1"
+    },
+    {
+      "Question": "If the points (1, 2), (4, 5), and (7, 8) form anisosceles triangle, what is the type of the triangle?",
+      "Option1": "Equilateral",
+      "Option2": "Right-angled",
+      "Option3": "Scalene",
+      "Option4": "Isosceles",
+      "CorrectOption": "Right-angled"
+    },
+    {
+      "Question": "The parabola y^2 = 4x intersects the x-axis atpoints A and B. If the coordinates of A are (a, 0), what arethe coordinates of B?",
+      "Option1": "(-a, 0)",
+      "Option2": "(a, 0)",
+      "Option3": "(-2a, 0)",
+      "Option4": "(2a, 0)",
+      "CorrectOption": "(-2a, 0)"
+    },
+    {
+      "Question": "The equation of an ellipse is 4x^2 + 9y^2 = 36.What are the coordinates of the foci?",
+      "Option1": "(2, 0), (-2, 0)",
+      "Option2": "(0, 3), (0, -3)",
+      "Option3": "(3, 0), (-3, 0)",
+      "Option4": "(0, 2), (0, -2)",
+      "CorrectOption": "(3, 0), (-3, 0)"
+    },
+    {
+      "Question": "Find the length of the major axis of the ellipsegiven by the equation 9x^2 + 4y^2 = 36.",
+      "Option1": "3",
+      "Option2": "4",
+      "Option3": "6",
+      "Option4": "9",
+      "CorrectOption": "6"
+    },
+    {
+      "Question": "Determine the area of the region enclosed by thecurves y = x^2 and y = 2x.",
+      "Option1": "1/6 square units",
+      "Option2": "1/3 square units",
+      "Option3": "1/2 square units",
+      "Option4": "2/3 square units",
+      "CorrectOption": "1/3 square units"
+    },
+    {
+      "Question": "If a circle is inscribed in a square with a sidelength of 8 units, what is the radius of the circle?",
+      "Option1": "4√2",
+      "Option2": "2√2",
+      "Option3": "8/√2",
+      "Option4": "4",
+      "CorrectOption": "2√2"
+    },
+    {
+      "Question": "What is the equation of a hyperbola with verticesat (2, 0) and (-2, 0) and passing through the point (4, 3)?",
+      "Option1": "2x^2 - 3y^2 = 24",
+      "Option2": "3x^2 - 2y^2 = 24",
+      "Option3": "4x^2 - 3y^2 = 24",
+      "Option4": "3x^2 - 4y^2 = 24",
+      "CorrectOption": "3x^2 - 2y^2 = 24"
+    },
+    {
+      "Question": "If the equation of a circle is (x - 1)^2 + (y + 2^2 = 25, what is the center of the circle?",
+      "Option1": "(1, -2)",
+      "Option2": "(1, 2)",
+      "Option3": "(-1, 2)",
+      "Option4": "(-1, -2)",
+      "CorrectOption": "(1, -2)"
+    },
+    {
+      "Question": "Determine the eccentricity of a parabola with theequation y^2 = 8x.",
+      "Option1": "1/2",
+      "Option2": "2",
+      "Option3": "1",
+      "Option4": "4",
+      "CorrectOption": "2"
+    },
+    {
+      "Question": "The equation of a hyperbola is given by x^2/16 -y^2/9 = 1. What is the distance between the foci?",
+      "Option1": "5",
+      "Option2": "7",
+      "Option3": "9",
+      "Option4": "11",
+      "CorrectOption": "5"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are collinear,what is the ratio (c - a)/(d - b)?",
+      "Option1": "(d - b)/(c - a)",
+      "Option2": "(c - a)/(d - b)",
+      "Option3": "(c + a)/(d + b)",
+      "Option4": "(d + b)/(c + a)",
+      "CorrectOption": "(c - a)/(d - b)"
+    },
+    {
+      "Question": "The equation of a circle is (x + 3)^2 + (y - 4)^2= 49. What is the center of the circle?",
+      "Option1": "(-3, 4)",
+      "Option2": "(3, -4)",
+      "Option3": "(3, 4)",
+      "Option4": "(-3, -4)",
+      "CorrectOption": "(-3, 4)"
+    },
+    {
+      "Question": "Determine the equation of the tangent line to thecurve y = x^2 + 2x - 3 at the point (2, -1).",
+      "Option1": "y = 2x + 1",
+      "Option2": "y = 4x - 9",
+      "Option3": "y = x - 5",
+      "Option4": "y = -x + 1",
+      "CorrectOption": "y = 4x - 9"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are equidistantfrom the origin, what is the condition for a, b, c, and d?",
+      "Option1": "a^2 + b^2 = c^2 + d^2",
+      "Option2": "a^2 - b^2 = c^2 - d^2",
+      "Option3": "a^2 = b^2 = c^2 = d^2",
+      "Option4": "a^2 + d^2 = b^2 + c^2",
+      "CorrectOption": "a^2 + b^2 = c^2 + d^2"
+    },
+    {
+      "Question": "Find the equation of the parabola with focus at(2, -1) and directrix y = -3.",
+      "Option1": "y = x^2 - 3x - 6",
+      "Option2": "y = x^2 - 3x + 6",
+      "Option3": "y = x^2 + 3x - 6",
+      "Option4": "y = x^2 + 3x + 6",
+      "CorrectOption": "y = x^2 - 3x - 6"
+    },
+    {
+      "Question": "What is the equation of the line perpendicular to3x - 2y = 7 and passing through the point (1, 2)?",
+      "Option1": "2x + 3y = 5",
+      "Option2": "2x - 3y = 5",
+      "Option3": "-3x + 2y = 5",
+      "Option4": "3x + 2y = 5",
+      "CorrectOption": "2x - 3y = 5"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are symmetricwith respect to the y-axis, what can be said about the valuesof a and c?",
+      "Option1": "a = c",
+      "Option2": "b = d",
+      "Option3": "a = -c",
+      "Option4": "b = -d",
+      "CorrectOption": "a = -c"
+    },
+    {
+      "Question": "Determine the equation of the ellipse with fociat (0, ±3) and major axis along the y-axis.",
+      "Option1": "x^2/9 + y^2/4 = 1",
+      "Option2": "x^2/4 + y^2/9 = 1",
+      "Option3": "x^2/16 + y^2/9 = 1",
+      "Option4": "x^2/9 + y^2/16 = 1",
+      "CorrectOption": "x^2/9 + y^2/4 = 1"
+    },
+    {
+      "Question": "If the points (1, 4), (2, 7), and (3, 10) form anequilateral triangle, what is the type of the triangle?",
+      "Option1": "Equilateral",
+      "Option2": "Right-angled",
+      "Option3": "Scalene",
+      "Option4": "Isosceles",
+      "CorrectOption": "Scalene"
+    },
+    {
+      "Question": "Find the equation of the hyperbola with foci at(±3, 0) and passing through the point (5, 4).",
+      "Option1": "x^2/4 - y^2/3 = 1",
+      "Option2": "x^2/3 - y^2/4 = 1",
+      "Option3": "x^2/5 - y^2/4 = 1",
+      "Option4": "x^2/4 - y^2/5 = 1",
+      "CorrectOption": "x^2/4 - y^2/5 = 1"
+    },
+    {
+      "Question": "The equation of a circle is (x - 2)^2 + (y + 3)^2= 16. What is the radius of the circle?",
+      "Option1": "4",
+      "Option2": "2",
+      "Option3": "16",
+      "Option4": "√16",
+      "CorrectOption": "4"
+    },
+    {
+      "Question": "Determine the coordinates of the vertex of theparabola given by the equation y = -2x^2 + 8x - 6.",
+      "Option1": "(2, 2)",
+      "Option2": "(4, -10)",
+      "Option3": "(-2, -14)",
+      "Option4": "(8, -6)",
+      "CorrectOption": "(2, 2)"
+    },
+    {
+      "Question": "If a rectangle has a length of 6 units anddiagonal of length 10 units, what is the width of therectangle?",
+      "Option1": "8 units",
+      "Option2": "9 units",
+      "Option3": "12 units",
+      "Option4": "15 units",
+      "CorrectOption": "8 units"
+    },
+    {
+      "Question": "Find the area of the region enclosed by thecurves y = sin(x) and y = cos(x) from x = 0 to x = π/2.",
+      "Option1": "1/2 square units",
+      "Option2": "√2 square units",
+      "Option3": "2 square units",
+      "Option4": "1 square unit",
+      "CorrectOption": "1 square unit"
+    },
+    {
+      "Question": "The equation of a circle is given by (x + 1)^2 +(y - 2)^2 = 25. What is the center of the circle?",
+      "Option1": "(-1, 2)",
+      "Option2": "(1, -2)",
+      "Option3": "(1, 2)",
+      "Option4": "(-1, -2)",
+      "CorrectOption": "(-1, 2)"
+    },
+    {
+      "Question": "If a triangle has angles in the ratio 1:2:3, whatis the measure of the largest angle?",
+      "Option1": "30 degrees",
+      "Option2": "60 degrees",
+      "Option3": "90 degrees",
+      "Option4": "120 degrees",
+      "CorrectOption": "90 degrees"
+    },
+    {
+      "Question": "Determine the equation of the line parallel to 2x+ 3y = 6 and passing through the point (1, -1).",
+      "Option1": "2x + 3y = 5",
+      "Option2": "2x - 3y = 5",
+      "Option3": "-3x + 2y = 5",
+      "Option4": "3x + 2y = 5",
+      "CorrectOption": "2x - 3y = 5"
+    },
+    {
+      "Question": "If a parallelogram has adjacent sides of lengths6 units and 8 units, and the included angle is 60 degrees,what is the area of the parallelogram?",
+      "Option1": "24√3 square units",
+      "Option2": "24 square units",
+      "Option3": "48 square units",
+      "Option4": "36 square units",
+      "CorrectOption": "24 square units"
+    },
+    {
+      "Question": "Find the equation of the ellipse with foci at(±2, 0) and major axis along the x-axis.",
+      "Option1": "x^2/3 + y^2/4 = 1",
+      "Option2": "x^2/4 + y^2/3 = 1",
+      "Option3": "x^2/5 + y^2/4 = 1",
+      "Option4": "x^2/4 + y^2/5 = 1",
+      "CorrectOption": "x^2/3 + y^2/4 = 1"
+    },
+    {
+      "Question": "Determine the equation of the hyperbola with fociat (0, ±5) and passing through the point (3, 4).",
+      "Option1": "x^2/9 - y^2/16 = 1",
+      "Option2": "x^2/16 - y^2/9 = 1",
+      "Option3": "x^2/25 - y^2/16 = 1",
+      "Option4": "x^2/16 - y^2/25 = 1",
+      "CorrectOption": "x^2/16 - y^2/9 = 1"
+    },
+    {
+      "Question": "If a rectangle has a length of 10 units and awidth of 6 units, what is the measure of the diagonal?",
+      "Option1": "8 units",
+      "Option2": "10 units",
+      "Option3": "12 units",
+      "Option4": "14 units",
+      "CorrectOption": "√136 units"
+    },
+    {
+      "Question": "Find the equation of the parabola with focus at(3, 1) and directrix y = -1.",
+      "Option1": "y = x^2 - 4x + 2",
+      "Option2": "y = x^2 + 4x + 2",
+      "Option3": "y = x^2 - 6x + 2",
+      "Option4": "y = x^2 + 6x + 2",
+      "CorrectOption": "y = x^2 - 4x + 2"
+    },
+    {
+      "Question": "If a circle has an equation (x - 4)^2 + (y + 3)^2= 25, what is the radius of the circle?",
+      "Option1": "5",
+      "Option2": "4",
+      "Option3": "3",
+      "Option4": "√5",
+      "CorrectOption": "5"
+    },
+    {
+      "Question": "Determine the length of the minor axis of theellipse given by the equation 4x^2 + 9y^2 = 36.",
+      "Option1": "2",
+      "Option2": "3",
+      "Option3": "4",
+      "Option4": "6",
+      "CorrectOption": "3"
+    },
+    {
+      "Question": "Find the equation of the line perpendicular to 5x- 2y = 8 and passing through the point (-1, 3).",
+      "Option1": "2x + 5y = -7",
+      "Option2": "2x - 5y = -7",
+      "Option3": "-5x + 2y = 7",
+      "Option4": "5x + 2y = 7",
+      "CorrectOption": "2x + 5y = -7"
+    },
+    {
+      "Question": "If a triangle has sides of lengths 5 cm, 12 cm,and 13 cm, what type of triangle is it?",
+      "Option1": "Equilateral",
+      "Option2": "Right-angled",
+      "Option3": "Scalene",
+      "Option4": "Isosceles",
+      "CorrectOption": "Right-angled"
+    },
+    {
+      "Question": "Determine the equation of the ellipse with fociat (0, ±4) and major axis along the y-axis.",
+      "Option1": "x^2/16 + y^2/9 = 1",
+      "Option2": "x^2/9 + y^2/16 = 1",
+      "Option3": "x^2/4 + y^2/9 = 1",
+      "Option4": "x^2/9 + y^2/4 = 1",
+      "CorrectOption": "x^2/16 + y^2/9 = 1"
+    },
+    {
+      "Question": "Find the area of the region enclosed by thecurves y = e^x and y = ln(x) from x = 1 to x = 2.",
+      "Option1": "1 square unit",
+      "Option2": "e square units",
+      "Option3": "1/e square units",
+      "Option4": "2 square units",
+      "CorrectOption": "1 square unit"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are symmetricwith respect to the x-axis, what can be said about the valuesof a and c?",
+      "Option1": "a = c",
+      "Option2": "b = d",
+      "Option3": "a = -c",
+      "Option4": "b = -d",
+      "CorrectOption": "a = c"
+    },
+    {
+      "Question": "Determine the equation of the hyperbola with fociat (0, ±2) and passing through the point (3, 1).",
+      "Option1": "x^2/5 - y^2/4 = 1",
+      "Option2": "x^2/4 - y^2/5 = 1",
+      "Option3": "x^2/3 - y^2/2 = 1",
+      "Option4": "x^2/2 - y^2/3 = 1",
+      "CorrectOption": "x^2/5 - y^2/4 = 1"
+    },
+    {
+      "Question": "The equation of a circle is given by (x + 2)^2 +(y - 1)^2 = 16. What is the center of the circle?",
+      "Option1": "(-2, 1)",
+      "Option2": "(2, -1)",
+      "Option3": "(2, 1)",
+      "Option4": "(-2, -1)",
+      "CorrectOption": "(-2, 1)"
+    },
+    {
+      "Question": "Determine the equation of the ellipse with fociat (±3, 0) and major axis along the x-axis.",
+      "Option1": "x^2/4 + y^2/9 = 1",
+      "Option2": "x^2/9 + y^2/4 = 1",
+      "Option3": "x^2/5 + y^2/4 = 1",
+      "Option4": "x^2/4 + y^2/5 = 1",
+      "CorrectOption": "x^2/4 + y^2/9 = 1"
+    },
+    {
+      "Question": "If the points (a, b) and (c, d) are symmetricwith respect to the y-axis, what can be said about the valuesof a and c?",
+      "Option1": "a = c",
+      "Option2": "b = d",
+      "Option3": "a = -c",
+      "Option4": "b = -d",
+      "CorrectOption": "a = -c"
+    },
+    {
+      "Question": "Find the equation of the hyperbola with foci at(±4, 0) and passing through the point (6, 2).",
+      "Option1": "x^2/16 - y^2/12 = 1",
+      "Option2": "x^2/12 - y^2/16 = 1",
+      "Option3": "x^2/9 - y^2/12 = 1",
+      "Option4": "x^2/12 - y^2/9 = 1",
+      "CorrectOption": "x^2/16 - y^2/12 = 1"
+    },
+    {
+      "Question": "What is the length of the latus rectum of theparabola y^2 = 4ax?",
+      "Option1": "2a",
+      "Option2": "4a",
+      "Option3": "a",
+      "Option4": "8a",
+      "CorrectOption": "4a"
+    },
+    {
+      "Question": "Determine the equation of the parabola with focusat (1, 2) and directrix y = -2.",
+      "Option1": "y = x^2 - 4x + 1",
+      "Option2": "y = x^2 - 4x - 1",
+      "Option3": "y = x^2 + 4x + 1",
+      "Option4": "y = x^2 + 4x - 1",
+      "CorrectOption": "y = x^2 - 4x + 1"
+    },
+    {
+      "Question": "If a triangle has sides of lengths 7 cm, 24 cm,and 25 cm, what type of triangle is it?",
+      "Option1": "Equilateral",
+      "Option2": "Right-angled",
+      "Option3": "Scalene",
+      "Option4": "Isosceles",
+      "CorrectOption": "Scalene"
+    },
+    {
+      "Question": "Determine the equation of the ellipse with fociat (0, ±5) and minor axis along the y-axis.",
+      "Option1": "x^2/16 + y^2/25 = 1",
+      "Option2": "x^2/25 + y^2/16 = 1",
+      "Option3": "x^2/9 + y^2/25 = 1",
+      "Option4": "x^2/25 + y^2/9 = 1",
+      "CorrectOption": "x^2/16 + y^2/25 = 1"
+    },
+    {
+      "Question": "If the points (a, b) and (-a, -b) are symmetricwith respect to the origin, what can be said about the valuesof a and b?",
+      "Option1": "a = b",
+      "Option2": "a = -b",
+      "Option3": "b = -a",
+      "Option4": "a ≠ b",
+      "CorrectOption": "a = -b"
+    },
+    {
+      "Question": "Find the area of the region enclosed by thecurves y = sin(x) and y = cos(x) from x = 0 to x = π.",
+      "Option1": "1 square unit",
+      "Option2": "√2 square units",
+      "Option3": "2 square units",
+      "Option4": "1/2 square units",
+      "CorrectOption": "2 square units"
+    },
+    {
+      "Question": "Determine the equation of the hyperbola with fociat (±3, 0) and passing through the point (5, 2).",
+      "Option1": "x^2/5 - y^2/4 = 1",
+      "Option2": "x^2/4 - y^2/5 = 1",
+      "Option3": "x^2/3 - y^2/2 = 1",
+      "Option4": "x^2/2 - y^2/3 = 1",
+      "CorrectOption": "x^2/5 - y^2/4 = 1"
+    }      
+            
+  ]
+  

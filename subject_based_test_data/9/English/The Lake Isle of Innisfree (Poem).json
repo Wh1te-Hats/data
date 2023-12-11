@@ -1,0 +1,219 @@
+[
+    {
+      "Question": "Who is the author of the poem 'The Lake Isle of Innisfree'?",
+      "Option1": "William Wordsworth",
+      "Option2": "Emily Dickinson",
+      "Option3": "William Butler Yeats",
+      "Option4": "Robert Frost",
+      "CorrectOption": "William Butler Yeats"
+    },
+    {
+      "Question": "What is the central theme of the poem?",
+      "Option1": "Love and Romance",
+      "Option2": "Nature and Solitude",
+      "Option3": "War and Conflict",
+      "Option4": "Social Injustice",
+      "CorrectOption": "Nature and Solitude"
+    },
+    {
+      "Question": "What is the speaker's desire in the poem?",
+      "Option1": "To achieve fame and success",
+      "Option2": "To live a simple and quiet life",
+      "Option3": "To conquer new lands",
+      "Option4": "To engage in social activities",
+      "CorrectOption": "To live a simple and quiet life"
+    },
+    {
+      "Question": "Which specific location does the speaker express a desire to go to?",
+      "Option1": "Paris",
+      "Option2": "Innisfree",
+      "Option3": "London",
+      "Option4": "New York",
+      "CorrectOption": "Innisfree"
+    },
+    {
+      "Question": "What natural elements are mentioned in the poem?",
+      "Option1": "Mountains and valleys",
+      "Option2": "Rivers and oceans",
+      "Option3": "Trees and meadows",
+      "Option4": "Lakes and bees",
+      "CorrectOption": "Lakes and bees"
+    },
+    {
+      "Question": "How does the speaker describe the sound of the lake water?",
+      "Option1": "Roaring and tumultuous",
+      "Option2": "Gentle and lapping",
+      "Option3": "Whispering and secretive",
+      "Option4": "Silent and still",
+      "CorrectOption": "Gentle and lapping"
+    },
+    {
+      "Question": "What does the speaker want to build on Innisfree?",
+      "Option1": "A grand mansion",
+      "Option2": "A small cabin",
+      "Option3": "A mighty fortress",
+      "Option4": "A tower",
+      "CorrectOption": "A small cabin"
+    },
+    {
+      "Question": "What crops does the speaker want to cultivate on Innisfree?",
+      "Option1": "Wheat and barley",
+      "Option2": "Corn and potatoes",
+      "Option3": "Rice and beans",
+      "Option4": "Beans and honey",
+      "CorrectOption": "Beans and honey"
+    },
+    {
+      "Question": "How does the speaker describe the pace of life on Innisfree?",
+      "Option1": "Fast-paced and hectic",
+      "Option2": "Slow and leisurely",
+      "Option3": "Chaotic and disorganized",
+      "Option4": "Competitive and demanding",
+      "CorrectOption": "Slow and leisurely"
+    },
+    {
+      "Question": "What recurring image is mentioned in the poem?",
+      "Option1": "A rose",
+      "Option2": "A bird",
+      "Option3": "A lake",
+      "Option4": "A bee",
+      "CorrectOption": "A bee"
+    },
+    {
+      "Question": "How does the speaker describe the impact of Innisfree on their thoughts?",
+      "Option1": "Innisfree brings sadness and sorrow",
+      "Option2": "Innisfree fills the speaker with joy and peace",
+      "Option3": "Innisfree is indifferent to the speaker's thoughts",
+      "Option4": "Innisfree is a place of confusion and chaos",
+      "CorrectOption": "Innisfree fills the speaker with joy and peace"
+    },
+    {
+      "Question": "What emotion does the speaker express when thinking about Innisfree?",
+      "Option1": "Anger",
+      "Option2": "Fear",
+      "Option3": "Joy",
+      "Option4": "Sadness",
+      "CorrectOption": "Joy"
+    },
+    {
+      "Question": "What does the speaker hear in the deep heart's core?",
+      "Option1": "The noise of the city",
+      "Option2": "The lapping of the lake water",
+      "Option3": "The song of the birds",
+      "Option4": "The cricket's song",
+      "CorrectOption": "The cricket's song"
+    },
+    {
+      "Question": "What role does nature play in the speaker's vision of Innisfree?",
+      "Option1": "Nature is absent from Innisfree",
+      "Option2": "Nature is destructive on Innisfree",
+      "Option3": "Nature is harmonious and integral to Innisfree",
+      "Option4": "Nature is a source of fear on Innisfree",
+      "CorrectOption": "Nature is harmonious and integral to Innisfree"
+    },
+    {
+      "Question": "How does the speaker characterize their cabin on Innisfree?",
+      "Option1": "Small and cramped",
+      "Option2": "Grand and luxurious",
+      "Option3": "Simple and humble",
+      "Option4": "No cabin is mentioned",
+      "CorrectOption": "Simple and humble"
+    },
+    {
+      "Question": "What feeling does the speaker associate with the bee-hive murmur?",
+      "Option1": "Anxiety",
+      "Option2": "Calm and contentment",
+      "Option3": "Loneliness",
+      "Option4": "Confusion",
+      "CorrectOption": "Calm and contentment"
+    },
+    {
+      "Question": "How does the speaker describe the midnight's all a glimmer?",
+      "Option1": "Bright and glaring",
+      "Option2": "Dark and obscure",
+      "Option3": "Faint and subtle",
+      "Option4": "No mention of midnight",
+      "CorrectOption": "Faint and subtle"
+    },
+    {
+      "Question": "What does the speaker plant in the rows on Innisfree?",
+      "Option1": "Rows of roses",
+      "Option2": "Rows of potatoes",
+      "Option3": "Rows of wheat",
+      "Option4": "No mention of planting rows",
+      "CorrectOption": "Rows of beans"
+    },
+    {
+      "Question": "What is the significance of the speaker's connection to nature on Innisfree?",
+      "Option1": "It alienates the speaker from the environment",
+      "Option2": "It emphasizes the speaker's dominance over nature",
+      "Option3": "It highlights the speaker's harmony with nature",
+      "Option4": "It portrays the speaker as fearful of nature",
+      "CorrectOption": "It highlights the speaker's harmony with nature"
+    },
+    {
+      "Question": "How does the speaker describe the impact of Innisfree on their soul?",
+      "Option1": "Innisfree brings darkness and despair",
+      "Option2": "Innisfree brings light and hope",
+      "Option3": "Innisfree has no impact on the soul",
+      "Option4": "Innisfree induces fear",
+      "CorrectOption": "Innisfree brings light and hope"
+    },
+    {
+      "Question": "What emotion does the speaker feel in the city?",
+      "Option1": "Calm and contentment",
+      "Option2": "Loneliness and longing",
+      "Option3": "Joy and excitement",
+      "Option4": "Fear and anxiety",
+      "CorrectOption": "Loneliness and longing"
+    },
+    {
+      "Question": "What contrast is evident between the city and Innisfree in the poem?",
+      "Option1": "Both places are equally appealing",
+      "Option2": "Innisfree is undesirable compared to the city",
+      "Option3": "Innisfree is superior to the city",
+      "Option4": "The city and Innisfree are identical",
+      "CorrectOption": "Innisfree is superior to the city"
+    },
+    {
+      "Question": "What is the speaker's attitude towards the city in the poem?",
+      "Option1": "Adoration",
+      "Option2": "Fear",
+      "Option3": "Disdain",
+      "Option4": "Indifference",
+      "CorrectOption": "Disdain"
+    },
+    {
+      "Question": "What does the speaker long for in the city?",
+      "Option1": "The noise and bustle",
+      "Option2": "The peace and solitude",
+      "Option3": "The natural surroundings",
+      "Option4": "No specific longing is mentioned",
+      "CorrectOption": "The peace and solitude"
+    },
+    {
+      "Question": "What is the speaker's ultimate desire regarding Innisfree?",
+      "Option1": "To conquer and control Innisfree",
+      "Option2": "To visit Innisfree occasionally",
+      "Option3": "To build a grand mansion on Innisfree",
+      "Option4": "To return and dwell in Innisfree",
+      "CorrectOption": "To return and dwell in Innisfree"
+    },
+    {
+      "Question": "What does the speaker want to find on Innisfree?",
+      "Option1": "Wealth and fame",
+      "Option2": "Solitude and peace",
+      "Option3": "Adventure and excitement",
+      "Option4": "Chaos and disorder",
+      "CorrectOption": "Solitude and peace"
+    },
+    {
+      "Question": "What emotion does the speaker experience when thinking about Innisfree?",
+      "Option1": "Anger",
+      "Option2": "Fear",
+      "Option3": "Joy",
+      "Option4": "Sadness",
+      "CorrectOption": "Joy"
+    }
+  ]
+  

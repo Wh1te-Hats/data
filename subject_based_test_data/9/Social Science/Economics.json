@@ -1,0 +1,602 @@
+[
+  {
+    "Question": "In the context of economics, what is the main economic activity discussed in 'The Story of Village Palampur'?",
+    "Option1": "Manufacturing",
+    "Option2": "Agriculture",
+    "Option3": "Mining",
+    "Option4": "Service sector",
+    "CorrectOption": "Agriculture"
+  },
+  {
+    "Question": "How is human population considered a resource in the chapter 'People as Resource'?",
+    "Option1": "As a liability",
+    "Option2": "As an asset",
+    "Option3": "As a debt",
+    "Option4": "As a burden",
+    "CorrectOption": "As an asset"
+  },
+  {
+    "Question": "What is the main focus of the chapter 'Poverty as a Challenge' in economics?",
+    "Option1": "Income inequality",
+    "Option2": "Lack of education",
+    "Option3": "Unemployment",
+    "Option4": "Living below the poverty line",
+    "CorrectOption": "Living below the poverty line"
+  },
+  {
+    "Question": "Which government scheme is associated with ensuring 'Food Security in India'?",
+    "Option1": "Sarva Shiksha Abhiyan",
+    "Option2": "Midday Meal Scheme",
+    "Option3": "Swachh Bharat Abhiyan",
+    "Option4": "Pradhan Mantri Awas Yojana",
+    "CorrectOption": "Midday Meal Scheme"
+  },
+  {
+    "Question": "What is the primary occupation of the people in the village of Palampur?",
+    "Option1": "Weaving",
+    "Option2": "Farming",
+    "Option3": "Trading",
+    "Option4": "Cattle rearing",
+    "CorrectOption": "Farming"
+  },
+  {
+    "Question": "In the context of 'People as Resource,' how can education contribute to economic growth?",
+    "Option1": "By increasing unemployment",
+    "Option2": "By reducing literacy rates",
+    "Option3": "By improving the skills of the workforce",
+    "Option4": "By decreasing population",
+    "CorrectOption": "By improving the skills of the workforce"
+  },
+  {
+    "Question": "What is the official poverty line in India based on?",
+    "Option1": "Caloric intake",
+    "Option2": "Household income",
+    "Option3": "Land ownership",
+    "Option4": "Educational qualifications",
+    "CorrectOption": "Caloric intake"
+  },
+  {
+    "Question": "Which of the following is NOT a factor affecting poverty?",
+    "Option1": "Unemployment",
+    "Option2": "Illiteracy",
+    "Option3": "High agricultural productivity",
+    "Option4": "Social inequality",
+    "CorrectOption": "High agricultural productivity"
+  },
+  {
+    "Question": "Under the National Food Security Act, what is the subsidized price for grains for the poor?",
+    "Option1": "Re. 1 per kg for wheat and Rs. 2 per kg for rice",
+    "Option2": "Rs. 2 per kg for wheat and Rs. 3 per kg for rice",
+    "Option3": "Rs. 3 per kg for wheat and Rs. 2 per kg for rice",
+    "Option4": "Re. 1 per kg for both wheat and rice",
+    "CorrectOption": "Re. 1 per kg for wheat and Rs. 2 per kg for rice"
+  },
+  {
+    "Question": "What is the main aim of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)?",
+    "Option1": "Providing free education",
+    "Option2": "Ensuring food security",
+    "Option3": "Providing employment to rural households",
+    "Option4": "Promoting urban development",
+    "CorrectOption": "Providing employment to rural households"
+  },
+  {
+    "Question": "In 'The Story of Village Palampur,' what is the role of multiple cropping in agriculture?",
+    "Option1": "Increasing reliance on a single crop",
+    "Option2": "Reducing agricultural productivity",
+    "Option3": "Diversifying and increasing agricultural output",
+    "Option4": "Encouraging monoculture",
+    "CorrectOption": "Diversifying and increasing agricultural output"
+  },
+  {
+    "Question": "How does education contribute to human resource development?",
+    "Option1": "By promoting unemployment",
+    "Option2": "By increasing population growth",
+    "Option3": "By improving skills and knowledge",
+    "Option4": "By limiting career opportunities",
+    "CorrectOption": "By improving skills and knowledge"
+  },
+  {
+    "Question": "Which factor contributes to seasonal unemployment in agriculture?",
+    "Option1": "Use of modern farming techniques",
+    "Option2": "Dependence on monsoon",
+    "Option3": "Diversification of crops",
+    "Option4": "Mechanization of agriculture",
+    "CorrectOption": "Dependence on monsoon"
+  },
+  {
+    "Question": "What is the key feature of the National Rural Health Mission (NRHM)?",
+    "Option1": "Promoting urban healthcare",
+    "Option2": "Providing employment to urban youth",
+    "Option3": "Improving rural healthcare infrastructure",
+    "Option4": "Eliminating poverty in rural areas",
+    "CorrectOption": "Improving rural healthcare infrastructure"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' what is the role of the National Food Security Act (NFSA)?",
+    "Option1": "Ensuring adequate nutrition for the poor",
+    "Option2": "Providing interest-free loans",
+    "Option3": "Subsidizing industrial products",
+    "Option4": "Eliminating unemployment",
+    "CorrectOption": "Ensuring adequate nutrition for the poor"
+  },
+  {
+    "Question": "What is the significance of the Green Revolution in India?",
+    "Option1": "Decreased agricultural productivity",
+    "Option2": "Increased reliance on traditional farming methods",
+    "Option3": "Enhanced agricultural production and food security",
+    "Option4": "Promotion of organic farming",
+    "CorrectOption": "Enhanced agricultural production and food security"
+  },
+  {
+    "Question": "What is the primary objective of the Midday Meal Scheme?",
+    "Option1": "Promoting physical fitness",
+    "Option2": "Ensuring free meals for school children",
+    "Option3": "Reducing child labor",
+    "Option4": "Improving school infrastructure",
+    "CorrectOption": "Ensuring free meals for school children"
+  },
+  {
+    "Question": "Which economic activity is NOT discussed in the chapter 'People as Resource'?",
+    "Option1": "Healthcare",
+    "Option2": "Education",
+    "Option3": "Manufacturing",
+    "Option4": "Agriculture",
+    "CorrectOption": "Manufacturing"
+  },
+  {
+    "Question": "What is the primary aim of the National Rural Employment Guarantee Act (NREGA)?",
+    "Option1": "Ensuring food security",
+    "Option2": "Providing employment to rural households",
+    "Option3": "Promoting urban development",
+    "Option4": "Improving literacy rates",
+    "CorrectOption": "Providing employment to rural households"
+  },
+  {
+    "Question": "In the context of 'Food Security in India,' what does the term 'buffer stock' refer to?",
+    "Option1": "Reserves of essential commodities",
+    "Option2": "Excess food wastage",
+    "Option3": "Unutilized agricultural land",
+    "Option4": "Food distribution centers",
+    "CorrectOption": "Reserves of essential commodities"
+  },
+  {
+    "Question": "What is the primary occupation of the people in 'The Story of Village Palampur'?",
+    "Option1": "Weaving",
+    "Option2": "Farming",
+    "Option3": "Trading",
+    "Option4": "Cattle rearing",
+    "CorrectOption": "Farming"
+  },
+  {
+    "Question": "How does education contribute to human resource development in 'People as Resource'?",
+    "Option1": "By promoting unemployment",
+    "Option2": "By increasing population growth",
+    "Option3": "By improving skills and knowledge",
+    "Option4": "By limiting career opportunities",
+    "CorrectOption": "By improving skills and knowledge"
+  },
+  {
+    "Question": "What is the main focus of 'Poverty as a Challenge' in economics?",
+    "Option1": "Income inequality",
+    "Option2": "Lack of education",
+    "Option3": "Unemployment",
+    "Option4": "Living below the poverty line",
+    "CorrectOption": "Living below the poverty line"
+  },
+  {
+    "Question": "In the context of 'The Story of Village Palampur,' what is the role of multiple cropping in agriculture?",
+    "Option1": "Increasing reliance on a single crop",
+    "Option2": "Reducing agricultural productivity",
+    "Option3": "Diversifying and increasing agricultural output",
+    "Option4": "Encouraging monoculture",
+    "CorrectOption": "Diversifying and increasing agricultural output"
+  },
+  {
+    "Question": "How is human population considered a resource in 'People as Resource'?",
+    "Option1": "As a liability",
+    "Option2": "As an asset",
+    "Option3": "As a debt",
+    "Option4": "As a burden",
+    "CorrectOption": "As an asset"
+  },
+  {
+    "Question": "Which economic activity is NOT discussed in 'People as Resource'?",
+    "Option1": "Healthcare",
+    "Option2": "Education",
+    "Option3": "Manufacturing",
+    "Option4": "Agriculture",
+    "CorrectOption": "Manufacturing"
+  },
+  {
+    "Question": "What is the significance of the National Rural Health Mission (NRHM) in the context of 'People as Resource'?",
+    "Option1": "Providing urban healthcare facilities",
+    "Option2": "Improving rural healthcare infrastructure",
+    "Option3": "Promoting industrial growth",
+    "Option4": "Eliminating unemployment",
+    "CorrectOption": "Improving rural healthcare infrastructure"
+  },
+  {
+    "Question": "Which factor is NOT considered a dimension of poverty in 'Poverty as a Challenge'?",
+    "Option1": "Illiteracy",
+    "Option2": "Social inequality",
+    "Option3": "High agricultural productivity",
+    "Option4": "Unemployment",
+    "CorrectOption": "High agricultural productivity"
+  },
+  {
+    "Question": "What role does land ownership play in determining poverty levels in 'Poverty as a Challenge'?",
+    "Option1": "Increases poverty",
+    "Option2": "Decreases poverty",
+    "Option3": "Has no impact on poverty",
+    "Option4": "Leads to social inequality",
+    "CorrectOption": "Increases poverty"
+  },
+  {
+    "Question": "What is the aim of the National Rural Health Mission (NRHM) in 'People as Resource'?",
+    "Option1": "Promoting urban healthcare",
+    "Option2": "Providing employment to urban youth",
+    "Option3": "Improving rural healthcare infrastructure",
+    "Option4": "Eliminating poverty in rural areas",
+    "CorrectOption": "Improving rural healthcare infrastructure"
+  },
+  {
+    "Question": "In 'Food Security in India,' what is the primary focus of the Public Distribution System (PDS)?",
+    "Option1": "Subsidizing industrial products",
+    "Option2": "Providing interest-free loans",
+    "Option3": "Ensuring food distribution to the poor",
+    "Option4": "Eliminating unemployment",
+    "CorrectOption": "Ensuring food distribution to the poor"
+  },
+  {
+    "Question": "What is the purpose of crop rotation in agriculture, as mentioned in 'The Story of Village Palampur'?",
+    "Option1": "Decreasing soil fertility",
+    "Option2": "Increasing the yield of a single crop",
+    "Option3": "Reducing water usage",
+    "Option4": "Maintaining soil fertility",
+    "CorrectOption": "Maintaining soil fertility"
+  },
+  {
+    "Question": "How does the implementation of modern farming techniques impact agriculture in 'The Story of Village Palampur'?",
+    "Option1": "Decreases agricultural productivity",
+    "Option2": "Increases dependence on monsoon",
+    "Option3": "Leads to monoculture",
+    "Option4": "Enhances agricultural efficiency",
+    "CorrectOption": "Enhances agricultural efficiency"
+  },
+  {
+    "Question": "In 'People as Resource,' what role does health play in human resource development?",
+    "Option1": "Increases poverty",
+    "Option2": "Promotes economic growth",
+    "Option3": "Leads to unemployment",
+    "Option4": "Reduces population",
+    "CorrectOption": "Promotes economic growth"
+  },
+  {
+    "Question": "What is the significance of the term 'White Revolution' in the context of agriculture in India?",
+    "Option1": "Promotes organic farming",
+    "Option2": "Improves milk production",
+    "Option3": "Reduces crop yields",
+    "Option4": "Encourages monoculture",
+    "CorrectOption": "Improves milk production"
+  },
+  {
+    "Question": "How does the Green Revolution contribute to 'People as Resource'?",
+    "Option1": "Decreases agricultural efficiency",
+    "Option2": "Increases dependence on monsoon",
+    "Option3": "Enhances agricultural productivity",
+    "Option4": "Promotes unemployment",
+    "CorrectOption": "Enhances agricultural productivity"
+  },
+  {
+    "Question": "What is the primary aim of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)?",
+    "Option1": "Providing employment to urban youth",
+    "Option2": "Ensuring food security",
+    "Option3": "Promoting industrial growth",
+    "Option4": "Providing employment to rural households",
+    "CorrectOption": "Providing employment to rural households"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' what is the significance of literacy in poverty eradication?",
+    "Option1": "Increases poverty",
+    "Option2": "Decreases poverty",
+    "Option3": "Has no impact on poverty",
+    "Option4": "Leads to social inequality",
+    "CorrectOption": "Decreases poverty"
+  },
+  {
+    "Question": "How does the Public Distribution System (PDS) contribute to 'Food Security in India'?",
+    "Option1": "Subsidizes industrial products",
+    "Option2": "Provides interest-free loans",
+    "Option3": "Ensures fair distribution of food to the poor",
+    "Option4": "Promotes unemployment",
+    "CorrectOption": "Ensures fair distribution of food to the poor"
+  },
+  {
+    "Question": "What is the primary factor contributing to poverty according to 'Poverty as a Challenge'?",
+    "Option1": "High agricultural productivity",
+    "Option2": "Illiteracy",
+    "Option3": "Social inequality",
+    "Option4": "Rapid industrialization",
+    "CorrectOption": "Social inequality"
+  },
+  {
+    "Question": "What is the primary goal of the Integrated Child Development Services (ICDS) program?",
+    "Option1": "Ensuring free healthcare for all children",
+    "Option2": "Improving maternal health",
+    "Option3": "Providing nutrition to children and mothers",
+    "Option4": "Promoting higher education",
+    "CorrectOption": "Providing nutrition to children and mothers"
+  },
+  {
+    "Question": "In 'People as Resource,' how does education contribute to human resource development?",
+    "Option1": "Promoting unemployment",
+    "Option2": "Increasing population growth",
+    "Option3": "Improving skills and knowledge",
+    "Option4": "Limiting career opportunities",
+    "CorrectOption": "Improving skills and knowledge"
+  },
+  {
+    "Question": "What is the significance of the Green Revolution in the context of agriculture in India?",
+    "Option1": "Decreases agricultural productivity",
+    "Option2": "Increases dependence on monsoon",
+    "Option3": "Leads to monoculture",
+    "Option4": "Enhances agricultural efficiency",
+    "CorrectOption": "Enhances agricultural efficiency"
+  },
+  {
+    "Question": "In 'The Story of Village Palampur,' what factors contribute to the development of non-farm activities in the village?",
+    "Option1": "Decrease in population",
+    "Option2": "Availability of water",
+    "Option3": "Absence of roads",
+    "Option4": "High dependence on agriculture",
+    "CorrectOption": "Availability of water"
+  },
+  {
+    "Question": "How does technology play a crucial role in 'People as Resource'?",
+    "Option1": "Leads to unemployment",
+    "Option2": "Promotes economic growth",
+    "Option3": "Reduces dependence on technology",
+    "Option4": "Decreases productivity",
+    "CorrectOption": "Promotes economic growth"
+  },
+  {
+    "Question": "What is the impact of illiteracy on the human resource in 'People as Resource'?",
+    "Option1": "Increases human capital",
+    "Option2": "Promotes economic growth",
+    "Option3": "Leads to unemployment",
+    "Option4": "Reduces productivity",
+    "CorrectOption": "Leads to unemployment"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' how does social inequality contribute to poverty?",
+    "Option1": "Decreases poverty",
+    "Option2": "Increases poverty",
+    "Option3": "Has no impact on poverty",
+    "Option4": "Promotes employment",
+    "CorrectOption": "Increases poverty"
+  },
+  {
+    "Question": "What is the role of government policies in 'Food Security in India'?",
+    "Option1": "Increasing food prices",
+    "Option2": "Ensuring fair distribution of food",
+    "Option3": "Promoting unemployment",
+    "Option4": "Limiting food production",
+    "CorrectOption": "Ensuring fair distribution of food"
+  },
+  {
+    "Question": "How does population growth become a challenge in 'People as Resource'?",
+    "Option1": "Promotes economic growth",
+    "Option2": "Increases dependence on technology",
+    "Option3": "Leads to unemployment",
+    "Option4": "Limits resources for development",
+    "CorrectOption": "Limits resources for development"
+  },
+  {
+    "Question": "What are the consequences of social inequality according to 'Poverty as a Challenge'?",
+    "Option1": "Promotes economic growth",
+    "Option2": "Increases poverty",
+    "Option3": "Leads to unemployment",
+    "Option4": "Reduces human capital",
+    "CorrectOption": "Increases poverty"
+  },
+  {
+    "Question": "How does the government intervene in 'Food Security in India'?",
+    "Option1": "Subsidizing industrial products",
+    "Option2": "Ensuring fair distribution of food",
+    "Option3": "Promoting unemployment",
+    "Option4": "Limiting food production",
+    "CorrectOption": "Ensuring fair distribution of food"
+  },
+  {
+    "Question": "What is the significance of education in 'People as Resource'?",
+    "Option1": "Promoting unemployment",
+    "Option2": "Increasing population growth",
+    "Option3": "Improving skills and knowledge",
+    "Option4": "Limiting career opportunities",
+    "CorrectOption": "Improving skills and knowledge"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' how does globalization impact poverty?",
+    "Option1": "Reduces income inequality",
+    "Option2": "Increases poverty",
+    "Option3": "Leads to unemployment",
+    "Option4": "Promotes economic growth",
+    "CorrectOption": "Increases poverty"
+  },
+  {
+    "Question": "In 'The Story of Village Palampur,' how does the availability of irrigation facilities impact agricultural practices?",
+    "Option1": "Decreases agricultural productivity",
+    "Option2": "Increases dependence on monsoon",
+    "Option3": "Leads to monoculture",
+    "Option4": "Enhances crop yield",
+    "CorrectOption": "Enhances crop yield"
+  },
+  {
+    "Question": "How does the implementation of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) impact rural employment?",
+    "Option1": "Decreases rural employment",
+    "Option2": "Increases rural employment",
+    "Option3": "Has no impact on rural employment",
+    "Option4": "Promotes urban employment",
+    "CorrectOption": "Increases rural employment"
+  },
+  {
+    "Question": "What is the significance of literacy in the context of 'People as Resource'?",
+    "Option1": "Increases human capital",
+    "Option2": "Promotes economic growth",
+    "Option3": "Leads to unemployment",
+    "Option4": "Reduces population",
+    "CorrectOption": "Increases human capital"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' how does unemployment contribute to poverty?",
+    "Option1": "Decreases poverty",
+    "Option2": "Increases poverty",
+    "Option3": "Has no impact on poverty",
+    "Option4": "Promotes employment",
+    "CorrectOption": "Increases poverty"
+  },
+  {
+    "Question": "What is the role of education in 'People as Resource'?",
+    "Option1": "Promoting unemployment",
+    "Option2": "Increasing population growth",
+    "Option3": "Improving skills and knowledge",
+    "Option4": "Limiting career opportunities",
+    "CorrectOption": "Improving skills and knowledge"
+  },
+  {
+    "Question": "How does globalization impact the rural economy, as discussed in 'People as Resource'?",
+    "Option1": "Promotes rural development",
+    "Option2": "Decreases dependence on technology",
+    "Option3": "Leads to unemployment",
+    "Option4": "Increases migration",
+    "CorrectOption": "Increases migration"
+  },
+  {
+    "Question": "What is the role of health in 'People as Resource'?",
+    "Option1": "Leads to unemployment",
+    "Option2": "Promotes economic growth",
+    "Option3": "Reduces population",
+    "Option4": "Improves human capital",
+    "CorrectOption": "Improves human capital"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' how does education contribute to poverty reduction?",
+    "Option1": "Promoting unemployment",
+    "Option2": "Increasing population growth",
+    "Option3": "Improving skills and knowledge",
+    "Option4": "Limiting career opportunities",
+    "CorrectOption": "Improving skills and knowledge"
+  },
+  {
+    "Question": "How does the Green Revolution contribute to 'Food Security in India'?",
+    "Option1": "Decreases agricultural efficiency",
+    "Option2": "Increases dependence on monsoon",
+    "Option3": "Enhances agricultural productivity",
+    "Option4": "Promotes unemployment",
+    "CorrectOption": "Enhances agricultural productivity"
+  },
+  {
+    "Question": "In 'The Story of Village Palampur,' what is the significance of multiple cropping?",
+    "Option1": "Decreases agricultural productivity",
+    "Option2": "Increases dependence on monsoon",
+    "Option3": "Leads to monoculture",
+    "Option4": "Enhances total agricultural output",
+    "CorrectOption": "Enhances total agricultural output"
+  },
+  {
+    "Question": "How does the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) contribute to rural development in 'People as Resource'?",
+    "Option1": "Decreases rural employment",
+    "Option2": "Increases rural employment",
+    "Option3": "Has no impact on rural employment",
+    "Option4": "Promotes urban employment",
+    "CorrectOption": "Increases rural employment"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' how does lack of access to education perpetuate the poverty cycle?",
+    "Option1": "Decreases poverty",
+    "Option2": "Increases poverty",
+    "Option3": "Has no impact on poverty",
+    "Option4": "Promotes employment",
+    "CorrectOption": "Increases poverty"
+  },
+  {
+    "Question": "What role does the Public Distribution System (PDS) play in ensuring 'Food Security in India'?",
+    "Option1": "Subsidizes industrial products",
+    "Option2": "Provides interest-free loans",
+    "Option3": "Ensures fair distribution of food to the poor",
+    "Option4": "Promotes unemployment",
+    "CorrectOption": "Ensures fair distribution of food to the poor"
+  },
+  {
+    "Question": "How does the literacy rate impact 'People as Resource'?",
+    "Option1": "Increases human capital",
+    "Option2": "Promotes economic growth",
+    "Option3": "Leads to unemployment",
+    "Option4": "Reduces population",
+    "CorrectOption": "Increases human capital"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' how does the lack of access to healthcare contribute to poverty?",
+    "Option1": "Decreases poverty",
+    "Option2": "Increases poverty",
+    "Option3": "Has no impact on poverty",
+    "Option4": "Promotes employment",
+    "CorrectOption": "Increases poverty"
+  },
+  {
+    "Question": "What is the role of education in breaking the poverty cycle in 'Poverty as a Challenge'?",
+    "Option1": "Promoting unemployment",
+    "Option2": "Increasing population growth",
+    "Option3": "Improving skills and knowledge",
+    "Option4": "Limiting career opportunities",
+    "CorrectOption": "Improving skills and knowledge"
+  },
+  {
+    "Question": "In 'The Story of Village Palampur,' what are the challenges faced by farmers in obtaining credit?",
+    "Option1": "Easy availability of credit",
+    "Option2": "High-interest rates",
+    "Option3": "Abundance of cooperative banks",
+    "Option4": "Low demand for credit",
+    "CorrectOption": "High-interest rates"
+  },
+  {
+    "Question": "How does the concept of 'People as Resource' emphasize the role of education in human resource development?",
+    "Option1": "Promoting unemployment",
+    "Option2": "Increasing population growth",
+    "Option3": "Improving skills and knowledge",
+    "Option4": "Limiting career opportunities",
+    "CorrectOption": "Improving skills and knowledge"
+  },
+  {
+    "Question": "What is the significance of the Green Revolution in the context of 'Food Security in India'?",
+    "Option1": "Decreases agricultural efficiency",
+    "Option2": "Increases dependence on monsoon",
+    "Option3": "Enhances agricultural productivity",
+    "Option4": "Promotes unemployment",
+    "CorrectOption": "Enhances agricultural productivity"
+  },
+  {
+    "Question": "How does the National Rural Employment Guarantee Act (NREGA) contribute to 'People as Resource'?",
+    "Option1": "Decreases rural employment",
+    "Option2": "Increases rural employment",
+    "Option3": "Has no impact on rural employment",
+    "Option4": "Promotes urban employment",
+    "CorrectOption": "Increases rural employment"
+  },
+  {
+    "Question": "In 'Poverty as a Challenge,' how does the lack of access to education perpetuate the poverty cycle?",
+    "Option1": "Decreases poverty",
+    "Option2": "Increases poverty",
+    "Option3": "Has no impact on poverty",
+    "Option4": "Promotes employment",
+    "CorrectOption": "Increases poverty"
+  },
+  {
+    "Question": "In 'Food Security in India,' what role does the Public Distribution System (PDS) play?",
+    "Option1": "Subsidizes industrial products",
+    "Option2": "Provides interest-free loans",
+    "Option3": "Ensures fair distribution of food to the poor",
+    "Option4": "Promotes unemployment",
+    "CorrectOption": "Ensures fair distribution of food to the poor"
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "Question": "What is the basic structural and functional unit of all living organisms?",
+    "Option1": "Cell",
+    "Option2": "Tissue",
+    "Option3": "Organ",
+    "Option4": "Organism",
+    "CorrectOption": "Cell"
+  },
+  {
+    "Question": "Which of the following is a group of cells that work together to perform a specific function?",
+    "Option1": "Cell",
+    "Option2": "Tissue",
+    "Option3": "Organ",
+    "Option4": "Organism",
+    "CorrectOption": "Tissue"
+  },
+  {
+    "Question": "In the human body, what is an example of a connective tissue?",
+    "Option1": "Muscle Tissue",
+    "Option2": "Epithelial Tissue",
+    "Option3": "Nervous Tissue",
+    "Option4": "Blood Tissue",
+    "CorrectOption": "Blood Tissue"
+  },
+  {
+    "Question": "Which level of organization is formed by a group of tissues working together to perform specific functions?",
+    "Option1": "Cellular Level",
+    "Option2": "Tissue Level",
+    "Option3": "Organ Level",
+    "Option4": "Organism Level",
+    "CorrectOption": "Organ Level"
+  },
+  {
+    "Question": "What is an example of an organ in the human body?",
+    "Option1": "Heart",
+    "Option2": "Epidermis",
+    "Option3": "Nerve Cell",
+    "Option4": "Red Blood Cell",
+    "CorrectOption": "Heart"
+  },
+  {
+    "Question": "A group of organs working together to perform a specific function forms:",
+    "Option1": "Cell",
+    "Option2": "Tissue",
+    "Option3": "Organ",
+    "Option4": "Organ System",
+    "CorrectOption": "Organ System"
+  },
+  {
+    "Question": "What is an example of an organ system in the human body?",
+    "Option1": "Circulatory System",
+    "Option2": "Epithelial System",
+    "Option3": "Nervous System",
+    "Option4": "Blood System",
+    "CorrectOption": "Circulatory System"
+  },
+  {
+    "Question": "The highest level of organization in a living organism is the:",
+    "Option1": "Cellular Level",
+    "Option2": "Tissue Level",
+    "Option3": "Organ Level",
+    "Option4": "Organism Level",
+    "CorrectOption": "Organism Level"
+  },
+  {
+    "Question": "What is an example of a unicellular organism?",
+    "Option1": "Human",
+    "Option2": "Amoeba",
+    "Option3": "Dog",
+    "Option4": "Elephant",
+    "CorrectOption": "Amoeba"
+  },
+  {
+    "Question": "Which of the following statements is true about cells?",
+    "Option1": "All cells have a nucleus",
+    "Option2": "Plant cells lack a cell wall",
+    "Option3": "Animal cells have a cell wall",
+    "Option4": "Prokaryotic cells lack a nucleus",
+    "CorrectOption": "Prokaryotic cells lack a nucleus"
+  },
+  {
+    "Question": "What is the primary function of nervous tissue?",
+    "Option1": "Contraction",
+    "Option2": "Communication",
+    "Option3": "Secretion",
+    "Option4": "Protection",
+    "CorrectOption": "Communication"
+  },
+  {
+    "Question": "In the digestive system, what is an example of an organ?",
+    "Option1": "Stomach",
+    "Option2": "Adrenal Gland",
+    "Option3": "Thyroid Gland",
+    "Option4": "Pancreas",
+    "CorrectOption": "Stomach"
+  },
+  {
+    "Question": "Which organ system is responsible for supporting and protecting the body?",
+    "Option1": "Circulatory System",
+    "Option2": "Skeletal System",
+    "Option3": "Digestive System",
+    "Option4": "Nervous System",
+    "CorrectOption": "Skeletal System"
+  },
+  {
+    "Question": "What is an example of a multicellular organism?",
+    "Option1": "Bacteria",
+    "Option2": "Yeast",
+    "Option3": "Amoeba",
+    "Option4": "Human",
+    "CorrectOption": "Human"
+  },
+  {
+    "Question": "Which of the following is a function of the circulatory system?",
+    "Option1": "Digestion",
+    "Option2": "Transport of Oxygen",
+    "Option3": "Muscle Contraction",
+    "Option4": "Breathing",
+    "CorrectOption": "Transport of Oxygen"
+  },
+  {
+    "Question": "What is an example of a eukaryotic cell?",
+    "Option1": "Bacterial Cell",
+    "Option2": "Plant Cell",
+    "Option3": "Prokaryotic Cell",
+    "Option4": "Fungal Cell",
+    "CorrectOption": "Plant Cell"
+  },
+  {
+    "Question": "In the human body, what is the primary function of the respiratory system?",
+    "Option1": "Transport of Nutrients",
+    "Option2": "Exchange of Gases",
+    "Option3": "Filtering Blood",
+    "Option4": "Regulation of Hormones",
+    "CorrectOption": "Exchange of Gases"
+  },
+  {
+    "Question": "Which tissue type covers the body surface and lines internal organs?",
+    "Option1": "Muscle Tissue",
+    "Option2": "Nervous Tissue",
+    "Option3": "Connective Tissue",
+    "Option4": "Epithelial Tissue",
+    "CorrectOption": "Epithelial Tissue"
+  },
+  {
+    "Question": "What is the primary function of the muscular system?",
+    "Option1": "Support and Protection",
+    "Option2": "Movement",
+    "Option3": "Communication",
+    "Option4": "Transportation",
+    "CorrectOption": "Movement"
+  },
+  {
+    "Question": "In a plant, what is an example of an organ?",
+    "Option1": "Leaf",
+    "Option2": "Root Hair",
+    "Option3": "Xylem",
+    "Option4": "Phloem",
+    "CorrectOption": "Leaf"
+  },
+  {
+    "Question": "Which of the following is a characteristic of living organisms?",
+    "Option1": "Movement",
+    "Option2": "Rotation",
+    "Option3": "Expansion",
+    "Option4": "Compression",
+    "CorrectOption": "Movement"
+  },
+  {
+    "Question": "What is the primary function of the reproductive system?",
+    "Option1": "Energy Production",
+    "Option2": "Growth and Development",
+    "Option3": "Reproduction",
+    "Option4": "Excretion",
+    "CorrectOption": "Reproduction"
+  },
+  {
+    "Question": "Which of the following statements is true about prokaryotic cells?",
+    "Option1": "They have a nucleus",
+    "Option2": "They lack a cell membrane",
+    "Option3": "They lack membrane-bound organelles",
+    "Option4": "They are found in plants",
+    "CorrectOption": "They lack membrane-bound organelles"
+  },
+  {
+    "Question": "In the human body, what is an example of an excretory organ?",
+    "Option1": "Liver",
+    "Option2": "Lung",
+    "Option3": "Kidney",
+    "Option4": "Heart",
+    "CorrectOption": "Kidney"
+  },
+  {
+    "Question": "What is the primary function of the excretory system?",
+    "Option1": "Respiration",
+    "Option2": "Nutrient Absorption",
+    "Option3": "Waste Elimination",
+    "Option4": "Digestion",
+    "CorrectOption": "Waste Elimination"
+  },
+  {
+    "Question": "In the human body, what is an example of a glandular organ?",
+    "Option1": "Lung",
+    "Option2": "Stomach",
+    "Option3": "Liver",
+    "Option4": "Small Intestine",
+    "CorrectOption": "Liver"
+  },
+  {
+    "Question": "Which tissue type provides support and connects different parts of the body?",
+    "Option1": "Muscle Tissue",
+    "Option2": "Nervous Tissue",
+    "Option3": "Connective Tissue",
+    "Option4": "Epithelial Tissue",
+    "CorrectOption": "Connective Tissue"
+  },
+  {
+    "Question": "What is an example of a unicellular eukaryotic organism?",
+    "Option1": "Amoeba",
+    "Option2": "Bacteria",
+    "Option3": "Yeast",
+    "Option4": "Mushroom",
+    "CorrectOption": "Amoeba"
+  },
+  {
+    "Question": "In a plant, what is an example of a tissue?",
+    "Option1": "Root",
+    "Option2": "Xylem",
+    "Option3": "Stem",
+    "Option4": "Leaf",
+    "CorrectOption": "Xylem"
+  },
+  {
+    "Question": "Which organ system is responsible for producing hormones and regulating body functions?",
+    "Option1": "Endocrine System",
+    "Option2": "Digestive System",
+    "Option3": "Muscular System",
+    "Option4": "Skeletal System",
+    "CorrectOption": "Endocrine System"
+  },
+  {
+    "Question": "What is an example of an organ system in a plant?",
+    "Option1": "Vascular System",
+    "Option2": "Nervous System",
+    "Option3": "Muscular System",
+    "Option4": "Endocrine System",
+    "CorrectOption": "Vascular System"
+  },
+  {
+    "Question": "Which of the following is an example of a prokaryotic organism?",
+    "Option1": "Amoeba",
+    "Option2": "Bacteria",
+    "Option3": "Yeast",
+    "Option4": "Human",
+    "CorrectOption": "Bacteria"
+  },
+  {
+    "Question": "What is the primary function of the integumentary system?",
+    "Option1": "Support and Movement",
+    "Option2": "Protection and Defense",
+    "Option3": "Energy Production",
+    "Option4": "Respiration",
+    "CorrectOption": "Protection and Defense"
+  },
+  {
+    "Question": "In a plant, what is an example of an organ system?",
+    "Option1": "Root System",
+    "Option2": "Leaf System",
+    "Option3": "Stem System",
+    "Option4": "Flower System",
+    "CorrectOption": "Root System"
+  },
+  {
+    "Question": "Which of the following is a function of the skeletal system?",
+    "Option1": "Blood Circulation",
+    "Option2": "Food Digestion",
+    "Option3": "Movement and Support",
+    "Option4": "Respiration",
+    "CorrectOption": "Movement and Support"
+  },
+  {
+    "Question": "What is the primary function of the lymphatic system?",
+    "Option1": "Transport of Nutrients",
+    "Option2": "Immune Defense",
+    "Option3": "Excretion",
+    "Option4": "Respiration",
+    "CorrectOption": "Immune Defense"
+  },
+  {
+    "Question": "In the human body, what is an example of a muscular organ?",
+    "Option1": "Heart",
+    "Option2": "Brain",
+    "Option3": "Kidney",
+    "Option4": "Liver",
+    "CorrectOption": "Heart"
+  },
+  {
+    "Question": "Which of the following is an example of a plant organ?",
+    "Option1": "Vascular Bundle",
+    "Option2": "Root Hair",
+    "Option3": "Leaf Vein",
+    "Option4": "Xylem",
+    "CorrectOption": "Vascular Bundle"
+  },
+  {
+    "Question": "What is an example of a tissue in the human body?",
+    "Option1": "Mitochondria",
+    "Option2": "Blood",
+    "Option3": "Ribosome",
+    "Option4": "Nucleus",
+    "CorrectOption": "Blood"
+  },
+  {
+    "Question": "Which organ system is responsible for breaking down food and absorbing nutrients?",
+    "Option1": "Digestive System",
+    "Option2": "Circulatory System",
+    "Option3": "Endocrine System",
+    "Option4": "Excretory System",
+    "CorrectOption": "Digestive System"
+  },
+  {
+    "Question": "In the human body, what is an example of a reproductive organ?",
+    "Option1": "Heart",
+    "Option2": "Lung",
+    "Option3": "Ovary",
+    "Option4": "Stomach",
+    "CorrectOption": "Ovary"
+  },
+  {
+    "Question": "Which of the following is a characteristic of epithelial tissue?",
+    "Option1": "Contractility",
+    "Option2": "Protection",
+    "Option3": "Communication",
+    "Option4": "Conduction",
+    "CorrectOption": "Protection"
+  },
+  {
+    "Question": "What is the primary function of the endocrine system?",
+    "Option1": "Transportation",
+    "Option2": "Hormone Production",
+    "Option3": "Muscle Contraction",
+    "Option4": "Nutrient Absorption",
+    "CorrectOption": "Hormone Production"
+  },
+  {
+    "Question": "In the human body, what is an example of a sensory organ?",
+    "Option1": "Liver",
+    "Option2": "Eye",
+    "Option3": "Pancreas",
+    "Option4": "Stomach",
+    "CorrectOption": "Eye"
+  },
+  {
+    "Question": "What is the primary function of the nervous system?",
+    "Option1": "Movement",
+    "Option2": "Communication",
+    "Option3": "Reproduction",
+    "Option4": "Respiration",
+    "CorrectOption": "Communication"
+  },
+  {
+    "Question": "In the human body, what is an example of a protective organ?",
+    "Option1": "Heart",
+    "Option2": "Brain",
+    "Option3": "Lung",
+    "Option4": "Skin",
+    "CorrectOption": "Skin"
+  },
+  {
+    "Question": "Which of the following is an example of an involuntary muscle?",
+    "Option1": "Bicep",
+    "Option2": "Heart",
+    "Option3": "Quadriceps",
+    "Option4": "Hamstring",
+    "CorrectOption": "Heart"
+  },
+  {
+    "Question": "What is the primary function of the digestive system?",
+    "Option1": "Blood Circulation",
+    "Option2": "Energy Production",
+    "Option3": "Gas Exchange",
+    "Option4": "Nutrient Breakdown",
+    "CorrectOption": "Nutrient Breakdown"
+  },
+  {
+    "Question": "In a plant, what is an example of a reproductive structure?",
+    "Option1": "Root",
+    "Option2": "Stem",
+    "Option3": "Flower",
+    "Option4": "Leaf",
+    "CorrectOption": "Flower"
+  },
+  {
+    "Question": "Which of the following is an example of a plant tissue?",
+    "Option1": "Blood",
+    "Option2": "Xylem",
+    "Option3": "Nervous Tissue",
+    "Option4": "Muscle Tissue",
+    "CorrectOption": "Xylem"
+  },
+  {
+    "Question": "In the human body, what is an example of a reproductive system organ?",
+    "Option1": "Liver",
+    "Option2": "Heart",
+    "Option3": "Ovary",
+    "Option4": "Lung",
+    "CorrectOption": "Ovary"
+  },
+  {
+    "Question": "What is an example of an organ system responsible for maintaining water balance in the body?",
+    "Option1": "Excretory System",
+    "Option2": "Circulatory System",
+    "Option3": "Respiratory System",
+    "Option4": "Digestive System",
+    "CorrectOption": "Excretory System"
+  },
+  {
+    "Question": "In a plant, what is an example of a plant organ?",
+    "Option1": "Root",
+    "Option2": "Xylem",
+    "Option3": "Stem",
+    "Option4": "Leaf",
+    "CorrectOption": "Root"
+  },
+  {
+    "Question": "Which tissue type is responsible for contraction and movement in animals?",
+    "Option1": "Muscle Tissue",
+    "Option2": "Connective Tissue",
+    "Option3": "Nervous Tissue",
+    "Option4": "Epithelial Tissue",
+    "CorrectOption": "Muscle Tissue"
+  },
+  {
+    "Question": "What is the primary function of the reproductive system in animals?",
+    "Option1": "Transportation",
+    "Option2": "Movement",
+    "Option3": "Reproduction",
+    "Option4": "Nutrient Absorption",
+    "CorrectOption": "Reproduction"
+  },
+  {
+    "Question": "In the human body, what is an example of an exocrine gland?",
+    "Option1": "Pancreas",
+    "Option2": "Thyroid Gland",
+    "Option3": "Sweat Gland",
+    "Option4": "Adrenal Gland",
+    "CorrectOption": "Sweat Gland"
+  },
+  {
+    "Question": "What is an example of an organ system responsible for temperature regulation in the body?",
+    "Option1": "Circulatory System",
+    "Option2": "Integumentary System",
+    "Option3": "Muscular System",
+    "Option4": "Nervous System",
+    "CorrectOption": "Integumentary System"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ system involved in immune defense?",
+    "Option1": "Endocrine System",
+    "Option2": "Lymphatic System",
+    "Option3": "Digestive System",
+    "Option4": "Respiratory System",
+    "CorrectOption": "Lymphatic System"
+  },
+  {
+    "Question": "What is an example of a unicellular prokaryotic organism?",
+    "Option1": "Amoeba",
+    "Option2": "Bacteria",
+    "Option3": "Yeast",
+    "Option4": "Fungus",
+    "CorrectOption": "Bacteria"
+  },
+  {
+    "Question": "In a plant, what is an example of a plant tissue?",
+    "Option1": "Root",
+    "Option2": "Xylem",
+    "Option3": "Stem",
+    "Option4": "Leaf",
+    "CorrectOption": "Xylem"
+  },
+  {
+    "Question": "Which organ system is responsible for maintaining electrolyte balance in the body?",
+    "Option1": "Digestive System",
+    "Option2": "Circulatory System",
+    "Option3": "Excretory System",
+    "Option4": "Endocrine System",
+    "CorrectOption": "Excretory System"
+  },
+  {
+    "Question": "What is an example of an organ system responsible for coordination and control in animals?",
+    "Option1": "Circulatory System",
+    "Option2": "Integumentary System",
+    "Option3": "Nervous System",
+    "Option4": "Respiratory System",
+    "CorrectOption": "Nervous System"
+  },
+  {
+    "Question": "What is the primary function of the muscular system in animals?",
+    "Option1": "Support and Movement",
+    "Option2": "Protection and Defense",
+    "Option3": "Communication",
+    "Option4": "Transportation",
+    "CorrectOption": "Support and Movement"
+  },
+  {
+    "Question": "What is the primary function of the circulatory system in animals?",
+    "Option1": "Movement",
+    "Option2": "Communication",
+    "Option3": "Transport of Nutrients",
+    "Option4": "Reproduction",
+    "CorrectOption": "Transport of Nutrients"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ involved in digestion?",
+    "Option1": "Heart",
+    "Option2": "Lung",
+    "Option3": "Liver",
+    "Option4": "Brain",
+    "CorrectOption": "Liver"
+  },
+  {
+    "Question": "Which of the following is a function of the respiratory system?",
+    "Option1": "Blood Filtration",
+    "Option2": "Gas Exchange",
+    "Option3": "Food Absorption",
+    "Option4": "Waste Elimination",
+    "CorrectOption": "Gas Exchange"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ involved in immunity?",
+    "Option1": "Spleen",
+    "Option2": "Stomach",
+    "Option3": "Pancreas",
+    "Option4": "Kidney",
+    "CorrectOption": "Spleen"
+  },
+  {
+    "Question": "What is the primary function of the reproductive system in plants?",
+    "Option1": "Photosynthesis",
+    "Option2": "Seed Production",
+    "Option3": "Water Absorption",
+    "Option4": "Gas Exchange",
+    "CorrectOption": "Seed Production"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ involved in maintaining electrolyte balance?",
+    "Option1": "Stomach",
+    "Option2": "Liver",
+    "Option3": "Kidney",
+    "Option4": "Pancreas",
+    "CorrectOption": "Kidney"
+  },
+  {
+    "Question": "Which of the following is an example of a plant tissue involved in food storage?",
+    "Option1": "Xylem",
+    "Option2": "Phloem",
+    "Option3": "Meristematic Tissue",
+    "Option4": "Parenchyma Tissue",
+    "CorrectOption": "Parenchyma Tissue"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ involved in hormone production?",
+    "Option1": "Lung",
+    "Option2": "Pancreas",
+    "Option3": "Thyroid Gland",
+    "Option4": "Heart",
+    "CorrectOption": "Thyroid Gland"
+  },
+  {
+    "Question": "What is the primary function of the integumentary system in animals?",
+    "Option1": "Protection and Defense",
+    "Option2": "Transportation",
+    "Option3": "Respiration",
+    "Option4": "Digestion",
+    "CorrectOption": "Protection and Defense"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ involved in waste elimination?",
+    "Option1": "Liver",
+    "Option2": "Lung",
+    "Option3": "Kidney",
+    "Option4": "Heart",
+    "CorrectOption": "Kidney"
+  },
+  {
+    "Question": "Which of the following is a characteristic of connective tissue?",
+    "Option1": "Communication",
+    "Option2": "Support and Binding",
+    "Option3": "Contraction",
+    "Option4": "Protection",
+    "CorrectOption": "Support and Binding"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ involved in locomotion?",
+    "Option1": "Liver",
+    "Option2": "Heart",
+    "Option3": "Muscle",
+    "Option4": "Brain",
+    "CorrectOption": "Muscle"
+  },
+  {
+    "Question": "What is the primary function of the endocrine system in animals?",
+    "Option1": "Nutrient Absorption",
+    "Option2": "Transportation",
+    "Option3": "Hormone Production",
+    "Option4": "Gas Exchange",
+    "CorrectOption": "Hormone Production"
+  },
+  {
+    "Question": "In a plant, what is an example of a reproductive organ?",
+    "Option1": "Root",
+    "Option2": "Stem",
+    "Option3": "Flower",
+    "Option4": "Leaf",
+    "CorrectOption": "Flower"
+  },
+  {
+    "Question": "Which organ system is responsible for detoxification in the body?",
+    "Option1": "Digestive System",
+    "Option2": "Circulatory System",
+    "Option3": "Excretory System",
+    "Option4": "Respiratory System",
+    "CorrectOption": "Excretory System"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ involved in maintaining body temperature?",
+    "Option1": "Heart",
+    "Option2": "Skin",
+    "Option3": "Liver",
+    "Option4": "Kidney",
+    "CorrectOption": "Skin"
+  },
+  {
+    "Question": "What is the primary function of the skeletal system in animals?",
+    "Option1": "Gas Exchange",
+    "Option2": "Movement and Support",
+    "Option3": "Nutrient Absorption",
+    "Option4": "Digestion",
+    "CorrectOption": "Movement and Support"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ involved in sound production?",
+    "Option1": "Lung",
+    "Option2": "Heart",
+    "Option3": "Brain",
+    "Option4": "Vocal Cords",
+    "CorrectOption": "Vocal Cords"
+  },
+  {
+    "Question": "Which of the following is an example of a plant organ involved in water absorption?",
+    "Option1": "Root",
+    "Option2": "Stem",
+    "Option3": "Leaf",
+    "Option4": "Flower",
+    "CorrectOption": "Root"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ system involved in nutrient absorption?",
+    "Option1": "Circulatory System",
+    "Option2": "Digestive System",
+    "Option3": "Nervous System",
+    "Option4": "Respiratory System",
+    "CorrectOption": "Digestive System"
+  },
+  {
+    "Question": "What is the primary function of the lymphatic system in animals?",
+    "Option1": "Gas Exchange",
+    "Option2": "Immune Defense",
+    "Option3": "Nutrient Absorption",
+    "Option4": "Reproduction",
+    "CorrectOption": "Immune Defense"
+  },
+  {
+    "Question": "Which organ system is responsible for gas exchange in the body?",
+    "Option1": "Circulatory System",
+    "Option2": "Respiratory System",
+    "Option3": "Nervous System",
+    "Option4": "Muscular System",
+    "CorrectOption": "Respiratory System"
+  },
+  {
+    "Question": "In the human body, what is an example of an organ system involved in digestion?",
+    "Option1": "Respiratory System",
+    "Option2": "Circulatory System",
+    "Option3": "Digestive System",
+    "Option4": "Endocrine System",
+    "CorrectOption": "Digestive System"
+  },
+  {
+    "Question": "What is an example of an organ system responsible for reproduction in the body?",
+    "Option1": "Endocrine System",
+    "Option2": "Circulatory System",
+    "Option3": "Reproductive System",
+    "Option4": "Muscular System",
+    "CorrectOption": "Reproductive System"
+  }
+]
