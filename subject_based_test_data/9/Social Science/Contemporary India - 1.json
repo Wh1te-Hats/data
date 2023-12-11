@@ -1,0 +1,738 @@
+[
+  {
+    "Question": "What is the geographical significance of India's location?",
+    "Option1": "In the Southern Hemisphere",
+    "Option2": "Surrounded by Major Deserts",
+    "Option3": "Strategic Location in South Asia",
+    "Option4": "Isolation from Global Trade Routes",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which physical features dominate the northern part of India?",
+    "Option1": "Western Ghats",
+    "Option2": "Eastern Ghats",
+    "Option3": "Himalayan Mountains",
+    "Option4": "Deccan Plateau",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What major rivers constitute the Himalayan river system?",
+    "Option1": "Ganges, Yamuna, and Brahmaputra",
+    "Option2": "Godavari, Krishna, and Kaveri",
+    "Option3": "Indus, Jhelum, and Chenab",
+    "Option4": "Tungabhadra, Bhima, and Krishna",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "How does the climate of India vary from north to south?",
+    "Option1": "Tropical Climate throughout",
+    "Option2": "Polar Climate in Northern Regions",
+    "Option3": "Subtropical in North to Tropical in South",
+    "Option4": "Temperate Climate across the Country",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which vegetation type is predominant in the Western Ghats?",
+    "Option1": "Tundra",
+    "Option2": "Mangroves",
+    "Option3": "Tropical Rainforests",
+    "Option4": "Temperate Grasslands",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the primary factor influencing the distribution of wildlife in India?",
+    "Option1": "Industrialization",
+    "Option2": "Altitude Variation",
+    "Option3": "Population Density",
+    "Option4": "Monsoon Winds",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which river is known as the 'Sorrow of Bihar' due to its frequent floods?",
+    "Option1": "Yamuna",
+    "Option2": "Brahmaputra",
+    "Option3": "Ganges",
+    "Option4": "Godavari",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the major influence of the Himalayan mountain range on the climate of India?",
+    "Option1": "Blocking Cold Winds from the North",
+    "Option2": "Promoting Polar Climate in the Plains",
+    "Option3": "Inducing Desertification",
+    "Option4": "Enhancing Monsoon Winds",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which of the following is not a physical feature of India?",
+    "Option1": "Thar Desert",
+    "Option2": "Western Ghats",
+    "Option3": "Deccan Plateau",
+    "Option4": "Pamir Knot",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the significance of the Western Ghats in relation to rainfall patterns in India?",
+    "Option1": "Causing Rain Shadow in the Deccan Plateau",
+    "Option2": "Enhancing Monsoon Winds",
+    "Option3": "Promoting Cyclonic Activity",
+    "Option4": "Blocking Moisture-Laden Winds",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which river is known as the 'Ganga of the South'?",
+    "Option1": "Godavari",
+    "Option2": "Krishna",
+    "Option3": "Kaveri",
+    "Option4": "Yamuna",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the primary factor determining the climate of the Thar Desert?",
+    "Option1": "Proximity to the Equator",
+    "Option2": "Altitude Variation",
+    "Option3": "Latitude",
+    "Option4": "Rainfall Scarcity",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which region in India experiences a Mediterranean climate?",
+    "Option1": "Kerala",
+    "Option2": "Punjab",
+    "Option3": "Gujarat",
+    "Option4": "Himachal Pradesh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the primary cause of the seasonal reversal of winds in India?",
+    "Option1": "Ocean Currents",
+    "Option2": "Rotation of the Earth",
+    "Option3": "Altitude Variation",
+    "Option4": "Monsoon Winds",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which natural vegetation is adapted to survive in arid and semi-arid regions?",
+    "Option1": "Tropical Rainforests",
+    "Option2": "Mangroves",
+    "Option3": "Desert Vegetation",
+    "Option4": "Temperate Deciduous Forests",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the primary cause of the northeast monsoon winds in India?",
+    "Option1": "Low Pressure over Northern India",
+    "Option2": "High Pressure over Bay of Bengal",
+    "Option3": "Movement of Cyclones",
+    "Option4": "Retreating Southwest Monsoon",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which state in India is known for its evergreen forests and high rainfall?",
+    "Option1": "Rajasthan",
+    "Option2": "Kerala",
+    "Option3": "Madhya Pradesh",
+    "Option4": "Gujarat",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the primary cause of soil erosion in the Himalayan region?",
+    "Option1": "Deforestation",
+    "Option2": "Low Rainfall",
+    "Option3": "Stable Geological Structure",
+    "Option4": "Absence of Rivers",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which river is known as the 'Southern Ganga'?",
+    "Option1": "Krishna",
+    "Option2": "Godavari",
+    "Option3": "Yamuna",
+    "Option4": "Kaveri",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What type of climate is experienced in the Himalayan region?",
+    "Option1": "Tundra",
+    "Option2": "Desert",
+    "Option3": "Mediterranean",
+    "Option4": "Temperate",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which of the following is a characteristic feature of the Deccan Plateau?",
+    "Option1": "High Mountain Peaks",
+    "Option2": "Rich Alluvial Soil",
+    "Option3": "Large Coastal Plains",
+    "Option4": "Volcanic Plateau",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the primary factor influencing the distribution of forests in India?",
+    "Option1": "Latitude",
+    "Option2": "Altitude",
+    "Option3": "Distance from Oceans",
+    "Option4": "Temperature",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which river basin is the largest in India?",
+    "Option1": "Ganges",
+    "Option2": "Yamuna",
+    "Option3": "Brahmaputra",
+    "Option4": "Godavari",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the primary factor affecting the population distribution in India?",
+    "Option1": "Temperature",
+    "Option2": "Vegetation",
+    "Option3": "Altitude",
+    "Option4": "Water Availability",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which state has the highest population density in India?",
+    "Option1": "Uttar Pradesh",
+    "Option2": "Maharashtra",
+    "Option3": "Bihar",
+    "Option4": "West Bengal",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the primary occupation of the people in the Thar Desert region?",
+    "Option1": "Fishing",
+    "Option2": "Agriculture",
+    "Option3": "Nomadic Pastoralism",
+    "Option4": "Mining",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which factor contributes to the high population density in the Northern Plains of India?",
+    "Option1": "Harsh Climate",
+    "Option2": "Fertile Alluvial Soil",
+    "Option3": "Mountainous Terrain",
+    "Option4": "Sparse Water Resources",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the primary reason for the concentration of industries in the Chotanagpur Plateau?",
+    "Option1": "Lack of Raw Materials",
+    "Option2": "Infertile Soil",
+    "Option3": "Abundant Mineral Resources",
+    "Option4": "High Altitude",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which state in India is known for its tea plantations?",
+    "Option1": "Assam",
+    "Option2": "Rajasthan",
+    "Option3": "Maharashtra",
+    "Option4": "Kerala",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the primary reason for the arid climate in Rajasthan?",
+    "Option1": "High Altitude",
+    "Option2": "Leeward Side of Western Ghats",
+    "Option3": "Rain Shadow Effect",
+    "Option4": "Proximity to Equator",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which river is known as the 'Sorrow of West Bengal' due to its frequent floods?",
+    "Option1": "Yamuna",
+    "Option2": "Brahmaputra",
+    "Option3": "Ganges",
+    "Option4": "Godavari",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the primary reason for the high population density in the Gangetic Plains?",
+    "Option1": "Industrialization",
+    "Option2": "Fertile Soil and Abundant Water",
+    "Option3": "Cold Climate",
+    "Option4": "Low Birth Rate",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which state in India is known for its steppe vegetation and arid landscapes?",
+    "Option1": "Gujarat",
+    "Option2": "Rajasthan",
+    "Option3": "Haryana",
+    "Option4": "Uttar Pradesh",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the primary reason for the growth of tourism in the Himalayan region?",
+    "Option1": "Harsh Climate",
+    "Option2": "Lack of Scenic Beauty",
+    "Option3": "Presence of Ancient Monuments",
+    "Option4": "Spectacular Landscapes",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the primary reason for the growth of industries in the coastal regions of India?",
+    "Option1": "Scarcity of Raw Materials",
+    "Option2": "Proximity to Ports",
+    "Option3": "Severe Climatic Conditions",
+    "Option4": "Isolation from International Trade Routes",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which state in India is known for its high production of rice?",
+    "Option1": "Punjab",
+    "Option2": "West Bengal",
+    "Option3": "Maharashtra",
+    "Option4": "Rajasthan",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the leader of the French Revolution?",
+    "Option1": "Napoleon Bonaparte",
+    "Option2": "Maximilien Robespierre",
+    "Option3": "Louis XVI",
+    "Option4": "Marie Antoinette",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which event marked the beginning of the French Revolution?",
+    "Option1": "Storming of the Bastille",
+    "Option2": "Execution of Louis XVI",
+    "Option3": "Reign of Terror",
+    "Option4": "Battle of Waterloo",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who led the Bolshevik Party during the Russian Revolution?",
+    "Option1": "Vladimir Lenin",
+    "Option2": "Joseph Stalin",
+    "Option3": "Leon Trotsky",
+    "Option4": "Mikhail Gorbachev",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which ideology was associated with the Russian Revolution?",
+    "Option1": "Capitalism",
+    "Option2": "Socialism",
+    "Option3": "Fascism",
+    "Option4": "Anarchism",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the leader of the Nazi Party in Germany?",
+    "Option1": "Adolf Hitler",
+    "Option2": "Benito Mussolini",
+    "Option3": "Joseph Goebbels",
+    "Option4": "Hermann G\u00c3\u00b6ring",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What was the main goal of Hitler's 'Final Solution'?",
+    "Option1": "Economic Reforms",
+    "Option2": "Military Expansion",
+    "Option3": "Genocide of Jews",
+    "Option4": "Colonial Dominance",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which colonial power was involved in the Forest, Society, and Colonialism project?",
+    "Option1": "France",
+    "Option2": "Britain",
+    "Option3": "Spain",
+    "Option4": "Portugal",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who were the pastoralists in the modern world?",
+    "Option1": "Nomads in Central Asia",
+    "Option2": "European Merchants",
+    "Option3": "Indian Farmers",
+    "Option4": "Chinese Artisans",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which chapter involves an interdisciplinary project related to multiple assessments?",
+    "Option1": "Socialism in Europe and the Russian Revolution",
+    "Option2": "Pastoralists in the Modern World",
+    "Option3": "Nazism and the Rise of Hitler",
+    "Option4": "The French Revolution",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who were the key players in the Pastoralists in the Modern World chapter?",
+    "Option1": "Colonial Rulers",
+    "Option2": "Nomadic Tribes",
+    "Option3": "Industrial Workers",
+    "Option4": "Urban Entrepreneurs",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the main focus of the chapter 'Socialism in Europe and the Russian Revolution'?",
+    "Option1": "Colonialism",
+    "Option2": "Economic Policies",
+    "Option3": "Political Ideologies",
+    "Option4": "Religious Movements",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which event is associated with the 'Battle of Stalingrad' during World War II?",
+    "Option1": "German Invasion of Poland",
+    "Option2": "D-Day Invasion",
+    "Option3": "Soviet Victory over German Forces",
+    "Option4": "Atomic Bombing of Hiroshima",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What was the impact of the Russian Revolution on the global political scenario?",
+    "Option1": "Spread of Capitalism",
+    "Option2": "Emergence of Fascism",
+    "Option3": "Rise of Communism",
+    "Option4": "Decline of Monarchies",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What was the main cause of the French Revolution?",
+    "Option1": "Rise of Industrialization",
+    "Option2": "Economic Inequality",
+    "Option3": "Technological Advancements",
+    "Option4": "Religious Conflicts",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which document symbolizes the ideals of the French Revolution?",
+    "Option1": "Magna Carta",
+    "Option2": "Declaration of the Rights of Man and of the Citizen",
+    "Option3": "Emancipation Proclamation",
+    "Option4": "Mayflower Compact",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the founder of the Bolshevik Party?",
+    "Option1": "Joseph Stalin",
+    "Option2": "Vladimir Lenin",
+    "Option3": "Leon Trotsky",
+    "Option4": "Karl Marx",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What impact did the Russian Revolution have on World War I?",
+    "Option1": "It led to the end of the war",
+    "Option2": "It intensified the war",
+    "Option3": "It had no effect on the war",
+    "Option4": "It led to a ceasefire",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the architect of the Five-Year Plans in the Soviet Union?",
+    "Option1": "Joseph Stalin",
+    "Option2": "Vladimir Lenin",
+    "Option3": "Leon Trotsky",
+    "Option4": "Nikita Khrushchev",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What was the purpose of Hitler's 'Enabling Act'?",
+    "Option1": "Promoting Freedom of Speech",
+    "Option2": "Suppressing Opposition",
+    "Option3": "Equal Distribution of Wealth",
+    "Option4": "Environmental Conservation",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which country did Hitler invade that led to the outbreak of World War II?",
+    "Option1": "Poland",
+    "Option2": "France",
+    "Option3": "United Kingdom",
+    "Option4": "Soviet Union",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What was the significance of the Nuremberg Laws during the Nazi era?",
+    "Option1": "Protection of Civil Rights",
+    "Option2": "Anti-Semitic Legislation",
+    "Option3": "Labor Reforms",
+    "Option4": "Environmental Policies",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In the context of colonialism, what does the term 'Forest Satyagraha' refer to?",
+    "Option1": "A Nonviolent Protest",
+    "Option2": "Forest Conservation",
+    "Option3": "A Rebellion",
+    "Option4": "A Diplomatic Agreement",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which nomadic community is discussed in the chapter 'Pastoralists in the Modern World'?",
+    "Option1": "Bedouins",
+    "Option2": "Maasai",
+    "Option3": "Yamal Nenets",
+    "Option4": "Sami",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who wrote 'The Communist Manifesto'?",
+    "Option1": "Vladimir Lenin",
+    "Option2": "Karl Marx",
+    "Option3": "Leon Trotsky",
+    "Option4": "Joseph Stalin",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which river is associated with the Battle of Stalingrad?",
+    "Option1": "Volga",
+    "Option2": "Danube",
+    "Option3": "Seine",
+    "Option4": "Thames",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which social class played a significant role in the French Revolution?",
+    "Option1": "Clergy",
+    "Option2": "Nobility",
+    "Option3": "Bourgeoisie",
+    "Option4": "Peasants",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What was the slogan of the French Revolution?",
+    "Option1": "Liberty, Equality, Fraternity",
+    "Option2": "Peace, Justice, Unity",
+    "Option3": "Power, Wealth, Supremacy",
+    "Option4": "Faith, Loyalty, Obedience",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the last monarch of France before the revolution?",
+    "Option1": "Louis XIV",
+    "Option2": "Louis XV",
+    "Option3": "Louis XVI",
+    "Option4": "Charles X",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which treaty marked the end of the First World War?",
+    "Option1": "Treaty of Versailles",
+    "Option2": "Treaty of Trianon",
+    "Option3": "Treaty of Saint-Germain",
+    "Option4": "Treaty of Sevres",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who coined the term 'Iron Curtain' during the Cold War?",
+    "Option1": "Winston Churchill",
+    "Option2": "Joseph Stalin",
+    "Option3": "Harry S. Truman",
+    "Option4": "Nikita Khrushchev",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the main architect of India's economic reforms in the early 1990s?",
+    "Option1": "Manmohan Singh",
+    "Option2": "Rajiv Gandhi",
+    "Option3": "Indira Gandhi",
+    "Option4": "Narasimha Rao",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In which part of India is the Western Ghats located?",
+    "Option1": "Northern India",
+    "Option2": "Eastern India",
+    "Option3": "Western India",
+    "Option4": "Southern India",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the largest state in India in terms of area?",
+    "Option1": "Uttar Pradesh",
+    "Option2": "Rajasthan",
+    "Option3": "Maharashtra",
+    "Option4": "Madhya Pradesh",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which mountain range separates the Indian subcontinent from the Tibetan Plateau?",
+    "Option1": "Himalayas",
+    "Option2": "Aravalli Range",
+    "Option3": "Western Ghats",
+    "Option4": "Vindhya Range",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which river is known as the 'Lifeline of Gujarat'?",
+    "Option1": "Yamuna",
+    "Option2": "Ganga",
+    "Option3": "Sabarmati",
+    "Option4": "Krishna",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which state in India is the largest producer of coffee?",
+    "Option1": "Karnataka",
+    "Option2": "Kerala",
+    "Option3": "Tamil Nadu",
+    "Option4": "Andhra Pradesh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which of the following is a cold desert in India?",
+    "Option1": "Thar Desert",
+    "Option2": "Rann of Kutch",
+    "Option3": "Leh-Ladakh",
+    "Option4": "Deccan Plateau",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the capital of Jharkhand?",
+    "Option1": "Ranchi",
+    "Option2": "Jamshedpur",
+    "Option3": "Bokaro",
+    "Option4": "Dhanbad",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which state in India is known as the 'Land of Five Rivers'?",
+    "Option1": "Punjab",
+    "Option2": "Haryana",
+    "Option3": "Uttar Pradesh",
+    "Option4": "Bihar",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The Indian Desert is located in which state?",
+    "Option1": "Rajasthan",
+    "Option2": "Gujarat",
+    "Option3": "Madhya Pradesh",
+    "Option4": "Maharashtra",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which of the following is a tributary of the Brahmaputra River?",
+    "Option1": "Yamuna",
+    "Option2": "Teesta",
+    "Option3": "Ganges",
+    "Option4": "Godavari",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In which part of India is the Thar Desert located?",
+    "Option1": "Northern India",
+    "Option2": "Eastern India",
+    "Option3": "Western India",
+    "Option4": "Southern India",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the largest brackish water lake in India?",
+    "Option1": "Dal Lake",
+    "Option2": "Vembanad",
+    "Option3": "Chilika Lake",
+    "Option4": "Wular Lake",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which state in India is known as the 'Land of Rising Sun'?",
+    "Option1": "Arunachal Pradesh",
+    "Option2": "Manipur",
+    "Option3": "Nagaland",
+    "Option4": "Assam",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which river is known as the 'Dakshin Ganga'?",
+    "Option1": "Yamuna",
+    "Option2": "Godavari",
+    "Option3": "Krishna",
+    "Option4": "Cauvery",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the highest peak in the Western Ghats?",
+    "Option1": "Anamudi",
+    "Option2": "Doddabetta",
+    "Option3": "Mullayanagiri",
+    "Option4": "Nilgiri Hills",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which state in India is known as the 'Spice Garden of India'?",
+    "Option1": "Kerala",
+    "Option2": "Karnataka",
+    "Option3": "Tamil Nadu",
+    "Option4": "Andhra Pradesh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the major river system of Peninsular India?",
+    "Option1": "Yamuna",
+    "Option2": "Ganges",
+    "Option3": "Krishna",
+    "Option4": "Godavari",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which hill station is known as the 'Queen of the Hills'?",
+    "Option1": "Darjeeling",
+    "Option2": "Ooty",
+    "Option3": "Shimla",
+    "Option4": "Mussorie",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In which state is the Bharatpur Bird Sanctuary located?",
+    "Option1": "Rajasthan",
+    "Option2": "Gujarat",
+    "Option3": "Madhya Pradesh",
+    "Option4": "Uttar Pradesh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the southernmost point of the Indian mainland?",
+    "Option1": "Cape Comorin",
+    "Option2": "Kanyakumari",
+    "Option3": "Dhanushkodi",
+    "Option4": "Cape of Good Hope",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the largest freshwater lake in India?",
+    "Option1": "Dal Lake",
+    "Option2": "Vembanad",
+    "Option3": "Chilika Lake",
+    "Option4": "Wular Lake",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which state is known as the 'Pearl of the East'?",
+    "Option1": "Goa",
+    "Option2": "Odisha",
+    "Option3": "West Bengal",
+    "Option4": "Andhra Pradesh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In which state is the Silent Valley National Park located?",
+    "Option1": "Kerala",
+    "Option2": "Karnataka",
+    "Option3": "Tamil Nadu",
+    "Option4": "Andhra Pradesh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the longest river of Peninsular India?",
+    "Option1": "Yamuna",
+    "Option2": "Ganges",
+    "Option3": "Krishna",
+    "Option4": "Godavari",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which state is known as the 'Land of Five Rivers'?",
+    "Option1": "Punjab",
+    "Option2": "Haryana",
+    "Option3": "Uttar Pradesh",
+    "Option4": "Bihar",
+    "CorrectOption": "1"
+  }
+]

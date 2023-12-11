@@ -1,0 +1,930 @@
+[
+  {
+    "Question": "Who wrote the book 'The Republic' which discusses the concept of democracy?",
+    "Option1": "Karl Marx",
+    "Option2": "Plato",
+    "Option3": "John Locke",
+    "Option4": "Jean-Jacques Rousseau",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In a democracy, the final authority rests with:",
+    "Option1": "Government",
+    "Option2": "Elected Representatives",
+    "Option3": "People",
+    "Option4": "Judiciary",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which of the following is a fundamental right guaranteed by the Indian Constitution?",
+    "Option1": "Right to Education",
+    "Option2": "Right to Property",
+    "Option3": "Right to Freedom of Speech",
+    "Option4": "Right to Private Property",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who is known as the 'Father of the Indian Constitution'?",
+    "Option1": "Jawaharlal Nehru",
+    "Option2": "Sardar Patel",
+    "Option3": "B.R. Ambedkar",
+    "Option4": "Mahatma Gandhi",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which institution in India is responsible for the conduct of national elections?",
+    "Option1": "Supreme Court",
+    "Option2": "Election Commission",
+    "Option3": "Parliament",
+    "Option4": "President",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The President of India is elected by:",
+    "Option1": "Direct Voting of Citizens",
+    "Option2": "Members of Lok Sabha and Rajya Sabha",
+    "Option3": "State Legislative Assemblies",
+    "Option4": "Electoral College",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which institution in India is responsible for the interpretation of the Constitution?",
+    "Option1": "Prime Minister's Office",
+    "Option2": "Parliament",
+    "Option3": "Supreme Court",
+    "Option4": "President's Secretariat",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What does the term 'Judicial Review' mean in a democracy?",
+    "Option1": "Review of Judicial Decisions",
+    "Option2": "Review of Parliamentary Decisions",
+    "Option3": "Review of Executive Decisions",
+    "Option4": "Review of Constitutional Validity of Laws",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which of the following is not a fundamental right in India?",
+    "Option1": "Right to Equality",
+    "Option2": "Right to Property",
+    "Option3": "Right to Freedom of Religion",
+    "Option4": "Right against Exploitation",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the term for the formal approval of the Constitution by the people of a country?",
+    "Option1": "Constitutional Amendment",
+    "Option2": "Constitutional Design",
+    "Option3": "Constitutional Assembly",
+    "Option4": "Constitutional Ratification",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which of the following is a directive principle of state policy in the Indian Constitution?",
+    "Option1": "Right to Equality",
+    "Option2": "Right to Education",
+    "Option3": "Right to Freedom of Religion",
+    "Option4": "Right to Property",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the minimum voting age in India?",
+    "Option1": "16",
+    "Option2": "18",
+    "Option3": "20",
+    "Option4": "21",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which part of the Indian Constitution deals with the Directive Principles of State Policy?",
+    "Option1": "Part I",
+    "Option2": "Part II",
+    "Option3": "Part III",
+    "Option4": "Part IV",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Who appoints the Chief Election Commissioner of India?",
+    "Option1": "Prime Minister",
+    "Option2": "President",
+    "Option3": "Chief Justice of India",
+    "Option4": "Parliament",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which fundamental right in the Indian Constitution is also known as the 'Heart and Soul of the Constitution'?",
+    "Option1": "Right to Freedom of Speech",
+    "Option2": "Right to Equality",
+    "Option3": "Right to Constitutional Remedies",
+    "Option4": "Right to Religion",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the term for a government elected by the people and accountable to them?",
+    "Option1": "Oligarchy",
+    "Option2": "Autocracy",
+    "Option3": "Democracy",
+    "Option4": "Monarchy",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which article of the Indian Constitution deals with the Right to Constitutional Remedies?",
+    "Option1": "Article 12",
+    "Option2": "Article 19",
+    "Option3": "Article 32",
+    "Option4": "Article 44",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who is the head of the Lok Sabha in India?",
+    "Option1": "President",
+    "Option2": "Prime Minister",
+    "Option3": "Speaker",
+    "Option4": "Leader of Opposition",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "In a democracy, what does the term 'universal adult suffrage' mean?",
+    "Option1": "Right to Vote for All Adults",
+    "Option2": "Right to Vote for Selected Individuals",
+    "Option3": "Right to Vote for the Elderly",
+    "Option4": "Right to Vote for Illiterates",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which fundamental right guarantees the right to education in India?",
+    "Option1": "Right to Equality",
+    "Option2": "Right to Freedom of Speech",
+    "Option3": "Right to Education",
+    "Option4": "Right against Exploitation",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who was the first President of India?",
+    "Option1": "Dr. B.R. Ambedkar",
+    "Option2": "Jawaharlal Nehru",
+    "Option3": "Rajendra Prasad",
+    "Option4": "Sardar Patel",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which part of the Indian Constitution deals with the Fundamental Rights?",
+    "Option1": "Part I",
+    "Option2": "Part II",
+    "Option3": "Part III",
+    "Option4": "Part IV",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who is the guardian of the Indian Constitution?",
+    "Option1": "Prime Minister",
+    "Option2": "President",
+    "Option3": "Parliament",
+    "Option4": "Supreme Court",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which type of government involves the rule by a single individual?",
+    "Option1": "Oligarchy",
+    "Option2": "Autocracy",
+    "Option3": "Democracy",
+    "Option4": "Monarchy",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the tenure of the President of India?",
+    "Option1": "5 years",
+    "Option2": "4 years",
+    "Option3": "6 years",
+    "Option4": "3 years",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who is responsible for the protection of citizens' rights in a democracy?",
+    "Option1": "Executive",
+    "Option2": "Legislature",
+    "Option3": "Judiciary",
+    "Option4": "Police",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which article of the Indian Constitution deals with the Right to Freedom of Religion?",
+    "Option1": "Article 14",
+    "Option2": "Article 21",
+    "Option3": "Article 25",
+    "Option4": "Article 32",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who has the power to dissolve the Lok Sabha in India?",
+    "Option1": "President",
+    "Option2": "Prime Minister",
+    "Option3": "Speaker",
+    "Option4": "Election Commission",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which organ of the government is responsible for making laws?",
+    "Option1": "Executive",
+    "Option2": "Legislature",
+    "Option3": "Judiciary",
+    "Option4": "President",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who is known as the 'Father of the Nation' in India?",
+    "Option1": "Jawaharlal Nehru",
+    "Option2": "Sardar Patel",
+    "Option3": "Mahatma Gandhi",
+    "Option4": "Subhas Chandra Bose",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which amendment to the Indian Constitution abolished the practice of untouchability?",
+    "Option1": "Amendment 73",
+    "Option2": "Amendment 86",
+    "Option3": "Amendment 42",
+    "Option4": "Amendment 26",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Who led the Salt March, a significant event during the Indian independence movement?",
+    "Option1": "Jawaharlal Nehru",
+    "Option2": "Sardar Patel",
+    "Option3": "Mahatma Gandhi",
+    "Option4": "Subhas Chandra Bose",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which revolutionary leader was associated with the Kakori Train Robbery?",
+    "Option1": "Bhagat Singh",
+    "Option2": "Chandrasekhar Azad",
+    "Option3": "Ram Prasad Bismil",
+    "Option4": "Surya Sen",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who was the first woman Prime Minister of India?",
+    "Option1": "Sonia Gandhi",
+    "Option2": "Indira Gandhi",
+    "Option3": "Pratibha Patil",
+    "Option4": "Margaret Thatcher",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which event led to the Jallianwala Bagh massacre in 1919?",
+    "Option1": "Non-Cooperation Movement",
+    "Option2": "Chauri Chaura Incident",
+    "Option3": "Jallianwala Bagh Satyagraha",
+    "Option4": "Rowlatt Act Protest",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Who was the first President of the Indian National Congress?",
+    "Option1": "Dadabhai Naoroji",
+    "Option2": "Womesh Chunder Bonnerjee",
+    "Option3": "A.O. Hume",
+    "Option4": "Sardar Patel",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which leader is associated with the slogan 'Jai Jawan Jai Kisan'?",
+    "Option1": "Lal Bahadur Shastri",
+    "Option2": "Jawaharlal Nehru",
+    "Option3": "Subhas Chandra Bose",
+    "Option4": "Bhagat Singh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In which year did India become a republic?",
+    "Option1": "1947",
+    "Option2": "1950",
+    "Option3": "1942",
+    "Option4": "1962",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the founder of the Indian National Congress?",
+    "Option1": "Dadabhai Naoroji",
+    "Option2": "Womesh Chunder Bonnerjee",
+    "Option3": "A.O. Hume",
+    "Option4": "Sardar Patel",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which revolutionary leader was known as 'Netaji'?",
+    "Option1": "Chandrasekhar Azad",
+    "Option2": "Subhas Chandra Bose",
+    "Option3": "Bhagat Singh",
+    "Option4": "Surya Sen",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which event is often referred to as the 'First War of Indian Independence'?",
+    "Option1": "Revolt of 1857",
+    "Option2": "Jallianwala Bagh Massacre",
+    "Option3": "Dandi March",
+    "Option4": "Chauri Chaura Incident",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who is known as the 'Iron Man of India'?",
+    "Option1": "Sardar Patel",
+    "Option2": "Jawaharlal Nehru",
+    "Option3": "Subhas Chandra Bose",
+    "Option4": "Bhagat Singh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What was the goal of the Non-Cooperation Movement launched by Mahatma Gandhi?",
+    "Option1": "Complete Independence",
+    "Option2": "Dominion Status",
+    "Option3": "End of British Rule",
+    "Option4": "Home Rule",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who was the last Viceroy of India?",
+    "Option1": "Lord Mountbatten",
+    "Option2": "Lord Curzon",
+    "Option3": "Lord Wavell",
+    "Option4": "Lord Linlithgow",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which Indian state was the princely state of the ruler Maharaja Hari Singh during the partition of India in 1947?",
+    "Option1": "Punjab",
+    "Option2": "Jammu and Kashmir",
+    "Option3": "Rajasthan",
+    "Option4": "Uttar Pradesh",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the first Vice President of India?",
+    "Option1": "Sarvepalli Radhakrishnan",
+    "Option2": "Dr. Rajendra Prasad",
+    "Option3": "Gulzarilal Nanda",
+    "Option4": "V.V. Giri",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who founded the Indian National Congress?",
+    "Option1": "Dadabhai Naoroji",
+    "Option2": "Womesh Chunder Bonnerjee",
+    "Option3": "A.O. Hume",
+    "Option4": "Sardar Patel",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which woman leader played a significant role in the Indian independence movement and later became the first woman Prime Minister of India?",
+    "Option1": "Sonia Gandhi",
+    "Option2": "Indira Gandhi",
+    "Option3": "Pratibha Patil",
+    "Option4": "Margaret Thatcher",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who wrote the book 'Discovery of India'?",
+    "Option1": "Rabindranath Tagore",
+    "Option2": "Jawaharlal Nehru",
+    "Option3": "Sardar Patel",
+    "Option4": "Subhas Chandra Bose",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What was the slogan of the Quit India Movement launched in 1942?",
+    "Option1": "Sampoorna Kranti",
+    "Option2": "Do or Die",
+    "Option3": "Jai Jawan Jai Kisan",
+    "Option4": "Inquilab Zindabad",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the British Prime Minister during India's independence in 1947?",
+    "Option1": "Winston Churchill",
+    "Option2": "Clement Attlee",
+    "Option3": "Neville Chamberlain",
+    "Option4": "Anthony Eden",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In which year did the First Round Table Conferences take place in India?",
+    "Option1": "1930-1931",
+    "Option2": "1931-1932",
+    "Option3": "1939-1940",
+    "Option4": "1942-1944",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the first Indian woman to become the President of the Indian National Congress?",
+    "Option1": "Sarojini Naidu",
+    "Option2": "Annie Besant",
+    "Option3": "Vijaya Lakshmi Pandit",
+    "Option4": "Sucheta Kriplani",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "During the Non-Cooperation Movement, which incident led Mahatma Gandhi to call off the movement?",
+    "Option1": "Chauri Chaura Incident",
+    "Option2": "Jallianwala Bagh Massacre",
+    "Option3": "Dandi March",
+    "Option4": "Rowlatt Act Protest",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the last Mughal emperor of India?",
+    "Option1": "Aurangzeb",
+    "Option2": "Bahadur Shah II",
+    "Option3": "Akbar",
+    "Option4": "Jahangir",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which revolutionary leader was also known as 'Shaheed-e-Azam'?",
+    "Option1": "Bhagat Singh",
+    "Option2": "Chandrasekhar Azad",
+    "Option3": "Rajguru",
+    "Option4": "Khudiram Bose",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What was the goal of the Swadeshi Movement during the Indian independence struggle?",
+    "Option1": "Complete Independence",
+    "Option2": "Swaraj",
+    "Option3": "Dominion Status",
+    "Option4": "Home Rule",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the first Governor-General of independent India?",
+    "Option1": "Lord Mountbatten",
+    "Option2": "C. Rajagopalachari",
+    "Option3": "Jawaharlal Nehru",
+    "Option4": "Sardar Patel",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which leader was associated with the formation of the All India Forward Bloc in 1939?",
+    "Option1": "Subhas Chandra Bose",
+    "Option2": "Jawaharlal Nehru",
+    "Option3": "Sardar Patel",
+    "Option4": "Rajendra Prasad",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the Chief Guest at the first Republic Day Parade of India in 1950?",
+    "Option1": "King Jigme Dorji Wangchuck of Bhutan",
+    "Option2": "Queen Elizabeth II",
+    "Option3": "Dwight D. Eisenhower",
+    "Option4": "Sukarno of Indonesia",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the first woman to hold the position of the Chief Justice of India?",
+    "Option1": "Meira Kumar",
+    "Option2": "Indira Gandhi",
+    "Option3": "Pratibha Patil",
+    "Option4": "Justice M. Fathima Beevi",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which Indian state was formed as a result of the States Reorganization Act, 1956?",
+    "Option1": "Haryana",
+    "Option2": "Madhya Pradesh",
+    "Option3": "Andhra Pradesh",
+    "Option4": "Kerala",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who was the first Chief Minister of West Bengal?",
+    "Option1": "Bidhan Chandra Roy",
+    "Option2": "Jyoti Basu",
+    "Option3": "Prafulla Chandra Ghosh",
+    "Option4": "H. K. Mahtab",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "Option1": "Punjab",
+    "Option2": "Haryana",
+    "Option3": "Uttar Pradesh",
+    "Option4": "Rajasthan",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the first woman to receive the Bharat Ratna, India's highest civilian award?",
+    "Option1": "Mother Teresa",
+    "Option2": "Indira Gandhi",
+    "Option3": "Sarojini Naidu",
+    "Option4": "Lata Mangeshkar",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which Indian river is known as the 'Dakshin Ganga'?",
+    "Option1": "Yamuna",
+    "Option2": "Krishna",
+    "Option3": "Godavari",
+    "Option4": "Cauvery",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who is known as the 'Grand Old Man of India'?",
+    "Option1": "Dadabhai Naoroji",
+    "Option2": "Bal Gangadhar Tilak",
+    "Option3": "Gopal Krishna Gokhale",
+    "Option4": "Motilal Nehru",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which Indian state is the largest producer of tea?",
+    "Option1": "Assam",
+    "Option2": "West Bengal",
+    "Option3": "Tamil Nadu",
+    "Option4": "Kerala",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the first woman President of the United Nations General Assembly?",
+    "Option1": "Vijaya Lakshmi Pandit",
+    "Option2": "Eleanor Roosevelt",
+    "Option3": "Indira Gandhi",
+    "Option4": "Angela Merkel",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the official residence of the President of India?",
+    "Option1": "Rashtrapati Bhavan",
+    "Option2": "India Gate",
+    "Option3": "Parliament House",
+    "Option4": "Teen Murti Bhavan",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the Prime Minister of India during the Indo-Pak War of 1971?",
+    "Option1": "Indira Gandhi",
+    "Option2": "Lal Bahadur Shastri",
+    "Option3": "Morarji Desai",
+    "Option4": "Atal Bihari Vajpayee",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In which year was the National Development Council (NDC) established in India?",
+    "Option1": "1947",
+    "Option2": "1952",
+    "Option3": "1965",
+    "Option4": "1976",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who is known as the 'Father of the Green Revolution in India'?",
+    "Option1": "M. S. Swaminathan",
+    "Option2": "Norman Borlaug",
+    "Option3": "C. Subramaniam",
+    "Option4": "Varghese Kurien",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which Indian state is known as the 'Land of the Rising Sun'?",
+    "Option1": "Arunachal Pradesh",
+    "Option2": "Manipur",
+    "Option3": "Mizoram",
+    "Option4": "Nagaland",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who is the author of the book 'My Experiments with Truth'?",
+    "Option1": "Jawaharlal Nehru",
+    "Option2": "Rabindranath Tagore",
+    "Option3": "Mahatma Gandhi",
+    "Option4": "Subhas Chandra Bose",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which river is known as the 'Sorrow of Bihar' due to its frequent floods?",
+    "Option1": "Yamuna",
+    "Option2": "Ganga",
+    "Option3": "Kosi",
+    "Option4": "Son",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who was the first woman Chief Minister of an Indian state?",
+    "Option1": "Sarojini Naidu",
+    "Option2": "Indira Gandhi",
+    "Option3": "Sucheta Kriplani",
+    "Option4": "Jayalalithaa",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "In which year did India launch its first satellite, Aryabhata?",
+    "Option1": "1972",
+    "Option2": "1975",
+    "Option3": "1978",
+    "Option4": "1980",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who was the first woman to climb Mount Everest?",
+    "Option1": "Bachendri Pal",
+    "Option2": "Tenzing Norgay",
+    "Option3": "Junko Tabei",
+    "Option4": "Reinhold Messner",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which Indian city is known as the 'City of Lakes'?",
+    "Option1": "Udaipur",
+    "Option2": "Bhopal",
+    "Option3": "Jaipur",
+    "Option4": "Varanasi",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who was the first woman to receive the Nobel Prize in Physics?",
+    "Option1": "Marie Curie",
+    "Option2": "Irene Joliot-Curie",
+    "Option3": "Dorothy Crowfoot Hodgkin",
+    "Option4": "Maria Goeppert Mayer",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In which year did the Indian Space Research Organisation (ISRO) launch its first satellite, Aryabhata?",
+    "Option1": "1970",
+    "Option2": "1972",
+    "Option3": "1975",
+    "Option4": "1980",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who was the first woman President of India?",
+    "Option1": "Pratibha Patil",
+    "Option2": "Indira Gandhi",
+    "Option3": "Sarojini Naidu",
+    "Option4": "Meira Kumar",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which Indian state is the largest producer of coffee?",
+    "Option1": "Karnataka",
+    "Option2": "Kerala",
+    "Option3": "Tamil Nadu",
+    "Option4": "Andhra Pradesh",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who composed the national song of India, 'Vande Mataram'?",
+    "Option1": "Rabindranath Tagore",
+    "Option2": "Bankim Chandra Chattopadhyay",
+    "Option3": "Sarojini Naidu",
+    "Option4": "Iqbal",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which Mughal emperor built the Taj Mahal?",
+    "Option1": "Akbar",
+    "Option2": "Jahangir",
+    "Option3": "Aurangzeb",
+    "Option4": "Shah Jahan",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the currency of Japan?",
+    "Option1": "Yen",
+    "Option2": "Won",
+    "Option3": "Ringgit",
+    "Option4": "Baht",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the fundamental principle of democracy?",
+    "Option1": "Rule by a single individual",
+    "Option2": "Rule by a religious leader",
+    "Option3": "Rule by the majority",
+    "Option4": "Rule by the military",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which part of the Constitution of India describes the ideals of justice, liberty, equality, and fraternity?",
+    "Option1": "Preamble",
+    "Option2": "Directive Principles of State Policy",
+    "Option3": "Fundamental Rights",
+    "Option4": "Citizenship",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who is responsible for the preparation of the electoral rolls in India?",
+    "Option1": "Election Commission",
+    "Option2": "President of India",
+    "Option3": "Prime Minister",
+    "Option4": "State Governments",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What does the term 'fraternity' in the Preamble of the Indian Constitution mean?",
+    "Option1": "Freedom of expression",
+    "Option2": "Dignity of the individual",
+    "Option3": "Unity and integrity of the nation",
+    "Option4": "A feeling of brotherhood",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which institution in India is responsible for the enforcement of fundamental rights?",
+    "Option1": "Supreme Court",
+    "Option2": "Lok Sabha",
+    "Option3": "Rajya Sabha",
+    "Option4": "President",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In a democracy, what does the term 'universal adult franchise' mean?",
+    "Option1": "Voting rights for all citizens",
+    "Option2": "Voting rights for adults above 25 years",
+    "Option3": "Voting rights for educated individuals",
+    "Option4": "Voting rights for women only",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which of the following is an example of a local government institution in India?",
+    "Option1": "Lok Sabha",
+    "Option2": "Rajya Sabha",
+    "Option3": "Municipality",
+    "Option4": "Planning Commission",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What does the term 'separation of powers' refer to in the context of democratic governments?",
+    "Option1": "Separation of rich and poor",
+    "Option2": "Separation of powers between different political parties",
+    "Option3": "Division of powers among the legislature, executive, and judiciary",
+    "Option4": "Separation of urban and rural administration",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which of the following is a democratic right?",
+    "Option1": "Right to strike",
+    "Option2": "Right to silence",
+    "Option3": "Right to inequality",
+    "Option4": "Right to bear arms",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who is the head of the Lok Sabha?",
+    "Option1": "Prime Minister",
+    "Option2": "Speaker",
+    "Option3": "President",
+    "Option4": "Chief Justice",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the term of office for the President of India?",
+    "Option1": "3 years",
+    "Option2": "5 years",
+    "Option3": "7 years",
+    "Option4": "10 years",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which article of the Indian Constitution deals with the establishment of Panchayati Raj?",
+    "Option1": "Article 40",
+    "Option2": "Article 50",
+    "Option3": "Article 60",
+    "Option4": "Article 70",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the minimum voting age for Lok Sabha elections in India?",
+    "Option1": "16 years",
+    "Option2": "18 years",
+    "Option3": "21 years",
+    "Option4": "25 years",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which of the following is a power of the President of India?",
+    "Option1": "Declaring war",
+    "Option2": "Appointing the Prime Minister",
+    "Option3": "Passing bills in the Parliament",
+    "Option4": "Judicial review",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the tenure of a Rajya Sabha member?",
+    "Option1": "4 years",
+    "Option2": "5 years",
+    "Option3": "6 years",
+    "Option4": "7 years",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which of the following is a fundamental duty of Indian citizens?",
+    "Option1": "Right to education",
+    "Option2": "Right to property",
+    "Option3": "Protection of wildlife",
+    "Option4": "Right to privacy",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who is known as the 'Father of the Indian Parliament'?",
+    "Option1": "B. R. Ambedkar",
+    "Option2": "Sardar Patel",
+    "Option3": "Rajendra Prasad",
+    "Option4": "Jawaharlal Nehru",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which schedule of the Indian Constitution deals with the allocation of seats in the Rajya Sabha?",
+    "Option1": "First Schedule",
+    "Option2": "Second Schedule",
+    "Option3": "Third Schedule",
+    "Option4": "Fourth Schedule",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Who administers the oath of office to the President of India?",
+    "Option1": "Chief Justice of India",
+    "Option2": "Vice President",
+    "Option3": "Prime Minister",
+    "Option4": "Speaker of Lok Sabha",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the term of office for the Vice President of India?",
+    "Option1": "3 years",
+    "Option2": "5 years",
+    "Option3": "7 years",
+    "Option4": "10 years",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Who is known as the 'Architect of the Indian Constitution'?",
+    "Option1": "B. R. Ambedkar",
+    "Option2": "Jawaharlal Nehru",
+    "Option3": "Sardar Patel",
+    "Option4": "Rajendra Prasad",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In India, who has the power to proclaim an emergency?",
+    "Option1": "Prime Minister",
+    "Option2": "President",
+    "Option3": "Chief Justice",
+    "Option4": "Lok Sabha Speaker",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the term of office for the Prime Minister of India?",
+    "Option1": "5 years",
+    "Option2": "Life term",
+    "Option3": "As long as the party is in power",
+    "Option4": "10 years",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who can remove the Vice President of India from office?",
+    "Option1": "President",
+    "Option2": "Supreme Court",
+    "Option3": "Rajya Sabha",
+    "Option4": "Lok Sabha",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which article of the Indian Constitution deals with the right to freedom of religion?",
+    "Option1": "Article 15",
+    "Option2": "Article 19",
+    "Option3": "Article 25",
+    "Option4": "Article 30",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the qualification required to become a member of the Rajya Sabha?",
+    "Option1": "Minimum age of 30 years",
+    "Option2": "Minimum age of 35 years",
+    "Option3": "Minimum age of 25 years",
+    "Option4": "Minimum age of 18 years",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Who presides over the joint session of the Parliament in India?",
+    "Option1": "Prime Minister",
+    "Option2": "President",
+    "Option3": "Lok Sabha Speaker",
+    "Option4": "Vice President",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which constitutional amendment introduced the Anti-Defection Law in India?",
+    "Option1": "42nd Amendment",
+    "Option2": "44th Amendment",
+    "Option3": "52nd Amendment",
+    "Option4": "61st Amendment",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who appoints the Chief Justice of India?",
+    "Option1": "President",
+    "Option2": "Vice President",
+    "Option3": "Prime Minister",
+    "Option4": "Supreme Court Judges",
+    "CorrectOption": "1"
+  }
+]

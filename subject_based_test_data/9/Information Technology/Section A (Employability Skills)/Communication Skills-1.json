@@ -1,0 +1,290 @@
+[
+  {
+    "Question": "Who is considered the sender in the communication process?",
+    "Option1": "Network",
+    "Option2": "Receiver",
+    "Option3": "Encoder",
+    "Option4": "Decoder",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What does the term 'feedback' refer to in communication?",
+    "Option1": "The process of encoding messages",
+    "Option2": "The response or reaction to a message",
+    "Option3": "The transmission medium used",
+    "Option4": "The physical act of speaking",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which communication channel involves the simultaneous presence of participants?",
+    "Option1": "Written communication",
+    "Option2": "Verbal communication",
+    "Option3": "Non-verbal communication",
+    "Option4": "Interactive communication",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the primary purpose of non-verbal communication?",
+    "Option1": "To convey information through spoken words",
+    "Option2": "To express emotions and feelings without words",
+    "Option3": "To record information in written form",
+    "Option4": "To transmit data over a network",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which of the following is an example of written communication?",
+    "Option1": "Face-to-face conversation",
+    "Option2": "Telephone call",
+    "Option3": "Email",
+    "Option4": "Gestures and body language",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "In the communication process, what does the term 'encoding' involve?",
+    "Option1": "Decoding received messages",
+    "Option2": "Converting thoughts into a symbolic form",
+    "Option3": "Receiving messages from the sender",
+    "Option4": "Interpreting non-verbal cues",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the purpose of 'noise' in the context of communication?",
+    "Option1": "To enhance the clarity of the message",
+    "Option2": "To distort or interfere with the message",
+    "Option3": "To facilitate feedback",
+    "Option4": "To amplify the volume of the message",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which communication skill is related to the ability to listen actively and understand the message?",
+    "Option1": "Speaking",
+    "Option2": "Reading",
+    "Option3": "Writing",
+    "Option4": "Listening",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the purpose of 'jargon' in communication within a specific profession or field?",
+    "Option1": "To confuse the audience",
+    "Option2": "To facilitate clear communication",
+    "Option3": "To entertain the audience",
+    "Option4": "To avoid communication altogether",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In written communication, what is the importance of proofreading?",
+    "Option1": "To increase the length of the message",
+    "Option2": "To enhance the font style",
+    "Option3": "To correct errors and ensure clarity",
+    "Option4": "To speed up the communication process",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which communication model represents communication as a two-way process between sender and receiver?",
+    "Option1": "Linear model",
+    "Option2": "Transactional model",
+    "Option3": "Interactive model",
+    "Option4": "Circular model",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the significance of cultural awareness in effective communication?",
+    "Option1": "It hinders communication by creating barriers",
+    "Option2": "It has no impact on communication",
+    "Option3": "It fosters understanding and reduces misunderstandings",
+    "Option4": "It limits communication to a specific culture",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which communication channel is characterized by the use of gestures, facial expressions, and body language?",
+    "Option1": "Verbal communication",
+    "Option2": "Written communication",
+    "Option3": "Non-verbal communication",
+    "Option4": "Interactive communication",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the purpose of a 'protocol' in the context of electronic communication?",
+    "Option1": "To limit communication to a specific group",
+    "Option2": "To establish and control the rules for data exchange",
+    "Option3": "To encourage free and open communication",
+    "Option4": "To replace written communication",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "How does 'empathy' contribute to effective communication?",
+    "Option1": "By creating misunderstandings",
+    "Option2": "By hindering the message",
+    "Option3": "By fostering understanding and connection",
+    "Option4": "By promoting competition",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the role of 'paralinguistics' in communication?",
+    "Option1": "To focus on written communication",
+    "Option2": "To study communication in animals",
+    "Option3": "To analyze vocal cues and tone",
+    "Option4": "To ignore non-verbal signals",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which communication barrier is related to making assumptions about others based on stereotypes?",
+    "Option1": "Physical barrier",
+    "Option2": "Semantic barrier",
+    "Option3": "Psychological barrier",
+    "Option4": "Cultural barrier",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the purpose of 'summarizing' in the communication process?",
+    "Option1": "To extend the length of the message",
+    "Option2": "To repeat the same information",
+    "Option3": "To clarify and condense information",
+    "Option4": "To add unnecessary details",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "How does the choice of communication medium impact the message?",
+    "Option1": "It has no impact on the message",
+    "Option2": "It only affects the length of the message",
+    "Option3": "It influences the clarity and effectiveness of the message",
+    "Option4": "It hinders communication",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the primary purpose of 'formal communication' in a professional setting?",
+    "Option1": "To convey personal opinions",
+    "Option2": "To establish social connections",
+    "Option3": "To exchange official information within an organization",
+    "Option4": "To express emotions and feelings",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "How does the concept of 'proxemics' relate to communication?",
+    "Option1": "It studies communication through body language",
+    "Option2": "It focuses on written communication",
+    "Option3": "It examines the use of personal space in communication",
+    "Option4": "It analyzes vocal cues",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the primary function of 'chronemics' in communication?",
+    "Option1": "To study communication in historical contexts",
+    "Option2": "To analyze the impact of technology on communication",
+    "Option3": "To examine the use of time in communication",
+    "Option4": "To ignore time as a factor in communication",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which communication skill is essential for conveying information in a clear and organized manner?",
+    "Option1": "Listening",
+    "Option2": "Speaking",
+    "Option3": "Reading",
+    "Option4": "Writing",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the significance of 'context' in effective communication?",
+    "Option1": "It limits communication to specific situations",
+    "Option2": "It provides the background and setting for the message",
+    "Option3": "It has no impact on communication",
+    "Option4": "It focuses on non-verbal cues",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In communication, what does the term 'medium' refer to?",
+    "Option1": "The central theme of the message",
+    "Option2": "The physical act of speaking",
+    "Option3": "The channel or method used to convey the message",
+    "Option4": "The response or reaction to a message",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "How does 'semantic noise' affect communication?",
+    "Option1": "It enhances the clarity of the message",
+    "Option2": "It introduces errors in the message",
+    "Option3": "It has no impact on communication",
+    "Option4": "It speeds up the communication process",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the primary purpose of 'emoticons' in electronic communication?",
+    "Option1": "To replace words and sentences",
+    "Option2": "To express emotions visually",
+    "Option3": "To confuse the reader",
+    "Option4": "To increase the formality of the message",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In communication, what does the term 'channel richness' refer to?",
+    "Option1": "The variety of communication devices used",
+    "Option2": "The complexity and amount of information that can be transmitted",
+    "Option3": "The speed of message transmission",
+    "Option4": "The total number of communication channels available",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What role does 'contextual information' play in effective communication?",
+    "Option1": "It confuses the audience",
+    "Option2": "It provides additional background information for better understanding",
+    "Option3": "It hinders the communication process",
+    "Option4": "It delays the transmission of the message",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "How does the 'tone' of a message impact communication?",
+    "Option1": "It has no impact on communication",
+    "Option2": "It determines the length of the message",
+    "Option3": "It influences the emotional response and perception of the message",
+    "Option4": "It replaces verbal communication",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the significance of 'active voice' in written communication?",
+    "Option1": "It complicates the message",
+    "Option2": "It enhances clarity and directness",
+    "Option3": "It increases the formality of the message",
+    "Option4": "It limits the expressiveness of the message",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "How does 'cultural sensitivity' contribute to effective cross-cultural communication?",
+    "Option1": "By ignoring cultural differences",
+    "Option2": "By creating misunderstandings",
+    "Option3": "By recognizing and respecting cultural variations",
+    "Option4": "By avoiding communication with people from different cultures",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which communication skill is associated with the ability to express thoughts clearly and logically?",
+    "Option1": "Listening",
+    "Option2": "Speaking",
+    "Option3": "Reading",
+    "Option4": "Writing",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the purpose of 'mind mapping' in the context of visual communication?",
+    "Option1": "To create confusion",
+    "Option2": "To organize and represent ideas visually",
+    "Option3": "To replace written communication",
+    "Option4": "To slow down the communication process",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "How does 'audience analysis' contribute to effective communication?",
+    "Option1": "By ignoring the needs and preferences of the audience",
+    "Option2": "By tailoring the message to the needs and preferences of the audience",
+    "Option3": "By excluding the audience from the communication process",
+    "Option4": "By limiting communication to a specific audience",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the significance of 'non-discriminatory language' in written communication?",
+    "Option1": "It limits the expressiveness of the message",
+    "Option2": "It promotes fairness and inclusivity",
+    "Option3": "It confuses the audience",
+    "Option4": "It increases the formality of the message",
+    "CorrectOption": "2"
+  }
+]

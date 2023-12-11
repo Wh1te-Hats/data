@@ -1,0 +1,194 @@
+[
+  {
+    "Question": "Who is the author of the poem 'A Legend of the Northland'?",
+    "Option1": "Emily Dickinson",
+    "Option2": "Robert Frost",
+    "Option3": "Phoebe Cary",
+    "Option4": "Langston Hughes",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the central theme of the poem?",
+    "Option1": "Love and Romance",
+    "Option2": "Nature and Solitude",
+    "Option3": "Mythology and Legends",
+    "Option4": "War and Conflict",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the legend described in the poem?",
+    "Option1": "The creation of the world",
+    "Option2": "The origin of love",
+    "Option3": "The heroic deeds of a warrior",
+    "Option4": "The sacrifice of a maiden",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Who is the central character in the legend?",
+    "Option1": "A king",
+    "Option2": "A queen",
+    "Option3": "A warrior",
+    "Option4": "A maiden",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the warrior's quest in the legend?",
+    "Option1": "To find a treasure",
+    "Option2": "To defeat a dragon",
+    "Option3": "To conquer a kingdom",
+    "Option4": "To win the love of a maiden",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What challenges does the warrior face on his quest?",
+    "Option1": "Fierce storms and hurricanes",
+    "Option2": "Treacherous mountains and valleys",
+    "Option3": "A fire-breathing dragon",
+    "Option4": "A giant serpent",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "How does the warrior overcome the challenges in the legend?",
+    "Option1": "By using magic spells",
+    "Option2": "By seeking guidance from the gods",
+    "Option3": "By displaying courage and strength",
+    "Option4": "By outsmarting his enemies",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What role does the maiden play in the legend?",
+    "Option1": "She is a passive observer",
+    "Option2": "She is the villain of the story",
+    "Option3": "She aids the warrior on his quest",
+    "Option4": "She is the warrior's enemy",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the outcome of the warrior's quest?",
+    "Option1": "He fails and perishes",
+    "Option2": "He becomes a king",
+    "Option3": "He loses his way and never returns",
+    "Option4": "He wins the love of the maiden",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What emotions are conveyed in the poem?",
+    "Option1": "Fear and despair",
+    "Option2": "Joy and triumph",
+    "Option3": "Anger and resentment",
+    "Option4": "Loneliness and longing",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the significance of the legend in the context of the poem?",
+    "Option1": "It is a cautionary tale",
+    "Option2": "It serves as a moral lesson",
+    "Option3": "It symbolizes the power of love and bravery",
+    "Option4": "It predicts the end of the world",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "How does the poem use language and imagery to convey the legend?",
+    "Option1": "Through complex and abstract language",
+    "Option2": "Through simple and vivid language",
+    "Option3": "Through metaphorical and symbolic imagery",
+    "Option4": "Through scientific and technical terms",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What role does nature play in the legend and the poem?",
+    "Option1": "Nature is an indifferent bystander",
+    "Option2": "Nature is an obstacle to the warrior",
+    "Option3": "Nature is a supportive force",
+    "Option4": "Nature is irrelevant to the story",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "How does the poem explore the theme of heroism?",
+    "Option1": "By glorifying violence and aggression",
+    "Option2": "By questioning the concept of heroism",
+    "Option3": "By celebrating the bravery and valor of the warrior",
+    "Option4": "By portraying the warrior as a coward",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What moral or message can be derived from the legend?",
+    "Option1": "Love conquers all obstacles",
+    "Option2": "Violence is the solution to problems",
+    "Option3": "Courage and determination lead to success",
+    "Option4": "Success is based on luck alone",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "How does the poem depict the relationship between the warrior and the maiden?",
+    "Option1": "As a toxic and harmful relationship",
+    "Option2": "As an unrequited love story",
+    "Option3": "As a mutually supportive and loving partnership",
+    "Option4": "As a superficial and shallow connection",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What cultural or historical elements are present in the legend?",
+    "Option1": "References to modern technology",
+    "Option2": "References to ancient myths and traditions",
+    "Option3": "References to political events",
+    "Option4": "References to fictional characters",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "How does the poem create a sense of timelessness in the legend?",
+    "Option1": "By using specific historical references",
+    "Option2": "By emphasizing the fleeting nature of time",
+    "Option3": "By connecting the legend to a specific time period",
+    "Option4": "By using timeless language and imagery",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What does the legend and the poem suggest about the human spirit?",
+    "Option1": "The human spirit is weak and easily defeated",
+    "Option2": "The human spirit is invincible",
+    "Option3": "The human spirit is indifferent to challenges",
+    "Option4": "The human spirit is shaped by external forces",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What impact does the legend have on the characters in the poem?",
+    "Option1": "It brings sorrow and regret",
+    "Option2": "It brings joy and fulfillment",
+    "Option3": "It has no impact on the characters",
+    "Option4": "It brings tragedy and despair",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "How does the poem explore the theme of destiny or fate?",
+    "Option1": "By emphasizing the role of destiny in shaping the characters' lives",
+    "Option2": "By denying the existence of destiny",
+    "Option3": "By portraying destiny as a random and meaningless force",
+    "Option4": "By suggesting that individuals control their own fate",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What emotions are evoked in the reader by the legend and the poem?",
+    "Option1": "Fear and anxiety",
+    "Option2": "Happiness and satisfaction",
+    "Option3": "Sadness and sympathy",
+    "Option4": "Apathy and indifference",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "How does the poem conclude?",
+    "Option1": "With a tragic ending",
+    "Option2": "With an open and ambiguous ending",
+    "Option3": "With a joyful and triumphant ending",
+    "Option4": "With a reflection on the meaning of life",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What lasting impression does the legend leave on the reader?",
+    "Option1": "A sense of despair and hopelessness",
+    "Option2": "A sense of wonder and admiration",
+    "Option3": "A sense of confusion and ambiguity",
+    "Option4": "A sense of boredom and indifference",
+    "CorrectOption": "2"
+  }
+]

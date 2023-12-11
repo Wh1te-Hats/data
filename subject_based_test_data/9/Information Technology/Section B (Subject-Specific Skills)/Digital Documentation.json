@@ -1,0 +1,348 @@
+[
+  {
+    "Question": "What is the purpose of 'version control' in digital documentation?",
+    "Option1": "To encourage version confusion",
+    "Option2": "To avoid tracking document versions",
+    "Option3": "To manage and track changes to documents, ensuring version accuracy",
+    "Option4": "To discourage versioning in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How can 'file naming conventions' contribute to organized digital documentation?",
+    "Option1": "By promoting random file names",
+    "Option2": "By avoiding standardized naming conventions",
+    "Option3": "By providing a consistent and structured approach to naming files for easy retrieval",
+    "Option4": "By discouraging the use of file names in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the role of 'metadata' in enhancing the searchability of digital documents?",
+    "Option1": "To hinder document searchability",
+    "Option2": "To avoid adding metadata to documents",
+    "Option3": "To provide additional information and keywords, improving document search and retrieval",
+    "Option4": "To discourage the use of metadata in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How does 'digital signatures' contribute to the authenticity of digital documents?",
+    "Option1": "By promoting document forgery",
+    "Option2": "By avoiding the use of digital signatures",
+    "Option3": "By providing a secure and verifiable method to confirm the origin and integrity of documents",
+    "Option4": "By discouraging the application of digital signatures to digital documents",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the purpose of 'document collaboration tools' in digital documentation?",
+    "Option1": "To discourage collaboration",
+    "Option2": "To avoid document sharing",
+    "Option3": "To facilitate real-time collaboration and communication on digital documents",
+    "Option4": "To promote inefficiency in collaborative digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How does 'access controls' contribute to the security of digital documents?",
+    "Option1": "By promoting unauthorized access",
+    "Option2": "By avoiding access restrictions",
+    "Option3": "By defining and limiting access to digital documents based on user roles and permissions",
+    "Option4": "By discouraging the use of access controls in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the significance of 'document archiving' in digital documentation?",
+    "Option1": "To promote data loss",
+    "Option2": "To avoid long-term document storage",
+    "Option3": "To store and manage historical digital documents for future reference",
+    "Option4": "To discourage document archiving practices",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How can 'document templates' enhance efficiency in digital documentation?",
+    "Option1": "By promoting inconsistent document formats",
+    "Option2": "By avoiding standardized templates",
+    "Option3": "By providing pre-designed structures for creating consistent and professional digital documents",
+    "Option4": "By discouraging the use of document templates in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the role of 'cloud storage' in digital documentation?",
+    "Option1": "To hinder document accessibility",
+    "Option2": "To avoid storing documents in the cloud",
+    "Option3": "To provide secure and convenient storage, access, and sharing of digital documents online",
+    "Option4": "To discourage the use of cloud storage for digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How does 'document version history' assist in tracking changes?",
+    "Option1": "By avoiding the recording of version history",
+    "Option2": "By discouraging version tracking",
+    "Option3": "By maintaining a record of changes made to digital documents over time",
+    "Option4": "By promoting confusion in version history",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the purpose of 'document metadata standards' in digital documentation?",
+    "Option1": "To hinder standardization of document metadata",
+    "Option2": "To avoid adhering to metadata standards",
+    "Option3": "To ensure consistency and conformity in adding metadata to digital documents",
+    "Option4": "To discourage the use of document metadata standards",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How can 'document encryption' enhance the security of sensitive information?",
+    "Option1": "By exposing documents to security threats",
+    "Option2": "By avoiding encryption measures",
+    "Option3": "By applying encryption techniques to protect digital documents from unauthorized access",
+    "Option4": "By discouraging the use of document encryption",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the significance of 'document categorization' in digital documentation?",
+    "Option1": "To hinder document organization",
+    "Option2": "To avoid categorizing digital documents",
+    "Option3": "To classify and organize digital documents into relevant categories for easy retrieval",
+    "Option4": "To discourage document categorization practices",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How can 'document collaboration platforms' improve teamwork in digital documentation?",
+    "Option1": "By promoting isolation in collaboration",
+    "Option2": "By avoiding collaboration platforms",
+    "Option3": "By providing online platforms for seamless collaboration, sharing, and editing of digital documents",
+    "Option4": "By discouraging the use of collaboration platforms in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What role does 'document indexing' play in enhancing search efficiency?",
+    "Option1": "To hinder searchability",
+    "Option2": "To avoid indexing digital documents",
+    "Option3": "To create searchable indexes for digital documents, improving search efficiency",
+    "Option4": "To discourage the use of document indexing in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How can 'document scanning technologies' contribute to digital documentation?",
+    "Option1": "By avoiding document scanning",
+    "Option2": "By promoting outdated scanning technologies",
+    "Option3": "By using modern scanning technologies to convert physical documents into digital formats",
+    "Option4": "By discouraging the use of scanning technologies in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the role of 'document accessibility standards' in digital documentation?",
+    "Option1": "To hinder document accessibility",
+    "Option2": "To avoid adhering to accessibility standards",
+    "Option3": "To ensure digital documents are created and formatted to be accessible to all users, including those with disabilities",
+    "Option4": "To discourage the use of document accessibility standards",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How can 'document formatting styles' contribute to the visual appeal of digital documents?",
+    "Option1": "By promoting inconsistent and unappealing formatting",
+    "Option2": "By avoiding formatting styles",
+    "Option3": "By applying consistent and visually appealing formatting to enhance the presentation of digital documents",
+    "Option4": "By discouraging the use of formatting styles in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the purpose of 'document backup strategies' in digital documentation?",
+    "Option1": "To promote data loss",
+    "Option2": "To avoid backing up digital documents",
+    "Option3": "To implement backup plans to prevent data loss and ensure document recovery in case of emergencies",
+    "Option4": "To discourage the use of document backup strategies",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How can 'document retention policies' contribute to efficient digital document management?",
+    "Option1": "By promoting unlimited document retention",
+    "Option2": "By avoiding document retention policies",
+    "Option3": "By establishing guidelines for the timely disposal and retention of digital documents",
+    "Option4": "By discouraging the use of document retention policies",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What is the significance of 'document watermarking' in digital documentation?",
+    "Option1": "To promote unauthorized use of documents",
+    "Option2": "To avoid document identification",
+    "Option3": "To add visible or invisible marks to digital documents, indicating ownership or status",
+    "Option4": "To discourage the use of document watermarking",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "How does 'document search algorithms' enhance the efficiency of search functions?",
+    "Option1": "By hindering search algorithms",
+    "Option2": "By avoiding search algorithms",
+    "Option3": "By utilizing advanced algorithms to improve the accuracy and speed of document searches",
+    "Option4": "By discouraging the use of search algorithms in digital documentation",
+    "CorrectOption": "n"
+  },
+  {
+    "Question": "What role does 'document metadata privacy' play in protecting sensitive information?",
+    "Option1": "To expose sensitive metadata intentionally",
+    "Option2": "To avoid privacy considerations in metadata",
+    "Option3": "To ensure that metadata containing sensitive information is protected and not accessible to unauthorized users",
+    "Option4": "To discourage the use of metadata privacy in digital documentation",
+    "CorrectOption": "n"
+  },
+  [
+    {
+      "Question": "Why is 'document audit trails' important in digital documentation?",
+      "Option1": "To promote unauthorized changes without tracking",
+      "Option2": "To avoid documenting changes made to digital documents",
+      "Option3": "To maintain a record of all changes made to digital documents for accountability and traceability",
+      "Option4": "To discourage the use of document audit trails",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "What is the purpose of 'document lifecycle management' in digital documentation?",
+      "Option1": "To hinder document organization",
+      "Option2": "To avoid managing the lifecycle of digital documents",
+      "Option3": "To manage the creation, revision, and disposal of digital documents throughout their lifecycle",
+      "Option4": "To discourage the use of document lifecycle management practices",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "How can 'document compression techniques' contribute to efficient storage?",
+      "Option1": "By promoting large file sizes and inefficient storage",
+      "Option2": "By avoiding compression techniques",
+      "Option3": "By reducing file sizes through compression for efficient storage and faster transmission",
+      "Option4": "By discouraging the use of document compression techniques",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "What role does 'document proofreading' play in maintaining document quality?",
+      "Option1": "To encourage errors in documents",
+      "Option2": "To avoid proofreading practices",
+      "Option3": "To review and correct errors in digital documents to ensure accuracy and quality",
+      "Option4": "To discourage the use of document proofreading",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "How does 'document collaboration etiquette' contribute to effective teamwork?",
+      "Option1": "By promoting a lack of communication in collaboration",
+      "Option2": "By avoiding collaboration etiquette",
+      "Option3": "By establishing guidelines for respectful and effective collaboration on digital documents",
+      "Option4": "By discouraging the use of collaboration etiquette in digital documentation",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "What is the significance of 'document digitalization' in modern documentation practices?",
+      "Option1": "To promote manual document handling",
+      "Option2": "To avoid digitalization of documents",
+      "Option3": "To convert physical documents into digital formats for easier storage, retrieval, and sharing",
+      "Option4": "To discourage the use of document digitalization",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "Why is 'document readability' crucial in digital documentation?",
+      "Option1": "To encourage unreadable documents",
+      "Option2": "To overlook readability in documents",
+      "Option3": "To ensure that digital documents are presented in a clear and readable format for the audience",
+      "Option4": "To discourage the consideration of readability in digital documentation",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "What role does 'document sharing permissions' play in controlling access?",
+      "Option1": "To promote unrestricted access to documents",
+      "Option2": "To avoid setting sharing permissions",
+      "Option3": "To define and restrict access to digital documents based on user roles and permissions",
+      "Option4": "To discourage the use of document sharing permissions",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "How can 'document backup frequency' impact data recovery in case of emergencies?",
+      "Option1": "By promoting infrequent document backups",
+      "Option2": "By avoiding regular backup schedules",
+      "Option3": "By ensuring regular and frequent backup of digital documents to enhance data recovery preparedness",
+      "Option4": "By discouraging the consideration of backup frequency in digital documentation",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "What is the purpose of 'document archiving standards' in digital documentation?",
+      "Option1": "To hinder document archiving",
+      "Option2": "To avoid adhering to archiving standards",
+      "Option3": "To establish guidelines for the systematic storage and retrieval of historical digital documents",
+      "Option4": "To discourage the use of document archiving standards",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "Why is 'document access logging' important for security?",
+      "Option1": "To promote unauthorized access without tracking",
+      "Option2": "To avoid logging document access",
+      "Option3": "To maintain a record of who accessed digital documents, enhancing security and accountability",
+      "Option4": "To discourage the use of document access logging for security",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "How can 'document collaboration tracking' enhance accountability?",
+      "Option1": "By promoting anonymous collaboration",
+      "Option2": "By avoiding collaboration tracking",
+      "Option3": "By tracking and recording changes made during collaboration on digital documents to enhance accountability",
+      "Option4": "By discouraging the use of document collaboration tracking",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "What is the role of 'document version control policies' in managing changes?",
+      "Option1": "To hinder version control",
+      "Option2": "To avoid adhering to version control policies",
+      "Option3": "To establish guidelines for managing and controlling changes made to digital documents over time",
+      "Option4": "To discourage the use of document version control policies",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "Why is 'document metadata accuracy' crucial in digital documentation?",
+      "Option1": "To encourage inaccurate metadata",
+      "Option2": "To overlook metadata accuracy",
+      "Option3": "To ensure that metadata associated with digital documents is accurate and reflects the content",
+      "Option4": "To discourage the consideration of metadata accuracy in digital documentation",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "How can 'document encryption standards' contribute to enhanced security?",
+      "Option1": "By exposing documents to security threats",
+      "Option2": "By avoiding encryption standards",
+      "Option3": "By adhering to encryption standards to protect digital documents from unauthorized access",
+      "Option4": "By discouraging the use of document encryption standards",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "What is the significance of 'document collaboration communication' in team effectiveness?",
+      "Option1": "To promote a lack of communication in collaboration",
+      "Option2": "To avoid communication during collaboration",
+      "Option3": "To establish effective communication channels during collaboration on digital documents",
+      "Option4": "To discourage the use of communication in digital documentation collaboration",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "Why is 'document metadata consistency' important in digital documentation?",
+      "Option1": "To encourage inconsistent metadata",
+      "Option2": "To overlook metadata consistency",
+      "Option3": "To maintain uniformity and consistency in the application of metadata to digital documents",
+      "Option4": "To discourage the consideration of metadata consistency in digital documentation",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "How can 'document collaboration etiquette' contribute to effective teamwork?",
+      "Option1": "By promoting a lack of communication in collaboration",
+      "Option2": "By avoiding collaboration etiquette",
+      "Option3": "By establishing guidelines for respectful and effective collaboration on digital documents",
+      "Option4": "By discouraging the use of collaboration etiquette in digital documentation",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "What is the significance of 'document digitalization' in modern documentation practices?",
+      "Option1": "To promote manual document handling",
+      "Option2": "To avoid digitalization of documents",
+      "Option3": "To convert physical documents into digital formats for easier storage, retrieval, and sharing",
+      "Option4": "To discourage the use of document digitalization",
+      "CorrectOption": "n"
+    },
+    {
+      "Question": "Why is 'document readability' crucial in digital documentation?",
+      "Option1": "To encourage unreadable documents",
+      "Option2": "To overlook readability in documents",
+      "Option3": "To ensure that digital documents are presented in a clear and readable format for the audience",
+      "Option4": "To discourage the consideration of readability in digital documentation",
+      "CorrectOption": "n"
+    }
+  ]
+]

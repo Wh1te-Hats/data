@@ -1,0 +1,834 @@
+[
+  {
+    "Question": "The mean of five numbers is 15. If four of the numbers are 12, 18, 20, and 24, find the fifth number.",
+    "Option1": "10",
+    "Option2": "15",
+    "Option3": "18",
+    "Option4": "22",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The median of a data set is the middle value when the values are arranged in ascending order. If the data set is {8, 4, 12, 6, 10}, find the median.",
+    "Option1": "6",
+    "Option2": "8",
+    "Option3": "10",
+    "Option4": "12",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mode of a data set is the value that appears most frequently. If the data set is {5, 8, 5, 12, 9, 5, 7, 8}, find the mode.",
+    "Option1": "5",
+    "Option2": "8",
+    "Option3": "9",
+    "Option4": "12",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The range of a data set is the difference between the maximum and minimum values. If a data set is {17, 22, 15, 20, 25}, find the range.",
+    "Option1": "5",
+    "Option2": "8",
+    "Option3": "10",
+    "Option4": "15",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 25 and there are six values in the set, and five of them are 20, 22, 26, 24, and 30, find the sixth value.",
+    "Option1": "22",
+    "Option2": "24",
+    "Option3": "28",
+    "Option4": "32",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the first quartile (Q1) of a data set is 15 and the third quartile (Q3) is 30, find the interquartile range (IQR).",
+    "Option1": "10",
+    "Option2": "15",
+    "Option3": "20",
+    "Option4": "25",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In a frequency distribution, the class interval with the highest frequency is called the __________.",
+    "Option1": "Range",
+    "Option2": "Mode",
+    "Option3": "Median",
+    "Option4": "Mean",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "If a set of data has a mean of 30 and a median of 35, what can you conclude about the skewness of the data?",
+    "Option1": "Positively skewed",
+    "Option2": "Negatively skewed",
+    "Option3": "No skewness",
+    "Option4": "Cannot be determined",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The standard deviation is a measure of __________ in a data set.",
+    "Option1": "Central tendency",
+    "Option2": "Dispersion",
+    "Option3": "Skewness",
+    "Option4": "Variability",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The coefficient of variation is a measure of relative variability and is calculated as the ratio of the standard deviation to the mean, expressed as a percentage.",
+    "Option1": "True",
+    "Option2": "False",
+    "Option3": "",
+    "Option4": "",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a set of data has a mean of 40 and a standard deviation of 5, what is the z-score for a data point of 35?",
+    "Option1": "-1",
+    "Option2": "-2",
+    "Option3": "1",
+    "Option4": "2",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "A data set has a variance of 16. If the standard deviation is 4, how many data points are there in the set?",
+    "Option1": "8",
+    "Option2": "16",
+    "Option3": "32",
+    "Option4": "64",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 50, and the sum of the squared deviations from the mean is 2000. Find the number of data points in the set.",
+    "Option1": "10",
+    "Option2": "20",
+    "Option3": "30",
+    "Option4": "40",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "If the coefficient of variation is 20% and the mean is 60, find the standard deviation of the data set.",
+    "Option1": "12",
+    "Option2": "15",
+    "Option3": "18",
+    "Option4": "24",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The mean of a data set is 25, and the sum of the squared deviations from the mean is 1500. If there are 10 data points, find the standard deviation.",
+    "Option1": "5",
+    "Option2": "10",
+    "Option3": "15",
+    "Option4": "20",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "A data set has a mean of 30 and a standard deviation of 6. If a data point is 3 standard deviations below the mean, what is its value?",
+    "Option1": "12",
+    "Option2": "18",
+    "Option3": "24",
+    "Option4": "30",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 45, and the standard deviation is 7. If a data point is 2 standard deviations above the mean, what is its value?",
+    "Option1": "31",
+    "Option2": "38",
+    "Option3": "45",
+    "Option4": "52",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "If the mean of a data set is 60 and the z-score for a data point is -1.5, what is the value of the data point?",
+    "Option1": "45",
+    "Option2": "52.5",
+    "Option3": "60",
+    "Option4": "67.5",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The variance of a data set is 25, and the mean is 10. Find the sum of the squared deviations from the mean.",
+    "Option1": "100",
+    "Option2": "125",
+    "Option3": "150",
+    "Option4": "175",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 70 and a data point is 2 standard deviations below the mean, what is its z-score?",
+    "Option1": "-1",
+    "Option2": "-2",
+    "Option3": "1",
+    "Option4": "2",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a mean of 25 and a standard deviation of 5. If a data point is 2 standard deviations above the mean, what is its z-score?",
+    "Option1": "1",
+    "Option2": "2",
+    "Option3": "3",
+    "Option4": "4",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 60, and the sum of the squared deviations from the mean is 3000. If there are 15 data points, find the standard deviation.",
+    "Option1": "5",
+    "Option2": "10",
+    "Option3": "15",
+    "Option4": "20",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the mean of a data set is 40 and the z-score for a data point is 1.5, what is the value of the data point?",
+    "Option1": "30",
+    "Option2": "35",
+    "Option3": "40",
+    "Option4": "45",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "The mean of a data set is 55, and the standard deviation is 8. If a data point is 1.5 standard deviations below the mean, what is its value?",
+    "Option1": "42",
+    "Option2": "47",
+    "Option3": "52",
+    "Option4": "57",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a variance of 36. If the standard deviation is 6, how many data points are there in the set?",
+    "Option1": "4",
+    "Option2": "6",
+    "Option3": "8",
+    "Option4": "10",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "If the coefficient of variation is 25% and the mean is 80, find the standard deviation of the data set.",
+    "Option1": "20",
+    "Option2": "25",
+    "Option3": "30",
+    "Option4": "35",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a set of data has a mean of 35 and a standard deviation of 7, what is the z-score for a data point of 42?",
+    "Option1": "-1",
+    "Option2": "0",
+    "Option3": "1",
+    "Option4": "2",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The mean of a data set is 50, and the sum of the squared deviations from the mean is 2500. If there are 20 data points, find the standard deviation.",
+    "Option1": "5",
+    "Option2": "10",
+    "Option3": "15",
+    "Option4": "20",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "A data set has a mean of 30 and a standard deviation of 4. If a data point is 2 standard deviations below the mean, what is its value?",
+    "Option1": "22",
+    "Option2": "24",
+    "Option3": "26",
+    "Option4": "28",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If a set of data has a mean of 40 and a standard deviation of 6, what is the z-score for a data point of 52?",
+    "Option1": "2",
+    "Option2": "-1",
+    "Option3": "0",
+    "Option4": "1",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "A data set has a variance of 25. If the standard deviation is 5, how many data points are there in the set?",
+    "Option1": "5",
+    "Option2": "10",
+    "Option3": "15",
+    "Option4": "20",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 60, and the sum of the squared deviations from the mean is 4500. If there are 25 data points, find the standard deviation.",
+    "Option1": "5",
+    "Option2": "10",
+    "Option3": "15",
+    "Option4": "20",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the mean of a data set is 75 and a data point is 1.5 standard deviations above the mean, what is its z-score?",
+    "Option1": "0.5",
+    "Option2": "1",
+    "Option3": "1.5",
+    "Option4": "2",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "A data set has a mean of 20 and a standard deviation of 3. If a data point is 3 standard deviations above the mean, what is its value?",
+    "Option1": "11",
+    "Option2": "14",
+    "Option3": "17",
+    "Option4": "20",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If a set of data has a mean of 45 and a standard deviation of 9, what is the z-score for a data point of 54?",
+    "Option1": "1",
+    "Option2": "2",
+    "Option3": "3",
+    "Option4": "4",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The variance of a data set is 36. If the mean is 12, find the sum of the squared deviations from the mean.",
+    "Option1": "324",
+    "Option2": "432",
+    "Option3": "540",
+    "Option4": "648",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the coefficient of variation is 15% and the mean is 50, find the standard deviation of the data set.",
+    "Option1": "7.5",
+    "Option2": "10",
+    "Option3": "12.5",
+    "Option4": "15",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the mean of a data set is 48, and a data point is 2 standard deviations below the mean, what is its value?",
+    "Option1": "44",
+    "Option2": "46",
+    "Option3": "48",
+    "Option4": "50",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "A data set has a mean of 36 and a standard deviation of 6. If a data point is 3 standard deviations above the mean, what is its value?",
+    "Option1": "42",
+    "Option2": "48",
+    "Option3": "54",
+    "Option4": "60",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 55 and the z-score for a data point is -1, what is the value of the data point?",
+    "Option1": "40",
+    "Option2": "45",
+    "Option3": "50",
+    "Option4": "55",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The mean of a data set is 42, and the sum of the squared deviations from the mean is 1260. If there are 15 data points, find the standard deviation.",
+    "Option1": "3",
+    "Option2": "6",
+    "Option3": "9",
+    "Option4": "12",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a set of data has a mean of 25 and a standard deviation of 5, what is the z-score for a data point of 30?",
+    "Option1": "-1",
+    "Option2": "0",
+    "Option3": "1",
+    "Option4": "2",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "A data set has a variance of 49. If the standard deviation is 7, how many data points are there in the set?",
+    "Option1": "5",
+    "Option2": "7",
+    "Option3": "9",
+    "Option4": "11",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 70, and the standard deviation is 5. If a data point is 2 standard deviations above the mean, what is its value?",
+    "Option1": "60",
+    "Option2": "65",
+    "Option3": "70",
+    "Option4": "75",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "If the mean of a data set is 38 and the z-score for a data point is 1.5, what is the value of the data point?",
+    "Option1": "31",
+    "Option2": "34",
+    "Option3": "37",
+    "Option4": "40",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "If the coefficient of variation is 20% and the mean is 75, find the standard deviation of the data set.",
+    "Option1": "15",
+    "Option2": "20",
+    "Option3": "25",
+    "Option4": "30",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The mean of a data set is 48, and the standard deviation is 9. If a data point is 1.5 standard deviations above the mean, what is its value?",
+    "Option1": "57",
+    "Option2": "63",
+    "Option3": "69",
+    "Option4": "75",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a variance of 64. If the standard deviation is 8, how many data points are there in the set?",
+    "Option1": "4",
+    "Option2": "6",
+    "Option3": "8",
+    "Option4": "10",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 40 and the z-score for a data point is -1.5, what is the value of the data point?",
+    "Option1": "30",
+    "Option2": "32.5",
+    "Option3": "35",
+    "Option4": "37.5",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 60, and the sum of the squared deviations from the mean is 4800. If there are 20 data points, find the standard deviation.",
+    "Option1": "6",
+    "Option2": "8",
+    "Option3": "10",
+    "Option4": "12",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the coefficient of variation is 30% and the mean is 90, find the standard deviation of the data set.",
+    "Option1": "27",
+    "Option2": "30",
+    "Option3": "33",
+    "Option4": "36",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The mean of a data set is 55, and the standard deviation is 6. If a data point is 2 standard deviations below the mean, what is its value?",
+    "Option1": "43",
+    "Option2": "47",
+    "Option3": "51",
+    "Option4": "55",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "If the mean of a data set is 65 and a data point is 1.5 standard deviations below the mean, what is its z-score?",
+    "Option1": "-1",
+    "Option2": "-1.5",
+    "Option3": "0",
+    "Option4": "1",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a mean of 25 and a standard deviation of 5. If a data point is 2 standard deviations above the mean, what is its value?",
+    "Option1": "30",
+    "Option2": "35",
+    "Option3": "40",
+    "Option4": "45",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The variance of a data set is 36. If the standard deviation is 6, how many data points are there in the set?",
+    "Option1": "5",
+    "Option2": "6",
+    "Option3": "7",
+    "Option4": "8",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 70 and the z-score for a data point is 2, what is the value of the data point?",
+    "Option1": "60",
+    "Option2": "65",
+    "Option3": "70",
+    "Option4": "75",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "The mean of a data set is 45, and the standard deviation is 12. If a data point is 2.5 standard deviations below the mean, what is its value?",
+    "Option1": "19",
+    "Option2": "24",
+    "Option3": "29",
+    "Option4": "34",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 58 and the z-score for a data point is 2.2, what is the value of the data point?",
+    "Option1": "70",
+    "Option2": "76",
+    "Option3": "82",
+    "Option4": "88",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The mean of a data set is 32, and the sum of the squared deviations from the mean is 768. If there are 16 data points, find the standard deviation.",
+    "Option1": "3",
+    "Option2": "4",
+    "Option3": "5",
+    "Option4": "6",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a set of data has a mean of 52 and a standard deviation of 7, what is the z-score for a data point of 66?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "4",
+    "Option4": "5",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a variance of 81. If the standard deviation is 9, how many data points are there in the set?",
+    "Option1": "7",
+    "Option2": "9",
+    "Option3": "11",
+    "Option4": "13",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "If the coefficient of variation is 18% and the mean is 64, find the standard deviation of the data set.",
+    "Option1": "9",
+    "Option2": "12",
+    "Option3": "15",
+    "Option4": "18",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 52, and the standard deviation is 8. If a data point is 1.8 standard deviations above the mean, what is its value?",
+    "Option1": "66",
+    "Option2": "70",
+    "Option3": "74",
+    "Option4": "78",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 40 and the z-score for a data point is -2, what is the value of the data point?",
+    "Option1": "20",
+    "Option2": "25",
+    "Option3": "30",
+    "Option4": "35",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The variance of a data set is 49. If the mean is 14, find the sum of the squared deviations from the mean.",
+    "Option1": "343",
+    "Option2": "441",
+    "Option3": "539",
+    "Option4": "637",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the coefficient of variation is 22% and the mean is 58, find the standard deviation of the data set.",
+    "Option1": "11",
+    "Option2": "13",
+    "Option3": "15",
+    "Option4": "17",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a mean of 62 and a standard deviation of 15. If a data point is 2.7 standard deviations above the mean, what is its value?",
+    "Option1": "91",
+    "Option2": "96",
+    "Option3": "101",
+    "Option4": "106",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 48 and the z-score for a data point is -1.8, what is the value of the data point?",
+    "Option1": "30",
+    "Option2": "34",
+    "Option3": "38",
+    "Option4": "42",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The mean of a data set is 54, and the sum of the squared deviations from the mean is 9720. If there are 18 data points, find the standard deviation.",
+    "Option1": "9",
+    "Option2": "12",
+    "Option3": "15",
+    "Option4": "18",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a set of data has a mean of 60 and a standard deviation of 10, what is the z-score for a data point of 75?",
+    "Option1": "1.5",
+    "Option2": "2",
+    "Option3": "2.5",
+    "Option4": "3",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "A data set has a variance of 100. If the standard deviation is 10, how many data points are there in the set?",
+    "Option1": "8",
+    "Option2": "10",
+    "Option3": "12",
+    "Option4": "14",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 58, and the standard deviation is 7. If a data point is 2.3 standard deviations below the mean, what is its value?",
+    "Option1": "42",
+    "Option2": "45",
+    "Option3": "48",
+    "Option4": "51",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 68 and the z-score for a data point is 2.5, what is the value of the data point?",
+    "Option1": "80",
+    "Option2": "85",
+    "Option3": "90",
+    "Option4": "95",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The variance of a data set is 64. If the mean is 20, find the sum of the squared deviations from the mean.",
+    "Option1": "640",
+    "Option2": "800",
+    "Option3": "960",
+    "Option4": "1120",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the coefficient of variation is 28% and the mean is 72, find the standard deviation of the data set.",
+    "Option1": "20",
+    "Option2": "25",
+    "Option3": "30",
+    "Option4": "35",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The mean of a data set is 55, and the standard deviation is 10. If a data point is 3 standard deviations above the mean, what is its value?",
+    "Option1": "75",
+    "Option2": "80",
+    "Option3": "85",
+    "Option4": "90",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 42 and the z-score for a data point is 2.8, what is the value of the data point?",
+    "Option1": "52",
+    "Option2": "56",
+    "Option3": "60",
+    "Option4": "64",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "The mean of a data set is 50, and the sum of the squared deviations from the mean is 12000. If there are 30 data points, find the standard deviation.",
+    "Option1": "10",
+    "Option2": "12",
+    "Option3": "15",
+    "Option4": "18",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a set of data has a mean of 72 and a standard deviation of 15, what is the z-score for a data point of 87?",
+    "Option1": "1",
+    "Option2": "1.5",
+    "Option3": "2",
+    "Option4": "2.5",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a variance of 144. If the standard deviation is 12, how many data points are there in the set?",
+    "Option1": "8",
+    "Option2": "10",
+    "Option3": "12",
+    "Option4": "14",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the coefficient of variation is 18% and the mean is 90, find the standard deviation of the data set.",
+    "Option1": "16.2",
+    "Option2": "18",
+    "Option3": "20.7",
+    "Option4": "22.5",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 60, and the standard deviation is 9. If a data point is 3.2 standard deviations below the mean, what is its value?",
+    "Option1": "35",
+    "Option2": "38",
+    "Option3": "41",
+    "Option4": "44",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "If the mean of a data set is 65 and the z-score for a data point is 3, what is the value of the data point?",
+    "Option1": "80",
+    "Option2": "85",
+    "Option3": "90",
+    "Option4": "95",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "The variance of a data set is 169. If the mean is 25, find the sum of the squared deviations from the mean.",
+    "Option1": "845",
+    "Option2": "1014",
+    "Option3": "1183",
+    "Option4": "1352",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the coefficient of variation is 24% and the mean is 72, find the standard deviation of the data set.",
+    "Option1": "17.3",
+    "Option2": "20.5",
+    "Option3": "23.7",
+    "Option4": "26.9",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a mean of 70 and a standard deviation of 20. If a data point is 4 standard deviations above the mean, what is its value?",
+    "Option1": "90",
+    "Option2": "95",
+    "Option3": "100",
+    "Option4": "105",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 52 and the z-score for a data point is -2.5, what is the value of the data point?",
+    "Option1": "38",
+    "Option2": "40",
+    "Option3": "42",
+    "Option4": "44",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The mean of a data set is 48, and the sum of the squared deviations from the mean is 14400. If there are 40 data points, find the standard deviation.",
+    "Option1": "8",
+    "Option2": "10",
+    "Option3": "12",
+    "Option4": "15",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a set of data has a mean of 75 and a standard deviation of 18, what is the z-score for a data point of 93?",
+    "Option1": "1",
+    "Option2": "1.5",
+    "Option3": "2",
+    "Option4": "2.5",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "A data set has a variance of 196. If the standard deviation is 14, how many data points are there in the set?",
+    "Option1": "10",
+    "Option2": "12",
+    "Option3": "14",
+    "Option4": "16",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the coefficient of variation is 20% and the mean is 82, find the standard deviation of the data set.",
+    "Option1": "16.4",
+    "Option2": "18",
+    "Option3": "20.5",
+    "Option4": "22.9",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The mean of a data set is 62, and the standard deviation is 11. If a data point is 3.5 standard deviations below the mean, what is its value?",
+    "Option1": "35",
+    "Option2": "38",
+    "Option3": "41",
+    "Option4": "44",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the mean of a data set is 70 and the z-score for a data point is 3.5, what is the value of the data point?",
+    "Option1": "82.5",
+    "Option2": "87.5",
+    "Option3": "92.5",
+    "Option4": "97.5",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The variance of a data set is 225. If the mean is 30, find the sum of the squared deviations from the mean.",
+    "Option1": "900",
+    "Option2": "1125",
+    "Option3": "1350",
+    "Option4": "1575",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The mean of a data set is 80, and the standard deviation is 25. If a data point is 5 standard deviations above the mean, what is its value?",
+    "Option1": "155",
+    "Option2": "160",
+    "Option3": "165",
+    "Option4": "170",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the mean of a data set is 62 and the z-score for a data point is -3, what is the value of the data point?",
+    "Option1": "50",
+    "Option2": "53",
+    "Option3": "56",
+    "Option4": "59",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "The mean of a data set is 70, and the sum of the squared deviations from the mean is 21000. If there are 50 data points, find the standard deviation.",
+    "Option1": "7",
+    "Option2": "10",
+    "Option3": "14",
+    "Option4": "20",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If a set of data has a mean of 90 and a standard deviation of 30, what is the z-score for a data point of 120?",
+    "Option1": "1",
+    "Option2": "1.5",
+    "Option3": "2",
+    "Option4": "2.5",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "A data set has a variance of 400. If the standard deviation is 20, how many data points are there in the set?",
+    "Option1": "15",
+    "Option2": "20",
+    "Option3": "25",
+    "Option4": "30",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the coefficient of variation is 25% and the mean is 100, find the standard deviation of the data set.",
+    "Option1": "25",
+    "Option2": "30",
+    "Option3": "35",
+    "Option4": "40",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "The mean of a data set is 75, and the standard deviation is 15. If a data point is 4.5 standard deviations below the mean, what is its value?",
+    "Option1": "15",
+    "Option2": "22.5",
+    "Option3": "30",
+    "Option4": "37.5",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "If the mean of a data set is 80 and the z-score for a data point is 4, what is the value of the data point?",
+    "Option1": "96",
+    "Option2": "100",
+    "Option3": "104",
+    "Option4": "108",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "The variance of a data set is 625. If the mean is 25, find the sum of the squared deviations from the mean.",
+    "Option1": "2500",
+    "Option2": "3125",
+    "Option3": "3750",
+    "Option4": "4375",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "If the coefficient of variation is 20% and the mean is 120, find the standard deviation of the data set.",
+    "Option1": "24",
+    "Option2": "30",
+    "Option3": "36",
+    "Option4": "42",
+    "CorrectOption": "1"
+  }
+]

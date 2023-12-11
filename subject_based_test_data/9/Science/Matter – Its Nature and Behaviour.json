@@ -1,0 +1,562 @@
+[
+  {
+    "Question": "What is the fundamental unit of matter?",
+    "Option1": "Atom",
+    "Option2": "Molecule",
+    "Option3": "Particle",
+    "Option4": "Cell",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which section of the unit 'Matter \u00e2\u20ac\u201c Its Nature and Behaviour' explores the smallest particles of matter?",
+    "Option1": "Nature of Matter",
+    "Option2": "Particle Nature and Their Basic Units",
+    "Option3": "Structure of Atoms",
+    "Option4": "Atomic Structure",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the primary focus of the 'Structure of Atoms' section?",
+    "Option1": "Chemical Reactions",
+    "Option2": "Molecular Bonding",
+    "Option3": "Composition of Elements",
+    "Option4": "Arrangement of Particles within an Atom",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "Which term describes the basic building blocks of matter that retain the properties of an element?",
+    "Option1": "Ion",
+    "Option2": "Molecule",
+    "Option3": "Element",
+    "Option4": "Atom",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "In the context of 'Matter Its Nature and Behaviour,' what aspect does the 'Nature of Matter' section primarily cover?",
+    "Option1": "Physical Properties",
+    "Option2": "Chemical Properties",
+    "Option3": "States of Matter",
+    "Option4": "Atomic Mass",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the term for an aspect of matter that can be observed or measured without changing its nature or composition?",
+    "Option1": "Chemical Property",
+    "Option2": "Physical Property",
+    "Option3": "Atomic Property",
+    "Option4": "Elemental Property",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which property is independent of the amount of matter present?",
+    "Option1": "Density",
+    "Option2": "Volume",
+    "Option3": "Mass",
+    "Option4": "Color",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the phenomenon where molecules in a liquid state transition spontaneously to the gaseous phase below the boiling point?",
+    "Option1": "Condensation",
+    "Option2": "Sublimation",
+    "Option3": "Evaporation",
+    "Option4": "Vaporization",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the rate of diffusion dependent on?",
+    "Option1": "Temperature",
+    "Option2": "Density",
+    "Option3": "Volume",
+    "Option4": "Pressure",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the effect of an increase in temperature on the rate of diffusion?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Remains constant",
+    "Option4": "Reverses",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What does the term 'Latent Heat of Vaporisation' refer to?",
+    "Option1": "Heat energy required to change 1 kg of a solid into liquid at atmospheric pressure",
+    "Option2": "Heat energy required to change 1 kg of a liquid into a gas at atmospheric pressure",
+    "Option3": "Heat energy required to change 1 kg of a gas into a solid at atmospheric pressure",
+    "Option4": "Heat energy required to change 1 kg of a liquid into a solid at atmospheric pressure",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is sublimation?",
+    "Option1": "Change of a substance directly from its solid phase to gaseous phase",
+    "Option2": "Change of a substance directly from its liquid phase to gaseous phase",
+    "Option3": "Change of a substance directly from its solid phase to liquid phase",
+    "Option4": "Change of a substance directly from its gas phase to solid phase",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "How does applying pressure affect the interparticle spaces between particles of matter?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Remains constant",
+    "Option4": "Reverses",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the term for the process where molecules in a liquid state undergo spontaneous transition to the gaseous phase at any temperature below its boiling point?",
+    "Option1": "Vaporization",
+    "Option2": "Boiling",
+    "Option3": "Sublimation",
+    "Option4": "Evaporation",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What factor does NOT affect the rate of evaporation?",
+    "Option1": "Temperature",
+    "Option2": "Surface area",
+    "Option3": "Humidity",
+    "Option4": "Pressure",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the effect of an increase in wind speed on the rate of evaporation?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Remains constant",
+    "Option4": "Reverses",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What does the term 'Latent Heat of Fusion' refer to?",
+    "Option1": "Heat energy required to change 1 kg of a solid into a liquid at atmospheric pressure",
+    "Option2": "Heat energy required to change 1 kg of a liquid into a gas at atmospheric pressure",
+    "Option3": "Heat energy required to change 1 kg of a gas into a solid at atmospheric pressure",
+    "Option4": "Heat energy required to change 1 kg of a liquid into a solid at atmospheric pressure",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the term for the temperature at which a solid melts to become a liquid at atmospheric pressure?",
+    "Option1": "Boiling Point",
+    "Option2": "Fusion Point",
+    "Option3": "Melting Point",
+    "Option4": "Vaporization Point",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the boiling point of a liquid defined as?",
+    "Option1": "Temperature at which liquid transforms into the gas phase in the liquid phase",
+    "Option2": "Temperature at which the vapor pressure of the liquid is equal to the atmospheric pressure",
+    "Option3": "Temperature at which liquid transforms into the solid phase",
+    "Option4": "Temperature at which the liquid expands",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "In the 'Atomic View of the Three States of Matter,' what is the state of gas characterized by?",
+    "Option1": "Random and closely arranged particles",
+    "Option2": "Regular and closely arranged particles",
+    "Option3": "Random and more sparsely arranged particles",
+    "Option4": "Random and little sparsely arranged particles",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What property is NOT a characteristic of the gaseous state of matter?",
+    "Option1": "Fixed shape",
+    "Option2": "No fixed volume",
+    "Option3": "Random particle movement",
+    "Option4": "Easy compressibility",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What physical property does NOT depend on the amount of matter present?",
+    "Option1": "Density",
+    "Option2": "Mass",
+    "Option3": "Volume",
+    "Option4": "Color",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the phenomenon when particles of matter intermix on their own with each other?",
+    "Option1": "Condensation",
+    "Option2": "Vaporization",
+    "Option3": "Diffusion",
+    "Option4": "Sublimation",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What happens to the rate of diffusion with an increase in temperature?",
+    "Option1": "Decreases",
+    "Option2": "Increases",
+    "Option3": "Remains constant",
+    "Option4": "Reverses",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What term describes the transition of a substance directly from its solid phase to gaseous phase without changing into the liquid phase (or vice versa)?",
+    "Option1": "Evaporation",
+    "Option2": "Sublimation",
+    "Option3": "Vaporization",
+    "Option4": "Condensation",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "By applying pressure, what happens to the interparticle spaces between particles of matter?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Remains constant",
+    "Option4": "Reverses",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is evaporation?",
+    "Option1": "Molecules in liquid state transition to the gaseous phase spontaneously at any temperature below its boiling point",
+    "Option2": "Molecules in solid state transition to liquid phase spontaneously",
+    "Option3": "Molecules in gas state transition to solid phase spontaneously",
+    "Option4": "Molecules in liquid state transition to solid phase spontaneously",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the cooling effect during evaporation attributed to?",
+    "Option1": "Absorption of heat from the surroundings",
+    "Option2": "Release of heat to the surroundings",
+    "Option3": "Changes in particle arrangement",
+    "Option4": "Increase in humidity",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the purpose of keeping water in earthenware containers to keep it cool?",
+    "Option1": "To increase humidity",
+    "Option2": "To decrease evaporation",
+    "Option3": "To allow for more evaporation",
+    "Option4": "To absorb heat",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the term for the transition of a substance directly from its solid phase to gaseous phase without changing into the liquid phase?",
+    "Option1": "Evaporation",
+    "Option2": "Sublimation",
+    "Option3": "Vaporization",
+    "Option4": "Condensation",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What does NOT change when the state of matter begins to change?",
+    "Option1": "Interparticle force of attraction",
+    "Option2": "Temperature",
+    "Option3": "Pressure",
+    "Option4": "Particle arrangement",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the melting point of a solid defined as?",
+    "Option1": "Temperature at which the solid expands",
+    "Option2": "Temperature at which solid turns to gas",
+    "Option3": "Temperature at which solid turns to liquid at atmospheric pressure",
+    "Option4": "Temperature at which solid contracts",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What process generates enormous amounts of energy by combining two atoms to create a heavier atom?",
+    "Option1": "Sublimation",
+    "Option2": "Fusion",
+    "Option3": "Vaporization",
+    "Option4": "Condensation",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the boiling point of water in Celsius?",
+    "Option1": "0 C",
+    "Option2": "100 C",
+    "Option3": "32 F",
+    "Option4": "20 K",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the boiling point defined as?",
+    "Option1": "Temperature at which liquid transforms into the gas phase in the liquid phase",
+    "Option2": "Temperature at which the vapor pressure of the liquid is equal to the atmospheric pressure",
+    "Option3": "Temperature at which liquid transforms into the solid phase",
+    "Option4": "Temperature at which the liquid expands",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What does 'Latent Heat of Vaporisation' refer to?",
+    "Option1": "Heat energy required to change 1 kg of a solid into a liquid at atmospheric pressure",
+    "Option2": "Heat energy required to change 1 kg of a liquid into a gas at atmospheric pressure",
+    "Option3": "Heat energy required to change 1 kg of a gas into a solid at atmospheric pressure",
+    "Option4": "Heat energy required to change 1 kg of a liquid into a solid at atmospheric pressure",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What does 'Latent Heat of Fusion' refer to?",
+    "Option1": "Heat energy required to change 1 kg of a solid into a liquid at atmospheric pressure",
+    "Option2": "Heat energy required to change 1 kg of a liquid into a gas at atmospheric pressure",
+    "Option3": "Heat energy required to change 1 kg of a gas into a solid at atmospheric pressure",
+    "Option4": "Heat energy required to change 1 kg of a liquid into a solid at atmospheric pressure",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the phase change of solids to liquids called?",
+    "Option1": "Condensation",
+    "Option2": "Evaporation",
+    "Option3": "Fusion",
+    "Option4": "Sublimation",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which section of 'Matter \u00e2\u20ac\u201c Its Nature and Behaviour' explores the arrangement of particles within an atom?",
+    "Option1": "Nature of Matter",
+    "Option2": "Particle Nature and Their Basic Units",
+    "Option3": "Structure of Atoms",
+    "Option4": "Atomic View of Matter",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the term for the energy required to change 1 kg of a solid into a liquid at atmospheric pressure?",
+    "Option1": "Latent Heat of Vaporisation",
+    "Option2": "Latent Heat of Fusion",
+    "Option3": "Melting Heat",
+    "Option4": "Evaporation Heat",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What happens to the kinetic energy of particles when the temperature increases?",
+    "Option1": "Decreases",
+    "Option2": "Remains constant",
+    "Option3": "Reverses",
+    "Option4": "Increases",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "In which state of matter are particles closely arranged and have a fixed shape and volume?",
+    "Option1": "Gas",
+    "Option2": "Liquid",
+    "Option3": "Solid",
+    "Option4": "Plasma",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the term for the temperature at which a liquid transforms into the gas phase in the liquid phase?",
+    "Option1": "Melting Point",
+    "Option2": "Freezing Point",
+    "Option3": "Boiling Point",
+    "Option4": "Vaporization Point",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What characteristic of matter is observed or measured without changing its nature or composition?",
+    "Option1": "Chemical Property",
+    "Option2": "Physical Property",
+    "Option3": "Atomic Property",
+    "Option4": "Molecular Property",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which property is NOT a characteristic of gases?",
+    "Option1": "Easy Compressibility",
+    "Option2": "Fixed Shape",
+    "Option3": "Random Particle Movement",
+    "Option4": "Neither Definite Shape nor Volume",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the characteristic of particles of matter with regard to interparticle attraction?",
+    "Option1": "Maximum in solids",
+    "Option2": "Minimum in liquids",
+    "Option3": "Medium in gases",
+    "Option4": "Constant in all states",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What type of motion do particles of matter exhibit?",
+    "Option1": "Linear",
+    "Option2": "Circular",
+    "Option3": "Random",
+    "Option4": "Oscillatory",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the process of changing from a gas to a liquid?",
+    "Option1": "Condensation",
+    "Option2": "Vaporization",
+    "Option3": "Sublimation",
+    "Option4": "Fusion",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What does NOT affect the rate of evaporation?",
+    "Option1": "Surface Area",
+    "Option2": "Temperature",
+    "Option3": "Humidity",
+    "Option4": "Pressure",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the effect of an increase in surface area on the rate of evaporation?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Remains Constant",
+    "Option4": "Reverses",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the term for the heat energy required to change 1 kg of a liquid into a gas at atmospheric pressure?",
+    "Option1": "Latent Heat of Vaporisation",
+    "Option2": "Latent Heat of Fusion",
+    "Option3": "Evaporation Heat",
+    "Option4": "Boiling Heat",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "In which state of matter are particles closely arranged but have no fixed shape?",
+    "Option1": "Solid",
+    "Option2": "Liquid",
+    "Option3": "Gas",
+    "Option4": "Plasma",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the term for the process where a gas changes into a liquid?",
+    "Option1": "Condensation",
+    "Option2": "Vaporization",
+    "Option3": "Sublimation",
+    "Option4": "Fusion",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the boiling point of water in Fahrenheit?",
+    "Option1": "212 F",
+    "Option2": "100 F",
+    "Option3": "32 C",
+    "Option4": "20 K",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What is the term for the process where a gas changes directly into a solid without passing through the liquid phase?",
+    "Option1": "Condensation",
+    "Option2": "Vaporization",
+    "Option3": "Sublimation",
+    "Option4": "Fusion",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which state of matter is characterized by high temperature and ionized particles?",
+    "Option1": "Solid",
+    "Option2": "Liquid",
+    "Option3": "Gas",
+    "Option4": "Plasma",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the term for the phenomenon where a substance changes directly from a gas to a solid without passing through the liquid state?",
+    "Option1": "Condensation",
+    "Option2": "Vaporization",
+    "Option3": "Sublimation",
+    "Option4": "Fusion",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the term for the temperature at which a liquid turns into a solid at atmospheric pressure?",
+    "Option1": "Boiling Point",
+    "Option2": "Freezing Point",
+    "Option3": "Melting Point",
+    "Option4": "Vaporization Point",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "Which of the following is an extensive property of matter?",
+    "Option1": "Density",
+    "Option2": "Color",
+    "Option3": "Melting Point",
+    "Option4": "Volume",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the term for the temperature at which a gas turns into a liquid?",
+    "Option1": "Condensation Point",
+    "Option2": "Vaporization Point",
+    "Option3": "Boiling Point",
+    "Option4": "Sublimation Point",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which of the following is NOT a characteristic of the liquid state of matter?",
+    "Option1": "Definite Shape",
+    "Option2": "Definite Volume",
+    "Option3": "Fluidity",
+    "Option4": "Incompressibility",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the term for the change of a substance from a gas to a liquid?",
+    "Option1": "Vaporization",
+    "Option2": "Condensation",
+    "Option3": "Evaporation",
+    "Option4": "Sublimation",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the boiling point of liquid nitrogen in Celsius?",
+    "Option1": "-196 C",
+    "Option2": "0 C",
+    "Option3": "100 C",
+    "Option4": "20 K",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "Which of the following statements about plasma is correct?",
+    "Option1": "It has a fixed shape and volume",
+    "Option2": "It is the most common state of matter on Earth",
+    "Option3": "It is not affected by magnetic fields",
+    "Option4": "It is ionized and conducts electricity",
+    "CorrectOption": "4"
+  },
+  {
+    "Question": "What is the term for the transition of a substance directly from its solid phase to the gaseous phase without changing into the liquid phase (or vice versa)?",
+    "Option1": "Evaporation",
+    "Option2": "Sublimation",
+    "Option3": "Vaporization",
+    "Option4": "Condensation",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What happens to the rate of diffusion with an increase in pressure?",
+    "Option1": "Decreases",
+    "Option2": "Increases",
+    "Option3": "Remains constant",
+    "Option4": "Reverses",
+    "CorrectOption": "2"
+  },
+  {
+    "Question": "What is the term for the change of a substance from a liquid to a gas at its boiling point?",
+    "Option1": "Vaporization",
+    "Option2": "Condensation",
+    "Option3": "Evaporation",
+    "Option4": "Sublimation",
+    "CorrectOption": "1"
+  },
+  {
+    "Question": "What happens to the density of an object when it is placed in a vacuum?",
+    "Option1": "Increases",
+    "Option2": "Decreases",
+    "Option3": "Remains constant",
+    "Option4": "Reverses",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "What is the term for the process where a solid changes directly into a gas without passing through the liquid phase?",
+    "Option1": "Condensation",
+    "Option2": "Vaporization",
+    "Option3": "Sublimation",
+    "Option4": "Fusion",
+    "CorrectOption": "3"
+  },
+  {
+    "Question": "Which property of matter is a measure of the amount of matter in an object?",
+    "Option1": "Density",
+    "Option2": "Volume",
+    "Option3": "Mass",
+    "Option4": "Temperature",
+    "CorrectOption": "3"
+  }
+]
