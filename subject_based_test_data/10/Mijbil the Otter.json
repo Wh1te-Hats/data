@@ -1,0 +1,962 @@
+[
+    {
+        "question": "What is the name of the village where Mijbil is first discovered?",
+        "option1": "Girvan",
+        "option2": "Cairnryan",
+        "option3": "Wigtown",
+        "option4": "Lochranza",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts at playing fetch?",
+        "option1": "Excitedly retrieves the item",
+        "option2": "Ignores it",
+        "option3": "Barks and chases",
+        "option4": "Becomes afraid",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite riverbank sunbathing spot?",
+        "option1": "Sunlit Rock",
+        "option2": "Sandy Shore",
+        "option3": "Grassy Knoll",
+        "option4": "Reed-covered Bank",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Mijbil react to the sight of a mirror for the first time?",
+        "option1": "Plays with joy",
+        "option2": "Barks in fear",
+        "option3": "Ignores it",
+        "option4": "Howls in confusion",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the title of the chapter where Mijbil is introduced to the sea?",
+        "option1": "Ocean Adventures",
+        "option2": "Seaside Escapade",
+        "option3": "A Dip in the Deep",
+        "option4": "Sea Explorations",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts to trim his fur?",
+        "option1": "Sits still and cooperates",
+        "option2": "Resists and squirms",
+        "option3": "Runs away",
+        "option4": "Falls asleep",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite game during snowy weather?",
+        "option1": "Snowball Fight",
+        "option2": "Snowy Hide and Seek",
+        "option3": "Winter Chase",
+        "option4": "Frosty Frolic",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts to introduce him to other otters?",
+        "option1": "Curious and friendly",
+        "option2": "Territorial and aggressive",
+        "option3": "Shy and reserved",
+        "option4": "Indifferent",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite riverbank playmate?",
+        "option1": "Rusty the Racoon",
+        "option2": "Benny the Beaver",
+        "option3": "Tina the Turtle",
+        "option4": "Sam the Squirrel",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is Mijbil's reaction to the author's attempts at imitating otter sounds?",
+        "option1": "Joins in with excitement",
+        "option2": "Ignores it",
+        "option3": "Looks confused",
+        "option4": "Howls in protest",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite riverbank resting spot?",
+        "option1": "Moss-covered Rock",
+        "option2": "Shady Grove",
+        "option3": "Pebble Beach",
+        "option4": "Willow Tree Shade",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts to teach him to climb trees?",
+        "option1": "Climbs with enthusiasm",
+        "option2": "Resists and refuses",
+        "option3": "Watches with curiosity",
+        "option4": "Falls asleep",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of the ship captain who helps transport Mijbil?",
+        "option1": "Captain Thompson",
+        "option2": "Captain Wilson",
+        "option3": "Captain Brown",
+        "option4": "Captain Johnson",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts to introduce him to other animals?",
+        "option1": "Friendly and curious",
+        "option2": "Territorial and aggressive",
+        "option3": "Shy and reserved",
+        "option4": "Indifferent",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Mijbil's favorite riverbank snack?",
+        "option1": "Fish and Chips",
+        "option2": "Crab Legs",
+        "option3": "Seaweed Snacks",
+        "option4": "Riverbank Berries",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite outdoor game during sunny days?",
+        "option1": "Chase the Butterflies",
+        "option2": "Sunlit Hide and Seek",
+        "option3": "Meadow Frolic",
+        "option4": "Summer Splash",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts to teach him to fetch objects from the water?",
+        "option1": "Learns quickly",
+        "option2": "Resists and panics",
+        "option3": "Watches with curiosity",
+        "option4": "Refuses to enter the water",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Mijbil's favorite riverbank activity during autumn?",
+        "option1": "Leaf Pile Frolic",
+        "option2": "Fall Harvest Hunt",
+        "option3": "Riverbank Stroll",
+        "option4": "Autumnal Dive",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts to introduce him to snow for the first time?",
+        "option1": "Curiosity",
+        "option2": "Fear",
+        "option3": "Excitement",
+        "option4": "Disdain",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the author's perspective on the ethical treatment of otters in captivity?",
+        "option1": "Advocates for captivity",
+        "option2": "Opposes captivity",
+        "option3": "Neutral",
+        "option4": "Depends on the otter's species",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Mijbil's reaction to the author's laughter?",
+        "option1": "Joins in with otter-like sounds",
+        "option2": "Looks confused",
+        "option3": "Runs away",
+        "option4": "Hides under a blanket",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of the village where the author first meets Mijbil?",
+        "option1": "Cairnryan",
+        "option2": "Girvan",
+        "option3": "Lochranza",
+        "option4": "Wigtown",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the author's initial reaction to Mijbil's antics?",
+        "option1": "Amusement",
+        "option2": "Fear",
+        "option3": "Anger",
+        "option4": "Indifference",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts at teaching him tricks?",
+        "option1": "Learns quickly",
+        "option2": "Refuses to cooperate",
+        "option3": "Looks confused",
+        "option4": "Makes up his own tricks",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is Mijbil's favorite playtime activity?",
+        "option1": "Chasing butterflies",
+        "option2": "Rolling in the grass",
+        "option3": "Climbing trees",
+        "option4": "Solving puzzles",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Mijbil react to the sound of thunder?",
+        "option1": "Hides under a blanket",
+        "option2": "Cowers in fear",
+        "option3": "Howls in excitement",
+        "option4": "Ignores it",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the author's opinion on keeping wild animals as pets?",
+        "option1": "Strongly opposes",
+        "option2": "Encourages",
+        "option3": "Neutral",
+        "option4": "Depends on the species",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite hiding spot in the river?",
+        "option1": "Rocky Cave",
+        "option2": "Mossy Cove",
+        "option3": "Reed-covered Nook",
+        "option4": "Underwater Hollow",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the title of the last chapter in 'Mijbil the Otter'?",
+        "option1": "Farewell to a Friend",
+        "option2": "Into the Wild",
+        "option3": "Otter's Legacy",
+        "option4": "End of the Journey",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react to the author's return after being away for a few days?",
+        "option1": "Excitedly greets",
+        "option2": "Displays indifference",
+        "option3": "Shows signs of resentment",
+        "option4": "Pouts and sulks",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite rock in the river?",
+        "option1": "Smooth Pebble",
+        "option2": "Sunlit Boulder",
+        "option3": "Moss-covered Stone",
+        "option4": "Sparkling Rock",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts to mimic otter sounds?",
+        "option1": "Joins in with excitement",
+        "option2": "Ignores it",
+        "option3": "Looks confused",
+        "option4": "Howls in protest",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite human treat?",
+        "option1": "Chocolate",
+        "option2": "Cheese",
+        "option3": "Peanut Butter",
+        "option4": "Ice Cream",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts to teach him to swim?",
+        "option1": "Takes to it immediately",
+        "option2": "Resists and panics",
+        "option3": "Watches with curiosity",
+        "option4": "Refuses to enter the water",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite aquatic playmate?",
+        "option1": "Duck",
+        "option2": "Fish",
+        "option3": "Turtle",
+        "option4": "Seagull",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts at dressing him in a small costume?",
+        "option1": "Enjoys it",
+        "option2": "Resists and tries to remove it",
+        "option3": "Ignores it",
+        "option4": "Falls asleep",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Mijbil's reaction to the author's singing?",
+        "option1": "Joins in with otter-like sounds",
+        "option2": "Howls in protest",
+        "option3": "Covers ears with paws",
+        "option4": "Purrs with contentment",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite outdoor game?",
+        "option1": "Catch the Tail",
+        "option2": "Hide and Seek",
+        "option3": "Leapfrog",
+        "option4": "Chase the Butterflies",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Mijbil react to the author's attempts at introducing him to other otters?",
+        "option1": "Friendly and playful",
+        "option2": "Territorial and aggressive",
+        "option3": "Shy and reserved",
+        "option4": "Indifferent",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the author's perspective on the otter's place in the natural world?",
+        "option1": "Emphasizes their importance",
+        "option2": "Views them as pests",
+        "option3": "Considers them irrelevant",
+        "option4": "Admires them from a distance",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite human friend?",
+        "option1": "Tom",
+        "option2": "Harry",
+        "option3": "Jerry",
+        "option4": "Dick",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the color of the ribbon Mijbil wears around his neck?",
+        "option1": "Blue",
+        "option2": "Red",
+        "option3": "Green",
+        "option4": "Yellow",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Mijbil react to rainy weather?",
+        "option1": "Enjoys it",
+        "option2": "Hides",
+        "option3": "Barks",
+        "option4": "Sleeps",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite hiding spot in the house?",
+        "option1": "Under the bed",
+        "option2": "Behind the sofa",
+        "option3": "In the cupboard",
+        "option4": "Inside the laundry basket",
+        "correctOption": "3"
+    },
+    {
+        "question": "What type of fish does Mijbil enjoy catching in the river?",
+        "option1": "Salmon",
+        "option2": "Trout",
+        "option3": "Catfish",
+        "option4": "Bass",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Mijbil react to the sight of his reflection in the mirror?",
+        "option1": "Curious",
+        "option2": "Terrified",
+        "option3": "Indifferent",
+        "option4": "Aggressive",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Mijbil's reaction to new toys introduced into his enclosure?",
+        "option1": "Plays with excitement",
+        "option2": "Ignores them",
+        "option3": "Inspects them cautiously",
+        "option4": "Destroys them",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the title of the first chapter in 'Mijbil the Otter'?",
+        "option1": "An Unexpected Encounter",
+        "option2": "A Wild Companion",
+        "option3": "Life in Captivity",
+        "option4": "The River Adventure",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react when introduced to a new type of food for the first time?",
+        "option1": "Eagerly eats it",
+        "option2": "Refuses to eat",
+        "option3": "Sniffs it cautiously",
+        "option4": "Plays with it",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite playmate among other otters?",
+        "option1": "Sandy",
+        "option2": "Charlie",
+        "option3": "Ollie",
+        "option4": "Lily",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Mijbil react to strangers visiting the house?",
+        "option1": "Friendly",
+        "option2": "Aggressive",
+        "option3": "Shy",
+        "option4": "Curious",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of the author's favorite otter conservation organization?",
+        "option1": "Save the Otters Foundation",
+        "option2": "Otter Care Alliance",
+        "option3": "International Otter Rescue",
+        "option4": "The Otter Trust",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite treat?",
+        "option1": "Crab legs",
+        "option2": "Shrimp",
+        "option3": "Clams",
+        "option4": "Squid",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Mijbil react to the smell of flowers?",
+        "option1": "Sniffs them curiously",
+        "option2": "Avoids them",
+        "option3": "Eats them",
+        "option4": "Plays with them",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite swimming spot in the river?",
+        "option1": "The Deep Pool",
+        "option2": "The Rocky Cove",
+        "option3": "The Sandy Bank",
+        "option4": "The Rushing Rapids",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is Mijbil's reaction to thunderstorms?",
+        "option1": "Hides in fear",
+        "option2": "Plays in the rain",
+        "option3": "Sleeps soundly",
+        "option4": "Howls in excitement",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite floating toy?",
+        "option1": "Rubber Duck",
+        "option2": "Floating Fish",
+        "option3": "Water Ball",
+        "option4": "Buoyant Turtle",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react when introduced to a new enclosure?",
+        "option1": "Explores immediately",
+        "option2": "Hides in a corner",
+        "option3": "Inspects cautiously",
+        "option4": "Attempts to escape",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite resting spot in the house?",
+        "option1": "The Cozy Corner",
+        "option2": "The Sunlit Window",
+        "option3": "The Comfy Couch",
+        "option4": "The Warm Hearth",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the author's favorite memory with Mijbil?",
+        "option1": "River Adventure",
+        "option2": "First Meeting",
+        "option3": "Playful Moments",
+        "option4": "Releasing into the Wild",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is Mijbil's favorite toy?",
+        "option1": "Rubber ball",
+        "option2": "Wooden stick",
+        "option3": "Plush duck",
+        "option4": "Feathered wand",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react to the sound of music?",
+        "option1": "Dances",
+        "option2": "Howls",
+        "option3": "Ignores",
+        "option4": "Sleeps",
+        "correctOption": "1"
+    },
+    {
+        "question": "What event prompts the author to consider releasing Mijbil into the wild?",
+        "option1": "Mijbil's illness",
+        "option2": "Mijbil's loneliness",
+        "option3": "Mijbil's aggression",
+        "option4": "Mijbil's display of wild instincts",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the name of Mijbil's first companion in captivity?",
+        "option1": "Rupert",
+        "option2": "Sandy",
+        "option3": "Oliver",
+        "option4": "Lily",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Mijbil react when introduced to snow for the first time?",
+        "option1": "Curiosity",
+        "option2": "Fear",
+        "option3": "Excitement",
+        "option4": "Disdain",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the name of the ship's captain mentioned in the story?",
+        "option1": "Captain Johnson",
+        "option2": "Captain Wilson",
+        "option3": "Captain Brown",
+        "option4": "Captain Thompson",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the color of Mijbil's fur?",
+        "option1": "Brown",
+        "option2": "Black",
+        "option3": "Gray",
+        "option4": "White",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which character is most skeptical about keeping Mijbil as a pet?",
+        "option1": "John",
+        "option2": "Alice",
+        "option3": "Helen",
+        "option4": "Gavin",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does Mijbil do to show affection to the author?",
+        "option1": "Nuzzles",
+        "option2": "Licks",
+        "option3": "Purrs",
+        "option4": "Squeaks",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Mijbil react to being photographed?",
+        "option1": "Poses",
+        "option2": "Runs away",
+        "option3": "Hides",
+        "option4": "Attacks the camera",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of Mijbil's name?",
+        "option1": "It means 'Playful' in a local language",
+        "option2": "It is the author's favorite name",
+        "option3": "It is the name of a famous otter",
+        "option4": "It is a combination of the author's initials",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does Mijbil do when he is anxious?",
+        "option1": "Swims rapidly",
+        "option2": "Curls into a ball",
+        "option3": "Climbs trees",
+        "option4": "Sings",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the author's initial reaction to the idea of keeping an otter as a pet?",
+        "option1": "Excitement",
+        "option2": "Doubt",
+        "option3": "Fear",
+        "option4": "Indifference",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which character in the story is most attached to Mijbil?",
+        "option1": "Alice",
+        "option2": "John",
+        "option3": "Helen",
+        "option4": "Gavin",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the author's profession?",
+        "option1": "Zoologist",
+        "option2": "Pilot",
+        "option3": "Writer",
+        "option4": "Chef",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the name of the village where Mijbil is introduced to the sea?",
+        "option1": "Corrie",
+        "option2": "Inverness",
+        "option3": "Kirkcudbright",
+        "option4": "Oban",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is Mijbil's favorite water activity?",
+        "option1": "Swimming",
+        "option2": "Diving",
+        "option3": "Floating",
+        "option4": "Splashing",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Mijbil's reaction to the author leaving for a trip?",
+        "option1": "Depressed",
+        "option2": "Excited",
+        "option3": "Angry",
+        "option4": "Indifferent",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Mijbil react to the presence of other animals in his environment?",
+        "option1": "Friendly",
+        "option2": "Territorial",
+        "option3": "Apathetic",
+        "option4": "Aggressive",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary conflict in 'Mijbil the Otter'?",
+        "option1": "Man vs. Nature",
+        "option2": "Man vs. Society",
+        "option3": "Man vs. Himself",
+        "option4": "Man vs. Technology",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does Mijbil do when he is excited?",
+        "option1": "Jump around",
+        "option2": "Swim in circles",
+        "option3": "Clap his paws",
+        "option4": "Stand on his hind legs",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the significance of the title 'Mijbil the Otter'?",
+        "option1": "Mijbil is a unique otter species",
+        "option2": "Mijbil is a famous otter",
+        "option3": "Mijbil is the only otter in the story",
+        "option4": "Mijbil is a common otter name",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the name of the author's favorite otter guide?",
+        "option1": "Charlie",
+        "option2": "Billy",
+        "option3": "Sammy",
+        "option4": "Johnny",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which animal does Mijbil share his enclosure with?",
+        "option1": "Seagull",
+        "option2": "Turtle",
+        "option3": "Seal",
+        "option4": "Penguin",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Mijbil's reaction to the author's attempts at training him?",
+        "option1": "Cooperative",
+        "option2": "Rebellious",
+        "option3": "Confused",
+        "option4": "Apathetic",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic meaning of Mijbil in the story?",
+        "option1": "Freedom",
+        "option2": "Companionship",
+        "option3": "Adaptability",
+        "option4": "Curiosity",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which character plays a crucial role in Mijbil's adjustment to captivity?",
+        "option1": "John",
+        "option2": "Alice",
+        "option3": "Helen",
+        "option4": "Gavin",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite playmate among the author's friends?",
+        "option1": "Peter",
+        "option2": "David",
+        "option3": "Tom",
+        "option4": "Mark",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Mijbil react when the author tries to leave him alone?",
+        "option1": "Cries",
+        "option2": "Sleeps",
+        "option3": "Throws a tantrum",
+        "option4": "Plays with toys",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary reason for Mijbil's initial distress in captivity?",
+        "option1": "Loneliness",
+        "option2": "Hunger",
+        "option3": "Illness",
+        "option4": "Fear of water",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which characteristic of otters does the author highlight in the book?",
+        "option1": "Exceptional eyesight",
+        "option2": "Incredible speed",
+        "option3": "Remarkable intelligence",
+        "option4": "Extraordinary hearing",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the name of Mijbil's favorite food?",
+        "option1": "Salmon",
+        "option2": "Trout",
+        "option3": "Herring",
+        "option4": "Sardines",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which season does Mijbil enjoy the most?",
+        "option1": "Spring",
+        "option2": "Summer",
+        "option3": "Autumn",
+        "option4": "Winter",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Mijbil do when he is upset?",
+        "option1": "Hide",
+        "option2": "Bite",
+        "option3": "Whine",
+        "option4": "Pout",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the author describe Mijbil's eyes?",
+        "option1": "Sparkling",
+        "option2": "Dull",
+        "option3": "Mysterious",
+        "option4": "Playful",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of the village near the author's home where Mijbil is introduced to the sea?",
+        "option1": "Corrie",
+        "option2": "Inverness",
+        "option3": "Kirkcudbright",
+        "option4": "Oban",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary reason for Mijbil's release into the wild?",
+        "option1": "Legal requirements",
+        "option2": "Health concerns",
+        "option3": "Natural instincts",
+        "option4": "Author's decision",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Mijbil react to other otters in the wild?",
+        "option1": "Aggressively",
+        "option2": "Fearfully",
+        "option3": "Indifferently",
+        "option4": "Playfully",
+        "correctOption": "4"
+    },
+    {
+        "question": "What lesson does the author convey about the captivity of wild animals through Mijbil's story?",
+        "option1": "Captivity is beneficial",
+        "option2": "Captivity is harmful",
+        "option3": "Captivity is natural",
+        "option4": "Captivity is necessary",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolism behind the river visits in Mijbil's life?",
+        "option1": "A symbol of freedom",
+        "option2": "A symbol of nostalgia",
+        "option3": "A symbol of captivity",
+        "option4": "A symbol of loneliness",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the name of the unit?",
+        "option1": "Mijbil the Elephant",
+        "option2": "Mijbil the Giraffe",
+        "option3": "Mijbil the Otter",
+        "option4": "Mijbil the Tiger",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who is the author of 'Mijbil the Otter'?",
+        "option1": "Ruskin Bond",
+        "option2": "E.B. White",
+        "option3": "Gavin Maxwell",
+        "option4": "Beatrix Potter",
+        "correctOption": "3"
+    },
+    {
+        "question": "Where does the story of Mijbil the Otter take place?",
+        "option1": "Amazon Rainforest",
+        "option2": "Serengeti Plains",
+        "option3": "Scottish Highlands",
+        "option4": "Australian Outback",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is Mijbil?",
+        "option1": "A Dog",
+        "option2": "An Otter",
+        "option3": "A Bird",
+        "option4": "A Fish",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the main theme of 'Mijbil the Otter'?",
+        "option1": "Space Exploration",
+        "option2": "Wildlife Conservation",
+        "option3": "Romantic Love",
+        "option4": "Time Travel",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who becomes the caretaker of Mijbil?",
+        "option1": "John Watson",
+        "option2": "Gavin Maxwell",
+        "option3": "Alice Johnson",
+        "option4": "Helen Robinson",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Mijbil's reaction to his new environment initially?",
+        "option1": "Fearful",
+        "option2": "Excited",
+        "option3": "Indifferent",
+        "option4": "Angry",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which river does Mijbil frequently visit in the story?",
+        "option1": "Nile",
+        "option2": "Thames",
+        "option3": "Danube",
+        "option4": "Euphrates",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the nickname given to Mijbil?",
+        "option1": "Ollie",
+        "option2": "Mij",
+        "option3": "Otto",
+        "option4": "Pip",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the profession of the author in 'Mijbil the Otter'?",
+        "option1": "Journalist",
+        "option2": "Zoologist",
+        "option3": "Astronaut",
+        "option4": "Chef",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which year was 'Mijbil the Otter' first published?",
+        "option1": "1950",
+        "option2": "1961",
+        "option3": "1974",
+        "option4": "1988",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Mijbil eat in captivity?",
+        "option1": "Fish",
+        "option2": "Berries",
+        "option3": "Insects",
+        "option4": "Seaweed",
+        "correctOption": "1"
+    },
+    {
+        "question": "What endangered species does the author compare Mijbil to?",
+        "option1": "Panda",
+        "option2": "Tiger",
+        "option3": "Gorilla",
+        "option4": "Rhino",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the setting of the opening scene in 'Mijbil the Otter'?",
+        "option1": "City Park",
+        "option2": "Countryside",
+        "option3": "Zoo",
+        "option4": "Mountain Peak",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who suggests that the author keep Mijbil as a pet?",
+        "option1": "Helen",
+        "option2": "Alice",
+        "option3": "John",
+        "option4": "Gavin",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the name of the ship mentioned in the story?",
+        "option1": "HMS Endeavour",
+        "option2": "SS Nyassa",
+        "option3": "MV Seagull",
+        "option4": "USS Voyager",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Mijbil's reaction when introduced to the sea for the first time?",
+        "option1": "Fear",
+        "option2": "Joy",
+        "option3": "Confusion",
+        "option4": "Indifference",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Mijbil communicate with the author?",
+        "option1": "Sign Language",
+        "option2": "Telepathy",
+        "option3": "Whistles",
+        "option4": "Body Language",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the final fate of Mijbil?",
+        "option1": "Released into the wild",
+        "option2": "Donated to a zoo",
+        "option3": "Kept as a pet",
+        "option4": "Sent to a research facility",
+        "correctOption": "1"
+    },
+    {
+        "question": "What lesson does the author learn from his experience with Mijbil?",
+        "option1": "The Importance of Friendship",
+        "option2": "The Value of Freedom",
+        "option3": "The Joy of Travel",
+        "option4": "The Significance of Knowledge",
+        "correctOption": "2"
+    }
+]

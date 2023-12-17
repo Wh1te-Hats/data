@@ -1,0 +1,1266 @@
+[
+    {
+        "question": "How does Anne view the concept of humanity and compassion in the face of war?",
+        "option1": "She believes in inherent goodness",
+        "option2": "She loses faith in humanity",
+        "option3": "She is indifferent",
+        "option4": "She believes in selective compassion",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's attitude towards the concept of ambition and achievement during her time in hiding?",
+        "option1": "She is ambitious",
+        "option2": "She rejects ambition",
+        "option3": "She is indifferent",
+        "option4": "She questions the value of ambition",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne feel about the concept of home and belonging during her time in hiding?",
+        "option1": "She longs for a home",
+        "option2": "She rejects the idea of home",
+        "option3": "She is indifferent",
+        "option4": "She finds home within herself",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does Anne assign to art and creativity in the annex?",
+        "option1": "Art is a form of rebellion",
+        "option2": "Art is a distraction",
+        "option3": "Art is irrelevant",
+        "option4": "Art is a means of expression",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne perceive the concept of humor in the midst of adversity?",
+        "option1": "She uses humor as a coping mechanism",
+        "option2": "She rejects humor",
+        "option3": "She is indifferent to humor",
+        "option4": "She believes humor is inappropriate",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of rebellion against authority?",
+        "option1": "She is a rebel",
+        "option2": "She accepts authority",
+        "option3": "She is indifferent",
+        "option4": "She believes in strategic rebellion",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne feel about the concept of beauty and art in the context of war?",
+        "option1": "She values beauty and art",
+        "option2": "She believes they are irrelevant",
+        "option3": "She is indifferent",
+        "option4": "She mourns the loss of beauty",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does Anne assign to imagination and fantasy in her life in hiding?",
+        "option1": "Imagination is a source of escape",
+        "option2": "Imagination is irrelevant",
+        "option3": "Imagination is a distraction",
+        "option4": "Imagination is a form of rebellion",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne perceive the concept of authority figures in her life?",
+        "option1": "She respects authority figures",
+        "option2": "She challenges authority figures",
+        "option3": "She is indifferent",
+        "option4": "She fears authority figures",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of education and knowledge in the annex?",
+        "option1": "She values formal education",
+        "option2": "She believes in self-education",
+        "option3": "She is indifferent",
+        "option4": "She rejects the idea of education",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne express her views on the concept of justice and fairness in society?",
+        "option1": "She believes in absolute justice",
+        "option2": "She rejects the idea of justice",
+        "option3": "She is indifferent",
+        "option4": "She believes in reforming justice",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is Anne's attitude towards the concept of tradition and cultural heritage during her time in hiding?",
+        "option1": "She embraces tradition",
+        "option2": "She rejects tradition",
+        "option3": "She is indifferent",
+        "option4": "She modifies tradition",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne feel about the concept of sacrifice for a cause greater than oneself?",
+        "option1": "She believes in self-sacrifice",
+        "option2": "She rejects the idea of sacrifice",
+        "option3": "She is indifferent",
+        "option4": "She questions the necessity of sacrifice",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does Anne assign to nature and the outdoors in her reflections?",
+        "option1": "Nature is a source of solace",
+        "option2": "Nature is irrelevant",
+        "option3": "Nature is a reminder of loss",
+        "option4": "Nature is a form of escapism",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne feel about the concept of destiny and fate in the context of war?",
+        "option1": "She believes in destiny",
+        "option2": "She rejects the idea of fate",
+        "option3": "She is indifferent",
+        "option4": "She questions the role of fate",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of time and its passage during her time in hiding?",
+        "option1": "She fears the passing of time",
+        "option2": "She embraces the passage of time",
+        "option3": "She is indifferent",
+        "option4": "She reflects on the relativity of time",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne express her feelings about the concept of nostalgia and longing for the past?",
+        "option1": "Through written reflections",
+        "option2": "Through drawing and doodling",
+        "option3": "Through imaginary conversations",
+        "option4": "Through physical activities",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of resistance against oppression?",
+        "option1": "She actively resists oppression",
+        "option2": "She is indifferent to resistance",
+        "option3": "She believes in passive resistance",
+        "option4": "She questions the effectiveness of resistance",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne feel about the concept of isolation and its impact on her mental well-being?",
+        "option1": "She embraces isolation",
+        "option2": "She rejects isolation",
+        "option3": "She is indifferent",
+        "option4": "She reflects on the challenges of isolation",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of escape from reality through dreams and fantasies?",
+        "option1": "She believes in escapism",
+        "option2": "She rejects escapism",
+        "option3": "She is indifferent",
+        "option4": "She uses escapism as a coping mechanism",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne express her feelings about the concept of war and its impact on humanity?",
+        "option1": "She supports war for justice",
+        "option2": "She opposes all wars",
+        "option3": "She is indifferent to war",
+        "option4": "She believes in the necessity of war",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Anne's attitude towards the concept of marriage and relationships during her time in hiding?",
+        "option1": "She dreams of marriage",
+        "option2": "She is indifferent to marriage",
+        "option3": "She is critical of traditional relationships",
+        "option4": "She rejects the idea of marriage",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne feel about the concept of social conformity during her time in hiding?",
+        "option1": "She embraces social conformity",
+        "option2": "She rejects social conformity",
+        "option3": "She is indifferent",
+        "option4": "She challenges social norms",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of self-expression and individuality in the annex?",
+        "option1": "She values self-expression",
+        "option2": "She suppresses individuality",
+        "option3": "She is indifferent",
+        "option4": "She fears self-expression",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne feel about the concept of beauty in the midst of war?",
+        "option1": "She finds beauty in simple things",
+        "option2": "She believes beauty is irrelevant",
+        "option3": "She is indifferent",
+        "option4": "She mourns the loss of beauty",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of courage during her time in hiding?",
+        "option1": "She admires courage",
+        "option2": "She is indifferent to courage",
+        "option3": "She questions the importance of courage",
+        "option4": "She believes everyone has inherent courage",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne express her opinions about societal expectations and gender roles?",
+        "option1": "Through rebellion",
+        "option2": "Through conformity",
+        "option3": "Through indifference",
+        "option4": "Through negotiation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does Anne assign to literature and books in the annex?",
+        "option1": "They are a source of entertainment",
+        "option2": "They are a form of escapism",
+        "option3": "They are irrelevant",
+        "option4": "They serve as educational tools",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne feel about the concept of privacy in the confined space of the annex?",
+        "option1": "She values privacy",
+        "option2": "She is indifferent to privacy",
+        "option3": "She struggles with a lack of privacy",
+        "option4": "She rejects the idea of privacy",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of prejudice and discrimination in society?",
+        "option1": "She believes in the inherent goodness of people",
+        "option2": "She rejects prejudice",
+        "option3": "She is indifferent",
+        "option4": "She believes prejudice is unavoidable",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne perceive the concept of fate and destiny in the context of her personal experiences?",
+        "option1": "She believes in fate",
+        "option2": "She rejects destiny",
+        "option3": "She is indifferent",
+        "option4": "She believes in shaping one's destiny",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is Anne's attitude towards the concept of societal norms and expectations?",
+        "option1": "She adheres to societal norms",
+        "option2": "She rebels against societal norms",
+        "option3": "She is indifferent",
+        "option4": "She negotiates with societal norms",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne feel about the concept of trust and loyalty in relationships?",
+        "option1": "She trusts easily",
+        "option2": "She struggles with trust",
+        "option3": "She is indifferent",
+        "option4": "She believes in unwavering loyalty",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of change during her time in hiding?",
+        "option1": "She fears change",
+        "option2": "She embraces change",
+        "option3": "She is indifferent",
+        "option4": "She sees change as inevitable",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne express her feelings about the concept of innocence and childhood in the annex?",
+        "option1": "Through nostalgia",
+        "option2": "Through rejection",
+        "option3": "Through indifference",
+        "option4": "Through celebration",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's attitude towards the concept of forgiveness and redemption in her relationships?",
+        "option1": "She believes in forgiveness",
+        "option2": "She rejects forgiveness",
+        "option3": "She is indifferent",
+        "option4": "She struggles with the idea of redemption",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne feel about the concept of identity and self-discovery during her time in hiding?",
+        "option1": "She embraces self-discovery",
+        "option2": "She rejects identity",
+        "option3": "She is indifferent",
+        "option4": "She struggles with self-discovery",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of memory and its role in shaping one's identity?",
+        "option1": "She values memory",
+        "option2": "She rejects the idea of memory",
+        "option3": "She is indifferent",
+        "option4": "She believes memory is unreliable",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne express her opinions about societal expectations and gender roles?",
+        "option1": "Through rebellion",
+        "option2": "Through conformity",
+        "option3": "Through indifference",
+        "option4": "Through negotiation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of sacrifice for a greater cause?",
+        "option1": "She believes in self-sacrifice",
+        "option2": "She rejects the idea of sacrifice",
+        "option3": "She is indifferent",
+        "option4": "She questions the necessity of sacrifice",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Anne's opinion on the concept of justice during her time in hiding?",
+        "option1": "She believes in absolute justice",
+        "option2": "She rejects the idea of justice",
+        "option3": "She is indifferent",
+        "option4": "She believes in forgiveness over justice",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne feel about the concept of motherhood during her time in hiding?",
+        "option1": "She longs to become a mother",
+        "option2": "She is indifferent to motherhood",
+        "option3": "She expresses ambivalence",
+        "option4": "She rejects the idea of motherhood",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of Anne's observations about the changing seasons?",
+        "option1": "They symbolize the passage of time",
+        "option2": "They represent the cycles of life",
+        "option3": "They signify hope and renewal",
+        "option4": "They reflect Anne's connection to nature",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne perceive the concept of material possessions during her time in hiding?",
+        "option1": "She values material possessions",
+        "option2": "She rejects materialism",
+        "option3": "She is indifferent",
+        "option4": "She sees material possessions as a distraction",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does religion play in Anne's life and reflections in the annex?",
+        "option1": "It is a source of comfort",
+        "option2": "It is a point of contention",
+        "option3": "It is irrelevant",
+        "option4": "It is a symbol of division",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne express her feelings of loneliness and isolation in her diary?",
+        "option1": "Through imaginary conversations",
+        "option2": "Through drawings and doodles",
+        "option3": "Through letters to her friends",
+        "option4": "Through prayers",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of individuality and conformity?",
+        "option1": "She values individuality",
+        "option2": "She rejects individuality",
+        "option3": "She believes in conformity",
+        "option4": "She is indifferent",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne feel about the concept of betrayal during her time in hiding?",
+        "option1": "She fears betrayal",
+        "option2": "She is indifferent",
+        "option3": "She experiences betrayal",
+        "option4": "She struggles with feelings of betrayal",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the significance of Anne's dream about the Mussolini of the annex?",
+        "option1": "It represents her political aspirations",
+        "option2": "It is a satirical commentary",
+        "option3": "It is a symbol of oppression",
+        "option4": "It reflects Anne's fears",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne express her views on the concept of friendship during her time in hiding?",
+        "option1": "She values friendship",
+        "option2": "She rejects the idea of friendship",
+        "option3": "She is indifferent",
+        "option4": "She struggles with forming genuine friendships",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of self-discovery and self-acceptance?",
+        "option1": "She embraces self-discovery",
+        "option2": "She rejects the idea of self-discovery",
+        "option3": "She is indifferent",
+        "option4": "She struggles with self-acceptance",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does music play in Anne's life and reflections in the annex?",
+        "option1": "It is a source of joy",
+        "option2": "It is a source of irritation",
+        "option3": "It is irrelevant",
+        "option4": "It is a reminder of the outside world",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne view the concept of trust and betrayal in relationships?",
+        "option1": "She trusts easily",
+        "option2": "She struggles with trust",
+        "option3": "She rejects trust",
+        "option4": "She is indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is Anne's attitude towards the concept of authority during her time in hiding?",
+        "option1": "She respects authority",
+        "option2": "She rejects authority",
+        "option3": "She is indifferent",
+        "option4": "She challenges authority",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne perceive the concept of hope and optimism in the annex?",
+        "option1": "She remains hopeful",
+        "option2": "She loses hope",
+        "option3": "She is indifferent",
+        "option4": "She finds hope in imagination",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the significance of Anne's dreams about the outside world and freedom?",
+        "option1": "They represent escapism",
+        "option2": "They symbolize her desires",
+        "option3": "They are a reflection of her fears",
+        "option4": "They mark her acceptance of reality",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne feel about the concept of escapism during her time in hiding?",
+        "option1": "She embraces escapism",
+        "option2": "She rejects escapism",
+        "option3": "She is indifferent",
+        "option4": "She uses escapism as a coping mechanism",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of destiny and fate in her diary?",
+        "option1": "She believes in destiny",
+        "option2": "She rejects the idea of destiny",
+        "option3": "She is indifferent",
+        "option4": "She struggles with the concept of fate",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne cope with the stress and anxiety of hiding?",
+        "option1": "Through laughter",
+        "option2": "Through meditation",
+        "option3": "Through writing",
+        "option4": "Through physical activity",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of Anne's references to fairy tales and fantasy in her diary?",
+        "option1": "They represent her desire for escapism",
+        "option2": "They symbolize her innocence",
+        "option3": "They are metaphors for her reality",
+        "option4": "They are a form of rebellion",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's opinion about the concept of God during her time in hiding?",
+        "option1": "She becomes more religious",
+        "option2": "She loses faith",
+        "option3": "She converts to Christianity",
+        "option4": "She remains indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne describe the relationship between her parents during their time in hiding?",
+        "option1": "Loving",
+        "option2": "Distant",
+        "option3": "Tense",
+        "option4": "Indifferent",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of Anne's mention of the red-checkered shawl in her diary ?",
+        "option1": "It represents comfort",
+        "option2": "It symbolizes her mother's warmth",
+        "option3": "It signifies her connection to her past",
+        "option4": "It is a secret code",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who does Anne blame for the suffering of the Jewish people?",
+        "option1": "The Nazis",
+        "option2": "The Allies",
+        "option3": "The Jewish community",
+        "option4": "Her own family",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's attitude towards traditional gender roles during her time in hiding?",
+        "option1": "She embraces them",
+        "option2": "She rejects them",
+        "option3": "She is indifferent",
+        "option4": "She challenges them",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does Anne consider to be her most significant character flaw?",
+        "option1": "Impulsiveness",
+        "option2": "Laziness",
+        "option3": "Arrogance",
+        "option4": "Insecurity",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Anne feel about her blossoming sexuality during her time in hiding?",
+        "option1": "Excited",
+        "option2": "Embarrassed",
+        "option3": "Indifferent",
+        "option4": "Confused",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does Mr. Frank play in maintaining a sense of normalcy in the annex?",
+        "option1": "He provides entertainment",
+        "option2": "He organizes educational activities",
+        "option3": "He enforces discipline",
+        "option4": "He preserves family traditions",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne feel about the concept of beauty during her time in hiding?",
+        "option1": "She believes in inner beauty",
+        "option2": "She values physical appearance",
+        "option3": "She rejects the idea of beauty",
+        "option4": "She is indifferent",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of Anne's reference to the green curtains in the annex ?",
+        "option1": "They represent nature",
+        "option2": "They symbolize hope",
+        "option3": "They mark the changing seasons",
+        "option4": "They conceal the residents",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne cope with the monotony and isolation of hiding?",
+        "option1": "By creating a daily schedule",
+        "option2": "By engaging in imaginary conversations",
+        "option3": "By writing letters to her friends",
+        "option4": "By playing music",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of Anne's fantasy about becoming a tree?",
+        "option1": "It symbolizes her desire for rootedness",
+        "option2": "It represents her connection to nature",
+        "option3": "It is a metaphor for her growth",
+        "option4": "It is a way to escape reality",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne feel about the concept of social justice during her time in hiding?",
+        "option1": "She becomes an activist",
+        "option2": "She is indifferent",
+        "option3": "She challenges injustice",
+        "option4": "She loses hope in justice",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is Anne's perspective on education and learning in the annex?",
+        "option1": "She values formal education",
+        "option2": "She believes in self-education",
+        "option3": "She is indifferent to education",
+        "option4": "She rejects the idea of learning",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne feel about the concept of time during her time in hiding?",
+        "option1": "It moves too quickly",
+        "option2": "It moves too slowly",
+        "option3": "It is irrelevant",
+        "option4": "It is precious",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of Anne's mention of the fake jewels in her diary ?",
+        "option1": "They symbolize deception",
+        "option2": "They represent materialism",
+        "option3": "They signify hope",
+        "option4": "They are a metaphor for human flaws",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne express her longing for a sense of normalcy and routine in the annex?",
+        "option1": "Through her dreams",
+        "option2": "Through her interactions with others",
+        "option3": "Through her imaginary conversations",
+        "option4": "Through her reflections on the past",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's perspective on the concept of forgiveness during her time in hiding?",
+        "option1": "She believes in forgiveness",
+        "option2": "She rejects the idea of forgiveness",
+        "option3": "She is indifferent",
+        "option4": "She struggles with forgiveness",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of nature in Anne's reflections and writings in the diary?",
+        "option1": "It is a source of inspiration",
+        "option2": "It is a symbol of freedom",
+        "option3": "It is a reflection of Anne's emotions",
+        "option4": "It is a backdrop for her fantasies",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does Mr. Van Daan play in the dynamics of the annex?",
+        "option1": "Peacemaker",
+        "option2": "Comedian",
+        "option3": "Troublemaker",
+        "option4": "Mediator",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne cope with the fear of discovery while in hiding?",
+        "option1": "By writing in her diary",
+        "option2": "By praying",
+        "option3": "By talking to Peter",
+        "option4": "By hiding in a secret compartment",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the chestnut tree mentioned in Anne's diary?",
+        "option1": "It represents freedom",
+        "option2": "It symbolizes hope",
+        "option3": "It marks the changing seasons",
+        "option4": "It represents Anne's longing for nature",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne feel about the concept of romantic love?",
+        "option1": "Enthusiastic",
+        "option2": "Indifferent",
+        "option3": "Cynical",
+        "option4": "Confused",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the fate of Anne's friend, Sanne Houtman, during the war?",
+        "option1": "She joins Anne in hiding",
+        "option2": "She betrays Anne",
+        "option3": "She is sent to a concentration camp",
+        "option4": "She escapes to Switzerland",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne describe the annex residents' relationship with nature?",
+        "option1": "Distant",
+        "option2": "Intimate",
+        "option3": "Hostile",
+        "option4": "Apathetic",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Anne consider to be the worst part of living in hiding?",
+        "option1": "The lack of space",
+        "option2": "The fear of discovery",
+        "option3": "The scarcity of food",
+        "option4": "The isolation",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne feel about the concept of death while in hiding?",
+        "option1": "Fearful",
+        "option2": "Accepting",
+        "option3": "Defiant",
+        "option4": "Indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who is Anne's role model, and why does she admire this person?",
+        "option1": "Margot Frank, for her intelligence",
+        "option2": "Miep Gies, for her bravery",
+        "option3": "Mrs. Van Daan, for her resilience",
+        "option4": "Peter Van Daan, for his kindness",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Anne believe is the root cause of prejudice and discrimination?",
+        "option1": "Ignorance",
+        "option2": "Fear",
+        "option3": "Hatred",
+        "option4": "Intolerance",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of Anne's dreams of a normal life ?",
+        "option1": "They represent her escape from reality",
+        "option2": "They symbolize her hope for the future",
+        "option3": "They reflect her discontent with the present",
+        "option4": "They highlight her nostalgia for the past",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who does Anne consider to be her closest confidant in the annex?",
+        "option1": "Margot Frank",
+        "option2": "Peter Van Daan",
+        "option3": "Miep Gies",
+        "option4": "Mrs. Van Daan",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of Anne's reference to the outside world as the land of ghosts ?",
+        "option1": "It represents her fear of the unknown",
+        "option2": "It symbolizes her longing for freedom",
+        "option3": "It reflects her isolation",
+        "option4": "It underscores her belief in an afterlife",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne express her frustration and anger in the diary?",
+        "option1": "By confronting others directly",
+        "option2": "By writing satirical entries",
+        "option3": "By tearing out pages",
+        "option4": "By refusing to speak",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the sound of footsteps in Anne's diary?",
+        "option1": "It symbolizes hope",
+        "option2": "It represents fear",
+        "option3": "It signifies danger",
+        "option4": "It reminds her of her past",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does Anne consider to be the essence of human nature?",
+        "option1": "Goodness",
+        "option2": "Evil",
+        "option3": "Indifference",
+        "option4": "Altruism",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does humor play in Anne's coping mechanism during hiding?",
+        "option1": "It is a constant companion",
+        "option2": "It is absent",
+        "option3": "It is used to deflect tension",
+        "option4": "It is a source of conflict",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne feel about the concept of freedom during her time in hiding?",
+        "option1": "It is her ultimate goal",
+        "option2": "It is an illusion",
+        "option3": "It is a distant memory",
+        "option4": "It is irrelevant",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of Anne's recurring dreams of a second self ?",
+        "option1": "They represent her desire for a twin",
+        "option2": "They symbolize her internal conflict",
+        "option3": "They reflect her fear of loneliness",
+        "option4": "They highlight her psychic abilities",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne feel about the concept of fate and destiny?",
+        "option1": "She believes in fate",
+        "option2": "She rejects the idea of fate",
+        "option3": "She is indifferent",
+        "option4": "She believes in destiny",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the fate of Anne's friend, Lies Goosens, during the war?",
+        "option1": "She joins Anne in hiding",
+        "option2": "She betrays Anne",
+        "option3": "She is sent to a concentration camp",
+        "option4": "She escapes to England",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne describe the annex's hiding place in terms of safety?",
+        "option1": "Fortress",
+        "option2": "Haven",
+        "option3": "Trap",
+        "option4": "Paradise",
+        "correctOption": "3"
+    },
+    {
+        "question": "What item of clothing does Anne give to Mrs. Van Daan during their time in hiding?",
+        "option1": "Scarf",
+        "option2": "Hat",
+        "option3": "Shoes",
+        "option4": "Blouse",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the main conflict between Anne and her mother in the diary?",
+        "option1": "Anne's desire for independence",
+        "option2": "Anne's dislike of her mother's cooking",
+        "option3": "Anne's refusal to share her diary",
+        "option4": "Anne's disobedience",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who brings the news of the Normandy invasion to the annex residents?",
+        "option1": "Mr. Dussel",
+        "option2": "Miep Gies",
+        "option3": "Mr. Kraler",
+        "option4": "Mrs. Van Daan",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Anne mean by the 'annex's history'?",
+        "option1": "The history of the building",
+        "option2": "The history of the residents",
+        "option3": "The history of the war",
+        "option4": "The history of their experiences in hiding",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does Anne describe the people in hiding when it comes to their personalities?",
+        "option1": "Optimistic",
+        "option2": "Pessimistic",
+        "option3": "Introverted",
+        "option4": "Extroverted",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who provides the residents of the annex with news about the war?",
+        "option1": "Mr. Dussel",
+        "option2": "Miep Gies",
+        "option3": "Mr. Kraler",
+        "option4": "BBC radio",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the fate of the Van Daans' marriage in the annex?",
+        "option1": "They separate",
+        "option2": "They reconcile",
+        "option3": "They divorce",
+        "option4": "They remain distant",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne feel about religion during her time in hiding?",
+        "option1": "She becomes more religious",
+        "option2": "She loses faith",
+        "option3": "She converts to Christianity",
+        "option4": "She remains indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of Anne's relationship with Peter Van Daan in the annex?",
+        "option1": "It is a source of conflict",
+        "option2": "It is a source of joy",
+        "option3": "It is a secret",
+        "option4": "It is a distraction",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who is in charge of rationing and distributing food in the annex?",
+        "option1": "Mr. Dussel",
+        "option2": "Miep Gies",
+        "option3": "Mr. Kraler",
+        "option4": "Mrs. Van Daan",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the source of tension between Anne and Mrs. Van Daan?",
+        "option1": "Food",
+        "option2": "Peter",
+        "option3": "Clothing",
+        "option4": "Noise",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who provides Anne with books and education in the annex?",
+        "option1": "Mr. Dussel",
+        "option2": "Miep Gies",
+        "option3": "Mr. Kraler",
+        "option4": "Margot Frank",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Anne mean by the 'rear window' in the diary?",
+        "option1": "A view of the sky",
+        "option2": "A view of the street",
+        "option3": "A view of the canal",
+        "option4": "A view of the garden",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne feel about her identity as a Jew during her time in hiding?",
+        "option1": "Proud",
+        "option2": "Ashamed",
+        "option3": "Indifferent",
+        "option4": "Conflicted",
+        "correctOption": "4"
+    },
+    {
+        "question": "What item of furniture in the annex is a source of comfort for Anne?",
+        "option1": "The bed",
+        "option2": "The bookshelf",
+        "option3": "The desk",
+        "option4": "The chest",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne feel about the possibility of being captured by the Nazis?",
+        "option1": "Fearful",
+        "option2": "Indifferent",
+        "option3": "Hopeful",
+        "option4": "Defiant",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is Anne's attitude toward authority figures like Mr. Dussel?",
+        "option1": "Respectful",
+        "option2": "Rebellious",
+        "option3": "Indifferent",
+        "option4": "Fearful",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who does Anne blame for the war and its impact on her life?",
+        "option1": "The Nazis",
+        "option2": "The Allies",
+        "option3": "Her parents",
+        "option4": "Herself",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does Anne want to become when she grows up, aside from being a journalist?",
+        "option1": "Politician",
+        "option2": "Author",
+        "option3": "Dancer",
+        "option4": "Scientist",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne describe the annex's first-floor rooms?",
+        "option1": "Cozy",
+        "option2": "Luxurious",
+        "option3": "Cramped",
+        "option4": "Spacious",
+        "correctOption": "3"
+    },
+    {
+        "question": "What significant event occurs on the day the war ends?",
+        "option1": "Anne's birthday",
+        "option2": "Margot's birthday",
+        "option3": "Hanukkah",
+        "option4": "D-Day",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who provides Anne and the others with information about the outside world?",
+        "option1": "Mr. Dussel",
+        "option2": "Mr. Kraler",
+        "option3": "Miep Gies",
+        "option4": "Mrs. Van Daan",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the fate of Mr. Van Daan in the concentration camp?",
+        "option1": "He survives",
+        "option2": "He is arrested",
+        "option3": "He dies",
+        "option4": "He escapes",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Anne feel about her mother, Edith Frank?",
+        "option1": "Adores her",
+        "option2": "Is indifferent",
+        "option3": "Doesn't like her",
+        "option4": "Hates her",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does Anne give Peter as a Hanukkah present?",
+        "option1": "A scarf",
+        "option2": "A book",
+        "option3": "A pair of socks",
+        "option4": "A pencil",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does Anne think is the best remedy for feeling down?",
+        "option1": "Crying",
+        "option2": "Reading",
+        "option3": "Talking to Peter",
+        "option4": "Writing in her diary",
+        "correctOption": "4"
+    },
+    {
+        "question": "Who is the only member of the annex to survive the concentration camps?",
+        "option1": "Anne",
+        "option2": "Otto Frank",
+        "option3": "Miep Gies",
+        "option4": "Peter Van Daan",
+        "correctOption": "2"
+    },
+    {
+        "question": "What happens to Anne's best friend, Hanneli Goslar, during the war?",
+        "option1": "She joins Anne in hiding",
+        "option2": "She betrays Anne",
+        "option3": "She is sent to a concentration camp",
+        "option4": "She escapes to Switzerland",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who is the first person to read Anne's diary besides Anne herself?",
+        "option1": "Margot Frank",
+        "option2": "Otto Frank",
+        "option3": "Miep Gies",
+        "option4": "Peter Van Daan",
+        "correctOption": "1"
+    },
+    {
+        "question": "What happens to Anne's cat, Mouschi, during their time in hiding?",
+        "option1": "He escapes",
+        "option2": "He dies",
+        "option3": "He is given away",
+        "option4": "He is eaten by rats",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the fate of Mr. Dussel in the concentration camp?",
+        "option1": "He survives",
+        "option2": "He is arrested",
+        "option3": "He dies",
+        "option4": "He escapes",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of Anne's red-checked diary entries?",
+        "option1": "They are love letters to Peter",
+        "option2": "They mark her birthday",
+        "option3": "They reveal her deepest emotions",
+        "option4": "They are coded messages",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who saves Anne's diary pages after the arrest of the annex residents?",
+        "option1": "Mr. Dussel",
+        "option2": "Miep Gies",
+        "option3": "Mr. Kraler",
+        "option4": "Mrs. Van Daan",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Anne describe Mrs. Van Daan's behavior in the annex?",
+        "option1": "Kind",
+        "option2": "Selfish",
+        "option3": "Generous",
+        "option4": "Understanding",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the fate of Anne's friend, Peter Van Daan?",
+        "option1": "He survives",
+        "option2": "He is arrested",
+        "option3": "He dies",
+        "option4": "He escapes",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the last line of Anne's diary?",
+        "option1": "Goodbye, Kitty",
+        "option2": "I still believe, in spite of everything, that people are truly good at heart",
+        "option3": "I love you, Peter",
+        "option4": "The end is just the beginning",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the fate of Mr. Kraler after the arrest of the annex residents?",
+        "option1": "He survives",
+        "option2": "He is arrested",
+        "option3": "He dies",
+        "option4": "He escapes",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the setting of 'From the Diary of Anne Frank'?",
+        "option1": "Paris, France",
+        "option2": "Amsterdam, Netherlands",
+        "option3": "Berlin, Germany",
+        "option4": "London, England",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who is the author of the diary?",
+        "option1": "Margot Frank",
+        "option2": "Edith Frank",
+        "option3": "Anne Frank",
+        "option4": "Otto Frank",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the reason the Frank family goes into hiding?",
+        "option1": "To escape the war",
+        "option2": "To avoid persecution as Jews",
+        "option3": "To find a better home",
+        "option4": "To join the resistance",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who is Anne's best friend in hiding?",
+        "option1": "Peter Van Daan",
+        "option2": "Miep Gies",
+        "option3": "Margot Frank",
+        "option4": "Hermann van Pels",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does Anne name her diary?",
+        "option1": "Kitty",
+        "option2": "Miep",
+        "option3": "Greta",
+        "option4": "Betsy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who betrays the hiding place of the Frank family?",
+        "option1": "Miep Gies",
+        "option2": "Hermann van Pels",
+        "option3": "Peter Van Daan",
+        "option4": "Willem van Maaren",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does Anne aspire to be when she grows up?",
+        "option1": "Doctor",
+        "option2": "Journalist",
+        "option3": "Teacher",
+        "option4": "Actress",
+        "correctOption": "2"
+    },
+    {
+        "question": "What gift does Anne receive on her thirteenth birthday?",
+        "option1": "A diary",
+        "option2": "A necklace",
+        "option3": "A book",
+        "option4": "A pen",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who provides the hiding place for the Frank family?",
+        "option1": "Mr. Dussel",
+        "option2": "Miep Gies",
+        "option3": "Mr. Kraler",
+        "option4": "Mrs. Van Daan",
+        "correctOption": "3"
+    },
+    {
+        "question": "What happens to Anne Frank at the concentration camp?",
+        "option1": "She escapes",
+        "option2": "She survives",
+        "option3": "She is reunited with her family",
+        "option4": "She dies",
+        "correctOption": "4"
+    },
+    {
+        "question": "Who is Anne's confidante in the annex?",
+        "option1": "Margot Frank",
+        "option2": "Mrs. Van Daan",
+        "option3": "Peter Van Daan",
+        "option4": "Mr. Dussel",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the fate of Anne's mother, Edith Frank?",
+        "option1": "She survives",
+        "option2": "She is arrested",
+        "option3": "She dies in Auschwitz",
+        "option4": "She escapes",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who finds and preserves Anne's diary after the war?",
+        "option1": "Otto Frank",
+        "option2": "Miep Gies",
+        "option3": "Peter Van Daan",
+        "option4": "Margot Frank",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the duration of the Frank family's hiding?",
+        "option1": "1 year",
+        "option2": "2 years",
+        "option3": "6 months",
+        "option4": "3 years",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who is in love with Anne in the annex?",
+        "option1": "Mr. Dussel",
+        "option2": "Peter Van Daan",
+        "option3": "Mr. Kraler",
+        "option4": "Mouschi (the cat)",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the fate of Anne's sister, Margot Frank?",
+        "option1": "She survives",
+        "option2": "She is arrested",
+        "option3": "She dies in Auschwitz",
+        "option4": "She escapes",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who provides the residents of the annex with food and supplies?",
+        "option1": "Mr. Dussel",
+        "option2": "Miep Gies",
+        "option3": "Mr. Kraler",
+        "option4": "Mrs. Van Daan",
+        "correctOption": "2"
+    },
+    {
+        "question": "What happens to Anne's diary at the end of the play?",
+        "option1": "It is burned",
+        "option2": "It is lost",
+        "option3": "It is published",
+        "option4": "It is hidden",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who is caught stealing food in the annex?",
+        "option1": "Mr. Dussel",
+        "option2": "Peter Van Daan",
+        "option3": "Mrs. Van Daan",
+        "option4": "Margot Frank",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the fate of Anne's father, Otto Frank?",
+        "option1": "He survives",
+        "option2": "He is arrested",
+        "option3": "He dies in Auschwitz",
+        "option4": "He escapes",
+        "correctOption": "1"
+    }
+]
