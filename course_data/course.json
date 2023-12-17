@@ -311,7 +311,7 @@
     "course curriculum": "The BCom curriculum varies depending on the institution, but it typically includes a mix of core business courses, electives, and a capstone project.",
     "course structure": "The program is designed to provide students with a strong foundation in business and management principles, as well as the skills and knowledge needed to succeed in a variety of business careers."
   },
-  "3": "Bachelor of Laws (LLB)",
+  "3": {
     "course name": "Bachelor of Laws (LLB)",
     "course description": "An LLB is a 3-5 year undergraduate program that prepares students for careers as lawyers. The program covers essential subjects such as constitutional law, criminal law, civil law, and procedural law. LLB graduates are eligible to take the bar exam and become licensed lawyers.",
     "course duration": "3-5 years",
@@ -320,7 +320,7 @@
     "course curriculum": "The LLB curriculum varies depending on the institution, but it typically includes a mix of core law courses, electives, and clinical training.",
     "course structure": "The program is designed to provide students with a comprehensive understanding of the legal system and the skills necessary to practice law."
   },
-  "4": "Bachelor of Journalism and Mass Communication (BJMC)",
+  "4": {
     "course name": "Bachelor of Journalism and Mass Communication (BJMC)",
     "course description": "A BJMC is a 3-4 year undergraduate program that prepares students for careers in journalism and mass communication. The program covers topics such as news writing, reporting, editing, and media production. BJMC graduates are well-prepared for careers in a variety of media outlets, including newspapers, magazines, television, and radio.",
     "course duration": "3-4 years",
@@ -329,7 +329,7 @@
     "course curriculum": "The BJMC curriculum varies depending on the institution, but it typically includes a mix of core journalism and mass communication courses, electives, and practical training.",
     "course structure": "The program is designed to provide students with the knowledge and skills necessary to work as journalists and mass communicators in a variety of media settings."
   },
-  "5": "Bachelor of Fine Arts (BFA)",
+  "5": {
     "course name": "Bachelor of Fine Arts (B.F.A.)",
     "course description": "BFA programs focus on various forms of visual and performing arts, including drawing, painting, theater, and sculpture. This 4-year program prepares students for careers as visual artists, actors, designers, or art teachers.",
     "course duration": "4 years",
@@ -337,6 +337,5 @@
     "eligibility requirements": "Eligibility requires completing 10+2 in any stream, although specific art entrance exams may be required.",
     "course curriculum": "The curriculum encompasses courses in drawing, painting, theater, sculpture, and other forms of artistic expression, providing students with comprehensive arts education.",
     "course structure": "It combines studio practice, theoretical learning, and opportunities for exhibitions to foster creativity and artistic development."
-  }   
-  }
+  } 
 ]
