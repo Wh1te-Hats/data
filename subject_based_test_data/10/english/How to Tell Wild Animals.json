@@ -1,0 +1,1345 @@
+[
+    {
+        "question": "What is the term for identifying wild animals by their vocalizations?",
+        "option1": "Vocalology",
+        "option2": "Sonarology",
+        "option3": "Acoustics",
+        "option4": "Bioacoustics",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is a method of identifying mammals by their fur and hair?",
+        "option1": "Pelage Analysis",
+        "option2": "Plumage Analysis",
+        "option3": "Scale Analysis",
+        "option4": "Shell Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their urine and scent marks?",
+        "option1": "Aromatherapy",
+        "option2": "Pheromone Analysis",
+        "option3": "Olfactory Profiling",
+        "option4": "Scentology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a method of identifying birds by their nests and eggs?",
+        "option1": "Oology",
+        "option2": "Ethology",
+        "option3": "Entomology",
+        "option4": "Malacology",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their footprints and tracks in the snow?",
+        "option1": "Snowology",
+        "option2": "Skiology",
+        "option3": "Pawology",
+        "option4": "Tracking",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of reptiles in the wild?",
+        "option1": "Taste",
+        "option2": "Smell",
+        "option3": "Sight",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for studying the behavior of wild animals?",
+        "option1": "Anthropology",
+        "option2": "Ecology",
+        "option3": "Ethology",
+        "option4": "Sociology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following senses is most effective in identifying underwater wild animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their feathers and wings?",
+        "option1": "Ornithology",
+        "option2": "Entomology",
+        "option3": "Herpetology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying fish by their fins and scales?",
+        "option1": "Ichthyology",
+        "option2": "Herpetology",
+        "option3": "Ornithology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their calls and communication?",
+        "option1": "Linguistics",
+        "option2": "Sonarology",
+        "option3": "Bioacoustics",
+        "option4": "Echolocation",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which sense is most useful for identifying the presence of small insects in the wild?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their exoskeleton and antennae?",
+        "option1": "Entomology",
+        "option2": "Ornithology",
+        "option3": "Herpetology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their gait and manner of movement?",
+        "option1": "Gait Analysis",
+        "option2": "Stance Analysis",
+        "option3": "Stride Analysis",
+        "option4": "Posture Analysis",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their saliva and bite marks?",
+        "option1": "Biteology",
+        "option2": "Salivary Analysis",
+        "option3": "Toothology",
+        "option4": "Dental Forensics",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of birds in dense foliage?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their skin and scales?",
+        "option1": "Dermatology",
+        "option2": "Herpetology",
+        "option3": "Entomology",
+        "option4": "Ichthyology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their vocal patterns?",
+        "option1": "Sonarology",
+        "option2": "Bioacoustics",
+        "option3": "Echolocation",
+        "option4": "Vocalization Analysis",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their fur and droppings?",
+        "option1": "Scatology",
+        "option2": "Pelage Analysis",
+        "option3": "Furology",
+        "option4": "Hair Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which sense is most effective for identifying the presence of underwater mammals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for studying the behavior of wild animals?",
+        "option1": "Anthropology",
+        "option2": "Ecology",
+        "option3": "Ethology",
+        "option4": "Sociology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following senses is most effective in identifying underwater wild animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their vocalizations?",
+        "option1": "Vocalology",
+        "option2": "Sonarology",
+        "option3": "Acoustics",
+        "option4": "Bioacoustics",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following senses is most effective for identifying the presence of nocturnal animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their scat and dung?",
+        "option1": "Fecology",
+        "option2": "Excrementology",
+        "option3": "Coprology",
+        "option4": "Dungology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of large mammals in dense forests?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their burrows and tunnels?",
+        "option1": "Burrowology",
+        "option2": "Caveology",
+        "option3": "Denology",
+        "option4": "Holeology",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their unique body markings and patterns?",
+        "option1": "Markology",
+        "option2": "Pattern Recognition",
+        "option3": "Camouflage Analysis",
+        "option4": "Stripeology",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their antlers and horns?",
+        "option1": "Antlerology",
+        "option2": "Hornology",
+        "option3": "Antler Analysis",
+        "option4": "Horn Identification",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which sense is most useful for identifying the presence of amphibians near water bodies?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their migration patterns?",
+        "option1": "Migrationology",
+        "option2": "Wanderology",
+        "option3": "Nomadology",
+        "option4": "Migratory Behavior Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following senses is crucial for identifying the presence of snakes in the wild?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their mating calls and rituals?",
+        "option1": "Mateology",
+        "option2": "Courtship Analysis",
+        "option3": "Mating Ritualology",
+        "option4": "Reproductionology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which sense is most effective for identifying the presence of arboreal animals in dense forests?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their webbed feet and bills?",
+        "option1": "Webology",
+        "option2": "Bill Analysis",
+        "option3": "Waterfowl Identification",
+        "option4": "Avian Aquatics",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a method of identifying insects by their buzzing and flight patterns?",
+        "option1": "Buzzology",
+        "option2": "Flight Analysis",
+        "option3": "Aerodynamics",
+        "option4": "Insect Aviation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their tail morphology and behavior?",
+        "option1": "Tailology",
+        "option2": "Tail Identification",
+        "option3": "Tail Analysis",
+        "option4": "Tail Recognition",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of insects in the dark?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their whiskers and facial features?",
+        "option1": "Whiskerology",
+        "option2": "Facial Recognition",
+        "option3": "Muzzle Identification",
+        "option4": "Snoutology",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their reproductive anatomy and behavior?",
+        "option1": "Reproductive Biology",
+        "option2": "Sexual Behavior Analysis",
+        "option3": "Breedingology",
+        "option4": "Reproduction Recognition",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their ear shape and size?",
+        "option1": "Earology",
+        "option2": "Aural Recognition",
+        "option3": "Ear Identification",
+        "option4": "Auricle Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which sense is most useful for identifying the presence of small rodents in the wild?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    }
+
+,
+    {
+        "question": "Which of the following senses is most effective for identifying the presence of nocturnal animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their scat and dung?",
+        "option1": "Fecology",
+        "option2": "Excrementology",
+        "option3": "Coprology",
+        "option4": "Dungology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of large mammals in dense forests?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their burrows and tunnels?",
+        "option1": "Burrowology",
+        "option2": "Caveology",
+        "option3": "Denology",
+        "option4": "Holeology",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their unique body markings and patterns?",
+        "option1": "Markology",
+        "option2": "Pattern Recognition",
+        "option3": "Camouflage Analysis",
+        "option4": "Stripeology",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their antlers and horns?",
+        "option1": "Antlerology",
+        "option2": "Hornology",
+        "option3": "Antler Analysis",
+        "option4": "Horn Identification",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which sense is most useful for identifying the presence of amphibians near water bodies?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their migration patterns?",
+        "option1": "Migrationology",
+        "option2": "Wanderology",
+        "option3": "Nomadology",
+        "option4": "Migratory Behavior Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following senses is crucial for identifying the presence of snakes in the wild?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their mating calls and rituals?",
+        "option1": "Mateology",
+        "option2": "Courtship Analysis",
+        "option3": "Mating Ritualology",
+        "option4": "Reproductionology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which sense is most effective for identifying the presence of arboreal animals in dense forests?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their webbed feet and bills?",
+        "option1": "Webology",
+        "option2": "Bill Analysis",
+        "option3": "Waterfowl Identification",
+        "option4": "Avian Aquatics",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a method of identifying insects by their buzzing and flight patterns?",
+        "option1": "Buzzology",
+        "option2": "Flight Analysis",
+        "option3": "Aerodynamics",
+        "option4": "Insect Aviation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their tail morphology and behavior?",
+        "option1": "Tailology",
+        "option2": "Tail Identification",
+        "option3": "Tail Analysis",
+        "option4": "Tail Recognition",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of insects in the dark?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their whiskers and facial features?",
+        "option1": "Whiskerology",
+        "option2": "Facial Recognition",
+        "option3": "Muzzle Identification",
+        "option4": "Snoutology",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their reproductive anatomy and behavior?",
+        "option1": "Reproductive Biology",
+        "option2": "Sexual Behavior Analysis",
+        "option3": "Breedingology",
+        "option4": "Reproduction Recognition",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their ear shape and size?",
+        "option1": "Earology",
+        "option2": "Aural Recognition",
+        "option3": "Ear Identification",
+        "option4": "Auricle Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which sense is most useful for identifying the presence of small rodents in the wild?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their vocalizations?",
+        "option1": "Vocalology",
+        "option2": "Sonarology",
+        "option3": "Acoustics",
+        "option4": "Bioacoustics",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is a method of identifying mammals by their fur and hair?",
+        "option1": "Pelage Analysis",
+        "option2": "Plumage Analysis",
+        "option3": "Scale Analysis",
+        "option4": "Shell Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their urine and scent marks?",
+        "option1": "Aromatherapy",
+        "option2": "Pheromone Analysis",
+        "option3": "Olfactory Profiling",
+        "option4": "Scentology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a method of identifying birds by their nests and eggs?",
+        "option1": "Oology",
+        "option2": "Ethology",
+        "option3": "Entomology",
+        "option4": "Malacology",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their footprints and tracks in the snow?",
+        "option1": "Snowology",
+        "option2": "Skiology",
+        "option3": "Pawology",
+        "option4": "Tracking",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of reptiles in the wild?",
+        "option1": "Taste",
+        "option2": "Smell",
+        "option3": "Sight",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for studying the behavior of wild animals?",
+        "option1": "Anthropology",
+        "option2": "Ecology",
+        "option3": "Ethology",
+        "option4": "Sociology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following senses is most effective in identifying underwater wild animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their feathers and wings?",
+        "option1": "Ornithology",
+        "option2": "Entomology",
+        "option3": "Herpetology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying fish by their fins and scales?",
+        "option1": "Ichthyology",
+        "option2": "Herpetology",
+        "option3": "Ornithology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their calls and communication?",
+        "option1": "Linguistics",
+        "option2": "Sonarology",
+        "option3": "Bioacoustics",
+        "option4": "Echolocation",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which sense is most useful for identifying the presence of small insects in the wild?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their exoskeleton and antennae?",
+        "option1": "Entomology",
+        "option2": "Ornithology",
+        "option3": "Herpetology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their gait and manner of movement?",
+        "option1": "Gait Analysis",
+        "option2": "Stance Analysis",
+        "option3": "Stride Analysis",
+        "option4": "Posture Analysis",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their saliva and bite marks?",
+        "option1": "Biteology",
+        "option2": "Salivary Analysis",
+        "option3": "Toothology",
+        "option4": "Dental Forensics",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of birds in dense foliage?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their skin and scales?",
+        "option1": "Dermatology",
+        "option2": "Herpetology",
+        "option3": "Entomology",
+        "option4": "Ichthyology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their vocal patterns?",
+        "option1": "Sonarology",
+        "option2": "Bioacoustics",
+        "option3": "Echolocation",
+        "option4": "Vocalization Analysis",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their fur and droppings?",
+        "option1": "Scatology",
+        "option2": "Pelage Analysis",
+        "option3": "Furology",
+        "option4": "Hair Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which sense is most effective for identifying the presence of underwater mammals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for studying the behavior of wild animals?",
+        "option1": "Anthropology",
+        "option2": "Ecology",
+        "option3": "Ethology",
+        "option4": "Sociology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following senses is most effective in identifying underwater wild animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their vocalizations?",
+        "option1": "Vocalology",
+        "option2": "Sonarology",
+        "option3": "Acoustics",
+        "option4": "Bioacoustics",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is a method of identifying mammals by their fur and hair?",
+        "option1": "Pelage Analysis",
+        "option2": "Plumage Analysis",
+        "option3": "Scale Analysis",
+        "option4": "Shell Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their urine and scent marks?",
+        "option1": "Aromatherapy",
+        "option2": "Pheromone Analysis",
+        "option3": "Olfactory Profiling",
+        "option4": "Scentology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a method of identifying birds by their nests and eggs?",
+        "option1": "Oology",
+        "option2": "Ethology",
+        "option3": "Entomology",
+        "option4": "Malacology",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their footprints and tracks in the snow?",
+        "option1": "Snowology",
+        "option2": "Skiology",
+        "option3": "Pawology",
+        "option4": "Tracking",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of reptiles in the wild?",
+        "option1": "Taste",
+        "option2": "Smell",
+        "option3": "Sight",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for studying the behavior of wild animals?",
+        "option1": "Anthropology",
+        "option2": "Ecology",
+        "option3": "Ethology",
+        "option4": "Sociology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following senses is most effective in identifying underwater wild animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their feathers and wings?",
+        "option1": "Ornithology",
+        "option2": "Entomology",
+        "option3": "Herpetology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying fish by their fins and scales?",
+        "option1": "Ichthyology",
+        "option2": "Herpetology",
+        "option3": "Ornithology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their calls and communication?",
+        "option1": "Linguistics",
+        "option2": "Sonarology",
+        "option3": "Bioacoustics",
+        "option4": "Echolocation",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which sense is most useful for identifying the presence of small insects in the wild?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their exoskeleton and antennae?",
+        "option1": "Entomology",
+        "option2": "Ornithology",
+        "option3": "Herpetology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their gait and manner of movement?",
+        "option1": "Gait Analysis",
+        "option2": "Stance Analysis",
+        "option3": "Stride Analysis",
+        "option4": "Posture Analysis",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their saliva and bite marks?",
+        "option1": "Biteology",
+        "option2": "Salivary Analysis",
+        "option3": "Toothology",
+        "option4": "Dental Forensics",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of birds in dense foliage?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their skin and scales?",
+        "option1": "Dermatology",
+        "option2": "Herpetology",
+        "option3": "Entomology",
+        "option4": "Ichthyology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their vocal patterns?",
+        "option1": "Sonarology",
+        "option2": "Bioacoustics",
+        "option3": "Echolocation",
+        "option4": "Vocalization Analysis",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their fur and droppings?",
+        "option1": "Scatology",
+        "option2": "Pelage Analysis",
+        "option3": "Furology",
+        "option4": "Hair Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which sense is most effective for identifying the presence of underwater mammals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for studying the behavior of wild animals?",
+        "option1": "Anthropology",
+        "option2": "Ecology",
+        "option3": "Ethology",
+        "option4": "Sociology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following senses is most effective in identifying underwater wild animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their vocalizations?",
+        "option1": "Vocalology",
+        "option2": "Sonarology",
+        "option3": "Acoustics",
+        "option4": "Bioacoustics",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their vocalizations?",
+        "option1": "Vocalology",
+        "option2": "Sonarology",
+        "option3": "Acoustics",
+        "option4": "Bioacoustics",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is a method of identifying mammals by their fur and hair?",
+        "option1": "Pelage Analysis",
+        "option2": "Plumage Analysis",
+        "option3": "Scale Analysis",
+        "option4": "Shell Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their urine and scent marks?",
+        "option1": "Aromatherapy",
+        "option2": "Pheromone Analysis",
+        "option3": "Olfactory Profiling",
+        "option4": "Scentology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a method of identifying birds by their nests and eggs?",
+        "option1": "Oology",
+        "option2": "Ethology",
+        "option3": "Entomology",
+        "option4": "Malacology",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their footprints and tracks in the snow?",
+        "option1": "Snowology",
+        "option2": "Skiology",
+        "option3": "Pawology",
+        "option4": "Tracking",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of reptiles in the wild?",
+        "option1": "Taste",
+        "option2": "Smell",
+        "option3": "Sight",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for studying the behavior of wild animals?",
+        "option1": "Anthropology",
+        "option2": "Ecology",
+        "option3": "Ethology",
+        "option4": "Sociology",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following senses is most effective in identifying underwater wild animals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their feathers and wings?",
+        "option1": "Ornithology",
+        "option2": "Entomology",
+        "option3": "Herpetology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying fish by their fins and scales?",
+        "option1": "Ichthyology",
+        "option2": "Herpetology",
+        "option3": "Ornithology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their calls and communication?",
+        "option1": "Linguistics",
+        "option2": "Sonarology",
+        "option3": "Bioacoustics",
+        "option4": "Echolocation",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which sense is most useful for identifying the presence of small insects in the wild?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their exoskeleton and antennae?",
+        "option1": "Entomology",
+        "option2": "Ornithology",
+        "option3": "Herpetology",
+        "option4": "Mammalogy",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their gait and manner of movement?",
+        "option1": "Gait Analysis",
+        "option2": "Stance Analysis",
+        "option3": "Stride Analysis",
+        "option4": "Posture Analysis",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals by their saliva and bite marks?",
+        "option1": "Biteology",
+        "option2": "Salivary Analysis",
+        "option3": "Toothology",
+        "option4": "Dental Forensics",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which sense is crucial for identifying the presence of birds in dense foliage?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their skin and scales?",
+        "option1": "Dermatology",
+        "option2": "Herpetology",
+        "option3": "Entomology",
+        "option4": "Ichthyology",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a method of identifying animals by their vocal patterns?",
+        "option1": "Sonarology",
+        "option2": "Bioacoustics",
+        "option3": "Echolocation",
+        "option4": "Vocalization Analysis",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for identifying wild animals through their fur and droppings?",
+        "option1": "Scatology",
+        "option2": "Pelage Analysis",
+        "option3": "Furology",
+        "option4": "Hair Analysis",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which sense is most effective for identifying the presence of underwater mammals?",
+        "option1": "Sight",
+        "option2": "Smell",
+        "option3": "Hearing",
+        "option4": "Touch",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for studying the behavior of wild animals?",
+        "option1": "Anthropology",
+        "option2": "Ecology",
+        "option3": "Ethology",
+        "option4": "Sociology",
+        "correctOption": "3"
+    }
+    ,
+        {
+            "question": "What is the term for identifying wild animals by their vocalizations?",
+            "option1": "Vocalology",
+            "option2": "Sonarology",
+            "option3": "Acoustics",
+            "option4": "Bioacoustics",
+            "correctOption": "4"
+        },
+        {
+            "question": "Which of the following is a method of identifying mammals by their fur and hair?",
+            "option1": "Pelage Analysis",
+            "option2": "Plumage Analysis",
+            "option3": "Scale Analysis",
+            "option4": "Shell Analysis",
+            "correctOption": "1"
+        },
+        {
+            "question": "What is the term for identifying wild animals through their urine and scent marks?",
+            "option1": "Aromatherapy",
+            "option2": "Pheromone Analysis",
+            "option3": "Olfactory Profiling",
+            "option4": "Scentology",
+            "correctOption": "2"
+        },
+        {
+            "question": "Which of the following is a method of identifying birds by their nests and eggs?",
+            "option1": "Oology",
+            "option2": "Ethology",
+            "option3": "Entomology",
+            "option4": "Malacology",
+            "correctOption": "1"
+        },
+        {
+            "question": "What is the term for identifying wild animals by their footprints and tracks in the snow?",
+            "option1": "Snowology",
+            "option2": "Skiology",
+            "option3": "Pawology",
+            "option4": "Tracking",
+            "correctOption": "4"
+        },
+        {
+            "question": "Which sense is crucial for identifying the presence of reptiles in the wild?",
+            "option1": "Taste",
+            "option2": "Smell",
+            "option3": "Sight",
+            "option4": "Touch",
+            "correctOption": "3"
+        },
+        {
+            "question": "What is the term for studying the behavior of wild animals?",
+            "option1": "Anthropology",
+            "option2": "Ecology",
+            "option3": "Ethology",
+            "option4": "Sociology",
+            "correctOption": "3"
+        },
+        {
+            "question": "Which of the following senses is most effective in identifying underwater wild animals?",
+            "option1": "Sight",
+            "option2": "Smell",
+            "option3": "Hearing",
+            "option4": "Touch",
+            "correctOption": "3"
+        },
+        {
+            "question": "What is the term for identifying wild animals through their feathers and wings?",
+            "option1": "Ornithology",
+            "option2": "Entomology",
+            "option3": "Herpetology",
+            "option4": "Mammalogy",
+            "correctOption": "1"
+        },
+        {
+            "question": "Which of the following is a method of identifying fish by their fins and scales?",
+            "option1": "Ichthyology",
+            "option2": "Herpetology",
+            "option3": "Ornithology",
+            "option4": "Mammalogy",
+            "correctOption": "1"
+        },
+        {
+            "question": "What is the term for identifying wild animals by their calls and communication?",
+            "option1": "Linguistics",
+            "option2": "Sonarology",
+            "option3": "Bioacoustics",
+            "option4": "Echolocation",
+            "correctOption": "3"
+        },
+        {
+            "question": "Which sense is most useful for identifying the presence of small insects in the wild?",
+            "option1": "Sight",
+            "option2": "Smell",
+            "option3": "Hearing",
+            "option4": "Touch",
+            "correctOption": "2"
+        },
+        {
+            "question": "What is the term for identifying wild animals by their exoskeleton and antennae?",
+            "option1": "Entomology",
+            "option2": "Ornithology",
+            "option3": "Herpetology",
+            "option4": "Mammalogy",
+            "correctOption": "1"
+        },
+        {
+            "question": "Which of the following is a method of identifying animals by their gait and manner of movement?",
+            "option1": "Gait Analysis",
+            "option2": "Stance Analysis",
+            "option3": "Stride Analysis",
+            "option4": "Posture Analysis",
+            "correctOption": "3"
+        },
+        {
+            "question": "What is the term for identifying wild animals by their saliva and bite marks?",
+            "option1": "Biteology",
+            "option2": "Salivary Analysis",
+            "option3": "Toothology",
+            "option4": "Dental Forensics",
+            "correctOption": "2"
+        },
+        {
+            "question": "Which sense is crucial for identifying the presence of birds in dense foliage?",
+            "option1": "Sight",
+            "option2": "Smell",
+            "option3": "Hearing",
+            "option4": "Touch",
+            "correctOption": "3"
+        },
+        {
+            "question": "What is the term for identifying wild animals through their skin and scales?",
+            "option1": "Dermatology",
+            "option2": "Herpetology",
+            "option3": "Entomology",
+            "option4": "Ichthyology",
+            "correctOption": "2"
+        },
+        {
+            "question": "Which of the following is a method of identifying animals by their vocal patterns?",
+            "option1": "Sonarology",
+            "option2": "Bioacoustics",
+            "option3": "Echolocation",
+            "option4": "Vocalization Analysis",
+            "correctOption": "4"
+        },
+        {
+            "question": "What is the term for identifying wild animals through their fur and droppings?",
+            "option1": "Scatology",
+            "option2": "Pelage Analysis",
+            "option3": "Furology",
+            "option4": "Hair Analysis",
+            "correctOption": "1"
+        },
+        {
+            "question": "Which sense is most effective for identifying the presence of underwater mammals?",
+            "option1": "Sight",
+            "option2": "Smell",
+            "option3": "Hearing",
+            "option4": "Touch",
+            "correctOption": "3"
+        }
+    
+    
+    ,
+        {
+            "question": "What is the primary sense that helps in detecting wild animals?",
+            "option1": "Taste",
+            "option2": "Smell",
+            "option3": "Hearing",
+            "option4": "Touch",
+            "correctOption": "2"
+        },
+        {
+            "question": "Which of the following is a nocturnal wild animal?",
+            "option1": "Lion",
+            "option2": "Tiger",
+            "option3": "Owl",
+            "option4": "Elephant",
+            "correctOption": "3"
+        },
+        {
+            "question": "What is the term for the process of studying animal tracks to identify them?",
+            "option1": "Biology",
+            "option2": "Ichthyology",
+            "option3": "Symbiosis",
+            "option4": "Tracking",
+            "correctOption": "4"
+        },
+        {
+            "question": "Which sense is crucial for identifying the presence of snakes?",
+            "option1": "Sight",
+            "option2": "Hearing",
+            "option3": "Smell",
+            "option4": "Touch",
+            "correctOption": "1"
+        },
+        {
+            "question": "What do you call the study of bird behavior for identifying them?",
+            "option1": "Ornithology",
+            "option2": "Entomology",
+            "option3": "Herpetology",
+            "option4": "Mammalogy",
+            "correctOption": "1"
+        },
+        {
+            "question": "Which of the following is a herbivorous wild animal?",
+            "option1": "Cheetah",
+            "option2": "Giraffe",
+            "option3": "Leopard",
+            "option4": "Hyena",
+            "correctOption": "2"
+        },
+        {
+            "question": "What is the primary method to identify wild animals in dense forests?",
+            "option1": "Binoculars",
+            "option2": "Listening",
+            "option3": "Footprints",
+            "option4": "Sniffing",
+            "correctOption": "3"
+        },
+        {
+            "question": "Which sense is least useful when identifying underwater wild animals?",
+            "option1": "Sight",
+            "option2": "Smell",
+            "option3": "Hearing",
+            "option4": "Touch",
+            "correctOption": "1"
+        },
+        {
+            "question": "What is the term for identifying wild animals by their droppings?",
+            "option1": "Scatology",
+            "option2": "Exobiology",
+            "option3": "Ethology",
+            "option4": "Entomology",
+            "correctOption": "1"
+        },
+        {
+            "question": "Which of the following is a method of passive identification of wild animals?",
+            "option1": "Observation",
+            "option2": "Chasing",
+            "option3": "Hunting",
+            "option4": "Capturing",
+            "correctOption": "1"
+        },
+        {
+            "question": "What type of animal is identified through its hoots and howls?",
+            "option1": "Bear",
+            "option2": "Wolf",
+            "option3": "Fox",
+            "option4": "Penguin",
+            "correctOption": "2"
+        },
+        {
+            "question": "Which of the following senses is vital for identifying camouflaged wild animals?",
+            "option1": "Taste",
+            "option2": "Smell",
+            "option3": "Sight",
+            "option4": "Hearing",
+            "correctOption": "3"
+        },
+        {
+            "question": "What is the term for identifying fish by their scales and fins?",
+            "option1": "Ichthyology",
+            "option2": "Ornithology",
+            "option3": "Herpetology",
+            "option4": "Mammalogy",
+            "correctOption": "1"
+        },
+        {
+            "question": "Which of the following senses helps in identifying the presence of insects?",
+            "option1": "Hearing",
+            "option2": "Smell",
+            "option3": "Sight",
+            "option4": "Taste",
+            "correctOption": "2"
+        },
+        {
+            "question": "What is the term for identifying wild animals by their vocalizations?",
+            "option1": "Vocalology",
+            "option2": "Sonarology",
+            "option3": "Acoustics",
+            "option4": "Bioacoustics",
+            "correctOption": "4"
+        },
+        {
+            "question": "Which of the following is a method of identifying mammals by their fur and hair?",
+            "option1": "Pelage Analysis",
+            "option2": "Plumage Analysis",
+            "option3": "Scale Analysis",
+            "option4": "Shell Analysis",
+            "correctOption": "1"
+        },
+        {
+            "question": "What is the term for identifying wild animals through their urine and scent marks?",
+            "option1": "Aromatherapy",
+            "option2": "Pheromone Analysis",
+            "option3": "Olfactory Profiling",
+            "option4": "Scentology",
+            "correctOption": "2"
+        },
+        {
+            "question": "Which of the following is a method of identifying birds by their nests and eggs?",
+            "option1": "Oology",
+            "option2": "Ethology",
+            "option3": "Entomology",
+            "option4": "Malacology",
+            "correctOption": "1"
+        },
+        {
+            "question": "What is the term for identifying wild animals by their footprints and tracks in the snow?",
+            "option1": "Snowology",
+            "option2": "Skiology",
+            "option3": "Pawology",
+            "option4": "Tracking",
+            "correctOption": "4"
+        },
+        {
+            "question": "Which sense is crucial for identifying the presence of reptiles in the wild?",
+            "option1": "Taste",
+            "option2": "Smell",
+            "option3": "Sight",
+            "option4": "Touch",
+            "correctOption": "3"
+        }
+    
+    ]

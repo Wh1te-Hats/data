@@ -1,0 +1,1098 @@
+[
+    {
+        "question": "What are similar triangles?",
+        "option1": "Triangles with equal angles.",
+        "option2": "Triangles with equal sides.",
+        "option3": "Triangles with proportional sides and equal angles.",
+        "option4": "Triangles with equal perimeter.",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a line is drawn parallel to one side of a triangle and intersects the other two sides, what property holds true?",
+        "option1": "The line divides the triangle into congruent triangles.",
+        "option2": "The line divides the triangle into similar triangles.",
+        "option3": "The line divides the other two sides in the same ratio.",
+        "option4": "The line bisects the triangle.",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does it mean if a line divides two sides of a triangle in the same ratio?",
+        "option1": "The line is perpendicular to the third side.",
+        "option2": "The line bisects the triangle.",
+        "option3": "The line is parallel to the third side.",
+        "option4": "The line intersects the triangle's centroid.",
+        "correctOption": "3"
+    },
+    {
+        "question": "If in two triangles, the corresponding angles are equal, what can be said about the triangles?",
+        "option1": "They are congruent triangles.",
+        "option2": "They are similar triangles.",
+        "option3": "They have equal areas.",
+        "option4": "They are equilateral triangles.",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the relationship between the tangent at any point of a circle and the radius through the point of contact?",
+        "option1": "They are perpendicular.",
+        "option2": "They are parallel.",
+        "option3": "They are equal in length.",
+        "option4": "They are collinear.",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the length relationship between tangents drawn from an external point to a circle?",
+        "option1": "They are equal.",
+        "option2": "They are perpendicular.",
+        "option3": "They are proportional.",
+        "option4": "They are half the length of the radius.",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the point of intersection between a tangent and a circle called?",
+        "option1": "Intersection point.",
+        "option2": "Tangent point.",
+        "option3": "Contact point.",
+        "option4": "Circumference point.",
+        "correctOption": "3"
+    },
+    {
+        "question": "If two tangents are drawn to a circle from an external point, what can be said about the lengths of these tangents?",
+        "option1": "They are equal.",
+        "option2": "They are parallel.",
+        "option3": "They are proportional.",
+        "option4": "They are perpendicular.",
+        "correctOption": "1"
+    },
+    {
+        "question": "What property holds true for the lengths of tangents drawn to a circle from an external point?",
+        "option1": "They are equal.",
+        "option2": "They are perpendicular.",
+        "option3": "They are proportional to the radius.",
+        "option4": "They are half the length of the radius.",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a circle, if a tangent is drawn at a point, what is its relationship with the radius?",
+        "option1": "They are parallel.",
+        "option2": "They are perpendicular.",
+        "option3": "They are equal in length.",
+        "option4": "They are collinear.",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a line divides two sides of a triangle in the same ratio, what can be concluded about the line and the third side?",
+        "option1": "The line is perpendicular to the third side.",
+        "option2": "The line is parallel to the third side.",
+        "option3": "The line bisects the third side.",
+        "option4": "The line is collinear with the third side.",
+        "correctOption": "2"
+    },
+    {
+        "question": "When two triangles have equal corresponding angles, what is the relationship between their sides?",
+        "option1": "They are proportional.",
+        "option2": "They are equal in length.",
+        "option3": "They are perpendicular.",
+        "option4": "They are bisected.",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a line divides two sides of a triangle in the same ratio, what is the relationship between the other two sides?",
+        "option1": "They are parallel.",
+        "option2": "They are perpendicular.",
+        "option3": "They are equal in length.",
+        "option4": "They are collinear.",
+        "correctOption": "1"
+    },
+    {
+        "question": "When two triangles are similar, what can be said about their corresponding angles?",
+        "option1": "They are equal.",
+        "option2": "They are complementary.",
+        "option3": "They are congruent.",
+        "option4": "They are proportional.",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a line divides two sides of a triangle, and the other two sides are divided in the same ratio, what is the relationship between the line and the third side?",
+        "option1": "The line is perpendicular to the third side.",
+        "option2": "The line is parallel to the third side.",
+        "option3": "The line bisects the third side.",
+        "option4": "The line is collinear with the third side.",
+        "correctOption": "2"
+    },
+    {
+        "question": "When a line divides two sides of a triangle in the same ratio, what is the relationship between the other two sides?",
+        "option1": "They are parallel.",
+        "option2": "They are perpendicular.",
+        "option3": "They are equal in length.",
+        "option4": "They are collinear.",
+        "correctOption": "1"
+    },
+    {
+        "question": "In similar triangles, what is the relationship between their corresponding angles?",
+        "option1": "They are equal.",
+        "option2": "They are complementary.",
+        "option3": "They are congruent.",
+        "option4": "They are proportional.",
+        "correctOption": "1"
+    },
+    {
+        "question": "When two triangles have equal corresponding angles, what can be said about their sides?",
+        "option1": "They are proportional.",
+        "option2": "They are equal in length.",
+        "option3": "They are perpendicular.",
+        "option4": "They are bisected.",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a line divides two sides of a triangle in the same ratio, what is the relationship between the other two sides?",
+        "option1": "They are parallel.",
+        "option2": "They are perpendicular.",
+        "option3": "They are equal in length.",
+        "option4": "They are collinear.",
+        "correctOption": "1"
+    },
+    {
+        "question": "When a line divides two sides of a triangle in the same ratio, what is the relationship between the line and the third side?",
+        "option1": "The line is perpendicular to the third side.",
+        "option2": "The line is parallel to the third side.",
+        "option3": "The line bisects the third side.",
+        "option4": "The line is collinear with the third side.",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a right-angled triangle, if one acute angle is 30 degrees, what is the measure of the other acute angle?",
+        "option1": "45 degrees",
+        "option2": "60 degrees",
+        "option3": "75 degrees",
+        "option4": "90 degrees",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the sides of a triangle are in the ratio 3:4:5, and the perimeter is 48 cm, what is the length of the smallest side?",
+        "option1": "9 cm",
+        "option2": "12 cm",
+        "option3": "15 cm",
+        "option4": "18 cm",
+        "correctOption": "1"
+    },
+    {
+        "question": "The measure of each interior angle of a regular hexagon is:",
+        "option1": "120 degrees",
+        "option2": "135 degrees",
+        "option3": "140 degrees",
+        "option4": "150 degrees",
+        "correctOption": "1"
+    },
+    {
+        "question": "If two angles of a triangle are 40 degrees and 75 degrees, what is the measure of the third angle?",
+        "option1": "45 degrees",
+        "option2": "65 degrees",
+        "option3": "75 degrees",
+        "option4": "85 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "The sum of the angles of a quadrilateral is:",
+        "option1": "180 degrees",
+        "option2": "270 degrees",
+        "option3": "360 degrees",
+        "option4": "450 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a circle is inscribed in a triangle, the angle opposite the diameter is always:",
+        "option1": "30 degrees",
+        "option2": "45 degrees",
+        "option3": "60 degrees",
+        "option4": "90 degrees",
+        "correctOption": "4"
+    },
+    {
+        "question": "The area of an equilateral triangle with side length 'a' is:",
+        "option1": "(√3/4) a^2",
+        "option2": "(√3/2) a^2",
+        "option3": "(√3/3) a^2",
+        "option4": "(√3) a^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If two angles of a triangle are 60 degrees and 80 degrees, what is the measure of the third angle?",
+        "option1": "30 degrees",
+        "option2": "40 degrees",
+        "option3": "50 degrees",
+        "option4": "60 degrees",
+        "correctOption": "2"
+    },
+    {
+        "question": "The ratio of the radius and height of a cone is 3:4. If the volume of the cone is V, what is its radius?",
+        "option1": "(3V/4π)^(1/3)",
+        "option2": "(4V/3π)^(1/3)",
+        "option3": "(9V/16π)^(1/3)",
+        "option4": "(16V/9π)^(1/3)",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the lengths of two sides of a triangle are 8 cm and 15 cm, what is the possible range of lengths for the third side?",
+        "option1": "7 cm < x < 23 cm",
+        "option2": "9 cm < x < 23 cm",
+        "option3": "7 cm < x < 22 cm",
+        "option4": "9 cm < x < 22 cm",
+        "correctOption": "2"
+    },
+    {
+        "question": "The ratio of the areas of two similar triangles is 9:16. What is the ratio of their corresponding sides?",
+        "option1": "3:4",
+        "option2": "4:3",
+        "option3": "2:3",
+        "option4": "3:2",
+        "correctOption": "1"
+    },
+    {
+        "question": "The hypotenuse of a right-angled triangle is 10 cm, and one of the legs is 6 cm. What is the length of the other leg?",
+        "option1": "8 cm",
+        "option2": "9 cm",
+        "option3": "10 cm",
+        "option4": "12 cm",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the altitude of an equilateral triangle is 'h', what is the length of each side in terms of 'h'?",
+        "option1": "h",
+        "option2": "2h",
+        "option3": "(√3/2)h",
+        "option4": "(2/√3)h",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a circle with radius 'r', what is the length of an arc corresponding to a central angle of 60 degrees?",
+        "option1": "(πr)/6",
+        "option2": "(πr)/3",
+        "option3": "(2πr)/3",
+        "option4": "(2πr)/6",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a triangle has sides of length 5 cm, 12 cm, and 13 cm, what type of triangle is it?",
+        "option1": "Equilateral",
+        "option2": "Isosceles",
+        "option3": "Scalene",
+        "option4": "Right-angled",
+        "correctOption": "4"
+    },
+    {
+        "question": "The area of a rhombus with diagonals of length 'd1' and 'd2' is:",
+        "option1": "(1/2) d1 d2",
+        "option2": "d1 d2",
+        "option3": "(1/4) d1 d2",
+        "option4": "(1/8) d1 d2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If sinθ = 3/5 in a right-angled triangle, what is cosθ?",
+        "option1": "4/5",
+        "option2": "3/4",
+        "option3": "5/4",
+        "option4": "5/3",
+        "correctOption": "1"
+    },
+    {
+        "question": "The centroid of a triangle is the point of intersection of its:",
+        "option1": "Altitudes",
+        "option2": "Medians",
+        "option3": "Perpendicular bisectors",
+        "option4": "Angle bisectors",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ABC is an isosceles triangle with AB = AC, and ∠A = 100 degrees, what is ∠B?",
+        "option1": "40 degrees",
+        "option2": "50 degrees",
+        "option3": "80 degrees",
+        "option4": "90 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "Consider a regular tetrahedron. What is the measure of each interior angle formed by three faces meeting at a vertex?",
+        "option1": "60 degrees",
+        "option2": "70 degrees",
+        "option3": "90 degrees",
+        "option4": "120 degrees",
+        "correctOption": "4"
+    },
+    {
+        "question": "In a cyclic quadrilateral, if the opposite angles are in the ratio 3:4, what is the ratio of the adjacent angles?",
+        "option1": "3:4",
+        "option2": "4:3",
+        "option3": "1:1",
+        "option4": "2:3",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the angles of a triangle are in the ratio 1:2:3, what is the ratio of the sines of these angles?",
+        "option1": "1:2:3",
+        "option2": "sin1:sin2:sin3",
+        "option3": "sin3:sin2:sin1",
+        "option4": "2:3:4",
+        "correctOption": "2"
+    },
+    {
+        "question": "Let ABC be a triangle, and P be a point on side BC. If AP bisects ∠A and meets side BC at P, what is the ratio BP:PC?",
+        "option1": "1:1",
+        "option2": "2:1",
+        "option3": "1:2",
+        "option4": "3:1",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the angle between the two tangents drawn from an external point P to a circle is 100 degrees, what is the measure of the angle subtended by the chord at the center of the circle?",
+        "option1": "50 degrees",
+        "option2": "70 degrees",
+        "option3": "100 degrees",
+        "option4": "140 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "For a circle with radius 'r', if the length of the major arc intercepted by a central angle is 5r, what is the measure of the angle in degrees?",
+        "option1": "60 degrees",
+        "option2": "90 degrees",
+        "option3": "120 degrees",
+        "option4": "150 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "If A, B, and C are three non-collinear points, what is the ratio in which the line joining A to the circumcenter of triangle ABC divides BC?",
+        "option1": "1:1",
+        "option2": "1:2",
+        "option3": "1:3",
+        "option4": "1:4",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a triangle ABC, if a = 7, b = 24, and the circumradius is 10, what is the value of sinC?",
+        "option1": "7/24",
+        "option2": "24/25",
+        "option3": "7/25",
+        "option4": "24/7",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the circumradius of a triangle is half the inradius, what type of triangle is it?",
+        "option1": "Equilateral",
+        "option2": "Isosceles",
+        "option3": "Scalene",
+        "option4": "Right-angled",
+        "correctOption": "4"
+    },
+    {
+        "question": "In a triangle ABC, if the circumradius is 'R' and the inradius is 'r', what is the relationship between R and r?",
+        "option1": "R = 2r",
+        "option2": "R = r",
+        "option3": "R = 3r",
+        "option4": "R = 4r",
+        "correctOption": "1"
+    },
+    {
+        "question": "Let ABC be a triangle with sides a, b, and c. If the circumradius is R and the inradius is r, what is the relationship between R, r, and the semiperimeter s?",
+        "option1": "R = s - r",
+        "option2": "R = s + r",
+        "option3": "R = s/2 - r",
+        "option4": "R = s/2 + r",
+        "correctOption": "2"
+    },
+    {
+        "question": "If A, B, C, and D are four points on a circle in that order, and AC and BD intersect at E, what is the ratio AE:CE?",
+        "option1": "1:1",
+        "option2": "1:2",
+        "option3": "2:1",
+        "option4": "2:3",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the circumradius of a triangle is 5 cm, and the length of the longest side is 10 cm, what is the area of the triangle?",
+        "option1": "25√3 cm²",
+        "option2": "50√3 cm²",
+        "option3": "75√3 cm²",
+        "option4": "100√3 cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the centroid and circumcenter of a triangle coincide, what type of triangle is it?",
+        "option1": "Equilateral",
+        "option2": "Isosceles",
+        "option3": "Scalene",
+        "option4": "Right-angled",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a triangle ABC, if ∠A = 50 degrees and the circumradius is 6 cm, what is the length of side BC?",
+        "option1": "6√2 cm",
+        "option2": "12√2 cm",
+        "option3": "18√2 cm",
+        "option4": "24√2 cm",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the circumradius of a triangle is 13 cm, and the lengths of two sides are 5 cm and 12 cm, what is the length of the third side?",
+        "option1": "5 cm",
+        "option2": "12 cm",
+        "option3": "13 cm",
+        "option4": "17 cm",
+        "correctOption": "4"
+    },
+    {
+        "question": "The area of a triangle with sides a, b, and c is given by:",
+        "option1": "(1/4) √(a^2 + b^2 + c^2)",
+        "option2": "(1/2) √(a^2 + b^2 + c^2)",
+        "option3": "(1/2) √(s(s-a)(s-b)(s-c))",
+        "option4": "(1/4) √(s(s-a)(s-b)(s-c))",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a triangle ABC, if a/b = c/d = e/f, what can be said about the triangle?",
+        "option1": "It is an equilateral triangle.",
+        "option2": "It is a right-angled triangle.",
+        "option3": "It is a similar triangle.",
+        "option4": "It is an isosceles triangle.",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the sum of the lengths of the sides of a quadrilateral is equal to the sum of the lengths of its diagonals, what type of quadrilateral is it?",
+        "option1": "Rectangle",
+        "option2": "Rhombus",
+        "option3": "Square",
+        "option4": "Parallelogram",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a circle, if the length of an arc is equal to the radius, what is the central angle subtended by the arc in degrees?",
+        "option1": "30 degrees",
+        "option2": "45 degrees",
+        "option3": "60 degrees",
+        "option4": "90 degrees",
+        "correctOption": "4"
+    },
+    {
+        "question": "In a DNA molecule, if the percentage of adenine (A) is 30%, what is the percentage of thymine (T)?",
+        "option1": "20%",
+        "option2": "30%",
+        "option3": "40%",
+        "option4": "50%",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a function of the Golgi apparatus in a cell?",
+        "option1": "Protein synthesis",
+        "option2": "Lipid synthesis",
+        "option3": "Cellular respiration",
+        "option4": "Post-translational modification and packaging of proteins",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the primary function of red blood cells in the human body?",
+        "option1": "Transport of oxygen",
+        "option2": "Storage of nutrients",
+        "option3": "Defense against pathogens",
+        "option4": "Synthesis of antibodies",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a characteristic feature of eukaryotic cells?",
+        "option1": "Lack of membrane-bound organelles",
+        "option2": "Presence of a nucleus",
+        "option3": "Unicellular organization",
+        "option4": "Absence of DNA",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a photosynthetic plant cell, where does the light-dependent phase of photosynthesis take place?",
+        "option1": "Nucleus",
+        "option2": "Mitochondria",
+        "option3": "Chloroplast",
+        "option4": "Endoplasmic reticulum",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a nitrogenous base found in RNA but not in DNA?",
+        "option1": "Adenine",
+        "option2": "Guanine",
+        "option3": "Uracil",
+        "option4": "Thymine",
+        "correctOption": "3"
+    },
+    {
+        "question": "The human respiratory system is responsible for the exchange of gases. Where does the process of external respiration primarily take place?",
+        "option1": "Bronchi",
+        "option2": "Alveoli",
+        "option3": "Trachea",
+        "option4": "Bronchioles",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a function of the smooth endoplasmic reticulum in a cell?",
+        "option1": "Protein synthesis",
+        "option2": "Lipid synthesis",
+        "option3": "Ribosome assembly",
+        "option4": "ATP production",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of enzymes in biological reactions?",
+        "option1": "They act as structural molecules.",
+        "option2": "They provide energy for the reaction.",
+        "option3": "They speed up chemical reactions.",
+        "option4": "They store genetic information.",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following statements about mitosis is correct?",
+        "option1": "It results in the formation of haploid cells.",
+        "option2": "It is involved in gamete formation.",
+        "option3": "It produces genetically identical daughter cells.",
+        "option4": "It occurs only in somatic cells.",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the function of the Krebs cycle in cellular respiration?",
+        "option1": "Production of ATP",
+        "option2": "Oxidation of glucose",
+        "option3": "Formation of acetyl-CoA",
+        "option4": "Harvesting high-energy electrons",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is a function of the lysosomes in a cell?",
+        "option1": "Cellular respiration",
+        "option2": "Protein synthesis",
+        "option3": "Cellular digestion",
+        "option4": "Photosynthesis",
+        "correctOption": "3"
+    },
+    {
+        "question": "In which stage of the cell cycle does DNA replication occur?",
+        "option1": "G1 phase",
+        "option2": "S phase",
+        "option3": "G2 phase",
+        "option4": "M phase",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the function of the ribosomes in a cell?",
+        "option1": "Energy production",
+        "option2": "Protein synthesis",
+        "option3": "Lipid synthesis",
+        "option4": "Cellular respiration",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a characteristic feature of prokaryotic cells?",
+        "option1": "Presence of a nucleus",
+        "option2": "Lack of membrane-bound organelles",
+        "option3": "Multicellular organization",
+        "option4": "Presence of mitochondria",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of the enzyme DNA polymerase during DNA replication?",
+        "option1": "Unwinding the DNA double helix",
+        "option2": "Adding nucleotides to the growing strand",
+        "option3": "Breaking hydrogen bonds between DNA strands",
+        "option4": "Initiating DNA synthesis",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a function of the endoplasmic reticulum in a cell?",
+        "option1": "Protein synthesis",
+        "option2": "Lipid synthesis",
+        "option3": "Ribosome assembly",
+        "option4": "ATP production",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a human cell, where does the process of transcription take place?",
+        "option1": "Nucleus",
+        "option2": "Cytoplasm",
+        "option3": "Mitochondria",
+        "option4": "Endoplasmic reticulum",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the function of the centrioles in animal cells during cell division?",
+        "option1": "Synthesis of DNA",
+        "option2": "Formation of the mitotic spindle",
+        "option3": "Cellular respiration",
+        "option4": "Protein synthesis",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the sum of the interior angles of a triangle?",
+        "option1": "90 degrees",
+        "option2": "180 degrees",
+        "option3": "270 degrees",
+        "option4": "360 degrees",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a square has a side length of 5 units, what is its perimeter?",
+        "option1": "10 units",
+        "option2": "15 units",
+        "option3": "20 units",
+        "option4": "25 units",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the area of a rectangle with a length of 8 units and a width of 4 units?",
+        "option1": "12 square units",
+        "option2": "24 square units",
+        "option3": "32 square units",
+        "option4": "40 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a circle has a radius of 6 units, what is its circumference?",
+        "option1": "6π units",
+        "option2": "12π units",
+        "option3": "18π units",
+        "option4": "36π units",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the volume of a cube with a side length of 3 units?",
+        "option1": "9 cubic units",
+        "option2": "18 cubic units",
+        "option3": "27 cubic units",
+        "option4": "36 cubic units",
+        "correctOption": "3"
+    },
+    {
+        "question": "If two angles in a triangle are 45 degrees and 60 degrees, what is the measure of the third angle?",
+        "option1": "30 degrees",
+        "option2": "45 degrees",
+        "option3": "60 degrees",
+        "option4": "75 degrees",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the perimeter of a regular hexagon with each side measuring 4 units?",
+        "option1": "16 units",
+        "option2": "20 units",
+        "option3": "24 units",
+        "option4": "28 units",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a rectangle has a length of 10 units and a width of 6 units, what is its area?",
+        "option1": "16 square units",
+        "option2": "36 square units",
+        "option3": "60 square units",
+        "option4": "100 square units",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the surface area of a cube with a side length of 2 units?",
+        "option1": "4 square units",
+        "option2": "8 square units",
+        "option3": "12 square units",
+        "option4": "24 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a triangle has sides of lengths 3 units, 4 units, and 5 units, what type of triangle is it?",
+        "option1": "Equilateral",
+        "option2": "Isosceles",
+        "option3": "Scalene",
+        "option4": "Right-angled",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the area of a square with a diagonal of length 10 units?",
+        "option1": "25 square units",
+        "option2": "50 square units",
+        "option3": "75 square units",
+        "option4": "100 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the radius of a circle is 7 units, what is its area?",
+        "option1": "14π square units",
+        "option2": "49π square units",
+        "option3": "98π square units",
+        "option4": "196π square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the volume of a cylinder with a radius of 3 units and a height of 8 units?",
+        "option1": "24 cubic units",
+        "option2": "72 cubic units",
+        "option3": "216 cubic units",
+        "option4": "288 cubic units",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a parallelogram has a base of 12 units and a height of 5 units, what is its area?",
+        "option1": "48 square units",
+        "option2": "60 square units",
+        "option3": "72 square units",
+        "option4": "120 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the perimeter of a rhombus with side lengths of 9 units each?",
+        "option1": "18 units",
+        "option2": "27 units",
+        "option3": "36 units",
+        "option4": "45 units",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a cone has a radius of 4 units and a height of 6 units, what is its volume?",
+        "option1": "32π cubic units",
+        "option2": "48π cubic units",
+        "option3": "64π cubic units",
+        "option4": "96π cubic units",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the sum of the interior angles of a regular pentagon?",
+        "option1": "360 degrees",
+        "option2": "450 degrees",
+        "option3": "540 degrees",
+        "option4": "720 degrees",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a square has a diagonal of length 12 units, what is its side length?",
+        "option1": "6 units",
+        "option2": "8 units",
+        "option3": "10 units",
+        "option4": "12 units",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the area of a triangle with a base of 9 units and a height of 7 units?",
+        "option1": "21 square units",
+        "option2": "31.5 square units",
+        "option3": "36 square units",
+        "option4": "45 square units",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the diameter of a sphere is 10 units, what is its volume?",
+        "option1": "1250π cubic units",
+        "option2": "2500π cubic units",
+        "option3": "3750π cubic units",
+        "option4": "5000π cubic units",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the sum of the angles in a quadrilateral?",
+        "option1": "180 degrees",
+        "option2": "270 degrees",
+        "option3": "360 degrees",
+        "option4": "450 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a rectangle has a length of 12 units and a diagonal of 15 units, what is its width?",
+        "option1": "5 units",
+        "option2": "9 units",
+        "option3": "12 units",
+        "option4": "15 units",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the circumference of a circle with a diameter of 10 units?",
+        "option1": "5π units",
+        "option2": "10π units",
+        "option3": "15π units",
+        "option4": "20π units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the area of a square is 49 square units, what is the length of one side?",
+        "option1": "5 units",
+        "option2": "6 units",
+        "option3": "7 units",
+        "option4": "8 units",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the volume of a rectangular prism with dimensions 4 units by 6 units by 8 units?",
+        "option1": "96 cubic units",
+        "option2": "144 cubic units",
+        "option3": "192 cubic units",
+        "option4": "288 cubic units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If an isosceles triangle has two angles measuring 45 degrees each, what is the measure of the third angle?",
+        "option1": "45 degrees",
+        "option2": "90 degrees",
+        "option3": "135 degrees",
+        "option4": "180 degrees",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the area of a parallelogram with base 10 units and height 8 units?",
+        "option1": "40 square units",
+        "option2": "64 square units",
+        "option3": "80 square units",
+        "option4": "100 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the hypotenuse of a right-angled triangle is 13 units and one leg is 5 units, what is the length of the other leg?",
+        "option1": "12 units",
+        "option2": "8 units",
+        "option3": "9 units",
+        "option4": "10 units",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the surface area of a cylinder with a radius of 2 units and a height of 10 units?",
+        "option1": "20π square units",
+        "option2": "40π square units",
+        "option3": "60π square units",
+        "option4": "80π square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a triangle has sides of lengths 6 units, 8 units, and 10 units, what type of triangle is it?",
+        "option1": "Equilateral",
+        "option2": "Isosceles",
+        "option3": "Scalene",
+        "option4": "Right-angled",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the perimeter of a trapezoid with bases measuring 5 units and 8 units, and legs each measuring 3 units?",
+        "option1": "19 units",
+        "option2": "22 units",
+        "option3": "26 units",
+        "option4": "31 units",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the area of a circle is 25π square units, what is its radius?",
+        "option1": "5 units",
+        "option2": "6 units",
+        "option3": "7 units",
+        "option4": "8 units",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the volume of a cone with a radius of 3 units and a height of 4 units?",
+        "option1": "12π cubic units",
+        "option2": "24π cubic units",
+        "option3": "36π cubic units",
+        "option4": "48π cubic units",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the area of a rhombus is 48 square units and one diagonal is 8 units, what is the length of the other diagonal?",
+        "option1": "6 units",
+        "option2": "8 units",
+        "option3": "10 units",
+        "option4": "12 units",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the area of a trapezium with bases of lengths 7 units and 9 units, and a height of 4 units?",
+        "option1": "32 square units",
+        "option2": "40 square units",
+        "option3": "48 square units",
+        "option4": "56 square units",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a square pyramid has a base side length of 5 units and a height of 8 units, what is its volume?",
+        "option1": "80 cubic units",
+        "option2": "100 cubic units",
+        "option3": "120 cubic units",
+        "option4": "160 cubic units",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the perimeter of an equilateral triangle with each side measuring 9 units?",
+        "option1": "18 units",
+        "option2": "24 units",
+        "option3": "27 units",
+        "option4": "30 units",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the area of a rectangle is 35 square units and its length is 7 units, what is its width?",
+        "option1": "3 units",
+        "option2": "4 units",
+        "option3": "5 units",
+        "option4": "6 units",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the volume of a sphere with a radius of 4 units?",
+        "option1": "32π cubic units",
+        "option2": "64π cubic units",
+        "option3": "128π cubic units",
+        "option4": "256π cubic units",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a triangle ABC, if ∠A = 40 degrees, ∠B = 75 degrees, and ∠C = 65 degrees, what type of triangle is it?",
+        "option1": "Acute-angled",
+        "option2": "Obtuse-angled",
+        "option3": "Right-angled",
+        "option4": "Scalene",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a regular hexagon has a side length of 8 units, what is its apothem length?",
+        "option1": "4 units",
+        "option2": "6 units",
+        "option3": "8 units",
+        "option4": "12 units",
+        "correctOption": "2"
+    },
+    {
+        "question": "Given a parallelepiped with sides of lengths 4 units, 6 units, and 10 units, what is the length of its space diagonal?",
+        "option1": "12 units",
+        "option2": "15 units",
+        "option3": "18 units",
+        "option4": "20 units",
+        "correctOption": "3"
+    },
+    {
+        "question": "If in a triangle ABC, a/sin(A) = b/sin(B) = c/sin(C), what can be concluded about the triangle?",
+        "option1": "It is equilateral.",
+        "option2": "It is isosceles.",
+        "option3": "It is right-angled.",
+        "option4": "It is obtuse-angled.",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a trapezium ABCD with bases AB and CD, if the midpoints of the legs AD and BC are E and F respectively, what is the relationship between the lengths EF and (AB + CD)?",
+        "option1": "EF = (AB + CD)/2",
+        "option2": "EF = (AB + CD)/4",
+        "option3": "EF = (AB + CD)/3",
+        "option4": "EF = (AB + CD)/5",
+        "correctOption": "1"
+    },
+    {
+        "question": "If in a right-angled triangle ABC, the altitude from the right angle divides the hypotenuse into segments of length 3 units and 4 units, what is the length of the altitude?",
+        "option1": "5 units",
+        "option2": "6 units",
+        "option3": "7 units",
+        "option4": "8 units",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a cyclic quadrilateral ABCD, if ∠A = 120 degrees and ∠C = 40 degrees, what is the measure of ∠B?",
+        "option1": "80 degrees",
+        "option2": "100 degrees",
+        "option3": "120 degrees",
+        "option4": "140 degrees",
+        "correctOption": "2"
+    },
+    {
+        "question": "If in a triangle ABC, a = 6, b = 9, and the angle between these sides is 60 degrees, what is the length of side c?",
+        "option1": "3√3",
+        "option2": "6√3",
+        "option3": "9√3",
+        "option4": "12√3",
+        "correctOption": "3"
+    },
+    {
+        "question": "For a regular pentagon, what is the measure of each interior angle?",
+        "option1": "72 degrees",
+        "option2": "90 degrees",
+        "option3": "108 degrees",
+        "option4": "120 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the radius of a sphere is tripled, how does the volume change?",
+        "option1": "Volume triples",
+        "option2": "Volume doubles",
+        "option3": "Volume increases by a factor of 27",
+        "option4": "Volume increases by a factor of 9",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a right-angled triangle ABC, if tan(A) = 3/4, what is the value of sin(A)?",
+        "option1": "3/5",
+        "option2": "4/5",
+        "option3": "3/4",
+        "option4": "4/3",
+        "correctOption": "1"
+    },
+    {
+        "question": "If in a triangle ABC, the medians AD and BE intersect at point G, what is the ratio of the area of triangle AGC to the area of triangle BGC?",
+        "option1": "1:1",
+        "option2": "1:2",
+        "option3": "2:1",
+        "option4": "2:3",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a regular octagon, what is the measure of each interior angle?",
+        "option1": "135 degrees",
+        "option2": "140 degrees",
+        "option3": "145 degrees",
+        "option4": "150 degrees",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the lengths of two sides of a triangle are 8 units and 15 units, and the included angle is 45 degrees, what is the length of the third side?",
+        "option1": "7 units",
+        "option2": "9 units",
+        "option3": "11 units",
+        "option4": "13 units",
+        "correctOption": "4"
+    },
+    {
+        "question": "In a quadrilateral ABCD, if ∠A = 100 degrees, ∠B = 80 degrees, and ∠C = 85 degrees, what is the measure of ∠D?",
+        "option1": "95 degrees",
+        "option2": "100 degrees",
+        "option3": "105 degrees",
+        "option4": "110 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the circumradius of a regular hexagon is 6 units, what is the apothem length?",
+        "option1": "3 units",
+        "option2": "4 units",
+        "option3": "5 units",
+        "option4": "6 units",
+        "correctOption": "2"
+    },
+    {
+        "question": "For a parallelogram ABCD, if the diagonals intersect at point O, what is the relationship between the area of triangle ABO and the area of triangle CDO?",
+        "option1": "They are equal.",
+        "option2": "Triangle ABO is half the area of triangle CDO.",
+        "option3": "Triangle ABO is twice the area of triangle CDO.",
+        "option4": "There is no specific relationship.",
+        "correctOption": "1"
+    },
+    {
+        "question": "If in a triangle ABC, a = 5, b = 8, and c = 10, what type of triangle is it?",
+        "option1": "Acute-angled",
+        "option2": "Obtuse-angled",
+        "option3": "Right-angled",
+        "option4": "Scalene",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a cyclic quadrilateral ABCD, if ∠A = 120 degrees and ∠C = 60 degrees, what is the measure of ∠D?",
+        "option1": "60 degrees",
+        "option2": "75 degrees",
+        "option3": "90 degrees",
+        "option4": "120 degrees",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a triangle has sides of lengths 12 units, 14 units, and 16 units, what type of triangle is it?",
+        "option1": "Equilateral",
+        "option2": "Isosceles",
+        "option3": "Scalene",
+        "option4": "Right-angled",
+        "correctOption": "4"
+    }
+]

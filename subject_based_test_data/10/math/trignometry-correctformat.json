@@ -1,0 +1,322 @@
+[
+    {
+        "question": "21. In the unit circle, what is the significance of the coordinate (cos θ, sin θ)?",
+        "option1": "It represents the tangent of the angle.",
+        "option2": "It represents the cotangent of the angle.",
+        "option3": "It represents the sine and cosine values of the angle.",
+        "option4": "It represents the secant of the angle.",
+        "correctOption": "3"
+    },
+    {
+        "question": "22. Given that cot A = -3/4, what is the value of sin A?",
+        "option1": "4/5",
+        "option2": "-4/5",
+        "option3": "-3/5",
+        "option4": "3/5",
+        "correctOption": "2"
+    },
+    {
+        "question": "23. What is the period of the function y = 2sin(3x)?",
+        "option1": "2π",
+        "option2": "3π",
+        "option3": "2/3π",
+        "option4": "1/3π",
+        "correctOption": "1"
+    },
+    {
+        "question": "24. If cos 2A = 0.6, what is the value of cos A?",
+        "option1": "0.8",
+        "option2": "0.4",
+        "option3": "0.6",
+        "option4": "0.2",
+        "correctOption": "3"
+    },
+    {
+        "question": "25. Express sin(A + B) in terms of sin A, cos A, sin B, and cos B.",
+        "option1": "sin A cos B + cos A sin B",
+        "option2": "sin A cos A + sin B cos B",
+        "option3": "sin A sin B - cos A cos B",
+        "option4": "cos A sin A - cos B sin B",
+        "correctOption": "1"
+    },
+    {
+        "question": "26. If tan A = √3, what is the value of cot A?",
+        "option1": "1/√3",
+        "option2": "-1/√3",
+        "option3": "-√3",
+        "option4": "√3",
+        "correctOption": "1"
+    },
+    {
+        "question": "27. Which of the following is an identity for tan(A - B)?",
+        "option1": "(tan A - tan B) / (1 + tan A tan B)",
+        "option2": "(tan A + tan B) / (1 - tan A tan B)",
+        "option3": "(tan A - tan B) / (1 - tan A tan B)",
+        "option4": "(tan A + tan B) / (1 + tan A tan B)",
+        "correctOption": "1"
+    },
+    {
+        "question": "28. If sin A = -4/5, what is the value of csc A?",
+        "option1": "-5/4",
+        "option2": "-5/3",
+        "option3": "-4/5",
+        "option4": "-3/5",
+        "correctOption": "2"
+    },
+    {
+        "question": "29. What is the amplitude of the function y = 2cos(4x) + 3?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "3",
+        "option4": "1",
+        "correctOption": "1"
+    },
+    {
+        "question": "30. If sin A = 1/√2, what is the value of tan A?",
+        "option1": "1",
+        "option2": "√2",
+        "option3": "1/√2",
+        "option4": "√3",
+        "correctOption": "2"
+    },
+    {
+        "question": "31. Evaluate cos(π/3).",
+        "option1": "1/2",
+        "option2": "√2/2",
+        "option3": "1",
+        "option4": "1/√2",
+        "correctOption": "1"
+    },
+    {
+        "question": "32. What is the relationship between sec A and cos A?",
+        "option1": "sec A = 1/cos A",
+        "option2": "cos A = 1/sec A",
+        "option3": "sec A = cos A",
+        "option4": "cos A = sec A",
+        "correctOption": "1"
+    },
+    {
+        "question": "33. If cot A = -√3, what is the value of tan A?",
+        "option1": "-1/√3",
+        "option2": "-√3",
+        "option3": "√3",
+        "option4": "1/√3",
+        "correctOption": "3"
+    },
+    {
+        "question": "34. Solve for x: cos(2x) = -1.",
+        "option1": "π/2",
+        "option2": "π/4",
+        "option3": "π/6",
+        "option4": "3π/4",
+        "correctOption": "4"
+    },
+    {
+        "question": "35. What is the general solution for sin x = -1?",
+        "option1": "2nπ",
+        "option2": "(2n + 1)π",
+        "option3": "(2n - 1)π",
+        "option4": "(2n + 1)π/2",
+        "correctOption": "2"
+    },
+    {
+        "question": "36. Express cos(θ - π/3) in terms of cos θ and sin θ.",
+        "option1": "cos θ + sin θ",
+        "option2": "cos θ - sin θ",
+        "option3": "cos θ - √3 sin θ",
+        "option4": "cos θ + √3 sin θ",
+        "correctOption": "3"
+    },
+    {
+        "question": "37. If sin A = 3/7, what is the value of cosec A?",
+        "option1": "7/3",
+        "option2": "1/3",
+        "option3": "7/4",
+        "option4": "4/7",
+        "correctOption": "1"
+    },
+    {
+        "question": "38. Determine the amplitude of the function y = 5sin(2x) - 2cos(2x).",
+        "option1": "5",
+        "option2": "2",
+        "option3": "√29",
+        "option4": "√29/2",
+        "correctOption": "3"
+    },
+    {
+        "question": "39. If tan A = 1 and cos B = 0, what is the value of sin B?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "-1",
+        "option4": "Undefined",
+        "correctOption": "4"
+    },
+    {
+        "question": "40. Evaluate the expression: sin(π/4) + cos(3π/4).",
+        "option1": "0",
+        "option2": "1",
+        "option3": "√2/2",
+        "option4": "1/√2",
+        "correctOption": "2"
+    },
+    {
+        "question": "1. What are the trigonometric ratios of an acute angle in a right-angled triangle?",
+        "option1": "sin, cos, tan",
+        "option2": "sec, csc, cot",
+        "option3": "sin, cosec, cot",
+        "option4": "tan, sec, cosec",
+        "correctOption": "1"
+    },
+    {
+        "question": "2. Which of the following is a proof of the existence of trigonometric ratios for an acute angle in a right-angled triangle?",
+        "option1": "Pythagorean Theorem",
+        "option2": "Law of Sines",
+        "option3": "Law of Cosines",
+        "option4": "None of the above",
+        "correctOption": "1"
+    },
+    {
+        "question": "3. What is the value of sin 300°?",
+        "option1": "1/2",
+        "option2": "-√3/2",
+        "option3": "-1/2",
+        "option4": "√3/2",
+        "correctOption": "2"
+    },
+    {
+        "question": "4. In a right-angled triangle, if one acute angle is 45°, what is the value of cos 45°?",
+        "option1": "1/√2",
+        "option2": "√2/2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "1"
+    },
+    {
+        "question": "5. What is the relationship between sin θ, cos θ, and tan θ?",
+        "option1": "sin θ = cos θ / tan θ",
+        "option2": "cos θ = sin θ / tan θ",
+        "option3": "tan θ = sin θ / cos θ",
+        "option4": "cos θ = sin θ + tan θ",
+        "correctOption": "3"
+    },
+    {
+        "question": "6. If sin A = 3/5, what is the value of cos A?",
+        "option1": "4/5",
+        "option2": "√2/5",
+        "option3": "√1/5",
+        "option4": "2/5",
+        "correctOption": "1"
+    },
+    {
+        "question": "7. Which trigonometric identity is represented by sin²A + cos²A = 1?",
+        "option1": "Double-Angle Identity",
+        "option2": "Pythagorean Identity",
+        "option3": "Reciprocal Identity",
+        "option4": "Quotient Identity",
+        "correctOption": "2"
+    },
+    {
+        "question": "8. What is the simplified form of tan²A + 1 = sec²A?",
+        "option1": "cot²A",
+        "option2": "sin²A",
+        "option3": "cos²A",
+        "option4": "1",
+        "correctOption": "4"
+    },
+    {
+        "question": "9. If cos θ = 0.8, what is the value of sin θ?",
+        "option1": "0.2",
+        "option2": "0.6",
+        "option3": "0.8",
+        "option4": "0.4",
+        "correctOption": "2"
+    },
+    {
+        "question": "10. What is the value of cot 45°?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "√2/2",
+        "option4": "1/√2",
+        "correctOption": "4"
+    },
+    {
+        "question": "11. Which identity is equivalent to sin(A + B) = sin A cos B + cos A sin B?",
+        "option1": "Double-Angle Identity",
+        "option2": "Sum-to-Product Identity",
+        "option3": "Reciprocal Identity",
+        "option4": "Quotient Identity",
+        "correctOption": "2"
+    },
+    {
+        "question": "12. If tan A = 4/3, what is the value of cot A?",
+        "option1": "3/4",
+        "option2": "4/3",
+        "option3": "1/4",
+        "option4": "3/1",
+        "correctOption": "1"
+    },
+    {
+        "question": "13. What is the value of sin 90°?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "-1",
+        "option4": "Undefined",
+        "correctOption": "2"
+    },
+    {
+        "question": "14. Which of the following is NOT a trigonometric identity?",
+        "option1": "sin²A + cos²A = 1",
+        "option2": "tan A = sin A / cos A",
+        "option3": "sin A + cos A = 1",
+        "option4": "cot A = 1/tan A",
+        "correctOption": "3"
+    },
+    {
+        "question": "15. If cos A = 1/2, what is the value of sec A?",
+        "option1": "2",
+        "option2": "1",
+        "option3": "√2",
+        "option4": "1/√2",
+        "correctOption": "1"
+    },
+    {
+        "question": "16. What is the value of tan 60°?",
+        "option1": "√3/2",
+        "option2": "1",
+        "option3": "1/√3",
+        "option4": "√2/2",
+        "correctOption": "1"
+    },
+    {
+        "question": "17. If cos A = 0, what is the value of sin A?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "-1",
+        "option4": "Undefined",
+        "correctOption": "3"
+    },
+    {
+        "question": "18. What is the simplified form of sin(A - B) / sin(A + B)?",
+        "option1": "1",
+        "option2": "cot B",
+        "option3": "tan A",
+        "option4": "cos B",
+        "correctOption": "1"
+    },
+    {
+        "question": "19. If cot A = 5/4, what is the value of tan A?",
+        "option1": "4/5",
+        "option2": "5/4",
+        "option3": "1/5",
+        "option4": "1/4",
+        "correctOption": "1"
+    },
+    {
+        "question": "20. What is the value of cos 180°?",
+        "option1": "1",
+        "option2": "-1",
+        "option3": "0",
+        "option4": "Undefined",
+        "correctOption": "2"
+    }
+]

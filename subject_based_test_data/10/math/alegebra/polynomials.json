@@ -1,0 +1,1394 @@
+[
+    {
+        "question": "The polynomial ( P(x) = x^4 - 6x^3 + 11x^2 - 6x + 1 ) has roots ( a, b, c, ) and ( d ). What is ( frac{1}{a} + frac{1}{b} + frac{1}{c} + frac{1}{d} )?",
+        "option1": "6",
+        "option2": "4",
+        "option3": "3",
+        "option4": "2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( P(x) = x^3 - 2x^2 + kx - 1 ) has roots ( p, q, ) and ( r ), and ( p + q + r = 2 ), what is the value of ( k )?",
+        "option1": "2",
+        "option2": "1",
+        "option3": "-1",
+        "option4": "-2",
+        "correctOption": "3"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 - 3x^2 - 4x + 12 ) has roots ( a, b, ) and ( c ). What is the value of ( a^2 + b^2 + c^2 )?",
+        "option1": "25",
+        "option2": "23",
+        "option3": "21",
+        "option4": "19",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( (x - 2)^2(x + 3) = 0 ), what is the sum of the roots?",
+        "option1": "5",
+        "option2": "4",
+        "option3": "-5",
+        "option4": "-4",
+        "correctOption": "2"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 - 5x^2 + 7x - 3 ) has three roots in an arithmetic progression. What is the common difference?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( P(x) = (x - 1)(x - 2)(x - 3)(x - 4) ) and ( Q(x) = (x - 1)(x - 2)(x - 3)(x - k) ) have the same roots, what is the value of ( k )?",
+        "option1": "4",
+        "option2": "5",
+        "option3": "6",
+        "option4": "7",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the coefficient of (x^2) in the expansion of ( (2x - 1)^5 )?",
+        "option1": "80",
+        "option2": "40",
+        "option3": "20",
+        "option4": "10",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( (x - a)(x - b)(x - c) = x^3 - 3x^2 + 4 ), what is the value of ( a + b + c )?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "4"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 - 5x^3 + 7x^2 - 3x + 1 ) has roots ( p, q, r, ) and ( s ). What is ( pqr + prs + qrs + spq )?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "4"
+    },
+    {
+        "question": "If ( P(x) = x^3 - 6x^2 + 11x - 6 ) has roots ( a, b, ) and ( c ), what is ( (a + 1)(b + 1)(c + 1) )?",
+        "option1": "9",
+        "option2": "8",
+        "option3": "7",
+        "option4": "6",
+        "correctOption": "1"
+    },
+    {
+        "question": "The roots of ( x^3 - 6x^2 + 11x - 6 = 0 ) are ( p, q, ) and ( r ). What is ( p^2 + q^2 + r^2 )?",
+        "option1": "41",
+        "option2": "37",
+        "option3": "33",
+        "option4": "29",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( P(x) = x^4 - 4x^3 + 6x^2 - 4x + 1 ) has roots ( a, b, c, ) and ( d ), what is ( (a + b)(c + d) + (a + c)(b + d) + (a + d)(b + c) )?",
+        "option1": "4",
+        "option2": "3",
+        "option3": "2",
+        "option4": "1",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( P(x) = x^4 - 5x^3 + 10x^2 - 10x + 5 ) has roots ( p, q, r, ) and ( s ), what is ( frac{p}{q} + frac{q}{r} + frac{r}{s} + frac{s}{p} )?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 - 6x^3 + 11x^2 - 6x + k ) has roots ( a, b, c, ) and ( d ). What is ( a^2 + b^2 + c^2 + d^2 )?",
+        "option1": "77",
+        "option2": "73",
+        "option3": "69",
+        "option4": "65",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( P(x) = (x - 1)(x - 2)(x - 3) ) and ( Q(x) = (x - 3)(x - 4)(x - 5) ), what is ( P(x) + Q(x) )?",
+        "option1": "x^3 - 11x^2 + 29x - 15",
+        "option2": "x^3 - 9x^2 + 21x - 11",
+        "option3": "x^3 - 13x^2 + 33x - 21",
+        "option4": "x^3 - 7x^2 + 17x - 9",
+        "correctOption": "2"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 - 6x^3 + 11x^2 - 6x + 1 ) has roots ( a, b, c, ) and ( d ). What is ( frac{1}{a + 1} + frac{1}{b + 1} + frac{1}{c + 1} + frac{1}{d + 1} )?",
+        "option1": "4",
+        "option2": "3",
+        "option3": "2",
+        "option4": "1",
+        "correctOption": "3"
+    },
+    {
+        "question": "If ( P(x) = x^3 - 3x^2 + 2x - 1 ) and ( Q(x) = x^3 - 3x^2 + 2x + 1 ), what is ( P(x) - Q(x) )?",
+        "option1": "-2",
+        "option2": "-1",
+        "option3": "0",
+        "option4": "1",
+        "correctOption": "4"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 - 3x^2 - 4x + 12 ) has roots ( a, b, ) and ( c ). What is ( (a - 1)(b - 1)(c - 1) )?",
+        "option1": "5",
+        "option2": "4",
+        "option3": "3",
+        "option4": "2",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( P(x) = x^3 - 6x^2 + 11x - 6 ) has roots ( a, b, ) and ( c ), what is ( frac{1}{a - 1} + frac{1}{b - 1} + frac{1}{c - 1} )?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "4"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 - 6x^3 + 11x^2 - 6x + 1 ) has roots ( a, b, c, ) and ( d ). What is ( (a + b)(c + d) + (a + c)(b + d) + (a + d)(b + c) )?",
+        "option1": "15",
+        "option2": "11",
+        "option3": "7",
+        "option4": "3",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( (x - a)(x - b)(x - c) = 0 ), what can you conclude about the roots ( a, b, ) and ( c )?",
+        "option1": "All are equal",
+        "option2": "All are distinct",
+        "option3": "Two are equal, one is distinct",
+        "option4": "Cannot determine",
+        "correctOption": "2"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 - 4x^2 + 2x + 1 ) has a root ( r ). What is ( P(r) )?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( (x - 2)(x + 3)(x - 5) = 0 ), what are the roots of the equation?",
+        "option1": "2, 3, 5",
+        "option2": "-2, -3, -5",
+        "option3": "-2, 3, 5",
+        "option4": "2, -3, 5",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the coefficient of (x^2) in the expansion of ( (2x - 3)^4 )?",
+        "option1": "48",
+        "option2": "-72",
+        "option3": "36",
+        "option4": "-24",
+        "correctOption": "1"
+    },
+    {
+        "question": "The roots of the equation (x^2 - 6x + 9 = 0) are:",
+        "option1": "Real and equal",
+        "option2": "Real and distinct",
+        "option3": "Complex conjugates",
+        "option4": "Cannot determine",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( (x - 1)(x + 2)(x - 3) = 0 ), what is the sum of the roots?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "-1",
+        "option4": "-2",
+        "correctOption": "2"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 + 5x^3 - 6x^2 - 22x - 15 ) has a factor ( (x - 3) ). What is the other factor?",
+        "option1": "x^3 + 2x^2 + 3x + 5",
+        "option2": "x^3 + 3x^2 + 2x - 5",
+        "option3": "x^3 - 3x^2 - 2x + 5",
+        "option4": "x^3 - 2x^2 - 3x - 5",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( (x - 2)^2 = 0 ), what is the multiplicity of the root 2?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "The roots of ( x^2 + 4x + 4 = 0 ) are:",
+        "option1": "Real and equal",
+        "option2": "Real and distinct",
+        "option3": "Complex conjugates",
+        "option4": "Cannot determine",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( P(x) = x^3 - 6x^2 + 11x - 6 ) has roots ( p, q, ) and ( r ), what is ( P(2) )?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "-1",
+        "option4": "6",
+        "correctOption": "1"
+    },
+    {
+        "question": "The polynomial ( Q(x) = x^3 - 3x^2 + 2x - 5 ) has a factor ( (x + 1) ). What is the other factor?",
+        "option1": "x^2 - x + 5",
+        "option2": "x^2 + x - 5",
+        "option3": "x^2 - x - 5",
+        "option4": "x^2 + x + 5",
+        "correctOption": "3"
+    },
+    {
+        "question": "If ( (x - a)(x - b)(x - c)(x - d) = 0 ) and ( a neq b neq c neq d ), what can you say about the roots?",
+        "option1": "All are distinct",
+        "option2": "Exactly two are equal",
+        "option3": "Exactly three are equal",
+        "option4": "Cannot determine",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the sum of the roots of ( P(x) = x^3 - 2x^2 + 4x - 8 )?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( (x - 3)(x + 4) = x^2 - kx - 12 ), what is the value of ( k )?",
+        "option1": "7",
+        "option2": "8",
+        "option3": "9",
+        "option4": "10",
+        "correctOption": "3"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 - 2x^3 + 3x^2 - 4x + 5 ) has a factor ( (x + 1) ). What is the other factor?",
+        "option1": "x^3 - 3x^2 + 3x - 5",
+        "option2": "x^3 - 3x^2 - 3x + 5",
+        "option3": "x^3 + 3x^2 + 3x + 5",
+        "option4": "x^3 + 3x^2 - 3x - 5",
+        "correctOption": "4"
+    },
+    {
+        "question": "If ( P(x) = (x - 2)^3(x + 1) ), what is the degree of the polynomial?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the product of the roots of ( x^2 - 5x + 6 = 0 )?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "6",
+        "correctOption": "4"
+    },
+    {
+        "question": "The polynomial ( Q(x) = x^3 + ax^2 + bx + c ) has roots ( p, q, ) and ( r ). What is ( p + q + r )?",
+        "option1": "-a",
+        "option2": "-b",
+        "option3": "-c",
+        "option4": "a",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( x^4 - 8x^3 + 24x^2 - 32x + 16 ) has all roots equal, what is the repeated root?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "1",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( (x - a)^2 + (x - b)^2 + (x - c)^2 = 0 ) has real roots, what is the relationship between ( a, b, ) and ( c )?",
+        "option1": "a = b = c",
+        "option2": "a = b ≠ c",
+        "option3": "a ≠ b = c",
+        "option4": "a ≠ b ≠ c",
+        "correctOption": "1"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 - 6x^3 + 13x^2 - 12x + 4 ) has roots ( alpha, beta, gamma, ) and ( delta ). What is ( alpha^2 + beta^2 + gamma^2 + delta^2 )?",
+        "option1": "25",
+        "option2": "23",
+        "option3": "21",
+        "option4": "19",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( P(x) = (x - 1)(x - 2)(x - 3)(x - k) ) has exactly three distinct real roots, what is the range of values of ( k )?",
+        "option1": "(1, 2)",
+        "option2": "(2, 3)",
+        "option3": "(3, ∞)",
+        "option4": "(-∞, 1)",
+        "correctOption": "4"
+    },
+    {
+        "question": "The polynomial ( Q(x) = x^5 - 5x^4 + 10x^3 - 10x^2 + 5x - 1 ) has roots ( alpha, beta, gamma, delta, ) and ( epsilon ). What is ( alpha + beta + gamma + delta + epsilon )?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "5",
+        "correctOption": "2"
+    },
+    {
+        "question": "The roots of the equation ( x^3 - 4x^2 + 5x - 2 = 0 ) are in geometric progression. What is their common ratio?",
+        "option1": "2",
+        "option2": "1/2",
+        "option3": "-2",
+        "option4": "-1/2",
+        "correctOption": "2"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 + 4x^2 + 2x - k ) has all real roots. What is the range of values of ( k )?",
+        "option1": "(-∞, -4)",
+        "option2": "(-4, 0)",
+        "option3": "(0, 4)",
+        "option4": "(4, ∞)",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( x^4 - 4x^3 + 6x^2 - 4x + k ) has exactly two equal real roots, what is the value of ( k )?",
+        "option1": "6",
+        "option2": "12",
+        "option3": "24",
+        "option4": "48",
+        "correctOption": "3"
+    },
+    {
+        "question": "The roots of ( x^3 - 3x^2 + 5x - 7 = 0 ) are ( p, q, ) and ( r ). What is ( frac{1}{p} + frac{1}{q} + frac{1}{r} )?",
+        "option1": "-7",
+        "option2": "-5",
+        "option3": "-3",
+        "option4": "-1",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the remainder when ( x^{10} - x^8 + 2x^5 + 1 ) is divided by ( (x - 2) )?",
+        "option1": "10",
+        "option2": "7",
+        "option3": "-7",
+        "option4": "-10",
+        "correctOption": "4"
+    },
+    {
+        "question": "The roots of the equation ( x^3 - 6x^2 + 11x - 6 = 0 ) are in the ratio ( 1 : 2 : 3 ). What is the sum of the roots?",
+        "option1": "5",
+        "option2": "6",
+        "option3": "7",
+        "option4": "8",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( P(x) = x^4 - 3x^3 + 2x^2 - 7x + 5 ) has two equal real roots, what is the value of the repeated root?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "1"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 - 2x^2 + bx - 1 ) has three distinct real roots. What is the value of ( b )?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( x^3 - 5x^2 + 7x - 3 ) has three roots in an arithmetic progression, what is the common difference?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the sum of the coefficients of ( (3x - 1)^5 )?",
+        "option1": "243",
+        "option2": "81",
+        "option3": "27",
+        "option4": "9",
+        "correctOption": "2"
+    },
+    {
+        "question": "The polynomial ( Q(x) = x^3 - 2x^2 + 3x + k ) is divisible by ( (x - 1) ). What is the value of ( k )?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "4"
+    },
+    {
+        "question": "The equation ( x^3 - 6x^2 + 11x - 6 = 0 ) has roots ( alpha, beta, ) and ( gamma ). What is ( alphabeta + betagamma + gammaalpha )?",
+        "option1": "18",
+        "option2": "16",
+        "option3": "14",
+        "option4": "12",
+        "correctOption": "3"
+    },
+    {
+        "question": "If ( P(x) = (x - a)(x - b)(x - c) ) has roots ( alpha, beta, ) and ( gamma ), what is ( P(1) )?",
+        "option1": "(1 - a)(1 - b)(1 - c)",
+        "option2": "(1 + a)(1 + b)(1 + c)",
+        "option3": "(a - 1)(b - 1)(c - 1)",
+        "option4": "(a + 1)(b + 1)(c + 1)",
+        "correctOption": "(1 - a)(1 - b)(1 - c)"
+    },
+    {
+        "question": "If ( x^4 - 5x^3 + 6x^2 + kx + 1 ) has exactly one real root, what is the value of ( k )?",
+        "option1": "5",
+        "option2": "6",
+        "option3": "7",
+        "option4": "8",
+        "correctOption": "3"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 - 2x^3 + 3x^2 - 4x + 5 ) has roots ( alpha, beta, gamma, ) and ( delta ). What is ( alphabetagammadelta )?",
+        "option1": "-5",
+        "option2": "5",
+        "option3": "-1",
+        "option4": "1",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the degree of the polynomial (2x^3 - 5x^2 + x + 3)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a factor of the polynomial (x^2 - 4)?",
+        "option1": "x + 2",
+        "option2": "x - 2",
+        "option3": "2x",
+        "option4": "2x - 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the constant term in the polynomial (3x^2 + 2x - 5)?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "-5",
+        "option4": "0",
+        "correctOption": "-5"
+    },
+    {
+        "question": "Which of the following is a quadratic polynomial?",
+        "option1": "3x^3 - 2x^2 + 4x",
+        "option2": "5x^2 - 2",
+        "option3": "2x + 1",
+        "option4": "x^2 - 4",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the degree of the polynomial (4x^2 + 2)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a monomial?",
+        "option1": "2x^2 + 3x",
+        "option2": "x^3 + 2x^2",
+        "option3": "5x - 1",
+        "option4": "4x^4",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the sum of the coefficients of the polynomial (2x^2 - 3x + 1)?",
+        "option1": "4",
+        "option2": "3",
+        "option3": "2",
+        "option4": "1",
+        "correctOption": "6"
+    },
+    {
+        "question": "Which of the following is a factor of the polynomial (2x^2 - 6x)?",
+        "option1": "2x",
+        "option2": "3x",
+        "option3": "x - 2",
+        "option4": "2x - 1",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the product of the polynomials ((x - 3)(x + 2))?",
+        "option1": "x^2 - x - 6",
+        "option2": "x^2 - x + 6",
+        "option3": "x^2 - x + 2",
+        "option4": "x^2 - x - 2",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a trinomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "x^2 - 4",
+        "option3": "3x + 1",
+        "option4": "5x^2 - 2",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the degree of the polynomial (5x^4 + 3x^2 - 2x + 1)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is an example of a binomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "x^2 - 4",
+        "option3": "3x + 1",
+        "option4": "5x^2 - 2",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the constant term in the polynomial (3x^2 - 4x + 2)?",
+        "option1": "3",
+        "option2": "4",
+        "option3": "2",
+        "option4": "0",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a cubic polynomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "5x^2 - 2",
+        "option3": "3x + 1",
+        "option4": "x^3 - 4",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the sum of the polynomials (2x^2 + 3x - 1) and (x^2 - 4x + 2)?",
+        "option1": "3x^2 - x + 1",
+        "option2": "3x^2 - x - 1",
+        "option3": "3x^2 - x + 2",
+        "option4": "3x^2 - x - 2",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a monic polynomial?",
+        "option1": "2x^2 - 3x + 1",
+        "option2": "x^2 + 2x - 3",
+        "option3": "3x^2 + x - 2",
+        "option4": "4x^2 - 2x + 1",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the degree of the polynomial (4x^3 + 2x^2 - x + 5)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a quadratic polynomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "5x^2 - 2",
+        "option3": "3x + 1",
+        "option4": "x^2 - 4",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the constant term in the polynomial (x^2 + 3x - 2)?",
+        "option1": "1",
+        "option2": "3",
+        "option3": "-2",
+        "option4": "0",
+        "correctOption": "-2"
+    },
+    {
+        "question": "Which of the following is a monomial?",
+        "option1": "2x^2 + 3x",
+        "option2": "x^3 + 2x^2",
+        "option3": "5x - 1",
+        "option4": "4x^4",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the degree of the polynomial (3x^2 - 5x + 2)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a binomial?",
+        "option1": "4x^2 - 7",
+        "option2": "2x^3 + 5x^2 - 3x",
+        "option3": "x^2 - 1",
+        "option4": "3x^3 - 2",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the constant term in the polynomial (2x^2 - 4x + 7)?",
+        "option1": "2",
+        "option2": "-4",
+        "option3": "7",
+        "option4": "0",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a quadratic polynomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "5x^2 - 2",
+        "option3": "3x + 1",
+        "option4": "x^2 - 4",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the degree of the polynomial (4x^3 - 2x + 1)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a monomial?",
+        "option1": "2x^2 + 3x",
+        "option2": "x^3 + 2x^2",
+        "option3": "5x - 1",
+        "option4": "4x^4",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the sum of the coefficients of the polynomial (3x^2 + 2x - 1)?",
+        "option1": "4",
+        "option2": "3",
+        "option3": "2",
+        "option4": "1",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a factor of the polynomial (2x^2 - 6x)?",
+        "option1": "2x",
+        "option2": "3x",
+        "option3": "x - 2",
+        "option4": "2x - 1",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the product of the polynomials ((x - 3)(x + 2))?",
+        "option1": "x^2 - x - 6",
+        "option2": "x^2 - x + 6",
+        "option3": "x^2 - x + 2",
+        "option4": "x^2 - x - 2",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a trinomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "x^2 - 4",
+        "option3": "3x + 1",
+        "option4": "5x^2 - 2",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the degree of the polynomial (5x^4 + 3x^2 - 2x + 1)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is an example of a binomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "x^2 - 4",
+        "option3": "3x + 1",
+        "option4": "5x^2 - 2",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the constant term in the polynomial (3x^2 - 4x + 2)?",
+        "option1": "3",
+        "option2": "4",
+        "option3": "2",
+        "option4": "0",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a cubic polynomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "5x^2 - 2",
+        "option3": "3x + 1",
+        "option4": "x^3 - 4",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the sum of the polynomials (2x^2 + 3x - 1) and (x^2 - 4x + 2)?",
+        "option1": "3x^2 - x + 1",
+        "option2": "3x^2 - x - 1",
+        "option3": "3x^2 - x + 2",
+        "option4": "3x^2 - x - 2",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a monic polynomial?",
+        "option1": "2x^2 - 3x + 1",
+        "option2": "x^2 + 2x - 3",
+        "option3": "3x^2 + x - 2",
+        "option4": "4x^2 - 2x + 1",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the degree of the polynomial (4x^3 + 2x^2 - x + 5)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a quadratic polynomial?",
+        "option1": "2x^3 - x^2 + 3x",
+        "option2": "5x^2 - 2",
+        "option3": "3x + 1",
+        "option4": "x^2 - 4",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the constant term in the polynomial (x^2 + 3x - 2)?",
+        "option1": "1",
+        "option2": "3",
+        "option3": "-2",
+        "option4": "0",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a monomial?",
+        "option1": "2x^2 + 3x",
+        "option2": "x^3 + 2x^2",
+        "option3": "5x - 1",
+        "option4": "4x^4",
+        "correctOption": "4"
+    },
+    {
+        "question": "If ( x^2 - 3x + k ) is a perfect square trinomial, what is the value of ( k )?",
+        "option1": "1",
+        "option2": "4",
+        "option3": "9",
+        "option4": "16",
+        "correctOption": "3"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 + ax^2 + bx + c ) has roots in arithmetic progression. What is the relation between ( a, b, c )?",
+        "option1": "a = b = c",
+        "option2": "a = b ≠ c",
+        "option3": "a ≠ b = c",
+        "option4": "a = c ≠ b",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( x^4 - 5x^3 + 8x^2 - 4x + k ) has all real roots, what is the range of values of ( k )?",
+        "option1": "(-∞, 4)",
+        "option2": "(4, 6)",
+        "option3": "(6, ∞)",
+        "option4": "(-∞, 6)",
+        "correctOption": "1"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 + 4x^2 + 3x + k ) is divisible by ( (x - 1) ). What is the value of ( k )?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "correctOption": "3"
+    },
+    {
+        "question": "If ( alpha, beta, gamma ) are the roots of ( x^3 - x^2 + 1 = 0 ), what is ( (alpha + 1)(beta + 1)(gamma + 1) )?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "-1",
+        "correctOption": "2"
+    },
+    {
+        "question": "The sum of the squares of the roots of ( x^3 - 6x^2 + 11x - 6 = 0 ) is:",
+        "option1": "18",
+        "option2": "20",
+        "option3": "22",
+        "option4": "24",
+        "correctOption": "3"
+    },
+    {
+        "question": "If ( P(x) = x^4 - 2x^3 + 4x^2 - 2x + 1 ), what is the product of the non-real roots?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "-2",
+        "option4": "-1",
+        "correctOption": "4"
+    },
+    {
+        "question": "Find the remainder when ( x^{10} + x^8 - 4x^5 + 3 ) is divided by ( (x - 2) ).",
+        "option1": "10",
+        "option2": "7",
+        "option3": "-7",
+        "option4": "-10",
+        "correctOption": "2"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^5 + 3x^4 - 6x^3 + ax^2 - 9 ) has three real roots and two non-real roots. What is the value of ( a )?",
+        "option1": "15",
+        "option2": "18",
+        "option3": "21",
+        "option4": "24",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the sum of the coefficients of ( (2x - 3)^7 )?",
+        "option1": "128",
+        "option2": "256",
+        "option3": "512",
+        "option4": "1024",
+        "correctOption": "4"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 + ax^3 + bx^2 + cx + 1 ) has all real roots. What is the value of ( a + b + c )?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( x^4 - 4x^3 + 5x^2 - 4x + 1 ) is divided by ( (x - 1)^2 ), what is the quotient?",
+        "option1": "x^2 - 2x + 1",
+        "option2": "x^2 - 3x + 1",
+        "option3": "x^2 - 4x + 1",
+        "option4": "x^2 - 5x + 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "The roots of the equation ( x^3 - 3x^2 - 9x + 7 = 0 ) are in geometric progression. What is their common ratio?",
+        "option1": "2",
+        "option2": "-2",
+        "option3": "3",
+        "option4": "-3",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( P(x) = x^3 - 2x^2 + bx - 1 ) has three distinct real roots, what is the value of ( b )?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "1"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 - 3x^2 + 3x - k ) has three distinct real roots. What is the range of values of ( k )?",
+        "option1": "(0, 1)",
+        "option2": "(1, 2)",
+        "option3": "(-∞, 0)",
+        "option4": "(-∞, 1)",
+        "correctOption": "3"
+    },
+    {
+        "question": "If ( alpha, beta, gamma ) are the roots of ( x^3 - 6x^2 + 9x + 1 = 0 ), what is the value of ( frac{1}{alpha} + frac{1}{beta} + frac{1}{gamma} )?",
+        "option1": "-1",
+        "option2": "0",
+        "option3": "1",
+        "option4": "2",
+        "correctOption": "3"
+    },
+    {
+        "question": "Find the sum of all possible values of ( k ) for which ( (x - 1)^2 + (x - 2)^2 + (x - k)^2 = 0 ) has real roots.",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( x^2 - 3x + k ) is a perfect square trinomial, what is the value of ( k )?",
+        "option1": "1",
+        "option2": "4",
+        "option3": "9",
+        "option4": "16",
+        "correctOption": "3"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 + ax^2 + bx + c ) has roots in arithmetic progression. What is the relation between ( a, b, c )?",
+        "option1": "a = b = c",
+        "option2": "a = b ≠ c",
+        "option3": "a ≠ b = c",
+        "option4": "a = c ≠ b",
+        "correctOption": "2"
+    },
+    {
+        "question": "Find the sum of all possible values of ( k ) for which ( (x - 1)^2 + (x - 2)^2 + (x - k)^2 = 0 ) has real roots.",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( x^3 - ax^2 + bx - 1 ) is divisible by ( (x - 1)(x - 2) ), what is the value of ( a + b )?",
+        "option1": "7",
+        "option2": "6",
+        "option3": "5",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "The roots of the equation ( x^4 - 6x^3 + 10x^2 - 6x + 1 = 0 ) are in the form ( a, a + d, a + 2d, a + 3d ). What is the value of ( a + d )?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( P(x) = x^4 - 2x^3 + kx^2 + 6x - 8 ) has all real roots, what is the range of values of ( k )?",
+        "option1": "(-∞, 4)",
+        "option2": "(4, ∞)",
+        "option3": "(-∞, 6)",
+        "option4": "(6, ∞)",
+        "correctOption": "1"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^4 - 4x^3 + ax^2 + bx + 1 ) has all real roots. What is the sum of the squares of its roots?",
+        "option1": "6",
+        "option2": "8",
+        "option3": "10",
+        "option4": "12",
+        "correctOption": "3"
+    },
+    {
+        "question": "The roots of ( x^3 - x^2 - 1 = 0 ) are ( alpha, beta, gamma ). What is ( frac{1}{alpha + 1} + frac{1}{beta + 1} + frac{1}{gamma + 1} )?",
+        "option1": "-1",
+        "option2": "0",
+        "option3": "1",
+        "option4": "2",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( x^3 - 3x^2 + 3x - k ) has three distinct real roots, what is the range of values of ( k )?",
+        "option1": "(0, 1)",
+        "option2": "(1, 2)",
+        "option3": "(-∞, 0)",
+        "option4": "(-∞, 1)",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the coefficient of the term containing ( x^4 ) in the expansion of ( (1 + x)^6 cdot (1 - x)^5 )?",
+        "option1": "6",
+        "option2": "15",
+        "option3": "24",
+        "option4": "30",
+        "correctOption": "4"
+    },
+    {
+        "question": "If ( x^4 - 5x^3 + 9x^2 - 5x + k ) has exactly two real roots, what is the range of values of ( k )?",
+        "option1": "(-∞, 4)",
+        "option2": "(4, 6)",
+        "option3": "(6, ∞)",
+        "option4": "(-∞, 6)",
+        "correctOption": "3"
+    },
+    {
+        "question": "The polynomial ( P(x) = x^3 - 2x^2 + bx - 1 ) has three distinct real roots. What is the value of ( b )?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( P(x) = 2x^4 - 3x^3 + 5x^2 - 2x + 1 ), what is ( P(-1) )?",
+        "option1": "-7",
+        "option2": "11",
+        "option3": "9",
+        "option4": "-1",
+        "correctOption": "2"
+    },
+    {
+        "question": "Find the roots of the quadratic equation ( 3x^2 - 4x - 2 = 0 ).",
+        "option1": "(-2, 1/3)",
+        "option2": "(1/3, -2)",
+        "option3": "(2, -1/3)",
+        "option4": "(-1/3, 2)",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the remainder when ( x^{10} - 3x^8 + 5x^5 - 2x^3 + 1 ) is divided by ( x - 1 )?",
+        "option1": "10",
+        "option2": "7",
+        "option3": "-7",
+        "option4": "-10",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( (2x - 1)(x + 3) = 2x^2 + px - 3 ), what is the value of ( p )?",
+        "option1": "-5",
+        "option2": "7",
+        "option3": "-7",
+        "option4": "5",
+        "correctOption": "1"
+    },
+    {
+        "question": "Simplify ( frac{4x^3 - 2x^2 + 3x + 1}{2x^2 - x - 1} ).",
+        "option1": "2x + 3",
+        "option2": "2x - 3",
+        "option3": "3x + 2",
+        "option4": "3x - 2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If ( a ) is a root of ( x^2 - 5x + 6 = 0 ), what is the value of ( a^2 + frac{1}{a^2} )?",
+        "option1": "11",
+        "option2": "7",
+        "option3": "9",
+        "option4": "5",
+        "correctOption": "3"
+    },
+    {
+        "question": "The sum of the coefficients in the expansion of ( (3x + 1)^5 ) is:",
+        "option1": "81",
+        "option2": "243",
+        "option3": "121",
+        "option4": "243x",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( (x - a)^2 + (x - b)^2 + (x - c)^2 = 0 ) has real roots, what is the relation between ( a, b, c )?",
+        "option1": "a = b = c",
+        "option2": "a = b ≠ c",
+        "option3": "a ≠ b = c",
+        "option4": "a = c ≠ b",
+        "correctOption": "1"
+    },
+    {
+        "question": "The coefficient of ( x^2 ) in the expansion of ( (1 + x)^n ) is 36. What is the value of ( n )?",
+        "option1": "7",
+        "option2": "8",
+        "option3": "9",
+        "option4": "10",
+        "correctOption": "2"
+    },
+    {
+        "question": "If ( (x - 2)^3 ) divides the polynomial ( P(x) = x^5 - 6x^4 + 12x^3 - 8 ), what is ( P(2) )?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "-1",
+        "correctOption": "1"
+    },
+    {
+        "question": "The roots of the equation ( x^3 - 4x^2 + x - 6 = 0 ) form a geometric progression. What is their common ratio?",
+        "option1": "2",
+        "option2": "-2",
+        "option3": "3",
+        "option4": "-3",
+        "correctOption": "3"
+    },
+    {
+        "question": "If ( alpha, beta, gamma ) are the roots of ( x^3 - 6x^2 + 9x + 1 = 0 ), what is the value of ( frac{1}{alpha} + frac{1}{beta} + frac{1}{gamma} )?",
+        "option1": "-1",
+        "option2": "0",
+        "option3": "1",
+        "option4": "2",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the product of the roots of the equation x^2 - 3x + 2 = 0?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "-2",
+        "option4": "-1",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a root of the equation 2x^3 - 5x^2 + 4x - 3 = 0?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "-1",
+        "option4": "-2",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the coefficient of the x^3 term in the expansion of (2x^2 - 3)^5?",
+        "option1": "120",
+        "option2": "-240",
+        "option3": "360",
+        "option4": "-480",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is a factor of the polynomial x^5 - x^4 + 3x^3 - 2x^2 - x + 2?",
+        "option1": "x + 1",
+        "option2": "x - 2",
+        "option3": "x^2 + 1",
+        "option4": "x^2 - 2x + 2",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the sum of the coefficients of the polynomial (2x^2 - x + 3)^4?",
+        "option1": "18",
+        "option2": "20",
+        "option3": "16",
+        "option4": "24",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is an extraneous solution for the equation √(x^2 - 5) = x + 2?",
+        "option1": "3",
+        "option2": "1",
+        "option3": "-2",
+        "option4": "-4",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the remainder when the polynomial 4x^4 - 6x^3 + 3x^2 - 5 is divided by (2x - 1)?",
+        "option1": "3",
+        "option2": "-5",
+        "option3": "1",
+        "option4": "-7",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a root of the equation x^3 - 4x^2 + x - 6 = 0?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "-2",
+        "option4": "-1",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the coefficient of the x term in the expansion of (3x + 2)^6?",
+        "option1": "240",
+        "option2": "720",
+        "option3": "360",
+        "option4": "120",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the degree of the polynomial (2x^2 - 3x + 1)(x^3 + 2x - 4)?",
+        "option1": "3",
+        "option2": "4",
+        "option3": "5",
+        "option4": "6",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the sum of the coefficients of the polynomial (2x - 1)^5?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "32",
+        "option4": "16",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a perfect square trinomial?",
+        "option1": "x^2 - 3x + 2",
+        "option2": "4x^2 - 4x + 1",
+        "option3": "2x^2 + 5x - 3",
+        "option4": "x^2 + 2x + 1",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the rational root of the polynomial 3x^3 - 7x^2 + 2x + 4?",
+        "option1": "2",
+        "option2": "1/3",
+        "option3": "-1/2",
+        "option4": "-2",
+        "correctOption": "3"
+    },
+    {
+        "question": "If P(x) = x^4 - 2x^3 + 3x^2 - x + 1, what is P(1)?",
+        "option1": "0",
+        "option2": "2",
+        "option3": "-2",
+        "option4": "1",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the degree of the polynomial (x^2 + 1)(x - 3)(2x + 5)?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which of the following is an irreducible polynomial over the real numbers?",
+        "option1": "x^2 + 1",
+        "option2": "2x^2 - 4",
+        "option3": "x^3 - x^2 + 2",
+        "option4": "3x - 1",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the coefficient of the x^2 term in the expansion of (2x - 3)^4?",
+        "option1": "48",
+        "option2": "-72",
+        "option3": "36",
+        "option4": "-24",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a factor of the polynomial x^4 - 5x^3 + 7x^2 - 3x + 1?",
+        "option1": "x - 1",
+        "option2": "x + 1",
+        "option3": "x^2 - 3",
+        "option4": "x^2 + 2",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the solution to the equation x^3 - 4x^2 + x + 6 = 0?",
+        "option1": "1",
+        "option2": "-2",
+        "option3": "3",
+        "option4": "-1",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the remainder when the polynomial 2x^3 - 5x^2 + 3x - 1 is divided by (x - 2)?",
+        "option1": "3",
+        "option2": "-5",
+        "option3": "-19",
+        "option4": "13",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a difference of squares?",
+        "option1": "x^2 - 1",
+        "option2": "x^2 + 1",
+        "option3": "x^2 - 2x + 1",
+        "option4": "x^2 + 2x + 1",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the product of the polynomials (x + 3) and (x - 2)?",
+        "option1": "x^2 + x - 6",
+        "option2": "x^2 + x + 6",
+        "option3": "x^2 - x - 6",
+        "option4": "x^2 - x + 6",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a factor of the polynomial 2x^2 - 8?",
+        "option1": "2x + 4",
+        "option2": "x - 2",
+        "option3": "3x - 1",
+        "option4": "4x^2 + 2",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the sum of the polynomials 2x^2 + 3x - 1 and x^2 - 4x + 2?",
+        "option1": "3x^2 - x + 1",
+        "option2": "3x^2 - x - 1",
+        "option3": "3x^2 + x + 1",
+        "option4": "3x^2 + x - 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is an example of a cubic polynomial?",
+        "option1": "4x^3 + x^2 - 2",
+        "option2": "2x + 5",
+        "option3": "x^2 - 3",
+        "option4": "7x^4 - 1",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the degree of the polynomial 6x^2 - 3x + 1?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a quadratic polynomial?",
+        "option1": "2x - 1",
+        "option2": "x^3 + 4x^2 - 5",
+        "option3": "3x^2 - 7",
+        "option4": "2/x",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the constant term in the polynomial 3x^2 + 2x - 7?",
+        "option1": "3",
+        "option2": "2",
+        "option3": "-7",
+        "option4": "0",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a trinomial?",
+        "option1": "4x^2 + 2",
+        "option2": "2x^3 - x^2 + 1",
+        "option3": "5x + 3",
+        "option4": "x^4 - 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the leading coefficient of the polynomial 2x^4 - 3x^2 + 7x - 1?",
+        "option1": "2",
+        "option2": "-3",
+        "option3": "7",
+        "option4": "-1",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a monomial?",
+        "option1": "3x^2 - 2x",
+        "option2": "5",
+        "option3": "x + 2",
+        "option4": "4/x",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the sum of the polynomials 3x^2 + 2x + 5 and 4x^2 - x + 3?",
+        "option1": "7x^2 + x + 8",
+        "option2": "7x^2 + x - 8",
+        "option3": "x^2 + x + 8",
+        "option4": "x^2 + x - 8",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a binomial?",
+        "option1": "2x^2 - 3",
+        "option2": "5x^2 + 2x - 1",
+        "option3": "4x^2 + 7",
+        "option4": "3x^3 - 2x + 5",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the degree of the polynomial 4x^3 - 2x^2 + 7x - 1?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following is a polynomial?",
+        "option1": "2x^2 + 3",
+        "option2": "√x + 1",
+        "option3": "|x| - 5",
+        "option4": "3/x",
+        "correctOption": "1"
+    }
+]

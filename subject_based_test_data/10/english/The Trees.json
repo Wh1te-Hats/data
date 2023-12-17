@@ -1,0 +1,946 @@
+[
+    {
+        "question": "What is the term for the process of a tree shedding leaves due to changes in day length?",
+        "option1": "Senescence",
+        "option2": "Deciduation",
+        "option3": "Photoperiodism",
+        "option4": "Transpiration",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which environmental factor is essential for the phenomenon of nitrogen fixation in certain tree species?",
+        "option1": "Temperature",
+        "option2": "Humidity",
+        "option3": "Sunlight intensity",
+        "option4": "Bacterial activity",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for the protective outer layer of a tree's bud that provides resistance against cold temperatures?",
+        "option1": "Bud coat",
+        "option2": "Bud scale",
+        "option3": "Bud sheath",
+        "option4": "Bud skin",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor plays a significant role in the phenomenon of tension wood formation in trees?",
+        "option1": "Wind speed",
+        "option2": "High temperatures",
+        "option3": "Low humidity",
+        "option4": "Excessive rainfall",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the process of a tree producing flowers with separate male and female individuals?",
+        "option1": "Unisexual",
+        "option2": "Bisexual",
+        "option3": "Monoecious",
+        "option4": "Dioecious",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which part of a tree is responsible for the storage of starch and other carbohydrates?",
+        "option1": "Leaves",
+        "option2": "Roots",
+        "option3": "Bark",
+        "option4": "Heartwood",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for the process of a tree producing new roots from its existing roots?",
+        "option1": "Rooting",
+        "option2": "Rhizogenesis",
+        "option3": "Root grafting",
+        "option4": "Root branching",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which environmental factor is essential for the phenomenon of mycorrhizal association in tree roots?",
+        "option1": "Temperature",
+        "option2": "Humidity",
+        "option3": "Sunlight intensity",
+        "option4": "Soil fungi",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for the process of a tree producing flowers of both sexes on separate individuals?",
+        "option1": "Bisexual",
+        "option2": "Monoecious",
+        "option3": "Dioecious",
+        "option4": "Unisexual",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which part of a tree is responsible for the formation of growth rings?",
+        "option1": "Leaves",
+        "option2": "Roots",
+        "option3": "Cambium",
+        "option4": "Bark",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the process of a tree shedding branches in response to environmental stress?",
+        "option1": "Lopping",
+        "option2": "Pruning",
+        "option3": "Pollarding",
+        "option4": "Thinning",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor is essential for the process of transpiration in tree leaves?",
+        "option1": "Wind speed",
+        "option2": "Humidity",
+        "option3": "Sunlight intensity",
+        "option4": "Temperature",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the process of a tree producing flowers that are capable of self-pollination?",
+        "option1": "Cross-pollination",
+        "option2": "Self-pollination",
+        "option3": "Hybridization",
+        "option4": "Apomixis",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of heart rot in trees?",
+        "option1": "Excessive rainfall",
+        "option2": "Low temperatures",
+        "option3": "Fungal infection",
+        "option4": "High humidity",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the process of a tree producing new branches and leaves in response to environmental conditions?",
+        "option1": "Budding",
+        "option2": "Senescence",
+        "option3": "Defoliation",
+        "option4": "Germination",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor is essential for the process of grafting in tree horticulture?",
+        "option1": "Temperature",
+        "option2": "Sunlight intensity",
+        "option3": "Humidity",
+        "option4": "Biotic factors",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the process of a tree producing flowers that are capable of fertilization without pollination?",
+        "option1": "Cross-fertilization",
+        "option2": "Hybridization",
+        "option3": "Parthenocarpy",
+        "option4": "Self-fertilization",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which part of a tree is responsible for the production of latex in some species?",
+        "option1": "Leaves",
+        "option2": "Bark",
+        "option3": "Roots",
+        "option4": "Flowers",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the process of a tree producing seeds that are genetically identical to the parent plant?",
+        "option1": "Fertilization",
+        "option2": "Vegetative propagation",
+        "option3": "Hybridization",
+        "option4": "Germination",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary function of a tree's sapwood?",
+        "option1": "Conducting water",
+        "option2": "Storing nutrients",
+        "option3": "Anchoring the tree",
+        "option4": "Producing hormones",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of cavitation in a tree's xylem vessels?",
+        "option1": "High temperatures",
+        "option2": "Low humidity",
+        "option3": "Strong winds",
+        "option4": "Excessive rainfall",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the protective outer layer of a tree seed that provides resistance against physical damage?",
+        "option1": "Seed coat",
+        "option2": "Cotyledon",
+        "option3": "Endosperm",
+        "option4": "Embryo",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor plays a crucial role in the phenomenon of photoperiodism in certain tree species?",
+        "option1": "Temperature",
+        "option2": "Sunlight duration",
+        "option3": "Wind speed",
+        "option4": "Humidity",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the process of a tree shedding branches or leaves as a response to environmental stress?",
+        "option1": "Pruning",
+        "option2": "Senescence",
+        "option3": "Abcission",
+        "option4": "Thinning",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which type of tree is known for its cone-shaped crown and needle-like leaves?",
+        "option1": "Broadleaf",
+        "option2": "Palmate",
+        "option3": "Coniferous",
+        "option4": "Deciduous",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the process of a tree producing new branches from its existing branches?",
+        "option1": "Budding",
+        "option2": "Lopping",
+        "option3": "Pollarding",
+        "option4": "Thinning",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of turgor pressure in tree cells?",
+        "option1": "Temperature",
+        "option2": "Water availability",
+        "option3": "Sunlight intensity",
+        "option4": "Wind speed",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the phenomenon of a tree producing flowers and fruit in alternating years?",
+        "option1": "Biphasic flowering",
+        "option2": "Alternate bearing",
+        "option3": "Seasonal blooming",
+        "option4": "Cyclic reproduction",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which part of a tree is responsible for the production of secondary metabolites that deter herbivores?",
+        "option1": "Roots",
+        "option2": "Leaves",
+        "option3": "Bark",
+        "option4": "Flowers",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the process of a tree producing new leaves in the spring?",
+        "option1": "Senescence",
+        "option2": "Budding",
+        "option3": "Defoliation",
+        "option4": "Germination",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor is essential for the phenomenon of apical dominance in tree growth?",
+        "option1": "Water availability",
+        "option2": "Sunlight intensity",
+        "option3": "Temperature",
+        "option4": "Wind speed",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the protective outer layer of a tree's bark that provides resistance against pests and diseases?",
+        "option1": "Cortex",
+        "option2": "Epidermis",
+        "option3": "Periderm",
+        "option4": "Phloem",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which environmental factor is essential for the process of seed dormancy in trees?",
+        "option1": "Temperature",
+        "option2": "Water availability",
+        "option3": "Sunlight intensity",
+        "option4": "Humidity",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the process of a tree producing seeds without fertilization?",
+        "option1": "Fertilization",
+        "option2": "Parthenocarpy",
+        "option3": "Pollination",
+        "option4": "Germination",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of crown dieback in trees?",
+        "option1": "Nutrient deficiency",
+        "option2": "Pest infestation",
+        "option3": "Fungal infection",
+        "option4": "Water scarcity",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for the process of a tree producing flowers of both sexes on the same individual?",
+        "option1": "Dioecious",
+        "option2": "Monoecious",
+        "option3": "Bisexual",
+        "option4": "Unisexual",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of phytoremediation in certain tree species?",
+        "option1": "Heavy rainfall",
+        "option2": "Polluted soil",
+        "option3": "High temperatures",
+        "option4": "Strong winds",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the underground storage structure formed by certain trees to store water?",
+        "option1": "Tuber",
+        "option2": "Bulb",
+        "option3": "Rhizome",
+        "option4": "Corm",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which part of a tree is responsible for producing hormones that regulate dormancy and growth?",
+        "option1": "Leaves",
+        "option2": "Buds",
+        "option3": "Roots",
+        "option4": "Flowers",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor is essential for the process of wind dispersal of tree seeds?",
+        "option1": "High humidity",
+        "option2": "Low temperatures",
+        "option3": "Strong winds",
+        "option4": "Abundant sunlight",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the mutualistic association between fungi and tree roots?",
+        "option1": "Symbiosis",
+        "option2": "Mycorrhizae",
+        "option3": "Parasitism",
+        "option4": "Commensalism",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor is crucial for the phenomenon of nastic movements in tree leaves?",
+        "option1": "Temperature",
+        "option2": "Humidity",
+        "option3": "Light",
+        "option4": "Wind speed",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary purpose of the lenticels in a tree's bark?",
+        "option1": "Gas exchange",
+        "option2": "Water storage",
+        "option3": "Nutrient absorption",
+        "option4": "Protection against pests",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which part of a tree is responsible for the production of nectar to attract pollinators?",
+        "option1": "Leaves",
+        "option2": "Flowers",
+        "option3": "Roots",
+        "option4": "Buds",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the process of a tree adapting to cold temperatures by shedding leaves?",
+        "option1": "Defoliation",
+        "option2": "Deciduation",
+        "option3": "Senescence",
+        "option4": "Abcission",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which environmental factor can lead to the formation of aerial roots in certain tree species?",
+        "option1": "High humidity",
+        "option2": "Low temperatures",
+        "option3": "Abundant sunlight",
+        "option4": "Strong winds",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the process of a tree adapting to its surroundings by growing towards a light source?",
+        "option1": "Defoliation",
+        "option2": "Phototropism",
+        "option3": "Senescence",
+        "option4": "Transpiration",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor plays a crucial role in the phenomenon of frost cracking in tree trunks?",
+        "option1": "Low temperatures",
+        "option2": "High humidity",
+        "option3": "Abundant sunlight",
+        "option4": "Strong winds",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary function of a tree's endodermis layer in the roots?",
+        "option1": "Nutrient absorption",
+        "option2": "Water retention",
+        "option3": "Gas exchange",
+        "option4": "Protection against pests",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor is essential for the process of gravity dispersal of tree seeds?",
+        "option1": "High humidity",
+        "option2": "Low temperatures",
+        "option3": "Strong winds",
+        "option4": "Gravity",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for the shedding of older, inner branches to allow sunlight to reach lower branches?",
+        "option1": "Pollarding",
+        "option2": "Pruning",
+        "option3": "Thinning",
+        "option4": "Littering",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of epiphytism in trees?",
+        "option1": "High humidity",
+        "option2": "Low temperatures",
+        "option3": "Abundant sunlight",
+        "option4": "Strong winds",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the underground storage structure formed by certain trees to store nutrients?",
+        "option1": "Tuber",
+        "option2": "Bulb",
+        "option3": "Rhizome",
+        "option4": "Corm",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which part of a tree is responsible for the synthesis of chlorophyll?",
+        "option1": "Roots",
+        "option2": "Buds",
+        "option3": "Leaves",
+        "option4": "Bark",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the process of a tree producing new leaves in response to environmental conditions?",
+        "option1": "Budding",
+        "option2": "Defoliation",
+        "option3": "Senescence",
+        "option4": "Transpiration",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of soil compaction affecting tree roots?",
+        "option1": "Heavy rainfall",
+        "option2": "Strong winds",
+        "option3": "Human activities",
+        "option4": "Low temperatures",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the process of a tree producing seeds through fertilization?",
+        "option1": "Pollination",
+        "option2": "Vegetative propagation",
+        "option3": "Fruiting",
+        "option4": "Germination",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which type of tree is known for its distinctive peeling bark?",
+        "option1": "Birch",
+        "option2": "Oak",
+        "option3": "Maple",
+        "option4": "Pine",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which part of a tree is responsible for producing hormones that regulate growth?",
+        "option1": "Leaves",
+        "option2": "Roots",
+        "option3": "Buds",
+        "option4": "Bark",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary purpose of the cuticle on a tree's leaves?",
+        "option1": "Protection against predators",
+        "option2": "Water retention",
+        "option3": "Gas exchange",
+        "option4": "Nutrient absorption",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which type of tree is known for its needle-like leaves and cones, and is commonly used as a Christmas tree?",
+        "option1": "Pine",
+        "option2": "Oak",
+        "option3": "Maple",
+        "option4": "Birch",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the process of a tree adapting to its environment by altering its growth pattern?",
+        "option1": "Acclimatization",
+        "option2": "Transpiration",
+        "option3": "Senescence",
+        "option4": "Phototropism",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor is crucial for the germination of tree seeds?",
+        "option1": "Sunlight",
+        "option2": "Water",
+        "option3": "Temperature",
+        "option4": "Wind",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the layer of dead cells that protects the growing tip of a tree's roots?",
+        "option1": "Root cap",
+        "option2": "Root hair",
+        "option3": "Root node",
+        "option4": "Root sheath",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which part of a tree is responsible for storing excess carbohydrates produced during photosynthesis?",
+        "option1": "Roots",
+        "option2": "Leaves",
+        "option3": "Bark",
+        "option4": "Heartwood",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for the protective covering that encases the embryo in a tree seed?",
+        "option1": "Husk",
+        "option2": "Shell",
+        "option3": "Cotyledon",
+        "option4": "Seed coat",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which environmental factor plays a significant role in the phenomenon of fall foliage coloration?",
+        "option1": "Rainfall",
+        "option2": "Temperature",
+        "option3": "Humidity",
+        "option4": "Wind speed",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the process of a tree producing new shoots and branches?",
+        "option1": "Pollination",
+        "option2": "Fruiting",
+        "option3": "Budding",
+        "option4": "Germination",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which part of a tree is responsible for the majority of nutrient absorption from the soil?",
+        "option1": "Leaves",
+        "option2": "Roots",
+        "option3": "Bark",
+        "option4": "Cambium",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the layer of cells that separates the xylem and phloem in a tree's vascular system?",
+        "option1": "Medulla",
+        "option2": "Pith",
+        "option3": "Cambium",
+        "option4": "Cortex",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which factor contributes to the formation of buttresses in certain tree species?",
+        "option1": "Nutrient levels",
+        "option2": "Wind speed",
+        "option3": "Root competition",
+        "option4": "Temperature",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary function of a tree's cambium layer?",
+        "option1": "To transport water",
+        "option2": "To produce new cells for growth",
+        "option3": "To anchor the tree",
+        "option4": "To store nutrients",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of allelopathy in trees?",
+        "option1": "Excessive rainfall",
+        "option2": "High temperatures",
+        "option3": "Chemical substances",
+        "option4": "Low humidity",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the term for the process of a tree losing its leaves as a response to environmental conditions?",
+        "option1": "Senescence",
+        "option2": "Defoliation",
+        "option3": "Deciduation",
+        "option4": "Transpiration",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of crown gall in trees?",
+        "option1": "Bacterial infection",
+        "option2": "Fungal infestation",
+        "option3": "Herbivore grazing",
+        "option4": "Water scarcity",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the underground storage structure formed by certain trees to survive adverse conditions?",
+        "option1": "Tuber",
+        "option2": "Bulb",
+        "option3": "Rhizome",
+        "option4": "Corm",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which type of tree is known for its distinctive fan-shaped leaves and is a symbol of longevity in some cultures?",
+        "option1": "Pine",
+        "option2": "Ginkgo",
+        "option3": "Oak",
+        "option4": "Maple",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the shedding of branches or stems from a tree?",
+        "option1": "Pruning",
+        "option2": "Thinning",
+        "option3": "Pollarding",
+        "option4": "Lopping",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for the shedding of bark by trees?",
+        "option1": "Deciduation",
+        "option2": "Exfoliation",
+        "option3": "Senescence",
+        "option4": "Abcission",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of wind pollination in trees?",
+        "option1": "High humidity",
+        "option2": "Low temperatures",
+        "option3": "Strong winds",
+        "option4": "Abundant sunlight",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary purpose of the phloem in a tree?",
+        "option1": "To transport water",
+        "option2": "To store nutrients",
+        "option3": "To conduct photosynthesis",
+        "option4": "To transport food",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which layer of a tree trunk provides protection against diseases and pests?",
+        "option1": "Phloem",
+        "option2": "Bark",
+        "option3": "Cambium",
+        "option4": "Xylem",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the name for the reproductive structures found in coniferous trees?",
+        "option1": "Flowers",
+        "option2": "Conelets",
+        "option3": "Catkins",
+        "option4": "Cones",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which gas is produced by trees during anaerobic respiration?",
+        "option1": "Carbon Dioxide",
+        "option2": "Methane",
+        "option3": "Oxygen",
+        "option4": "Nitrogen",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary function of a tree's stomata?",
+        "option1": "To absorb water",
+        "option2": "To exchange gases",
+        "option3": "To store nutrients",
+        "option4": "To conduct photosynthesis",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which part of a tree is responsible for anchoring it in the soil?",
+        "option1": "Leaves",
+        "option2": "Roots",
+        "option3": "Bark",
+        "option4": "Cambium",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the shedding of older, inner leaves to allow sunlight to reach lower leaves?",
+        "option1": "Defoliation",
+        "option2": "Canopy pruning",
+        "option3": "Thinning",
+        "option4": "Littering",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor can cause the phenomenon of phototropism in trees?",
+        "option1": "Gravity",
+        "option2": "Light",
+        "option3": "Temperature",
+        "option4": "Humidity",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary purpose of the resin produced by certain trees?",
+        "option1": "Protection against predators",
+        "option2": "Conducting photosynthesis",
+        "option3": "Anchoring the tree",
+        "option4": "Storing nutrients",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which part of a tree is responsible for gas exchange during respiration?",
+        "option1": "Leaves",
+        "option2": "Roots",
+        "option3": "Bark",
+        "option4": "Cambium",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the process by which trees convert carbon dioxide and water into glucose?",
+        "option1": "Respiration",
+        "option2": "Transpiration",
+        "option3": "Photosynthesis",
+        "option4": "Evaporation",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which factor influences the color change in deciduous tree leaves during autumn?",
+        "option1": "Temperature",
+        "option2": "Rainfall",
+        "option3": "Sunlight duration",
+        "option4": "Nutrient levels",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the process of a tree producing seeds without fertilization?",
+        "option1": "Pollination",
+        "option2": "Vegetative propagation",
+        "option3": "Fertilization",
+        "option4": "Germination",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which type of tree has fan-shaped leaves and is often associated with symbolism in various cultures?",
+        "option1": "Coniferous",
+        "option2": "Palmate",
+        "option3": "Deciduous",
+        "option4": "Broadleaf",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary function of a tree's xylem?",
+        "option1": "To transport water",
+        "option2": "To store nutrients",
+        "option3": "To conduct photosynthesis",
+        "option4": "To anchor the tree",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of crown shyness in trees?",
+        "option1": "Strong winds",
+        "option2": "Low temperatures",
+        "option3": "High humidity",
+        "option4": "Sunlight duration",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the term for the underground network of tree roots that connects multiple trees?",
+        "option1": "Rhizosphere",
+        "option2": "Hydrosphere",
+        "option3": "Mycorrhizae",
+        "option4": "Root system",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which environmental factor can lead to the phenomenon of aerial roots in trees?",
+        "option1": "Low humidity",
+        "option2": "High temperatures",
+        "option3": "Abundant sunlight",
+        "option4": "Strong winds",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary function of a tree's leaves?",
+        "option1": "To provide structural support",
+        "option2": "To conduct photosynthesis",
+        "option3": "To store water",
+        "option4": "To anchor the tree in the soil",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which part of a tree is responsible for transporting water from the roots to the leaves?",
+        "option1": "Bark",
+        "option2": "Xylem",
+        "option3": "Phloem",
+        "option4": "Leaves",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the outermost layer of a tree trunk called?",
+        "option1": "Cambium",
+        "option2": "Heartwood",
+        "option3": "Bark",
+        "option4": "Xylem",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which season is typically associated with deciduous trees shedding their leaves?",
+        "option1": "Summer",
+        "option2": "Spring",
+        "option3": "Winter",
+        "option4": "Autumn",
+        "correctOption": "4"
+    },
+    {
+        "question": "What gas do trees absorb during photosynthesis?",
+        "option1": "Oxygen",
+        "option2": "Carbon Dioxide",
+        "option3": "Nitrogen",
+        "option4": "Hydrogen",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which type of tree retains its leaves throughout the year?",
+        "option1": "Deciduous",
+        "option2": "Coniferous",
+        "option3": "Palmate",
+        "option4": "Broadleaf",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the term for the process by which trees release water vapor through their leaves?",
+        "option1": "Photosynthesis",
+        "option2": "Transpiration",
+        "option3": "Respiration",
+        "option4": "Evaporation",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which layer of a tree trunk produces new cells for growth?",
+        "option1": "Phloem",
+        "option2": "Xylem",
+        "option3": "Cambium",
+        "option4": "Heartwood",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the function of the roots in a tree?",
+        "option1": "To absorb sunlight",
+        "option2": "To anchor the tree",
+        "option3": "To store nutrients",
+        "option4": "To conduct photosynthesis",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which environmental factor is essential for the growth of trees?",
+        "option1": "High temperatures",
+        "option2": "Strong winds",
+        "option3": "Sunlight",
+        "option4": "Pollution",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary function of a tree's flowers?",
+        "option1": "To attract pollinators",
+        "option2": "To store water",
+        "option3": "To conduct photosynthesis",
+        "option4": "To provide structural support",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which part of a tree trunk contains cells that no longer transport water or nutrients?",
+        "option1": "Phloem",
+        "option2": "Xylem",
+        "option3": "Cambium",
+        "option4": "Heartwood",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the main purpose of a tree's bark?",
+        "option1": "To conduct photosynthesis",
+        "option2": "To protect against herbivores",
+        "option3": "To anchor the tree",
+        "option4": "To store nutrients",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which factor contributes to the formation of annual rings in tree trunks?",
+        "option1": "Temperature",
+        "option2": "Rainfall",
+        "option3": "Sunlight duration",
+        "option4": "Tree age",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the term for the shedding of leaves by deciduous trees in response to environmental conditions?",
+        "option1": "Transpiration",
+        "option2": "Deciduation",
+        "option3": "Evaporation",
+        "option4": "Senescence",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which gas is released by trees as a byproduct of respiration?",
+        "option1": "Oxygen",
+        "option2": "Carbon Dioxide",
+        "option3": "Nitrogen",
+        "option4": "Hydrogen",
+        "correctOption": "2"
+    },
+    {
+        "question": "In which part of a tree do you find the majority of living cells?",
+        "option1": "Heartwood",
+        "option2": "Bark",
+        "option3": "Cambium",
+        "option4": "Xylem",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary function of a tree's roots?",
+        "option1": "To conduct photosynthesis",
+        "option2": "To absorb water and nutrients",
+        "option3": "To store carbon dioxide",
+        "option4": "To provide structural support",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which type of tree has needle-like leaves and produces cones?",
+        "option1": "Deciduous",
+        "option2": "Coniferous",
+        "option3": "Palmate",
+        "option4": "Broadleaf",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary role of a tree's cambium layer?",
+        "option1": "To transport water",
+        "option2": "To produce new cells for growth",
+        "option3": "To anchor the tree",
+        "option4": "To store nutrients",
+        "correctOption": "2"
+    }
+]

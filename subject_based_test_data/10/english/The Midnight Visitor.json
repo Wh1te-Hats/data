@@ -1,0 +1,954 @@
+[
+    {
+        "question": "How does the midnight visitor justify their decision to reveal themselves to the protagonist?",
+        "option1": "Out of necessity",
+        "option2": "As part of a plan",
+        "option3": "Due to a random choice",
+        "option4": "By mistake",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does the theme of acceptance play in the story?",
+        "option1": "The protagonist struggles with acceptance",
+        "option2": "The visitor seeks acceptance from the protagonist",
+        "option3": "Acceptance is irrelevant to the plot",
+        "option4": "Acceptance is the central theme",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the protagonist's perception of the visitor evolve throughout the story?",
+        "option1": "From fear to admiration",
+        "option2": "From trust to betrayal",
+        "option3": "From skepticism to belief",
+        "option4": "From curiosity to apathy",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the visitor's explanation for the supernatural events that occur during the midnight visit?",
+        "option1": "Magical intervention",
+        "option2": "Scientific experiment gone awry",
+        "option3": "Natural phenomena",
+        "option4": "No explanation is provided",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the story use symbolism to represent the passage of time?",
+        "option1": "Through a ticking clock",
+        "option2": "Through the changing seasons",
+        "option3": "Through a recurring symbol",
+        "option4": "Through character aging",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the protagonist's internal conflict play in the narrative?",
+        "option1": "It drives the plot forward",
+        "option2": "It remains unresolved",
+        "option3": "It is ignored",
+        "option4": "It creates a tragic ending",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the story explore the concept of destiny and free will?",
+        "option1": "Characters succumb to destiny",
+        "option2": "Characters defy their destiny",
+        "option3": "Characters are indifferent to destiny",
+        "option4": "Destiny is not addressed",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the visitor's arrival during a thunderstorm?",
+        "option1": "Symbolizes chaos and conflict",
+        "option2": "Sign of supernatural powers",
+        "option3": "Represents a dramatic entrance",
+        "option4": "No significance to the storm",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the story handle the aftermath of the midnight visit in terms of the protagonist's relationships?",
+        "option1": "Relationships are strengthened",
+        "option2": "Relationships are strained",
+        "option3": "No impact on relationships",
+        "option4": "New relationships are formed",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does the midnight visitor play in the protagonist's quest for self-discovery?",
+        "option1": "A hindrance to self-discovery",
+        "option2": "A guide to self-discovery",
+        "option3": "Irrelevant to self-discovery",
+        "option4": "An obstacle to self-discovery",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the story balance the elements of mystery and revelation?",
+        "option1": "Mystery dominates the narrative",
+        "option2": "Revelation dominates the narrative",
+        "option3": "A balance is maintained",
+        "option4": "Both elements are absent",
+        "correctOption": "3"
+    },
+    {
+        "question": "What impact does the midnight visitor have on the protagonist's worldview?",
+        "option1": "Deepens the skepticism",
+        "option2": "Expands the optimism",
+        "option3": "Leaves the worldview unchanged",
+        "option4": "Introduces existential doubt",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the protagonist's past experiences influence their reaction to the midnight visitor?",
+        "option1": "Creates fear",
+        "option2": "Creates trust",
+        "option3": "Creates indifference",
+        "option4": "Creates suspicion",
+        "correctOption": "4"
+    },
+    {
+        "question": "What thematic message does the story convey through the relationship between the protagonist and the visitor?",
+        "option1": "The power of forgiveness",
+        "option2": "The inevitability of fate",
+        "option3": "The importance of trust",
+        "option4": "The unpredictability of life",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the story address the impact of the midnight visit on the protagonist's mental state?",
+        "option1": "Leads to mental breakdown",
+        "option2": "Brings mental clarity",
+        "option3": "No impact on mental state",
+        "option4": "Leaves the protagonist in perpetual confusion",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the visitor's mysterious object play in the plot?",
+        "option1": "Source of conflict",
+        "option2": "Catalyst for time travel",
+        "option3": "Symbolic representation",
+        "option4": "Irrelevant to the plot",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the midnight visitor challenge the protagonist's understanding of reality?",
+        "option1": "By conforming to the protagonist's reality",
+        "option2": "By introducing a fantastical element",
+        "option3": "By offering logical explanations",
+        "option4": "By aligning with societal norms",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the visitor play in the protagonist's emotional journey?",
+        "option1": "Obstacle to emotional growth",
+        "option2": "Catalyst for emotional growth",
+        "option3": "No impact on emotional journey",
+        "option4": "Creates emotional turmoil",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the story address the aftermath of the midnight visit in terms of the protagonist's personal growth?",
+        "option1": "Stagnation in personal growth",
+        "option2": "Negative impact on personal growth",
+        "option3": "Positive impact on personal growth",
+        "option4": "No mention of personal growth",
+        "correctOption": "3"
+    },
+    {
+        "question": "What impact does the visitor's arrival have on the protagonist's daily routine?",
+        "option1": "Disrupts the routine",
+        "option2": "Enhances the routine",
+        "option3": "No impact on the routine",
+        "option4": "Creates a new routine",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the protagonist's community react to the midnight visitor?",
+        "option1": "With fear and suspicion",
+        "option2": "With excitement and curiosity",
+        "option3": "With indifference",
+        "option4": "With hostility",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the visitor's reaction when confronted with skepticism from the protagonist?",
+        "option1": "Becomes defensive",
+        "option2": "Offers proof of their identity",
+        "option3": "Leaves immediately",
+        "option4": "Laughs it off",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the story use symbolism to convey the passage of time?",
+        "option1": "Through a ticking clock",
+        "option2": "Through changing seasons",
+        "option3": "Through a recurring motif",
+        "option4": "Through character aging",
+        "correctOption": "3"
+    },
+    {
+        "question": "What literary devices are employed to build suspense in the narrative?",
+        "option1": "Flashbacks",
+        "option2": "Foreshadowing",
+        "option3": "Irony",
+        "option4": "Metaphors",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the visitor explain their sudden appearance at the protagonist's doorstep?",
+        "option1": "Teleportation",
+        "option2": "A magical portal",
+        "option3": "Through a disguise",
+        "option4": "A simple walk",
+        "correctOption": "4"
+    },
+    {
+        "question": "What moral dilemma does the protagonist face in dealing with the midnight visitor?",
+        "option1": "To trust or not to trust",
+        "option2": "To reveal a secret or not",
+        "option3": "To offer help or not",
+        "option4": "To confront or ignore",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does the visitor's backstory play in the unfolding of the plot?",
+        "option1": "Central to the plot",
+        "option2": "Peripheral to the plot",
+        "option3": "Irrelevant to the plot",
+        "option4": "Revealed as a twist ending",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the story explore the theme of identity and self-discovery?",
+        "option1": "Through a hidden past",
+        "option2": "Through a physical transformation",
+        "option3": "Through a journey of memories",
+        "option4": "Through a series of tests",
+        "correctOption": "3"
+    },
+    {
+        "question": "What consequences does the midnight visitor face for their actions?",
+        "option1": "Legal consequences",
+        "option2": "No consequences",
+        "option3": "Social consequences",
+        "option4": "Self-imposed consequences",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the story use dialogue to reveal the characters' personalities?",
+        "option1": "Through lengthy monologues",
+        "option2": "Through cryptic statements",
+        "option3": "Through witty banter",
+        "option4": "Through inner thoughts",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the visitor's knowledge of future events play in the protagonist's decision-making?",
+        "option1": "Guides the decisions",
+        "option2": "Creates uncertainty",
+        "option3": "Is ignored by the protagonist",
+        "option4": "Leads to conflict",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the midnight visitor challenge the protagonist's preconceptions about the world?",
+        "option1": "By confirming preconceptions",
+        "option2": "By contradicting preconceptions",
+        "option3": "By adding complexity to preconceptions",
+        "option4": "By leaving preconceptions unchanged",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the visitor's arrival play in the protagonist's relationships with other characters?",
+        "option1": "Strengthens relationships",
+        "option2": "Strains relationships",
+        "option3": "No impact on relationships",
+        "option4": "Creates new relationships",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the story handle the concept of time paradoxes?",
+        "option1": "Avoids time paradoxes",
+        "option2": "Explores time paradoxes",
+        "option3": "Ignores time paradoxes",
+        "option4": "Creates time paradoxes intentionally",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the visitor's motivation for revealing themselves to the protagonist?",
+        "option1": "A desire for companionship",
+        "option2": "A need for assistance",
+        "option3": "A quest for redemption",
+        "option4": "A mission to change the future",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the story explore the theme of sacrifice?",
+        "option1": "Through a selfless act of the visitor",
+        "option2": "Through the protagonist's sacrifice",
+        "option3": "Through a secondary character's sacrifice",
+        "option4": "Without exploring the theme of sacrifice",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the visitor explain their knowledge of the protagonist's personal life?",
+        "option1": "Mind-reading ability",
+        "option2": "Observation over time",
+        "option3": "Inherited memories",
+        "option4": "Magical insight",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the resolution of the central conflict between the protagonist and the visitor?",
+        "option1": "A compromise is reached",
+        "option2": "The conflict remains unresolved",
+        "option3": "One overpowers the other",
+        "option4": "A mutual understanding is achieved",
+        "correctOption": "4"
+    },
+    {
+        "question": "What impact does the midnight visitor's departure have on the protagonist's life?",
+        "option1": "Tragic consequences",
+        "option2": "Positive transformation",
+        "option3": "No impact",
+        "option4": "Creates a sense of emptiness",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of the midnight visitor in the protagonist's personal growth?",
+        "option1": "Catalyst for change",
+        "option2": "Obstacle to overcome",
+        "option3": "Guide to self-discovery",
+        "option4": "Mirror for introspection",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the protagonist's relationship with other characters evolve after the midnight visit?",
+        "option1": "Improved relationships",
+        "option2": "Estrangement from others",
+        "option3": "No change in relationships",
+        "option4": "Creation of new relationships",
+        "correctOption": "1"
+    },
+    {
+        "question": "What symbolic item does the visitor carry that becomes significant in the story?",
+        "option1": "A pocket watch",
+        "option2": "A rose",
+        "option3": "A book",
+        "option4": "A lantern",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the midnight visitor's presence impact the atmosphere of the story?",
+        "option1": "Creates a sense of dread",
+        "option2": "Infuses a magical atmosphere",
+        "option3": "Elevates the story's humor",
+        "option4": "Intensifies suspense",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the visitor play in resolving a long-standing mystery in the protagonist's life?",
+        "option1": "Solver of the mystery",
+        "option2": "Creator of the mystery",
+        "option3": "Observer of the mystery",
+        "option4": "No impact on the mystery",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the midnight visitor's departure affect the protagonist emotionally?",
+        "option1": "Brings relief",
+        "option2": "Induces sorrow",
+        "option3": "Leaves the protagonist unchanged",
+        "option4": "Inspires joy",
+        "correctOption": "2"
+    },
+    {
+        "question": "What genre elements does the story incorporate to create suspense?",
+        "option1": "Cliffhangers",
+        "option2": "Flashbacks",
+        "option3": "Red herrings",
+        "option4": "Foreshadowing",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the story explore the theme of trust between characters?",
+        "option1": "By building trust gradually",
+        "option2": "By breaking trust immediately",
+        "option3": "By questioning trust constantly",
+        "option4": "By ignoring the concept of trust",
+        "correctOption": "1"
+    },
+    {
+        "question": "What genre conventions does the story adhere to?",
+        "option1": "Linear storytelling",
+        "option2": "Non-linear narrative",
+        "option3": "Unreliable narrator",
+        "option4": "Multiple perspectives",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the protagonist's worldview change after the midnight visitor's revelations?",
+        "option1": "Becomes more cynical",
+        "option2": "Becomes more optimistic",
+        "option3": "Remains unchanged",
+        "option4": "Becomes more skeptical",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of symbolism in 'The Midnight Visitor'?",
+        "option1": "Dominant",
+        "option2": "Minimal",
+        "option3": "Non-existent",
+        "option4": "Contradictory",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the midnight visitor challenge the conventional notions of time travel?",
+        "option1": "By adhering to classic time travel rules",
+        "option2": "By introducing paradoxes",
+        "option3": "By avoiding time travel altogether",
+        "option4": "By explaining time travel scientifically",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the protagonist's memory play in the resolution of the story?",
+        "option1": "Critical to solving the mystery",
+        "option2": "Irrelevant to the plot",
+        "option3": "Creates confusion",
+        "option4": "Ignored throughout the story",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the setting of the story contribute to the overall mood?",
+        "option1": "Dreary and bleak",
+        "option2": "Uplifting and joyful",
+        "option3": "Neutral and unremarkable",
+        "option4": "Eerie and mysterious",
+        "correctOption": "4"
+    },
+    {
+        "question": "What motivates the protagonist to trust the midnight visitor?",
+        "option1": "Shared history",
+        "option2": "Desperation",
+        "option3": "Empathy",
+        "option4": "Logical reasoning",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the story handle the concept of free will in the face of foreknowledge?",
+        "option1": "Characters defy their foreknowledge",
+        "option2": "Characters succumb to destiny",
+        "option3": "Characters remain uncertain",
+        "option4": "Characters manipulate their foreknowledge",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does humor play in 'The Midnight Visitor'?",
+        "option1": "Dominant throughout",
+        "option2": "Absent",
+        "option3": "Used sparingly",
+        "option4": "Varied throughout the story",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the story explore the consequences of the visitor's actions on secondary characters?",
+        "option1": "Secondary characters are unaffected",
+        "option2": "Secondary characters face adversity",
+        "option3": "Secondary characters benefit from the visitor's actions",
+        "option4": "Secondary characters remain unaware",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the protagonist reconcile with the visitor's unconventional nature?",
+        "option1": "Rejects the visitor's nature",
+        "option2": "Accepts the visitor's nature",
+        "option3": "Attempts to change the visitor's nature",
+        "option4": "Ignores the visitor's nature",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the concept of destiny play in the narrative?",
+        "option1": "Central to the plot",
+        "option2": "Mentioned briefly",
+        "option3": "Not addressed",
+        "option4": "Contradicted throughout",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the main conflict between the protagonist and the visitor?",
+        "option1": "A financial dispute",
+        "option2": "A romantic rivalry",
+        "option3": "A philosophical disagreement",
+        "option4": "A misunderstanding",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does the midnight visitor play in the protagonist's past?",
+        "option1": "Long-lost friend",
+        "option2": "Former adversary",
+        "option3": "Guardian angel",
+        "option4": "Time-traveling relative",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the protagonist's perception of time change during the story?",
+        "option1": "Time becomes a burden",
+        "option2": "Time becomes a source of joy",
+        "option3": "Time becomes irrelevant",
+        "option4": "Time becomes a curse",
+        "correctOption": "2"
+    },
+    {
+        "question": "What object does the protagonist use to communicate with the visitor?",
+        "option1": "A handwritten letter",
+        "option2": "A mystical amulet",
+        "option3": "A telepathic link",
+        "option4": "A time-traveling device",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the midnight visitor challenge the laws of nature?",
+        "option1": "By defying gravity",
+        "option2": "By manipulating time",
+        "option3": "By controlling the elements",
+        "option4": "By shape-shifting",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the visitor's motive for revealing themselves at midnight?",
+        "option1": "To create a sense of drama",
+        "option2": "To align with a cosmic event",
+        "option3": "To avoid detection",
+        "option4": "To test the protagonist's bravery",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic significance of the visitor's arrival on a stormy night?",
+        "option1": "Conflict and turmoil",
+        "option2": "Purity and cleansing",
+        "option3": "Transformation and rebirth",
+        "option4": "Fate and destiny",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the visitor explain their ability to travel through time?",
+        "option1": "Scientific experiment gone wrong",
+        "option2": "Magical artifact",
+        "option3": "Alien technology",
+        "option4": "Divine intervention",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the protagonist's pet play in the story?",
+        "option1": "Companion to the visitor",
+        "option2": "Detects the visitor's presence",
+        "option3": "Conveys important messages",
+        "option4": "Acts as a symbolic guide",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the story explore the theme of forgiveness?",
+        "option1": "Through a heartfelt apology",
+        "option2": "Through a selfless act",
+        "option3": "Through the passage of time",
+        "option4": "Through a sacrificial gesture",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the midnight visitor's name?",
+        "option1": "It is a common alias",
+        "option2": "It has symbolic meaning",
+        "option3": "It is a historical reference",
+        "option4": "It is a pseudonym",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the midnight visitor react to the protagonist's initial skepticism?",
+        "option1": "With anger",
+        "option2": "With disappointment",
+        "option3": "With understanding",
+        "option4": "With laughter",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the visitor reveal about the protagonist's future?",
+        "option1": "A tragic event",
+        "option2": "A moment of great success",
+        "option3": "A profound revelation",
+        "option4": "A transformative experience",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does the visitor's knowledge of the future play in the narrative?",
+        "option1": "It creates suspense",
+        "option2": "It drives the plot forward",
+        "option3": "It adds a comedic element",
+        "option4": "It leads to a tragic outcome",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the midnight visitor express gratitude to the protagonist?",
+        "option1": "Through a heartfelt speech",
+        "option2": "Through a symbolic gift",
+        "option3": "Through a secret act of kindness",
+        "option4": "Through a written letter",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the visitor's justification for the midnight visit?",
+        "option1": "A quest for knowledge",
+        "option2": "A desire for companionship",
+        "option3": "A mission to save a life",
+        "option4": "A quest for redemption",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the protagonist's perception of reality change after the midnight visit?",
+        "option1": "It becomes more skeptical",
+        "option2": "It becomes more fantastical",
+        "option3": "It becomes more practical",
+        "option4": "It becomes more existential",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the visitor leave behind as a memento of the midnight encounter?",
+        "option1": "A handwritten note",
+        "option2": "A mystical artifact",
+        "option3": "A photograph",
+        "option4": "A lingering presence",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the visitor's parting message to the protagonist?",
+        "option1": "A warning about the future",
+        "option2": "A promise of return",
+        "option3": "A piece of wisdom",
+        "option4": "A heartfelt farewell",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the story subvert traditional expectations of a midnight encounter?",
+        "option1": "By turning it into a comedy",
+        "option2": "By avoiding any conflict",
+        "option3": "By introducing a tragic element",
+        "option4": "By challenging the concept of time",
+        "correctOption": "4"
+    },
+    {
+        "question": "What object does the visitor bring as a gift?",
+        "option1": "A mysterious key",
+        "option2": "A rare artifact",
+        "option3": "A bouquet of flowers",
+        "option4": "A time-traveling device",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the protagonist initially react to the visitor's presence?",
+        "option1": "With hostility",
+        "option2": "With excitement",
+        "option3": "With suspicion",
+        "option4": "With indifference",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the clock play in the story?",
+        "option1": "It is a countdown to an event",
+        "option2": "It is a family heirloom",
+        "option3": "It is a portal to another dimension",
+        "option4": "It is a symbol of mortality",
+        "correctOption": "4"
+    },
+    {
+        "question": "Why does the protagonist invite the visitor inside?",
+        "option1": "To avoid suspicion",
+        "option2": "Out of politeness",
+        "option3": "To share a meal",
+        "option4": "To learn the visitor's story",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the visitor's demeanor during the midnight encounter?",
+        "option1": "Cheerful and talkative",
+        "option2": "Mysterious and reserved",
+        "option3": "Angry and confrontational",
+        "option4": "Nervous and jittery",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the visitor's attire?",
+        "option1": "It hints at their profession",
+        "option2": "It reveals their secret identity",
+        "option3": "It symbolizes a cultural tradition",
+        "option4": "It is irrelevant to the story",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary emotion conveyed in the story?",
+        "option1": "Fear",
+        "option2": "Joy",
+        "option3": "Sadness",
+        "option4": "Surprise",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central mystery that unfolds during the midnight visit?",
+        "option1": "The disappearance of a family member",
+        "option2": "The origin of a strange artifact",
+        "option3": "The revelation of a hidden treasure",
+        "option4": "The true identity of the visitor",
+        "correctOption": "4"
+    },
+    {
+        "question": "What genre best describes 'The Midnight Visitor'?",
+        "option1": "Fantasy",
+        "option2": "Drama",
+        "option3": "Horror",
+        "option4": "Comedy",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic meaning of the midnight hour in literature?",
+        "option1": "Transition and transformation",
+        "option2": "Danger and deception",
+        "option3": "Hope and renewal",
+        "option4": "Isolation and despair",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the visitor's reason for choosing midnight for the visit?",
+        "option1": "To avoid detection",
+        "option2": "To align with a celestial event",
+        "option3": "To fulfill a prophecy",
+        "option4": "To challenge the protagonist",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the moon play in the story?",
+        "option1": "It is a source of light",
+        "option2": "It triggers a transformation",
+        "option3": "It influences the visitor's behavior",
+        "option4": "It is irrelevant to the plot",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the visitor's ultimate goal during the midnight visit?",
+        "option1": "To seek shelter",
+        "option2": "To retrieve a lost item",
+        "option3": "To deliver a warning",
+        "option4": "To change the course of events",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the turning point of 'The Midnight Visitor'?",
+        "option1": "The introduction of a new character",
+        "option2": "The discovery of a hidden message",
+        "option3": "The confrontation between the protagonist and visitor",
+        "option4": "The resolution of the central conflict",
+        "correctOption": "3"
+    },
+    {
+        "question": "What emotion does the visitor evoke in the reader?",
+        "option1": "Sympathy",
+        "option2": "Fear",
+        "option3": "Amusement",
+        "option4": "Curiosity",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the protagonist's perspective change by the end of the story?",
+        "option1": "From skepticism to belief",
+        "option2": "From joy to sorrow",
+        "option3": "From trust to betrayal",
+        "option4": "From confusion to clarity",
+        "correctOption": "1"
+    },
+    {
+        "question": "What genre conventions does 'The Midnight Visitor' challenge?",
+        "option1": "Clichés of the mystery genre",
+        "option2": "Traditional storytelling structures",
+        "option3": "Expectations of a happy ending",
+        "option4": "Character archetypes",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the setting play in building tension?",
+        "option1": "It provides comic relief",
+        "option2": "It enhances the atmosphere",
+        "option3": "It introduces a romantic subplot",
+        "option4": "It is inconsequential to the plot",
+        "correctOption": "2"
+    },
+    {
+        "question": "What lesson does the reader take away from 'The Midnight Visitor'?",
+        "option1": "The importance of first impressions",
+        "option2": "The unpredictability of life",
+        "option3": "The consequences of curiosity",
+        "option4": "The power of empathy",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the final fate of the midnight visitor?",
+        "option1": "They disappear mysteriously",
+        "option2": "They become a permanent resident",
+        "option3": "They return to their original time",
+        "option4": "They reveal their true identity and depart",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the title of the unit?",
+        "option1": "The Unexpected Guest",
+        "option2": "The Nocturnal Visitor",
+        "option3": "The Midnight Intruder",
+        "option4": "The Uninvited Stranger",
+        "correctOption": "1"
+    },
+    {
+        "question": "Where does the story take place?",
+        "option1": "A suburban neighborhood",
+        "option2": "A bustling city",
+        "option3": "An isolated cabin",
+        "option4": "A haunted mansion",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who is the protagonist of the story?",
+        "option1": "Mr. Johnson",
+        "option2": "Mrs. Smith",
+        "option3": "Dr. Anderson",
+        "option4": "Miss Parker",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary genre of 'The Midnight Visitor'?",
+        "option1": "Romance",
+        "option2": "Science Fiction",
+        "option3": "Mystery",
+        "option4": "Historical Fiction",
+        "correctOption": "3"
+    },
+    {
+        "question": "Why did the visitor come at midnight?",
+        "option1": "To return a lost item",
+        "option2": "To seek help",
+        "option3": "To deliver important news",
+        "option4": "To cause mischief",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the initial reaction of the protagonist upon seeing the visitor?",
+        "option1": "Fear",
+        "option2": "Curiosity",
+        "option3": "Joy",
+        "option4": "Indifference",
+        "correctOption": "1"
+    },
+    {
+        "question": "How is the setting described in the story?",
+        "option1": "Sunny and cheerful",
+        "option2": "Gloomy and mysterious",
+        "option3": "Lively and energetic",
+        "option4": "Peaceful and serene",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the occupation of the protagonist?",
+        "option1": "Detective",
+        "option2": "Teacher",
+        "option3": "Doctor",
+        "option4": "Artist",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the climax of 'The Midnight Visitor'?",
+        "option1": "The revelation of a secret",
+        "option2": "A sudden twist in the plot",
+        "option3": "A thrilling chase",
+        "option4": "A romantic encounter",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the story conclude?",
+        "option1": "With a happy ending",
+        "option2": "On a cliffhanger",
+        "option3": "With a tragic event",
+        "option4": "In an open-ended manner",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the motive behind the visitor's midnight visit?",
+        "option1": "Revenge",
+        "option2": "Friendship",
+        "option3": "Exploration",
+        "option4": "Love",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the central theme of the story?",
+        "option1": "Betrayal",
+        "option2": "Forgiveness",
+        "option3": "Isolation",
+        "option4": "Redemption",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who wrote 'The Midnight Visitor'?",
+        "option1": "Jane Austen",
+        "option2": "Agatha Christie",
+        "option3": "Edgar Allan Poe",
+        "option4": "H.G. Wells",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the tone of the narrative?",
+        "option1": "Humorous",
+        "option2": "Suspenseful",
+        "option3": "Melancholic",
+        "option4": "Hopeful",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the main conflict in the story?",
+        "option1": "Man vs. Nature",
+        "option2": "Man vs. Society",
+        "option3": "Man vs. Himself",
+        "option4": "Man vs. Supernatural",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does the weather play in the narrative?",
+        "option1": "Creates a romantic atmosphere",
+        "option2": "Enhances the mystery",
+        "option3": "Causes a disaster",
+        "option4": "Sets a festive mood",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the visitor gain access to the protagonist's residence?",
+        "option1": "Through an open door",
+        "option2": "Climbing through a window",
+        "option3": "Using a spare key",
+        "option4": "Teleportation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic significance of the midnight hour in the story?",
+        "option1": "Renewal and rebirth",
+        "option2": "Endings and closure",
+        "option3": "Mystery and anticipation",
+        "option4": "Timelessness",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who is revealed to be the true identity of the visitor?",
+        "option1": "Long-lost relative",
+        "option2": "Former lover",
+        "option3": "Famous celebrity",
+        "option4": "Time traveler",
+        "correctOption": "4"
+    },
+    {
+        "question": "What lesson does the protagonist learn from the midnight visitor?",
+        "option1": "The importance of trust",
+        "option2": "The value of time",
+        "option3": "The fragility of life",
+        "option4": "The power of love",
+        "correctOption": "2"
+    }
+]

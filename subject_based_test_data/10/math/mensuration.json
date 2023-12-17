@@ -1,0 +1,785 @@
+[
+    {
+        "question": "What is the formula for the area of a rectangle?",
+        "option1": "A = l + w",
+        "option2": "A = lw",
+        "option3": "A = 2(l + w)",
+        "option4": "A = 2lw",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the length of a rectangle is 8 cm and the width is 5 cm, what is the area?",
+        "option1": "10 cm²",
+        "option2": "13 cm²",
+        "option3": "40 cm²",
+        "option4": "26 cm²",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the formula for the perimeter of a square?",
+        "option1": "P = 4s",
+        "option2": "P = s²",
+        "option3": "P = 2s",
+        "option4": "P = s/4",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the side length of a square is 6 cm, what is its perimeter?",
+        "option1": "12 cm",
+        "option2": "24 cm",
+        "option3": "36 cm",
+        "option4": "6 cm",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the circumference of a circle?",
+        "option1": "C = πd",
+        "option2": "C = 2πr",
+        "option3": "C = πr",
+        "option4": "C = 2d",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the radius of a circle is 5 cm, what is its circumference?",
+        "option1": "5π cm",
+        "option2": "10π cm",
+        "option3": "15π cm",
+        "option4": "25π cm",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the area of a triangle?",
+        "option1": "A = bh",
+        "option2": "A = (b + h)/2",
+        "option3": "A = b/h",
+        "option4": "A = 2bh",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the base of a triangle is 10 cm and the height is 8 cm, what is its area?",
+        "option1": "18 cm²",
+        "option2": "40 cm²",
+        "option3": "80 cm²",
+        "option4": "20 cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the volume of a cube?",
+        "option1": "V = l²",
+        "option2": "V = 6l",
+        "option3": "V = l³",
+        "option4": "V = 2l",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the side length of a cube is 4 cm, what is its volume?",
+        "option1": "8 cm³",
+        "option2": "16 cm³",
+        "option3": "32 cm³",
+        "option4": "64 cm³",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the formula for the surface area of a rectangular prism?",
+        "option1": "SA = lwh",
+        "option2": "SA = 2lw + 2lh + 2wh",
+        "option3": "SA = l² + w² + h²",
+        "option4": "SA = 3lw",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the length, width, and height of a rectangular prism are 3 cm, 4 cm, and 5 cm respectively, what is its surface area?",
+        "option1": "52 cm²",
+        "option2": "94 cm²",
+        "option3": "102 cm²",
+        "option4": "60 cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the perimeter of a triangle?",
+        "option1": "P = a + b",
+        "option2": "P = a + b + c",
+        "option3": "P = ab",
+        "option4": "P = a/b",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the sides of a triangle are 3 cm, 4 cm, and 5 cm, what is its perimeter?",
+        "option1": "9 cm",
+        "option2": "12 cm",
+        "option3": "15 cm",
+        "option4": "10 cm",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the volume of a cylinder?",
+        "option1": "V = πr²",
+        "option2": "V = πr",
+        "option3": "V = πrh",
+        "option4": "V = 2πr",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the radius of a cylinder is 6 cm and the height is 10 cm, what is its volume?",
+        "option1": "180π cm³",
+        "option2": "360π cm³",
+        "option3": "600π cm³",
+        "option4": "120π cm³",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the area of a trapezoid?",
+        "option1": "A = (a + b)/2",
+        "option2": "A = ab + h",
+        "option3": "A = a + b + h",
+        "option4": "A = a² - b²",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the bases of a trapezoid are 8 cm and 12 cm, and the height is 6 cm, what is its area?",
+        "option1": "60 cm²",
+        "option2": "72 cm²",
+        "option3": "90 cm²",
+        "option4": "120 cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the surface area of a sphere?",
+        "option1": "SA = 4πr",
+        "option2": "SA = 2πr²",
+        "option3": "SA = πr³",
+        "option4": "SA = 3πr²",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the radius of a sphere is 5 cm, what is its surface area?",
+        "option1": "50π cm²",
+        "option2": "25π cm²",
+        "option3": "100π cm²",
+        "option4": "75π cm²",
+        "correctOption": "3"
+    },
+    {
+        "question": "Explain the concept of pi (π) and its significance in the calculation of circle-related parameters.",
+        "option1": "Pi is a constant equal to 3.14 and is used for area and circumference calculations.",
+        "option2": "Pi is a variable dependent on the circle's size and shape.",
+        "option3": "Pi is a geometric figure within a circle.",
+        "option4": "Pi is only relevant to triangles.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Describe the method to find the area of a sector in a circle and provide a real-life example of its application.",
+        "option1": "The area of a sector is (θ/360) × πr^2, used in calculating the area of a pizza slice.",
+        "option2": "The area of a sector is (θ/180) × πr, used in calculating the area of a baseball field.",
+        "option3": "The area of a sector is (θ/360) × 2πr, used in calculating the area of a square.",
+        "option4": "The area of a sector is (θ/180) × 2πr^2, used in calculating the area of a swimming pool.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the formula for the lateral surface area of a cylinder and provide a scenario where it is applicable.",
+        "option1": "Lateral surface area = 2πrh, used to find the label required for a cylindrical can.",
+        "option2": "Lateral surface area = πrh, used to calculate the wallpaper needed for a cylindrical room.",
+        "option3": "Lateral surface area = πr^2h, used to determine the material for a cylindrical roof.",
+        "option4": "Lateral surface area = 2πr^2h, used to find the paint needed for a cylindrical pillar.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Explain the concept of the Pythagorean theorem and provide an example of its application in a practical situation.",
+        "option1": "The Pythagorean theorem is a^2 + b^2 = c^2, used to calculate the dimensions of a rectangular field.",
+        "option2": "The Pythagorean theorem is a^2 = b^2 + c^2, used in determining the distance between two cities.",
+        "option3": "The Pythagorean theorem is b^2 = a^2 + c^2, used for finding the dimensions of a triangular plot.",
+        "option4": "The Pythagorean theorem is c^2 = a^2 + b^2, used in navigation to calculate distances at sea.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the properties of a cube and provide an example of a real-world object that can be modeled as a cube.",
+        "option1": "A cube has six equal faces and is used to model a Rubik's Cube.",
+        "option2": "A cube has eight vertices and is used to model a soccer ball.",
+        "option3": "A cube has twelve edges and is used to model a tennis ball.",
+        "option4": "A cube has triangular faces and is used to model a pyramid.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Define the terms 'circumference' and 'perimeter' and explain when each is used in real-world scenarios.",
+        "option1": "Circumference is the boundary of a circle, and perimeter is the total length around any closed figure.",
+        "option2": "Circumference is the total length around any closed figure, and perimeter is the boundary of a circle.",
+        "option3": "Circumference is only applicable to rectangles, and perimeter is exclusive to circles.",
+        "option4": "Circumference and perimeter are interchangeable terms.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the concept of volume and its significance in practical applications, providing an example.",
+        "option1": "Volume is the measure of space occupied by a three-dimensional object, used in calculating the capacity of a water tank.",
+        "option2": "Volume is the perimeter of a solid object, used in measuring the dimensions of a rectangular prism.",
+        "option3": "Volume is the surface area of a three-dimensional object, used in finding the weight of a cube.",
+        "option4": "Volume is the length of a three-dimensional object, used in determining the size of a cylindrical pipe.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Explain the formula for finding the area of a triangle and provide a practical example of its application.",
+        "option1": "Area = (1/2) × base × height, used in calculating the area of a triangular garden.",
+        "option2": "Area = base × height, used in determining the area of a rectangular field.",
+        "option3": "Area = (1/3) × base × height, used in finding the area of a trapezoidal playground.",
+        "option4": "Area = (1/4) × base × height, used in measuring the area of a circular pond.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the concept of the surface area of a sphere and provide a scenario where it is applicable.",
+        "option1": "Surface area = 4πr^2, used in calculating the area covered by a soap bubble.",
+        "option2": "Surface area = 2πr^2, used in finding the area of a circular rug.",
+        "option3": "Surface area = πr^2, used in determining the area of a circular table.",
+        "option4": "Surface area = (4/3)πr^3, used in measuring the volume of a sphere.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the concept of a right circular cone and provide an example of its real-world application.",
+        "option1": "A right circular cone has a circular base and is used to model an ice cream cone.",
+        "option2": "A right circular cone has a triangular base and is used to model a pyramid.",
+        "option3": "A right circular cone has a rectangular base and is used to model a building.",
+        "option4": "A right circular cone has a square base and is used to model a cube.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Explain the significance of the Golden Ratio in geometry and provide an example where it is commonly observed.",
+        "option1": "The Golden Ratio is approximately 1.618 and is often observed in the proportions of art and architecture, like the Parthenon.",
+        "option2": "The Golden Ratio is equal to π and is commonly used in circle-related calculations.",
+        "option3": "The Golden Ratio is a variable that changes based on the shape of the object.",
+        "option4": "The Golden Ratio is a concept unrelated to geometry.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Define the term 'diagonal' in geometry and provide an example of its application in real-world scenarios.",
+        "option1": "A diagonal is a line segment connecting two non-adjacent vertices of a polygon, used in calculating the distance across a rectangular room.",
+        "option2": "A diagonal is the boundary of a circle, used in measuring the circumference of a tire.",
+        "option3": "A diagonal is the length of a right-angled triangle, used in finding the area of a square.",
+        "option4": "A diagonal is a line segment connecting two adjacent vertices of a polygon, used in determining the area of a triangle.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the concept of the Euler characteristic in geometry and its significance.",
+        "option1": "The Euler characteristic is a number that describes the shape of a polyhedron, used in classifying different types of 3D shapes.",
+        "option2": "The Euler characteristic is a term used in calculus to calculate the area under a curve.",
+        "option3": "The Euler characteristic is a variable dependent on the size of a circle.",
+        "option4": "The Euler characteristic is a concept unrelated to geometry.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Define the term 'tangent' in trigonometry and explain its application in real-life situations.",
+        "option1": "In trigonometry, tangent is the ratio of the length of the opposite side to the adjacent side in a right-angled triangle, used in calculating the height of a tree.",
+        "option2": "In trigonometry, tangent is the ratio of the length of the hypotenuse to the opposite side in a right-angled triangle, used in determining the distance between two cities.",
+        "option3": "Tangent is not applicable in real-life situations.",
+        "option4": "In trigonometry, tangent is the ratio of the length of the adjacent side to the opposite side in a right-angled triangle, used in measuring the base of a building.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the concept of symmetry in geometry and provide an example of a symmetric object commonly found in nature.",
+        "option1": "Symmetry is a balance or proportion among the parts of an object, and a butterfly's wings exhibit bilateral symmetry.",
+        "option2": "Symmetry is a concept unrelated to geometry.",
+        "option3": "Symmetry is only applicable to squares and rectangles.",
+        "option4": "Symmetry is a variable that changes based on the shape of the object.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Define the term 'centroid' in geometry and provide an example of its application.",
+        "option1": "The centroid is the center of mass or balance point of a geometric object, used in determining the balance point of a composite figure.",
+        "option2": "The centroid is a point where three medians of a triangle intersect, used in measuring the height of a pyramid.",
+        "option3": "The centroid is a line segment connecting two opposite vertices of a polygon, used in calculating the distance across a square.",
+        "option4": "The centroid is a variable that changes based on the size of a circle.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the concept of fractals in geometry and provide an example of a fractal pattern found in nature.",
+        "option1": "Fractals are self-replicating geometric patterns, and the Mandelbrot set is an example found in nature.",
+        "option2": "Fractals are only applicable to squares and rectangles.",
+        "option3": "Fractals are a variable that changes based on the shape of the object.",
+        "option4": "Fractals are a concept unrelated to geometry.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Explain the concept of the angle bisector theorem and provide a scenario where it is applicable.",
+        "option1": "The angle bisector theorem states that in a triangle, the angle bisector divides the opposite side into segments proportional to the adjacent sides, used in calculating the dimensions of a triangular plot.",
+        "option2": "The angle bisector theorem is not applicable in real-life situations.",
+        "option3": "The angle bisector theorem is only applicable to squares and rectangles.",
+        "option4": "The angle bisector theorem is a variable that changes based on the shape of the object.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the concept of the law of sines in trigonometry and provide an example of its application.",
+        "option1": "The law of sines states that in any triangle, the ratio of the length of a side to the sine of its opposite angle is constant, used in calculating the distances between three towns forming a triangle.",
+        "option2": "The law of sines is a concept unrelated to trigonometry.",
+        "option3": "The law of sines is only applicable to squares and rectangles.",
+        "option4": "The law of sines is a variable that changes based on the size of a circle.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Define the term 'dilation' in geometry and provide an example of its application.",
+        "option1": "Dilation is a transformation that alters the size of a geometric figure without changing its shape, used in resizing a map of a city.",
+        "option2": "Dilation is a concept unrelated to geometry.",
+        "option3": "Dilation is only applicable to squares and rectangles.",
+        "option4": "Dilation is a variable that changes based on the shape of the object.",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a given circle, prove that the area of the inscribed square is half the area of the circumscribed square. If the radius of the circle is 'r', what is the area of the inscribed square?",
+        "option1": "r^2",
+        "option2": "2r^2",
+        "option3": "(√2)r^2",
+        "option4": "(1/2)r^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a right-angled triangle, if the length of the hypotenuse is 'c' and the lengths of the other two sides are 'a' and 'b', what is the relation between 'a', 'b', and 'c'?",
+        "option1": "a^2 + b^2 = c^2",
+        "option2": "a^2 = b^2 + c^2",
+        "option3": "b^2 = a^2 + c^2",
+        "option4": "c^2 = a^2 + b^2",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the length of one side of a square is 's', what is the ratio of the area of the square to the area of the circle inscribed inside the square?",
+        "option1": "1:π",
+        "option2": "1:2π",
+        "option3": "2:π",
+        "option4": "π:2",
+        "correctOption": "2"
+    },
+    {
+        "question": "Given a right circular cone with radius 'r' and height 'h', find the value of 'h' such that the cone has maximum volume.",
+        "option1": "h = r",
+        "option2": "h = 2r",
+        "option3": "h = 3r",
+        "option4": "h = 4r",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a right circular cylinder, if the sum of its radius and height is 's', what is the maximum possible volume of the cylinder?",
+        "option1": "(π/4)s^3",
+        "option2": "(π/6)s^3",
+        "option3": "(π/8)s^3",
+        "option4": "(π/12)s^3",
+        "correctOption": "2"
+    },
+    {
+        "question": "For a right circular cone, if the slant height is 'l' and the radius is 'r', what is the relation between 'l' and 'r'?",
+        "option1": "l = r",
+        "option2": "l = 2r",
+        "option3": "l = 3r",
+        "option4": "l = 4r",
+        "correctOption": "2"
+    },
+    {
+        "question": "Given a cube with side length 's', find the ratio of the volume of the cube to the volume of the sphere inscribed inside the cube.",
+        "option1": "1:2π",
+        "option2": "1:π",
+        "option3": "2:π",
+        "option4": "π:2",
+        "correctOption": "3"
+    },
+    {
+        "question": "For a given right circular cylinder, prove that the ratio of its volume to its lateral surface area is constant. What is this ratio?",
+        "option1": "(1/2)r",
+        "option2": "r",
+        "option3": "(3/2)r",
+        "option4": "(2/3)r",
+        "correctOption": "4"
+    },
+    {
+        "question": "If a sector of a circle with radius 'r' and central angle 'θ' is folded to form a cone, what is the radius of the resulting cone?",
+        "option1": "r",
+        "option2": "r/2",
+        "option3": "r/√2",
+        "option4": "r/π",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a rectangular box with sides of length 'a', 'b', and 'c', find the ratio of the total surface area to the volume of the box.",
+        "option1": "(a+b+c)/abc",
+        "option2": "abc/(a+b+c)",
+        "option3": "(a+b+c)/2abc",
+        "option4": "2abc/(a+b+c)",
+        "correctOption": "2"
+    },
+    {
+        "question": "For a given cone and cylinder, both having the same radius and height, what is the ratio of the volume of the cone to the volume of the cylinder?",
+        "option1": "1:3",
+        "option2": "1:2",
+        "option3": "1:1",
+        "option4": "2:1",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a sphere of radius 'r' is inscribed inside a cone of radius 'R' and height 'h', what is the relationship between 'r', 'R', and 'h'?",
+        "option1": "r = R/2 + h",
+        "option2": "r = R/√2 + h",
+        "option3": "r = R/3 + h",
+        "option4": "r = R/4 + h",
+        "correctOption": "2"
+    },
+    {
+        "question": "For a right circular cone, if the slant height is 'l' and the radius is 'r', find the angle between the slant height and the base of the cone.",
+        "option1": "sin^(-1)(r/l)",
+        "option2": "cos^(-1)(r/l)",
+        "option3": "tan^(-1)(r/l)",
+        "option4": "cot^(-1)(r/l)",
+        "correctOption": "3"
+    },
+    {
+        "question": "For a hemisphere with radius 'r', what is the ratio of the curved surface area to the total surface area?",
+        "option1": "1:2",
+        "option2": "2:3",
+        "option3": "1:3",
+        "option4": "3:4",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a right circular cylinder, if the sum of its radius and height is 's', what is the minimum possible lateral surface area of the cylinder?",
+        "option1": "(π/4)s^2",
+        "option2": "(π/6)s^2",
+        "option3": "(π/8)s^2",
+        "option4": "(π/12)s^2",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a rectangular sheet of paper is folded to form a cylinder, what is the ratio of the height to the circumference of the resulting cylinder?",
+        "option1": "1:π",
+        "option2": "1:2π",
+        "option3": "2:π",
+        "option4": "π:2",
+        "correctOption": "3"
+    },
+    {
+        "question": "For a right-angled triangle, if the area is 'A' and the hypotenuse is 'c', what is the relationship between 'A', 'a', and 'b'?",
+        "option1": "A = ab",
+        "option2": "A = (1/2)ab",
+        "option3": "A = (1/2)bc",
+        "option4": "A = (1/2)ac",
+        "correctOption": "2"
+    },
+    {
+        "question": "Given a cone with slant height 'l' and radius 'r', find the ratio of the lateral surface area to the total surface area.",
+        "option1": "1:2",
+        "option2": "2:3",
+        "option3": "1:3",
+        "option4": "3:4",
+        "correctOption": "2"
+    },
+    {
+        "question": "For a given sphere, what is the ratio of the surface area to the volume?",
+        "option1": "1:2r",
+        "option2": "2:3r",
+        "option3": "1:3r",
+        "option4": "3:4r",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the relationship between the radius (r) and diameter (d) of a circle?",
+        "option1": "r = d",
+        "option2": "r = d/2",
+        "option3": "r = 2d",
+        "option4": "r = 3d",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the diameter of a circle is 10 cm, what is its radius?",
+        "option1": "2.5 cm",
+        "option2": "5 cm",
+        "option3": "7.5 cm",
+        "option4": "10 cm",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the circumference (C) of a circle with radius r?",
+        "option1": "C = πr",
+        "option2": "C = 2πr",
+        "option3": "C = 3πr",
+        "option4": "C = 4πr",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the radius of a circle is 8 cm, what is its circumference?",
+        "option1": "8π cm",
+        "option2": "16π cm",
+        "option3": "24π cm",
+        "option4": "32π cm",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the area of a circle in terms of its circumference?",
+        "option1": "A = C^2 / (4π)",
+        "option2": "A = C^2 / (2π)",
+        "option3": "A = C / (2π)",
+        "option4": "A = C / π",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the circumference of a circle is 20π cm, what is its area?",
+        "option1": "50 cm²",
+        "option2": "100 cm²",
+        "option3": "150 cm²",
+        "option4": "200 cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the volume of a sphere in terms of its radius?",
+        "option1": "V = (4/3)πr^2",
+        "option2": "V = (4/3)πr^3",
+        "option3": "V = 2πr^2",
+        "option4": "V = πr^3",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the volume of a sphere is 36π cm³, what is its radius?",
+        "option1": "3 cm",
+        "option2": "4 cm",
+        "option3": "6 cm",
+        "option4": "9 cm",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the formula for the lateral surface area of a right circular cylinder?",
+        "option1": "2πrh",
+        "option2": "πrh",
+        "option3": "πr^2h",
+        "option4": "2πr^2h",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the radius of a cylinder is 6 cm and the height is 10 cm, what is its lateral surface area?",
+        "option1": "120π cm²",
+        "option2": "180π cm²",
+        "option3": "240π cm²",
+        "option4": "300π cm²",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the formula for the surface area of a hemisphere?",
+        "option1": "3πr^2",
+        "option2": "2πr^2",
+        "option3": "(3/2)πr^2",
+        "option4": "(4/3)πr^2",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the radius of a hemisphere is 12 cm, what is its surface area?",
+        "option1": "288π cm²",
+        "option2": "432π cm²",
+        "option3": "576π cm²",
+        "option4": "720π cm²",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the formula for the total surface area of a cone?",
+        "option1": "πr^2 + πl",
+        "option2": "πr^2 + l",
+        "option3": "πrl",
+        "option4": "πr + l",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the radius of a cone is 7 cm and the slant height is 15 cm, what is its total surface area?",
+        "option1": "308π cm²",
+        "option2": "385π cm²",
+        "option3": "462π cm²",
+        "option4": "539π cm²",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the formula for the surface area of a cube in terms of its volume?",
+        "option1": "6√V",
+        "option2": "4√V",
+        "option3": "3√V",
+        "option4": "2√V",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the volume of a cube is 125 cm³, what is its surface area?",
+        "option1": "75 cm²",
+        "option2": "100 cm²",
+        "option3": "125 cm²",
+        "option4": "150 cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the volume of a right circular cone in terms of its slant height?",
+        "option1": "(1/3)πl^2h",
+        "option2": "(1/3)πlh",
+        "option3": "(1/3)πl^2",
+        "option4": "(1/3)πlh^2",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the slant height of a cone is 9 cm and the height is 12 cm, what is its volume?",
+        "option1": "108π cm³",
+        "option2": "216π cm³",
+        "option3": "324π cm³",
+        "option4": "432π cm³",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the volume of a hemisphere in terms of its radius?",
+        "option1": "(2/3)πr^2",
+        "option2": "(3/2)πr^2",
+        "option3": "(4/3)πr^2",
+        "option4": "(3/4)πr^2",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the radius of a hemisphere is 10 cm, what is its volume?",
+        "option1": "333.33π cm³",
+        "option2": "666.67π cm³",
+        "option3": "1000π cm³",
+        "option4": "1333.33π cm³",
+        "correctOption": "4"
+    },
+    {
+        "option1": "60π cm²",
+        "option2": "90π cm²",
+        "option3": "120π cm²",
+        "option4": "150π cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the total surface area of a hemisphere with radius r?",
+        "option1": "2πr^2",
+        "option2": "3πr^2",
+        "option3": "4πr^2",
+        "option4": "(3/2)πr^2",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the radius of a hemisphere is 9 cm, what is its total surface area?",
+        "option1": "54π cm²",
+        "option2": "81π cm²",
+        "option3": "108π cm²",
+        "option4": "162π cm²",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the formula for the surface area of a hemisphere excluding the base?",
+        "option1": "πr^2",
+        "option2": "2πr^2",
+        "option3": "(3/2)πr^2",
+        "option4": "(1/2)πr^2",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the radius of a hemisphere is 4 cm, what is its surface area excluding the base?",
+        "option1": "8π cm²",
+        "option2": "12π cm²",
+        "option3": "16π cm²",
+        "option4": "24π cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the total surface area of a cone with radius r and slant height l?",
+        "option1": "πr^2 + πl",
+        "option2": "πr^2 + l",
+        "option3": "πrl",
+        "option4": "πr + l",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the radius of a cone is 5 cm and the slant height is 8 cm, what is its total surface area?",
+        "option1": "69π cm²",
+        "option2": "74π cm²",
+        "option3": "81π cm²",
+        "option4": "86π cm²",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the formula for the surface area of a cube with side length s?",
+        "option1": "6s",
+        "option2": "s^2",
+        "option3": "4s",
+        "option4": "2s^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the side length of a cube is 2 cm, what is its surface area?",
+        "option1": "12 cm²",
+        "option2": "24 cm²",
+        "option3": "36 cm²",
+        "option4": "48 cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the volume of a cube with side length s?",
+        "option1": "s^3",
+        "option2": "2s^3",
+        "option3": "3s^2",
+        "option4": "6s^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the side length of a cube is 4 cm, what is its volume?",
+        "option1": "64 cm³",
+        "option2": "128 cm³",
+        "option3": "256 cm³",
+        "option4": "512 cm³",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the formula for the area of a circle?",
+        "option1": "πr",
+        "option2": "πr^2",
+        "option3": "2πr",
+        "option4": "2πr^2",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the radius of a circle is 7 cm, what is its area?",
+        "option1": "14π cm²",
+        "option2": "49π cm²",
+        "option3": "98π cm²",
+        "option4": "7π cm²",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the area of a sector with central angle θ?",
+        "option1": "(θ/360) × πr^2",
+        "option2": "(θ/180) × πr",
+        "option3": "(θ/360) × 2πr",
+        "option4": "(θ/180) × 2πr^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a circle, if the central angle is 60°, what is the area of the corresponding sector?",
+        "option1": "(1/6) × πr^2",
+        "option2": "(1/3) × πr^2",
+        "option3": "(1/6) × 2πr^2",
+        "option4": "(1/3) × 2πr^2",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the area of a segment with central angle θ in a circle of radius r?",
+        "option1": "(θ/360) × πr^2",
+        "option2": "(θ/180) × πr",
+        "option3": "(θ/360) × 2πr",
+        "option4": "(θ/180) × 2πr^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the central angle of a segment is 90° and the radius is 5 cm, what is the area of the segment?",
+        "option1": "(1/4) × π × 5^2",
+        "option2": "(1/2) × π × 5^2",
+        "option3": "(1/4) × 2π × 5",
+        "option4": "(1/2) × 2π × 5",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the formula for the surface area of a cube with side length s?",
+        "option1": "6s",
+        "option2": "s^2",
+        "option3": "4s",
+        "option4": "2s^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the edge length of a cube is 3 cm, what is its surface area?",
+        "option1": "9 cm²",
+        "option2": "18 cm²",
+        "option3": "27 cm²",
+        "option4": "54 cm²",
+        "correctOption": "2"
+    }
+]

@@ -1,0 +1,1122 @@
+[
+    {
+        "question": "In the second story, what object serves as a metaphor for the passage of time?",
+        "option1": "An hourglass",
+        "option2": "A ticking clock",
+        "option3": "A fading photograph",
+        "option4": "A wilting flower",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story explore the theme of destiny?",
+        "option1": "Destiny is embraced",
+        "option2": "Destiny is challenged",
+        "option3": "Destiny is ignored",
+        "option4": "Destiny is a mystery",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does memory play in the first story?",
+        "option1": "It is a source of nostalgia",
+        "option2": "It is a burden to the protagonist",
+        "option3": "It is a driving force",
+        "option4": "It is irrelevant",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story address the theme of justice?",
+        "option1": "Through a courtroom trial",
+        "option2": "Through vigilante justice",
+        "option3": "Without any consideration of justice",
+        "option4": "Through forgiveness",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the symbolic meaning of the color red in the first story?",
+        "option1": "Danger",
+        "option2": "Love",
+        "option3": "Power",
+        "option4": "Purity",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the first story challenge traditional notions of time?",
+        "option1": "Time is nonlinear",
+        "option2": "Time is subjective",
+        "option3": "Time is a construct",
+        "option4": "Time is fixed",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the protagonist's name in the second story?",
+        "option1": "It reveals their true identity",
+        "option2": "It is a common name",
+        "option3": "It is never mentioned",
+        "option4": "It is a symbol of their past",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the second story explore the theme of memory loss?",
+        "option1": "Through a magical spell",
+        "option2": "Through a traumatic event",
+        "option3": "Without any consideration of memory loss",
+        "option4": "Through voluntary forgetting",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of destiny in the first story?",
+        "option1": "It is a guiding force",
+        "option2": "It is a source of conflict",
+        "option3": "It is irrelevant",
+        "option4": "It is a test of character",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the first story address the theme of sacrifice?",
+        "option1": "Through selfless acts",
+        "option2": "Through involuntary losses",
+        "option3": "Without any consideration of sacrifice",
+        "option4": "Through martyrdom",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of dreams in the first story?",
+        "option1": "They predict the future",
+        "option2": "They serve as warnings",
+        "option3": "They are the source of conflict",
+        "option4": "They are a means of communication",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the second story explore the theme of isolation?",
+        "option1": "Through physical confinement",
+        "option2": "Through emotional distance",
+        "option3": "Without any consideration of isolation",
+        "option4": "Through societal exclusion",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of technology in the first story?",
+        "option1": "It hinders progress",
+        "option2": "It aids the protagonist",
+        "option3": "It is irrelevant",
+        "option4": "It is destructive",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the first story explore the theme of deception?",
+        "option1": "Through a web of lies",
+        "option2": "Through honest communication",
+        "option3": "Without any consideration of deception",
+        "option4": "Through accidental misinformation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of prophecy in the first story?",
+        "option1": "It is fulfilled",
+        "option2": "It is ignored",
+        "option3": "It is subverted",
+        "option4": "It is revealed to be false",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story explore the theme of legacy?",
+        "option1": "Through ancestral artifacts",
+        "option2": "Through family traditions",
+        "option3": "Through forgotten memories",
+        "option4": "Without any consideration of legacy",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of the supernatural in the second story?",
+        "option1": "It is a source of fear",
+        "option2": "It is a source of wonder",
+        "option3": "It is irrelevant",
+        "option4": "It is a manifestation of human desires",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the first story, what motivates the protagonist's journey?",
+        "option1": "Curiosity",
+        "option2": "Revenge",
+        "option3": "Love",
+        "option4": "Duty",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story explore the theme of redemption?",
+        "option1": "Through self-sacrifice",
+        "option2": "Through repentance",
+        "option3": "Without any consideration of redemption",
+        "option4": "Through divine intervention",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic meaning of the title of the first story?",
+        "option1": "It represents the protagonist's journey",
+        "option2": "It foreshadows a tragic event",
+        "option3": "It alludes to a hidden truth",
+        "option4": "It suggests a test of character",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story challenge traditional gender roles?",
+        "option1": "By reinforcing gender stereotypes",
+        "option2": "By subverting gender expectations",
+        "option3": "By ignoring gender altogether",
+        "option4": "By presenting a gender-neutral society",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the narrative style of the first story?",
+        "option1": "First-person perspective",
+        "option2": "Third-person limited perspective",
+        "option3": "Epistolary style",
+        "option4": "Stream of consciousness",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does the concept of destiny play in the first story?",
+        "option1": "It is inescapable",
+        "option2": "It is changeable",
+        "option3": "It is nonexistent",
+        "option4": "It is a mystery",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the second story explore the theme of friendship?",
+        "option1": "Through betrayal",
+        "option2": "Through camaraderie",
+        "option3": "Without any consideration of friendship",
+        "option4": "Through rivalry",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of symbols in the first story?",
+        "option1": "They are a source of confusion",
+        "option2": "They are irrelevant",
+        "option3": "They guide the protagonist",
+        "option4": "They represent hidden meanings",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story address the theme of self-discovery?",
+        "option1": "Through external revelations",
+        "option2": "Through internal reflection",
+        "option3": "Without any consideration of self-discovery",
+        "option4": "Through the guidance of others",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic significance of the protagonist's journey in the first story?",
+        "option1": "A journey of self-discovery",
+        "option2": "A quest for revenge",
+        "option3": "A search for lost memories",
+        "option4": "An escape from reality",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the first story challenge traditional notions of heroism?",
+        "option1": "By presenting an anti-hero",
+        "option2": "By portraying an ideal hero",
+        "option3": "By having no hero",
+        "option4": "By questioning the concept of heroism",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of nature in the first story?",
+        "option1": "It is an antagonist",
+        "option2": "It is a source of magic",
+        "option3": "It is indifferent",
+        "option4": "It is a nurturing force",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story address the theme of identity?",
+        "option1": "Through a disguise",
+        "option2": "Through a secret past",
+        "option3": "Through a name change",
+        "option4": "Without any consideration of identity",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the emotional tone of the second story?",
+        "option1": "Hopeful",
+        "option2": "Melancholic",
+        "option3": "Uplifting",
+        "option4": "Mysterious",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of fate in the second story?",
+        "option1": "It is a guiding force",
+        "option2": "It is a source of conflict",
+        "option3": "It is irrelevant",
+        "option4": "It is a test of character",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the first story explore the theme of redemption?",
+        "option1": "Through self-sacrifice",
+        "option2": "Through repentance",
+        "option3": "Without any consideration of redemption",
+        "option4": "Through divine intervention",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic meaning of the title of the second story?",
+        "option1": "It represents a literal journey",
+        "option2": "It suggests a hidden truth",
+        "option3": "It foreshadows a tragic event",
+        "option4": "It alludes to a character's fate",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the second story challenge traditional notions of heroism?",
+        "option1": "By presenting an anti-hero",
+        "option2": "By portraying an ideal hero",
+        "option3": "By having no hero",
+        "option4": "By questioning the concept of heroism",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the source of conflict in the first story?",
+        "option1": "Internal struggle",
+        "option2": "External enemy",
+        "option3": "Lack of resources",
+        "option4": "Miscommunication",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the protagonist overcome adversity in the second story?",
+        "option1": "Through sheer strength",
+        "option2": "With the help of friends",
+        "option3": "Through clever strategies",
+        "option4": "By surrendering",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central theme of the first story in 'Two Stories About Flying'?",
+        "option1": "Betrayal",
+        "option2": "Transformation",
+        "option3": "Sacrifice",
+        "option4": "Deception",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the first story explore the theme of isolation?",
+        "option1": "Through physical confinement",
+        "option2": "Through emotional distance",
+        "option3": "Without any consideration of isolation",
+        "option4": "Through societal exclusion",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of dreams in the second story?",
+        "option1": "They guide the characters",
+        "option2": "They hinder the characters",
+        "option3": "They are the source of conflict",
+        "option4": "They are ignored",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story challenge traditional notions of flight?",
+        "option1": "Gravity is reversed",
+        "option2": "Wings are unnecessary",
+        "option3": "Flight is restricted to dreams",
+        "option4": "Objects fly without any explanation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the relationship between the two stories in 'Two Stories About Flying'?",
+        "option1": "They are unrelated",
+        "option2": "They share a common setting",
+        "option3": "They feature the same characters",
+        "option4": "They have a thematic connection",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the first story, what symbolic element represents the protagonist's internal struggles?",
+        "option1": "A locked door",
+        "option2": "A tangled web",
+        "option3": "A stormy sea",
+        "option4": "A labyrinth",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the second story explore the theme of ambition?",
+        "option1": "Through the pursuit of power",
+        "option2": "Through contentment",
+        "option3": "Without any consideration of ambition",
+        "option4": "Through selflessness",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of humor in the first story?",
+        "option1": "It lightens the mood",
+        "option2": "It is absent",
+        "option3": "It is a source of conflict",
+        "option4": "It is a distraction",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story challenge traditional notions of heroism?",
+        "option1": "By presenting an anti-hero",
+        "option2": "By portraying an ideal hero",
+        "option3": "By having no hero",
+        "option4": "By questioning the concept of heroism",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of prophecy in the second story?",
+        "option1": "It is fulfilled",
+        "option2": "It is ignored",
+        "option3": "It is subverted",
+        "option4": "It is revealed to be false",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story address the theme of loneliness?",
+        "option1": "Through companionship",
+        "option2": "Through isolation",
+        "option3": "Without any consideration of loneliness",
+        "option4": "Through group dynamics",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of mythology in the first story?",
+        "option1": "It shapes the characters' beliefs",
+        "option2": "It is irrelevant",
+        "option3": "It is a source of conflict",
+        "option4": "It is a source of inspiration",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the second story challenge the concept of destiny?",
+        "option1": "By proving destiny is unchangeable",
+        "option2": "By showing characters can control their destiny",
+        "option3": "Without any consideration of destiny",
+        "option4": "By suggesting destiny is a choice",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic meaning of the title of the first story?",
+        "option1": "It represents the protagonist's journey",
+        "option2": "It foreshadows a tragic event",
+        "option3": "It alludes to a hidden truth",
+        "option4": "It suggests a test of character",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story address the theme of power?",
+        "option1": "Through a struggle for power",
+        "option2": "Without any consideration of power",
+        "option3": "Through the abuse of power",
+        "option4": "Through the surrender of power",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of symbolism in the second story?",
+        "option1": "It is subtle and understated",
+        "option2": "It is overt and explicit",
+        "option3": "It is irrelevant",
+        "option4": "It is ambiguous and open to interpretation",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the second story explore the theme of trust?",
+        "option1": "Through betrayal",
+        "option2": "Through blind faith",
+        "option3": "Without any consideration of trust",
+        "option4": "Through mutual understanding",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does fate play in the second story?",
+        "option1": "It is a guiding force",
+        "option2": "It is a source of conflict",
+        "option3": "It is irrelevant",
+        "option4": "It is a test of character",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the first story address the theme of knowledge?",
+        "option1": "Through the pursuit of wisdom",
+        "option2": "Without any consideration of knowledge",
+        "option3": "Through the dangers of ignorance",
+        "option4": "Through the rejection of knowledge",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of choices in the second story?",
+        "option1": "Choices determine the characters' fates",
+        "option2": "Choices are inconsequential",
+        "option3": "Choices are manipulated by external forces",
+        "option4": "Choices are made by random chance",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the first story explore the theme of love?",
+        "option1": "Through romantic relationships",
+        "option2": "Through familial bonds",
+        "option3": "Without any consideration of love",
+        "option4": "Through self-love",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of technology in the second story?",
+        "option1": "It is a source of progress",
+        "option2": "It is a hindrance to the characters",
+        "option3": "It is irrelevant",
+        "option4": "It is a form of magic",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story explore the theme of change?",
+        "option1": "Change is resisted",
+        "option2": "Change is embraced",
+        "option3": "Without any consideration of change",
+        "option4": "Change is portrayed as inevitable",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of time in the first story?",
+        "option1": "It is a limited resource",
+        "option2": "It is a tool for manipulation",
+        "option3": "It is irrelevant",
+        "option4": "It is a cyclical force",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the first story address the theme of redemption?",
+        "option1": "Through self-sacrifice",
+        "option2": "Through repentance",
+        "option3": "Without any consideration of redemption",
+        "option4": "Through divine intervention",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the setting in the first story?",
+        "option1": "It is a futuristic world",
+        "option2": "It is a magical realm",
+        "option3": "It is a familiar city",
+        "option4": "It is an otherworldly dimension",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the first story explore the theme of morality?",
+        "option1": "Through ethical dilemmas",
+        "option2": "Without any consideration of morality",
+        "option3": "Through moral lessons",
+        "option4": "Through moral relativism",
+        "correctOption": "1"
+    },
+    {
+        "question": "What motivates the antagonist in the second story?",
+        "option1": "Love",
+        "option2": "Power",
+        "option3": "Fear",
+        "option4": "Revenge",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of dreams in the first story?",
+        "option1": "They predict the future",
+        "option2": "They serve as warnings",
+        "option3": "They are the source of conflict",
+        "option4": "They are a means of communication",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the second story challenge traditional gender roles?",
+        "option1": "By reinforcing gender stereotypes",
+        "option2": "By subverting gender expectations",
+        "option3": "By ignoring gender altogether",
+        "option4": "By presenting a gender-neutral society",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the narrative style of the second story?",
+        "option1": "First-person perspective",
+        "option2": "Third-person limited perspective",
+        "option3": "Epistolary style",
+        "option4": "Stream of consciousness",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the first story explore the theme of isolation?",
+        "option1": "Through physical confinement",
+        "option2": "Through emotional distance",
+        "option3": "Without any consideration of isolation",
+        "option4": "Through societal exclusion",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic significance of the title of the second story?",
+        "option1": "It represents a literal journey",
+        "option2": "It suggests a hidden truth",
+        "option3": "It foreshadows a tragic event",
+        "option4": "It alludes to a character's fate",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of memory in the second story?",
+        "option1": "It is a source of nostalgia",
+        "option2": "It is a burden to the protagonist",
+        "option3": "It is a driving force",
+        "option4": "It is irrelevant",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story address the theme of trust?",
+        "option1": "Through betrayal",
+        "option2": "Through blind faith",
+        "option3": "Without any consideration of trust",
+        "option4": "Through mutual understanding",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of music in the second story?",
+        "option1": "It is a source of joy",
+        "option2": "It is a means of communication",
+        "option3": "It is a symbol of rebellion",
+        "option4": "It is irrelevant",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the second story explore the theme of forgiveness?",
+        "option1": "Through a reconciliation scene",
+        "option2": "Through a symbolic gesture",
+        "option3": "Without any consideration of forgiveness",
+        "option4": "Through a heartfelt apology",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the significance of the secondary characters in the first story?",
+        "option1": "They are mere observers",
+        "option2": "They are crucial to the plot",
+        "option3": "They represent different perspectives",
+        "option4": "They are inconsequential",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story explore the theme of sacrifice?",
+        "option1": "Through selfless acts",
+        "option2": "Through involuntary losses",
+        "option3": "Without any consideration of sacrifice",
+        "option4": "Through martyrdom",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of the supernatural in the first story?",
+        "option1": "It is a source of fear",
+        "option2": "It is a source of wonder",
+        "option3": "It is irrelevant",
+        "option4": "It is a manifestation of human desires",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the protagonist in the second story change over the course of the narrative?",
+        "option1": "Becomes more compassionate",
+        "option2": "Becomes more cynical",
+        "option3": "Undergoes a physical transformation",
+        "option4": "Remains unchanged",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of fate in the first story?",
+        "option1": "It is inescapable",
+        "option2": "It is determined by choices",
+        "option3": "It is nonexistent",
+        "option4": "It is a test of character",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the first story explore the theme of redemption?",
+        "option1": "Through self-sacrifice",
+        "option2": "Through repentance",
+        "option3": "Without any consideration of redemption",
+        "option4": "Through divine intervention",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of art in the second story?",
+        "option1": "It is a form of communication",
+        "option2": "It is a tool for manipulation",
+        "option3": "It is irrelevant",
+        "option4": "It is a source of inspiration",
+        "correctOption": "4"
+    },
+    {
+        "question": "What symbolic element represents the protagonist's journey in the second story?",
+        "option1": "A broken compass",
+        "option2": "A map with missing pieces",
+        "option3": "A guiding star",
+        "option4": "A locked door",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the central theme of the first story in 'Two Stories About Flying'?",
+        "option1": "Betrayal",
+        "option2": "Transformation",
+        "option3": "Sacrifice",
+        "option4": "Deception",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the protagonist overcome adversity in the second story?",
+        "option1": "Through sheer strength",
+        "option2": "With the help of friends",
+        "option3": "Through clever strategies",
+        "option4": "By surrendering",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the concept of destiny play in 'Two Stories About Flying'?",
+        "option1": "It is inevitable",
+        "option2": "It is changeable",
+        "option3": "It is nonexistent",
+        "option4": "It is a mystery",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the secondary characters in the second story?",
+        "option1": "They represent obstacles",
+        "option2": "They provide comic relief",
+        "option3": "They offer guidance",
+        "option4": "They are inconsequential",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the first story, what is the turning point that propels the protagonist into the adventure?",
+        "option1": "A mysterious letter",
+        "option2": "A prophetic dream",
+        "option3": "A chance encounter",
+        "option4": "A magical artifact",
+        "correctOption": "4"
+    },
+    {
+        "question": "What genre conventions does the second story subvert?",
+        "option1": "The hero's journey",
+        "option2": "The love triangle",
+        "option3": "The quest for power",
+        "option4": "The redemption arc",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the first story suggest about the nature of reality?",
+        "option1": "Reality is subjective",
+        "option2": "Reality is fixed",
+        "option3": "Reality is a dream",
+        "option4": "Reality is an illusion",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the first story explore the concept of time?",
+        "option1": "Through time travel",
+        "option2": "Through time dilation",
+        "option3": "Through time manipulation",
+        "option4": "Without any consideration of time",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of nature in the second story?",
+        "option1": "It is an antagonist",
+        "option2": "It is a source of magic",
+        "option3": "It is indifferent",
+        "option4": "It is a nurturing force",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the protagonist gain or lose in the first story as a result of their flying experience?",
+        "option1": "Gains knowledge",
+        "option2": "Loses a loved one",
+        "option3": "Gains immortality",
+        "option4": "Loses memories",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the title 'Two Stories About Flying' suggest about the narrative structure?",
+        "option1": "Two separate narratives",
+        "option2": "Two connected narratives",
+        "option3": "Two contrasting narratives",
+        "option4": "Two parallel narratives",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the second story address the theme of identity?",
+        "option1": "Through a disguise",
+        "option2": "Through a secret past",
+        "option3": "Through a name change",
+        "option4": "Without any consideration of identity",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the emotional tone of the first story?",
+        "option1": "Hopeful",
+        "option2": "Melancholic",
+        "option3": "Uplifting",
+        "option4": "Mysterious",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the second story, what does the protagonist leave behind in their past life?",
+        "option1": "A job",
+        "option2": "A family",
+        "option3": "A reputation",
+        "option4": "A home",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of technology in the first story?",
+        "option1": "It hinders progress",
+        "option2": "It aids the protagonist",
+        "option3": "It is irrelevant",
+        "option4": "It is destructive",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central conflict in the second story?",
+        "option1": "Man vs. Nature",
+        "option2": "Man vs. Self",
+        "option3": "Man vs. Society",
+        "option4": "Man vs. Supernatural",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the second story explore the theme of legacy?",
+        "option1": "Through ancestral artifacts",
+        "option2": "Through family traditions",
+        "option3": "Through forgotten memories",
+        "option4": "Without any consideration of legacy",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does the protagonist's past play in the second story?",
+        "option1": "It haunts them",
+        "option2": "It motivates them",
+        "option3": "It is irrelevant",
+        "option4": "It is forgotten",
+        "correctOption": "2"
+    },
+    {
+        "question": "What color is associated with the protagonist's wings in the first story?",
+        "option1": "Silver",
+        "option2": "Gold",
+        "option3": "Rainbow",
+        "option4": "Black",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which emotion is prevalent in the relationship between characters in 'Two Stories About Flying'?",
+        "option1": "Jealousy",
+        "option2": "Compassion",
+        "option3": "Betrayal",
+        "option4": "Laughter",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the weather play in the second story?",
+        "option1": "It is a constant source of danger",
+        "option2": "It symbolizes the characters' emotions",
+        "option3": "It determines the plot",
+        "option4": "It is inconsequential",
+        "correctOption": "1"
+    },
+    {
+        "question": "What motivates the protagonist in the second story to embark on the journey?",
+        "option1": "Revenge",
+        "option2": "Curiosity",
+        "option3": "Escape",
+        "option4": "Duty",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story challenge traditional notions of flight?",
+        "option1": "Gravity is reversed",
+        "option2": "Wings are unnecessary",
+        "option3": "Flight is restricted to dreams",
+        "option4": "Objects fly without any explanation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the relationship between the two stories in 'Two Stories About Flying'?",
+        "option1": "They are unrelated",
+        "option2": "They share a common setting",
+        "option3": "They feature the same characters",
+        "option4": "They have a thematic connection",
+        "correctOption": "4"
+    },
+    {
+        "question": "What lesson does the protagonist learn in the first story?",
+        "option1": "The importance of family",
+        "option2": "The danger of pride",
+        "option3": "The inevitability of change",
+        "option4": "The power of perseverance",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the second story explore the concept of freedom?",
+        "option1": "As a fleeting illusion",
+        "option2": "As a fundamental right",
+        "option3": "As a form of rebellion",
+        "option4": "As a burden",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the protagonist in the second story leave behind before flying away?",
+        "option1": "A letter",
+        "option2": "A cherished possession",
+        "option3": "A key",
+        "option4": "A memory",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role do dreams play in the second story?",
+        "option1": "They guide the characters",
+        "option2": "They hinder the characters",
+        "option3": "They are the source of conflict",
+        "option4": "They are ignored",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the first story, how does the protagonist's attitude towards flying change over time?",
+        "option1": "From fear to excitement",
+        "option2": "From indifference to obsession",
+        "option3": "From curiosity to disappointment",
+        "option4": "From arrogance to humility",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the significance of the title 'Two Stories About Flying'?",
+        "option1": "The stories share a common protagonist",
+        "option2": "Both stories involve literal flight",
+        "option3": "The stories are unrelated",
+        "option4": "The stories explore the theme of escapism",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does friendship play in the second story?",
+        "option1": "It is a source of conflict",
+        "option2": "It is a source of support",
+        "option3": "It is irrelevant",
+        "option4": "It is a betrayal",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the second story, what is the antagonist's motivation?",
+        "option1": "Power",
+        "option2": "Love",
+        "option3": "Fear",
+        "option4": "Revenge",
+        "correctOption": "1"
+    },
+    {
+        "question": "What genre best describes 'Two Stories About Flying'?",
+        "option1": "Science Fiction",
+        "option2": "Romance",
+        "option3": "Fantasy",
+        "option4": "Mystery",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary obstacle faced by the protagonist in the second story?",
+        "option1": "Lack of knowledge",
+        "option2": "External enemies",
+        "option3": "Internal struggles",
+        "option4": "Physical limitations",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story explore the theme of identity?",
+        "option1": "Through physical transformation",
+        "option2": "Through psychological challenges",
+        "option3": "Through time travel",
+        "option4": "Through social interactions",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the title of the first story?",
+        "option1": "It hints at a tragic ending",
+        "option2": "It reflects the protagonist's emotions",
+        "option3": "It alludes to a magical event",
+        "option4": "It is metaphorical",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the second story challenge traditional notions of heroism?",
+        "option1": "By presenting an anti-hero",
+        "option2": "By portraying an ideal hero",
+        "option3": "By having no hero",
+        "option4": "By questioning the concept of heroism",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the source of conflict in the first story?",
+        "option1": "Internal struggle",
+        "option2": "External enemy",
+        "option3": "Lack of resources",
+        "option4": "Miscommunication",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the common theme of the unit 'Two Stories About Flying'?",
+        "option1": "Love stories",
+        "option2": "Adventure tales",
+        "option3": "Stories about animals",
+        "option4": "Stories about cooking",
+        "correctOption": "2"
+    },
+    {
+        "question": "In which unit are 'Two Stories About Flying' featured?",
+        "option1": "Unit One",
+        "option2": "Unit Two",
+        "option3": "Unit Three",
+        "option4": "Unit Four",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the narrative style of 'Two Stories About Flying'?",
+        "option1": "First-person perspective",
+        "option2": "Third-person perspective",
+        "option3": "Mixed perspective",
+        "option4": "No specific perspective",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the first story, what type of creature is the protagonist?",
+        "option1": "Dragon",
+        "option2": "Bird",
+        "option3": "Butterfly",
+        "option4": "Unicorn",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary emotion conveyed in the second story?",
+        "option1": "Joy",
+        "option2": "Sadness",
+        "option3": "Fear",
+        "option4": "Anger",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the first story, what motivates the protagonist to fly?",
+        "option1": "Escape from danger",
+        "option2": "Search for love",
+        "option3": "Hunt for food",
+        "option4": "Playfulness",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of flying in 'Two Stories About Flying'?",
+        "option1": "Symbol of freedom",
+        "option2": "Symbol of confinement",
+        "option3": "Symbol of mystery",
+        "option4": "Symbol of chaos",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who is the author of 'Two Stories About Flying'?",
+        "option1": "Jane Austen",
+        "option2": "J.K. Rowling",
+        "option3": "Gabriel Garcia Marquez",
+        "option4": "Roald Dahl",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the setting of the second story?",
+        "option1": "Space",
+        "option2": "Underwater",
+        "option3": "Mountains",
+        "option4": "City",
+        "correctOption": "4"
+    },
+    {
+        "question": "What lesson can be derived from 'Two Stories About Flying'?",
+        "option1": "Courage in adversity",
+        "option2": "Acceptance of fate",
+        "option3": "Importance of family",
+        "option4": "Value of material wealth",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who serves as a mentor to the protagonist in the first story?",
+        "option1": "Wise old owl",
+        "option2": "Elderly wizard",
+        "option3": "Talking tree",
+        "option4": "Friendly fish",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the climax of the second story?",
+        "option1": "A daring rescue",
+        "option2": "A surprising revelation",
+        "option3": "A tragic loss",
+        "option4": "A joyful reunion",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the first story conclude?",
+        "option1": "With a celebration",
+        "option2": "With a journey into the unknown",
+        "option3": "With a return to normalcy",
+        "option4": "With a heartbreaking farewell",
+        "correctOption": "2"
+    },
+    {
+        "question": "What symbolic element is associated with flying in the second story?",
+        "option1": "Broken wings",
+        "option2": "Feathers of hope",
+        "option3": "Fading dreams",
+        "option4": "Soaring aspirations",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the second story, what obstacle does the protagonist face while flying?",
+        "option1": "Stormy weather",
+        "option2": "Lack of wings",
+        "option3": "Fear of heights",
+        "option4": "Invisible barriers",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does the element of time play in 'Two Stories About Flying'?",
+        "option1": "It accelerates events",
+        "option2": "It decelerates events",
+        "option3": "It freezes events",
+        "option4": "It has no impact",
+        "correctOption": "3"
+    },
+    {
+        "question": "What emotion does the protagonist in the second story experience most intensely?",
+        "option1": "Excitement",
+        "option2": "Anguish",
+        "option3": "Serenity",
+        "option4": "Confusion",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which literary device is prominently used in 'Two Stories About Flying'?",
+        "option1": "Metaphor",
+        "option2": "Irony",
+        "option3": "Foreshadowing",
+        "option4": "Alliteration",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the first story suggest about the nature of dreams?",
+        "option1": "Dreams are fleeting",
+        "option2": "Dreams are attainable",
+        "option3": "Dreams are deceptive",
+        "option4": "Dreams are irrelevant",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the second story, what is the protagonist's ultimate destination?",
+        "option1": "The moon",
+        "option2": "The sun",
+        "option3": "The stars",
+        "option4": "Earth",
+        "correctOption": "3"
+    }
+]

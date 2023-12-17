@@ -1,0 +1,778 @@
+[
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the role of mindfulness in daily life?",
+        "option1": "Irrelevant",
+        "option2": "Distraction",
+        "option3": "Essential",
+        "option4": "Optional",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the wheel symbol in Buddha's teachings mentioned in the Sermon at Benares?",
+        "option1": "Cycle of Birth and Death",
+        "option2": "Reincarnation",
+        "option3": "Enlightenment",
+        "option4": "Meditation",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the nature of all things?",
+        "option1": "Impermanence",
+        "option2": "Eternal",
+        "option3": "Stable",
+        "option4": "Illusion",
+        "correctOption": "1"
+    },
+    {
+        "question": "What term is often associated with Buddha's teachings in the Sermon at Benares?",
+        "option1": "Four Noble Truths",
+        "option2": "Ten Commandments",
+        "option3": "Seven Virtues",
+        "option4": "Twelvefold Path",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the path to the cessation of suffering?",
+        "option1": "The Eightfold Path",
+        "option2": "The Five Pillars",
+        "option3": "The Ten Commandments",
+        "option4": "The Four Noble Truths",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the first step of the Eightfold Path mentioned in the Sermon at Benares?",
+        "option1": "Right View",
+        "option2": "Right Concentration",
+        "option3": "Right Speech",
+        "option4": "Right Livelihood",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to Buddha, what is the end goal of practicing the Eightfold Path?",
+        "option1": "Nirvana",
+        "option2": "Heaven",
+        "option3": "Reincarnation",
+        "option4": "Moksha",
+        "correctOption": "1"
+    },
+    {
+        "question": "What metaphor does Buddha use in the Sermon at Benares to explain the Middle Way?",
+        "option1": "A Tightrope Walker",
+        "option2": "A River",
+        "option3": "A Mountain",
+        "option4": "A Forest",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to Buddha, what is the root cause of human suffering?",
+        "option1": "Ignorance",
+        "option2": "Greed",
+        "option3": "Hatred",
+        "option4": "Attachment",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the main focus of the Sermon at Benares?",
+        "option1": "Karma",
+        "option2": "Meditation",
+        "option3": "Suffering",
+        "option4": "Compassion",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the Sermon at Benares, what does Buddha emphasize as the key to a meaningful life?",
+        "option1": "Wealth",
+        "option2": "Fame",
+        "option3": "Happiness",
+        "option4": "Righteousness",
+        "correctOption": "4"
+    },
+    {
+        "question": "According to Buddha, what is the cause of the cycle of birth and death?",
+        "option1": "Karma",
+        "option2": "Desire",
+        "option3": "Ignorance",
+        "option4": "Attachment",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the deer park in relation to the Sermon at Benares?",
+        "option1": "Buddha's Birthplace",
+        "option2": "First Sermon Location",
+        "option3": "Enlightenment Site",
+        "option4": "Nirvana Retreat",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha prescribe as the right way of earning a livelihood in the Sermon at Benares?",
+        "option1": "Merchant",
+        "option2": "Soldier",
+        "option3": "Teacher",
+        "option4": "Monk",
+        "correctOption": "4"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the cause of conflicts among people?",
+        "option1": "Jealousy",
+        "option2": "Desire",
+        "option3": "Hatred",
+        "option4": "Ignorance",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of meditation in Buddha's teachings in the Sermon at Benares?",
+        "option1": "Secondary Practice",
+        "option2": "Primary Practice",
+        "option3": "Optional Practice",
+        "option4": "Forbidden Practice",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha consider as the key to moral and mental purification in the Sermon at Benares?",
+        "option1": "Charity",
+        "option2": "Meditation",
+        "option3": "Wisdom",
+        "option4": "Fasting",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the foundation of a harmonious society?",
+        "option1": "Justice",
+        "option2": "Compassion",
+        "option3": "Equality",
+        "option4": "Duty",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of the Sermon at Benares, what does Buddha mean by 'Right Livelihood'?",
+        "option1": "Non-violent Occupation",
+        "option2": "Profitable Occupation",
+        "option3": "Spiritual Occupation",
+        "option4": "Noble Occupation",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of mindfulness in overcoming suffering?",
+        "option1": "Distraction",
+        "option2": "Indifference",
+        "option3": "Awareness",
+        "option4": "Avoidance",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the role of compassion in overcoming personal suffering?",
+        "option1": "Detrimental",
+        "option2": "Optional",
+        "option3": "Essential",
+        "option4": "Distraction",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the Sermon at Benares, what does Buddha recommend as the right attitude towards the body?",
+        "option1": "Indifference",
+        "option2": "Attachment",
+        "option3": "Renunciation",
+        "option4": "Indulgence",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the nature of reality as perceived by an enlightened being?",
+        "option1": "Impermanence",
+        "option2": "Eternal",
+        "option3": "Fixed",
+        "option4": "Illusion",
+        "correctOption": "1"
+    },
+    {
+        "question": "What term is commonly used to refer to the cessation of suffering in the context of the Sermon at Benares?",
+        "option1": "Happiness",
+        "option2": "Nirvana",
+        "option3": "Salvation",
+        "option4": "Paradise",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to Buddha, what is the role of patience in the path to enlightenment discussed in the Sermon at Benares?",
+        "option1": "Impatience",
+        "option2": "Optional",
+        "option3": "Essential",
+        "option4": "Detrimental",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the turning of the wheel in the Sermon at Benares?",
+        "option1": "Cyclical Nature of Life",
+        "option2": "Symbol of Authority",
+        "option3": "Wheel of Fortune",
+        "option4": "Means of Transportation",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of right action in the Eightfold Path?",
+        "option1": "Violent Behavior",
+        "option2": "Ethical Conduct",
+        "option3": "Deceptive Behavior",
+        "option4": "Lazy Behavior",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of the Sermon at Benares, what does Buddha mean by 'Right Intention'?",
+        "option1": "Evil Intentions",
+        "option2": "Neutral Intentions",
+        "option3": "Positive Intentions",
+        "option4": "Random Intentions",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the nature of desire?",
+        "option1": "Source of Joy",
+        "option2": "Source of Suffering",
+        "option3": "Temporary Pleasure",
+        "option4": "Noble Aspiration",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha advise in the Sermon at Benares regarding the pursuit of fame?",
+        "option1": "Obsession with Fame",
+        "option2": "Indifference to Fame",
+        "option3": "Avoidance of Fame",
+        "option4": "Balanced Approach to Fame",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of right understanding in the Eightfold Path?",
+        "option1": "Intellectual Knowledge",
+        "option2": "Superstition",
+        "option3": "Insight into Reality",
+        "option4": "Blind Faith",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does Buddha recommend in the Sermon at Benares as the right way to handle success and failure?",
+        "option1": "Arrogance",
+        "option2": "Indifference",
+        "option3": "Depression",
+        "option4": "Gratitude",
+        "correctOption": "4"
+    },
+    {
+        "question": "According to Buddha, what is the role of right livelihood in the Eightfold Path?",
+        "option1": "Unethical Occupation",
+        "option2": "Profitable Occupation",
+        "option3": "Spiritual Occupation",
+        "option4": "Non-violent Occupation",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the Sermon at Benares, what does Buddha recommend as the right way to handle criticism?",
+        "option1": "Defensiveness",
+        "option2": "Revenge",
+        "option3": "Indifference",
+        "option4": "Constructive Response",
+        "correctOption": "4"
+    },
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the nature of the present moment?",
+        "option1": "Permanent",
+        "option2": "Transient",
+        "option3": "Illusory",
+        "option4": "Eternal",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the Eightfold Path in the context of the Sermon at Benares?",
+        "option1": "Guide to Meditation",
+        "option2": "Path to Nirvana",
+        "option3": "Code of Conduct",
+        "option4": "Historical Narrative",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of right speech in the Eightfold Path?",
+        "option1": "Silence",
+        "option2": "Flattering Speech",
+        "option3": "Truthful and Harmless Speech",
+        "option4": "Harsh Speech",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the Sermon at Benares, what does Buddha emphasize as the key to a meaningful life?",
+        "option1": "Wealth",
+        "option2": "Fame",
+        "option3": "Happiness",
+        "option4": "Righteousness",
+        "correctOption": "4"
+    },
+    {
+        "question": "According to Buddha, what is the cause of the cycle of birth and death?",
+        "option1": "Karma",
+        "option2": "Desire",
+        "option3": "Ignorance",
+        "option4": "Attachment",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of mindfulness in overcoming suffering?",
+        "option1": "Distraction",
+        "option2": "Indifference",
+        "option3": "Awareness",
+        "option4": "Avoidance",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the Sermon at Benares, what does Buddha recommend as the right attitude toward material possessions?",
+        "option1": "Attachment",
+        "option2": "Renunciation",
+        "option3": "Greed",
+        "option4": "Indulgence",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the nature of the ultimate reality?",
+        "option1": "Personal God",
+        "option2": "Empty of Self",
+        "option3": "Eternal Soul",
+        "option4": "Material Universe",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of wisdom in the Eightfold Path according to the Sermon at Benares?",
+        "option1": "Intellectual Knowledge",
+        "option2": "Insight into Reality",
+        "option3": "Superstition",
+        "option4": "Blind Faith",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to Buddha, what is the significance of ethical conduct in one's spiritual journey?",
+        "option1": "Irrelevant",
+        "option2": "Optional",
+        "option3": "Essential",
+        "option4": "Harmful",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the purpose of the Dhammacakkappavattana Sutta, commonly known as the Sermon at Benares?",
+        "option1": "Initiation Ritual",
+        "option2": "Enlightenment Discourse",
+        "option3": "Moral Code",
+        "option4": "Historical Narrative",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of compassion in one's interactions with others?",
+        "option1": "Detrimental",
+        "option2": "Optional",
+        "option3": "Essential",
+        "option4": "Distraction",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the context of the Sermon at Benares, what does Buddha mean by 'Right Mindfulness'?",
+        "option1": "Constant Worry",
+        "option2": "Moment-to-Moment Awareness",
+        "option3": "Forgetfulness",
+        "option4": "Mindlessness",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the nature of craving?",
+        "option1": "Temporary Pleasure",
+        "option2": "Cause of Suffering",
+        "option3": "Source of Happiness",
+        "option4": "Noble Aspiration",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the deer in the context of the Sermon at Benares?",
+        "option1": "Sacred Animal",
+        "option2": "Symbol of Enlightenment",
+        "option3": "Mystical Creature",
+        "option4": "Vehicle of a Deity",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the ultimate goal of the Eightfold Path?",
+        "option1": "Worldly Success",
+        "option2": "Heavenly Bliss",
+        "option3": "Nirvana",
+        "option4": "Political Power",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does Buddha advise in the Sermon at Benares regarding the pursuit of knowledge?",
+        "option1": "Intellectual Vanity",
+        "option2": "Ignorance",
+        "option3": "Wisdom",
+        "option4": "Apathy",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to Buddha, what is the role of generosity in the spiritual path discussed in the Sermon at Benares?",
+        "option1": "Optional",
+        "option2": "Detrimental",
+        "option3": "Essential",
+        "option4": "Superfluous",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the Sermon at Benares, what does Buddha recommend as the right way to handle anger?",
+        "option1": "Suppression",
+        "option2": "Expression",
+        "option3": "Indifference",
+        "option4": "Retaliation",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of right concentration in the Eightfold Path?",
+        "option1": "Intense Focus on Material Gains",
+        "option2": "Meditative Absorption",
+        "option3": "Addiction to Sensory Pleasures",
+        "option4": "Distraction",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the lotus flower in Buddha's teachings as discussed in the Sermon at Benares?",
+        "option1": "Symbol of Purity",
+        "option2": "Symbol of Wealth",
+        "option3": "Symbol of War",
+        "option4": "Symbol of Destruction",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to Buddha, what is the nature of human existence as described in the Sermon at Benares?",
+        "option1": "Permanent",
+        "option2": "Transient",
+        "option3": "Illusory",
+        "option4": "Ephemeral",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha emphasize in the Sermon at Benares as the key to a harmonious community?",
+        "option1": "Authority",
+        "option2": "Justice",
+        "option3": "Compassion",
+        "option4": "Dominance",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of ritualistic practices in spiritual growth?",
+        "option1": "Essential",
+        "option2": "Superstitious",
+        "option3": "Irrelevant",
+        "option4": "Optional",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of mindfulness in daily life?",
+        "option1": "Irrelevant",
+        "option2": "Distraction",
+        "option3": "Essential",
+        "option4": "Optional",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the wheel symbol in Buddha's teachings mentioned in the Sermon at Benares?",
+        "option1": "Cycle of Birth and Death",
+        "option2": "Reincarnation",
+        "option3": "Enlightenment",
+        "option4": "Meditation",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the nature of all things?",
+        "option1": "Impermanence",
+        "option2": "Eternal",
+        "option3": "Stable",
+        "option4": "Illusion",
+        "correctOption": "1"
+    },
+    {
+        "question": "What term is commonly associated with the Buddha's first sermon in Pali literature?",
+        "option1": "Dharma",
+        "option2": "Sutta",
+        "option3": "Vipassana",
+        "option4": "Koan",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the Sermon at Benares, what does Buddha emphasize as the key to a peaceful mind?",
+        "option1": "Asceticism",
+        "option2": "Detachment",
+        "option3": "Equanimity",
+        "option4": "Sensuality",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the purpose of the Four Noble Truths discussed in the Sermon at Benares?",
+        "option1": "Predicting the Future",
+        "option2": "Diagnosing Suffering",
+        "option3": "Creating Dogma",
+        "option4": "Justifying Actions",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to Buddha, what is the root of all unwholesome actions?",
+        "option1": "Ignorance",
+        "option2": "Desire",
+        "option3": "Hatred",
+        "option4": "Fear",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the context of the Sermon at Benares, what is the significance of the Sangha?",
+        "option1": "Monastic Community",
+        "option2": "Holy Scripture",
+        "option3": "Place of Worship",
+        "option4": "Religious Festival",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to Buddha, what is the consequence of breaking the ethical precepts discussed in the Sermon at Benares?",
+        "option1": "Excommunication",
+        "option2": "Bad Karma",
+        "option3": "Heavenly Reward",
+        "option4": "Forgiveness",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha advise in the Sermon at Benares regarding the pursuit of sensual pleasures?",
+        "option1": "Unrestricted Indulgence",
+        "option2": "Moderation",
+        "option3": "Asceticism",
+        "option4": "Avoidance",
+        "correctOption": "4"
+    },
+    {
+        "question": "According to Buddha, what is the role of compassion in the path to enlightenment?",
+        "option1": "Optional",
+        "option2": "Detrimental",
+        "option3": "Essential",
+        "option4": "Distraction",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the Bodhi tree in the Sermon at Benares?",
+        "option1": "Enlightenment Site",
+        "option2": "Place of Worship",
+        "option3": "Monastic Retreat",
+        "option4": "Pilgrimage Destination",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the nature of the self?",
+        "option1": "Eternal and Unchanging",
+        "option2": "Non-existent",
+        "option3": "Material",
+        "option4": "Divine",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central theme of Buddha's teachings in the Sermon at Benares?",
+        "option1": "Happiness",
+        "option2": "Suffering",
+        "option3": "Love",
+        "option4": "Knowledge",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the role of right effort in the Eightfold Path?",
+        "option1": "Exertion to Gain Wealth",
+        "option2": "Exertion in Meditation",
+        "option3": "Exertion in Social Service",
+        "option4": "Exertion in Physical Exercise",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha emphasize in the Sermon at Benares as the key to personal transformation?",
+        "option1": "External Rituals",
+        "option2": "Self-discipline",
+        "option3": "Worship of Deities",
+        "option4": "Intellectual Knowledge",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the nature of the mind?",
+        "option1": "Permanent",
+        "option2": "Transient",
+        "option3": "Illusory",
+        "option4": "Eternal",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha recommend in the Sermon at Benares as the antidote to hatred?",
+        "option1": "Retaliation",
+        "option2": "Forgiveness",
+        "option3": "Indifference",
+        "option4": "Repression",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of the Sermon at Benares, what does Buddha mean by 'Right Speech'?",
+        "option1": "Truthful and Harmless Speech",
+        "option2": "Silence",
+        "option3": "Flattering Speech",
+        "option4": "Harsh Speech",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the title of the sermon delivered by Buddha at Benares?",
+        "option1": "The Noble Eightfold Path",
+        "option2": "The Sermon on the Mount",
+        "option3": "The Dhammapada",
+        "option4": "The Sermon at Benares",
+        "correctOption": "4"
+    },
+    {
+        "question": "In which city did Buddha deliver the Sermon at Benares?",
+        "option1": "Lumbini",
+        "option2": "Varanasi",
+        "option3": "Ayodhya",
+        "option4": "Bodh Gaya",
+        "correctOption": "2"
+    },
+    {
+        "question": "What event is considered the starting point of Buddha's teaching career?",
+        "option1": "The Enlightenment at Bodh Gaya",
+        "option2": "The Sermon at Benares",
+        "option3": "The Birth of Buddha",
+        "option4": "The Parinirvana",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the cause of suffering?",
+        "option1": "Desire",
+        "option2": "Ignorance",
+        "option3": "Attachment",
+        "option4": "Hatred",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which term is often associated with Buddha's teachings in the Sermon at Benares?",
+        "option1": "Four Noble Truths",
+        "option2": "Ten Commandments",
+        "option3": "Seven Virtues",
+        "option4": "Twelvefold Path",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to Buddha's teachings in the Sermon at Benares, what is the path to the cessation of suffering?",
+        "option1": "The Eightfold Path",
+        "option2": "The Five Pillars",
+        "option3": "The Ten Commandments",
+        "option4": "The Four Noble Truths",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the first step of the Eightfold Path mentioned in the Sermon at Benares?",
+        "option1": "Right View",
+        "option2": "Right Concentration",
+        "option3": "Right Speech",
+        "option4": "Right Livelihood",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to Buddha, what is the end goal of practicing the Eightfold Path?",
+        "option1": "Nirvana",
+        "option2": "Heaven",
+        "option3": "Reincarnation",
+        "option4": "Moksha",
+        "correctOption": "1"
+    },
+    {
+        "question": "What metaphor does Buddha use in the Sermon at Benares to explain the Middle Way?",
+        "option1": "A Tightrope Walker",
+        "option2": "A River",
+        "option3": "A Mountain",
+        "option4": "A Forest",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to Buddha, what is the root cause of human suffering?",
+        "option1": "Ignorance",
+        "option2": "Greed",
+        "option3": "Hatred",
+        "option4": "Attachment",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the main focus of the Sermon at Benares?",
+        "option1": "Karma",
+        "option2": "Meditation",
+        "option3": "Suffering",
+        "option4": "Compassion",
+        "correctOption": "3"
+    },
+    {
+        "question": "In the Sermon at Benares, what does Buddha emphasize as the key to a meaningful life?",
+        "option1": "Wealth",
+        "option2": "Fame",
+        "option3": "Happiness",
+        "option4": "Righteousness",
+        "correctOption": "4"
+    },
+    {
+        "question": "According to Buddha, what is the cause of the cycle of birth and death?",
+        "option1": "Karma",
+        "option2": "Desire",
+        "option3": "Ignorance",
+        "option4": "Attachment",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the deer park in relation to the Sermon at Benares?",
+        "option1": "Buddha's Birthplace",
+        "option2": "First Sermon Location",
+        "option3": "Enlightenment Site",
+        "option4": "Nirvana Retreat",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha prescribe as the right way of earning a livelihood in the Sermon at Benares?",
+        "option1": "Merchant",
+        "option2": "Soldier",
+        "option3": "Teacher",
+        "option4": "Monk",
+        "correctOption": "4"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the cause of conflicts among people?",
+        "option1": "Jealousy",
+        "option2": "Desire",
+        "option3": "Hatred",
+        "option4": "Ignorance",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of meditation in Buddha's teachings in the Sermon at Benares?",
+        "option1": "Secondary Practice",
+        "option2": "Primary Practice",
+        "option3": "Optional Practice",
+        "option4": "Forbidden Practice",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Buddha consider as the key to moral and mental purification in the Sermon at Benares?",
+        "option1": "Charity",
+        "option2": "Meditation",
+        "option3": "Wisdom",
+        "option4": "Fasting",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the Sermon at Benares, what is the foundation of a harmonious society?",
+        "option1": "Justice",
+        "option2": "Compassion",
+        "option3": "Equality",
+        "option4": "Duty",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of the Sermon at Benares, what does Buddha mean by 'Right Livelihood'?",
+        "option1": "Non-violent Occupation",
+        "option2": "Profitable Occupation",
+        "option3": "Spiritual Occupation",
+        "option4": "Noble Occupation",
+        "correctOption": "1"
+    }
+]

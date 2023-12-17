@@ -1,0 +1,482 @@
+[
+    {
+        "question": "81. If cot A = √3, what is the value of tan A?",
+        "option1": "1/√3",
+        "option2": "-√3",
+        "option3": "√3",
+        "option4": "-1/√3",
+        "correctOption": "1/√3"
+    },
+    {
+        "question": "82. Express sin^2(A) - cos^2(A) in terms of tan A.",
+        "option1": "-tan^2A",
+        "option2": "tan^2A",
+        "option3": "-1",
+        "option4": "1",
+        "correctOption": "1"
+    },
+    {
+        "question": "83. If sec A = 2, what is the value of cos A?",
+        "option1": "1/2",
+        "option2": "2",
+        "option3": "-2",
+        "option4": "-1/2",
+        "correctOption": "1/2"
+    },
+    {
+        "question": "84. Solve for x: cos^2(2x) - sin^2(2x) = 0.",
+        "option1": "π/4",
+        "option2": "π/8",
+        "option3": "3π/8",
+        "option4": "π/2",
+        "correctOption": "3π/8"
+    },
+    {
+        "question": "85. Determine the value of sin(2θ) if sin θ = 3/5.",
+        "option1": "4/5",
+        "option2": "3/4",
+        "option3": "√1/5",
+        "option4": "√3/5",
+        "correctOption": "4/5"
+    },
+    {
+        "question": "86. If tan(A - B) = 1 and tan(A + B) = 3, what is the value of tan A?",
+        "option1": "2",
+        "option2": "3/2",
+        "option3": "1/2",
+        "option4": "1",
+        "correctOption": "2"
+    },
+    {
+        "question": "87. What is the period of the function y = sin^2(3x) + cos(2x)?",
+        "option1": "2π",
+        "option2": "π",
+        "option3": "3π",
+        "option4": "2/3π",
+        "correctOption": "π"
+    },
+    {
+        "question": "88. If cos^2A - sin^2A = 0.2, what is the value of cos A?",
+        "option1": "0.8",
+        "option2": "√0.2",
+        "option3": "0.6",
+        "option4": "√0.8",
+        "correctOption": "√0.8"
+    },
+    {
+        "question": "89. Determine the general solution for cos^2A - sin^2A = 0.",
+        "option1": "(2n + 1)π/2",
+        "option2": "nπ",
+        "option3": "(2n - 1)π/2",
+        "option4": "2nπ",
+        "correctOption": "nπ"
+    },
+    {
+        "question": "90. If sin(A - B) = 1/2 and sin(A + B) = √3/2, what are the possible values of A and B?",
+        "option1": "A = π/6, B = π/6",
+        "option2": "A = π/4, B = π/4",
+        "option3": "A = π/3, B = π/6",
+        "option4": "A = π/6, B = π/3",
+        "correctOption": "A = π/6, B = π/6"
+    },
+    {
+        "question": "91. If tan A = 4/3, what is the value of sin(2A)?",
+        "option1": "24/25",
+        "option2": "7/25",
+        "option3": "16/25",
+        "option4": "3/5",
+        "correctOption": "24/25"
+    },
+    {
+        "question": "92. Evaluate cot(π/4) + cosec(π/3).",
+        "option1": "2 + √3",
+        "option2": "1 + √3",
+        "option3": "2 - √3",
+        "option4": "1 - √3",
+        "correctOption": "2 + √3"
+    },
+    {
+        "question": "93. If sin A = 4/5, what is the value of sin(2A)?",
+        "option1": "24/25",
+        "option2": "7/25",
+        "option3": "16/25",
+        "option4": "3/5",
+        "correctOption": "24/25"
+    },
+    {
+        "question": "94. Determine the value of tan^2(π/4) + sec^2(π/4).",
+        "option1": "2",
+        "option2": "1",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "4"
+    },
+    {
+        "question": "95. If sin(A + B) = 3/5 and cos(A - B) = 4/5, what are the possible values of A and B?",
+        "option1": "A = π/6, B = π/6",
+        "option2": "A = π/4, B = π/4",
+        "option3": "A = π/3, B = π/6",
+        "option4": "A = π/6, B = π/3",
+        "correctOption": "A = π/6, B = π/4"
+    },
+    {
+        "question": "96. What is the value of cot(π/3) + cosec(π/6)?",
+        "option1": "3/√3",
+        "option2": "√3/3",
+        "option3": "√3",
+        "option4": "3",
+        "correctOption": "3/√3"
+    },
+    {
+        "question": "97. If tan^2A + 1 = sec^2A, what is the value of sin^2A?",
+        "option1": "1/2",
+        "option2": "2/3",
+        "option3": "3/4",
+        "option4": "4/5",
+        "correctOption": "2/3"
+    },
+    {
+        "question": "98. Determine the value of sin^2(π/4) + cos^2(π/4).",
+        "option1": "1",
+        "option2": "√2",
+        "option3": "2",
+        "option4": "1/√2",
+        "correctOption": "1"
+    },
+    {
+        "question": "99. If sin A = 1/2, what is the value of tan(π/6 - A)?",
+        "option1": "1",
+        "option2": "√3",
+        "option3": "1/√3",
+        "option4": "2/√3",
+        "correctOption": "1/√3"
+    },
+    {
+        "question": "100. Evaluate sin^2(60 degrees) + cos^2(30 degrees).",
+        "option1": "1",
+        "option2": "√2",
+        "option3": "2",
+        "option4": "1/√2",
+        "correctOption": "1"
+    },
+    {
+        "question": "61. What is the definition of an acute angle?",
+        "option1": "An angle greater than 90 degrees.",
+        "option2": "An angle less than 90 degrees.",
+        "option3": "An angle exactly equal to 90 degrees.",
+        "option4": "An angle greater than 180 degrees.",
+        "correctOption": "2"
+    },
+    {
+        "question": "62. In a right-angled triangle, which side is opposite the right angle?",
+        "option1": "Hypotenuse",
+        "option2": "Adjacent",
+        "option3": "Opposite",
+        "option4": "None of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "63. What is the value of sin 0 degrees?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "-1",
+        "option4": "Undefined",
+        "correctOption": "2"
+    },
+    {
+        "question": "64. If one acute angle of a right-angled triangle is 45 degrees, what is the measure of the other acute angle?",
+        "option1": "45 degrees",
+        "option2": "90 degrees",
+        "option3": "30 degrees",
+        "option4": "60 degrees",
+        "correctOption": "3"
+    },
+    {
+        "question": "65. What is the value of cos 60 degrees?",
+        "option1": "1/2",
+        "option2": "√3/2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "1/2"
+    },
+    {
+        "question": "66. If tan A = 0, what is the value of sin A?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "-1",
+        "option4": "Undefined",
+        "correctOption": "2"
+    },
+    {
+        "question": "67. What is the sum of the interior angles of a triangle?",
+        "option1": "90 degrees",
+        "option2": "180 degrees",
+        "option3": "360 degrees",
+        "option4": "45 degrees",
+        "correctOption": "2"
+    },
+    {
+        "question": "68. If cos A = 0.7, what is the value of sec A?",
+        "option1": "1",
+        "option2": "1/0.7",
+        "option3": "0.7",
+        "option4": "1/0.7",
+        "correctOption": "1/0.7"
+    },
+    {
+        "question": "69. What is the value of tan 30 degrees?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "√3/2",
+        "option4": "1/√3",
+        "correctOption": "1/√3"
+    },
+    {
+        "question": "70. If sin A = 1/2, what is the value of cos A?",
+        "option1": "3/2",
+        "option2": "2/3",
+        "option3": "1/3",
+        "option4": "√3/2",
+        "correctOption": "√3/2"
+    },
+    {
+        "question": "71. Which trigonometric ratio is the ratio of the length of the opposite side to the hypotenuse?",
+        "option1": "Sine (sin)",
+        "option2": "Cosine (cos)",
+        "option3": "Tangent (tan)",
+        "option4": "Cosecant (csc)",
+        "correctOption": "1"
+    },
+    {
+        "question": "72. What is the value of cos 45 degrees?",
+        "option1": "1/2",
+        "option2": "√2/2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "√2/2"
+    },
+    {
+        "question": "73. If cot A = 2, what is the value of tan A?",
+        "option1": "1/2",
+        "option2": "2",
+        "option3": "1/3",
+        "option4": "3",
+        "correctOption": "1/2"
+    },
+    {
+        "question": "74. Express sin(A + B) in terms of sin A and cos B.",
+        "option1": "sin A cos B + cos A sin B",
+        "option2": "sin A cos A + sin B cos B",
+        "option3": "sin A sin B - cos A cos B",
+        "option4": "cos A sin A - cos B sin B",
+        "correctOption": "1"
+    },
+    {
+        "question": "75. If csc A = 3, what is the value of sin A?",
+        "option1": "1/3",
+        "option2": "3",
+        "option3": "3/2",
+        "option4": "1/2",
+        "correctOption": "1/3"
+    },
+    {
+        "question": "76. What is the value of tan 0 degrees?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "√3",
+        "option4": "Undefined",
+        "correctOption": "0"
+    },
+    {
+        "question": "77. If sin A = 2/5, what is the value of cosec A?",
+        "option1": "5/2",
+        "option2": "2/5",
+        "option3": "5/3",
+        "option4": "3/5",
+        "correctOption": "5/2"
+    },
+    {
+        "question": "78. What is the simplified form of tan(A + B) / tan(A - B)?",
+        "option1": "1",
+        "option2": "cot B",
+        "option3": "tan A",
+        "option4": "cos B",
+        "correctOption": "3"
+    },
+    {
+        "question": "79. If cos A = -0.4, what is the value of sin A?",
+        "option1": "0.8",
+        "option2": "0.4",
+        "option3": "-0.4",
+        "option4": "-0.8",
+        "correctOption": "0.8"
+    },
+    {
+        "question": "80. Determine the value of cos(π/6).",
+        "option1": "1/2",
+        "option2": "√2/2",
+        "option3": "1",
+        "option4": "1/√2",
+        "correctOption": "√3/2"
+    },
+    {
+        "question": "41. What is the primary purpose of trigonometry?",
+        "option1": "To study shapes and sizes of triangles.",
+        "option2": "To understand the relationships between angles and sides of triangles.",
+        "option3": "To calculate the area of circles.",
+        "option4": "To analyze linear equations.",
+        "correctOption": "2"
+    },
+    {
+        "question": "42. If the angle in a right-angled triangle is 30°, what is the value of sin 30°?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "1/2",
+        "option4": "√3/2",
+        "correctOption": "3"
+    },
+    {
+        "question": "43. What is the complementary angle of 20°?",
+        "option1": "70°",
+        "option2": "90°",
+        "option3": "110°",
+        "option4": "180°",
+        "correctOption": "1"
+    },
+    {
+        "question": "44. In a right-angled triangle, if one acute angle is 60°, what is the measure of the other acute angle?",
+        "option1": "30°",
+        "option2": "45°",
+        "option3": "90°",
+        "option4": "60°",
+        "correctOption": "1"
+    },
+    {
+        "question": "45. What is the value of cos 0°?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "-1",
+        "option4": "Undefined",
+        "correctOption": "1"
+    },
+    {
+        "question": "46. If tan A = 1, what is the value of sin A?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "-1",
+        "option4": "Undefined",
+        "correctOption": "1"
+    },
+    {
+        "question": "47. What is the sum of the angles in a triangle?",
+        "option1": "90°",
+        "option2": "180°",
+        "option3": "360°",
+        "option4": "45°",
+        "correctOption": "2"
+    },
+    {
+        "question": "48. If cos A = 0.5, what is the value of sec A?",
+        "option1": "2",
+        "option2": "1",
+        "option3": "0.5",
+        "option4": "1/2",
+        "correctOption": "2"
+    },
+    {
+        "question": "49. What is the value of tan 45°?",
+        "option1": "1",
+        "option2": "0",
+        "option3": "√2",
+        "option4": "1/√2",
+        "correctOption": "1"
+    },
+    {
+        "question": "50. If sin A = 4/5, what is the value of cos A?",
+        "option1": "3/5",
+        "option2": "√3/5",
+        "option3": "1/5",
+        "option4": "0.8",
+        "correctOption": "1"
+    },
+    {
+        "question": "51. Which of the following is the reciprocal of tan θ?",
+        "option1": "cot θ",
+        "option2": "sec θ",
+        "option3": "cosec θ",
+        "option4": "sin θ",
+        "correctOption": "1"
+    },
+    {
+        "question": "52. What is the value of cos 30°?",
+        "option1": "1/2",
+        "option2": "√3/2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "1"
+    },
+    {
+        "question": "53. If cot A = 7/24, what is the value of tan A?",
+        "option1": "24/7",
+        "option2": "7/24",
+        "option3": "1/24",
+        "option4": "1/7",
+        "correctOption": "2"
+    },
+    {
+        "question": "54. Express sin(A + B) in terms of sin A and cos B.",
+        "option1": "sin A cos B + cos A sin B",
+        "option2": "sin A cos A + sin B cos B",
+        "option3": "sin A sin B - cos A cos B",
+        "option4": "cos A sin A - cos B sin B",
+        "correctOption": "1"
+    },
+    {
+        "question": "55. If csc A = 2, what is the value of sin A?",
+        "option1": "1",
+        "option2": "0.5",
+        "option3": "2",
+        "option4": "1/2",
+        "correctOption": "0.5"
+    },
+    {
+        "question": "56. What is the value of tan 0°?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "√3",
+        "option4": "Undefined",
+        "correctOption": "0"
+    },
+    {
+        "question": "57. If sin A = 3/4, what is the value of cosec A?",
+        "option1": "4/3",
+        "option2": "3/4",
+        "option3": "1/4",
+        "option4": "4",
+        "correctOption": "4/3"
+    },
+    {
+        "question": "58. What is the simplified form of tan(A + B) / tan(A - B)?",
+        "option1": "1",
+        "option2": "cot B",
+        "option3": "tan A",
+        "option4": "cos B",
+        "correctOption": "3"
+    },
+    {
+        "question": "59. If cos A = -0.6, what is the value of sin A?",
+        "option1": "0.8",
+        "option2": "0.6",
+        "option3": "-0.6",
+        "option4": "-0.8",
+        "correctOption": "0.8"
+    },
+    {
+        "question": "60. Determine the value of cos(π/6).",
+        "option1": "1/2",
+        "option2": "√2/2",
+        "option3": "1",
+        "option4": "1/√2",
+        "correctOption": "√3/2"
+    }
+]

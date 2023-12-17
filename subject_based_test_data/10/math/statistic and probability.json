@@ -1,0 +1,946 @@
+[
+    {
+        "question": "What is the function of red blood cells in the human body?",
+        "option1": "Transport of oxygen",
+        "option2": "Digestion of nutrients",
+        "option3": "Production of antibodies",
+        "option4": "Storage of waste products",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which organelle is responsible for cellular respiration?",
+        "option1": "Golgi apparatus",
+        "option2": "Mitochondria",
+        "option3": "Endoplasmic reticulum",
+        "option4": "Lysosomes",
+        "correctOption": "2"
+    },
+    {
+        "question": "In human digestion, where does the absorption of most nutrients occur?",
+        "option1": "Stomach",
+        "option2": "Small intestine",
+        "option3": "Large intestine",
+        "option4": "Esophagus",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which hormone is responsible for regulating blood sugar levels?",
+        "option1": "Insulin",
+        "option2": "Glucagon",
+        "option3": "Estrogen",
+        "option4": "Progesterone",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary function of the nephron in the kidney?",
+        "option1": "Blood clotting",
+        "option2": "Filtration of blood",
+        "option3": "Production of urine",
+        "option4": "Digestion of proteins",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a characteristic of eukaryotic cells?",
+        "option1": "Absence of a nucleus",
+        "option2": "Presence of membrane-bound organelles",
+        "option3": "Circular DNA",
+        "option4": "Unicellular structure",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of the enzyme amylase in digestion?",
+        "option1": "Breakdown of lipids",
+        "option2": "Breakdown of proteins",
+        "option3": "Breakdown of carbohydrates",
+        "option4": "Absorption of nutrients",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which structure is responsible for producing ATP through cellular respiration?",
+        "option1": "Ribosome",
+        "option2": "Nucleus",
+        "option3": "Mitochondrion",
+        "option4": "Endoplasmic reticulum",
+        "correctOption": "3"
+    },
+    {
+        "question": "In which part of the human digestive system does water absorption mainly occur?",
+        "option1": "Stomach",
+        "option2": "Small intestine",
+        "option3": "Large intestine",
+        "option4": "Esophagus",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the function of the respiratory system?",
+        "option1": "Pumping blood throughout the body",
+        "option2": "Exchange of gases (oxygen and carbon dioxide)",
+        "option3": "Digesting food",
+        "option4": "Filtering waste products",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+        "option1": "Pulmonary artery",
+        "option2": "Pulmonary vein",
+        "option3": "Aorta",
+        "option4": "Vena cava",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the function of the hormone adrenaline in the body's response to stress?",
+        "option1": "Decreases heart rate",
+        "option2": "Increases blood pressure",
+        "option3": "Promotes digestion",
+        "option4": "Stimulates growth",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a function of the liver?",
+        "option1": "Production of insulin",
+        "option2": "Detoxification of blood",
+        "option3": "Transport of oxygen",
+        "option4": "Digestion of proteins",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the purpose of red bone marrow in the human body?",
+        "option1": "Blood clotting",
+        "option2": "Storage of minerals",
+        "option3": "Production of red and white blood cells",
+        "option4": "Digestion of nutrients",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which part of the nervous system controls involuntary functions like heartbeat and digestion?",
+        "option1": "Central nervous system",
+        "option2": "Peripheral nervous system",
+        "option3": "Autonomic nervous system",
+        "option4": "Somatic nervous system",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the function of the hormone thyroxine produced by the thyroid gland?",
+        "option1": "Regulation of blood sugar",
+        "option2": "Control of metabolism",
+        "option3": "Stimulation of growth",
+        "option4": "Maintenance of fluid balance",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a function of the lymphatic system?",
+        "option1": "Pumping blood",
+        "option2": "Digesting food",
+        "option3": "Fighting infections",
+        "option4": "Filtering waste products",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary function of the spleen?",
+        "option1": "Blood clotting",
+        "option2": "Filtration of blood and removal of damaged blood cells",
+        "option3": "Digestion of proteins",
+        "option4": "Storage of bile",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following is a function of the kidney?",
+        "option1": "Digestion of nutrients",
+        "option2": "Production of insulin",
+        "option3": "Filtration of blood and formation of urine",
+        "option4": "Transport of oxygen",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of the enzyme lipase in digestion?",
+        "option1": "Breakdown of carbohydrates",
+        "option2": "Breakdown of lipids",
+        "option3": "Breakdown of proteins",
+        "option4": "Absorption of nutrients",
+        "correctOption": "2"
+    },
+    {
+        "question": "Explain the difference between a population and a sample in statistics.",
+        "option1": "A population is a subset of a sample.",
+        "option2": "A sample is a subset of a population.",
+        "option3": "Population and sample are synonymous terms.",
+        "option4": "Population and sample have no relation in statistics.",
+        "correctOption": "2"
+    },
+    {
+        "question": "Discuss the importance of the Central Limit Theorem in statistical analysis.",
+        "option1": "It ensures that a sample mean is always equal to the population mean.",
+        "option2": "It allows for the estimation of the population parameters from sample data.",
+        "option3": "It states that the sample size doesn't affect the accuracy of estimates.",
+        "option4": "It only applies to normally distributed populations.",
+        "correctOption": "2"
+    },
+    {
+        "question": "Define Type I and Type II errors in hypothesis testing.",
+        "option1": "Type I error occurs when the null hypothesis is incorrectly accepted.",
+        "option2": "Type II error occurs when the null hypothesis is correctly rejected.",
+        "option3": "Type I error occurs when the null hypothesis is correctly rejected.",
+        "option4": "Type II error occurs when the null hypothesis is incorrectly accepted.",
+        "correctOption": "4"
+    },
+    {
+        "question": "Explain the concept of stratified sampling and provide an example.",
+        "option1": "It involves dividing the population into subgroups and then randomly selecting samples from each subgroup.",
+        "option2": "It involves selecting samples that are close to each other in the population.",
+        "option3": "It is a type of non-probability sampling.",
+        "option4": "It is used exclusively in qualitative research.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the role of a confidence interval in statistical inference.",
+        "option1": "It provides a range of values within which the true population parameter is likely to fall.",
+        "option2": "It determines the exact value of the population parameter.",
+        "option3": "It is only applicable in hypothesis testing.",
+        "option4": "It is useful only for small sample sizes.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Define the term 'p-value' in the context of hypothesis testing.",
+        "option1": "The probability of rejecting the null hypothesis when it is true.",
+        "option2": "The probability of accepting the null hypothesis when it is false.",
+        "option3": "The probability of obtaining the observed data, or more extreme, if the null hypothesis is true.",
+        "option4": "The probability of obtaining a sample mean equal to the population mean.",
+        "correctOption": "3"
+    },
+    {
+        "question": "Explain the difference between correlation and causation.",
+        "option1": "Correlation implies a cause-and-effect relationship.",
+        "option2": "Causation implies a statistical association between variables.",
+        "option3": "Correlation does not imply causation.",
+        "option4": "Causation is a synonym for correlation.",
+        "correctOption": "3"
+    },
+    {
+        "question": "Discuss the concept of non-response bias in survey sampling.",
+        "option1": "It occurs when respondents provide inaccurate information intentionally.",
+        "option2": "It results from some respondents being more likely to participate in a survey than others.",
+        "option3": "It is a type of sampling bias.",
+        "option4": "It only affects the validity of qualitative research.",
+        "correctOption": "2"
+    },
+    {
+        "question": "Define the term 'confounding variable' in experimental design.",
+        "option1": "A variable that is intentionally manipulated in an experiment.",
+        "option2": "A variable that is unrelated to both the independent and dependent variables but can affect the study's results.",
+        "option3": "A variable that is measured but not manipulated in an experiment.",
+        "option4": "A variable that is used to control for extraneous factors in an experiment.",
+        "correctOption": "2"
+    },
+    {
+        "question": "Explain the purpose of a chi-square test and provide an example of its application.",
+        "option1": "It is used to compare means of two independent groups.",
+        "option2": "It is used to test the association between categorical variables.",
+        "option3": "It is used to analyze variance in a dataset.",
+        "option4": "It is used for hypothesis testing in regression analysis.",
+        "correctOption": "2"
+    },
+    {
+        "question": "Discuss the advantages and disadvantages of using a convenience sample in research.",
+        "option1": "Advantage: Easy to obtain. Disadvantage: May not be representative of the population.",
+        "option2": "Advantage: Generalizable results. Disadvantage: Time-consuming.",
+        "option3": "Advantage: Minimizes sampling bias. Disadvantage: Requires advanced statistical techniques.",
+        "option4": "Advantage: Allows for experimental control. Disadvantage: Limited external validity.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Define the term 'multicollinearity' in the context of regression analysis.",
+        "option1": "It refers to the simultaneous occurrence of multiple independent variables in a regression model.",
+        "option2": "It occurs when there is a perfect linear relationship between two independent variables.",
+        "option3": "It refers to the correlation between the independent and dependent variables.",
+        "option4": "It only affects logistic regression models.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Discuss the ethical considerations in conducting statistical research involving human subjects.",
+        "option1": "Informed consent, confidentiality, and protection from harm are crucial ethical considerations.",
+        "option2": "Ethical considerations are not relevant in statistical research.",
+        "option3": "Researchers are not responsible for the well-being of research participants.",
+        "option4": "Ethical guidelines only apply to medical research.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Explain the concept of outlier detection in data analysis.",
+        "option1": "Outliers are always errors in data collection.",
+        "option2": "Outliers are data points that fall within the expected range of values.",
+        "option3": "Outliers are extreme values that deviate significantly from the overall pattern of the data.",
+        "option4": "Outlier detection is not relevant in statistical analysis.",
+        "correctOption": "3"
+    },
+    {
+        "question": "Discuss the difference between descriptive and inferential statistics.",
+        "option1": "Descriptive statistics summarize and describe data, while inferential statistics make predictions or inferences about populations based on sample data.",
+        "option2": "Descriptive statistics and inferential statistics are synonymous terms.",
+        "option3": "Inferential statistics summarize and describe data, while descriptive statistics make predictions or inferences about populations based on sample data.",
+        "option4": "Both descriptive and inferential statistics only deal with categorical data.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Explain the concept of sampling distribution in statistical inference.",
+        "option1": "It represents the distribution of values of a sample statistic based on all possible samples of a fixed size from a population.",
+        "option2": "It is the distribution of values of the population parameter in a sample.",
+        "option3": "It is a distribution of sample means.",
+        "option4": "Sampling distribution is not relevant in statistical analysis.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Define 'power' in the context of hypothesis testing.",
+        "option1": "Power is the probability of committing a Type I error.",
+        "option2": "Power is the probability of rejecting the null hypothesis when it is false.",
+        "option3": "Power is the probability of failing to reject the null hypothesis when it is false.",
+        "option4": "Power is the same as the p-value in hypothesis testing.",
+        "correctOption": "2"
+    },
+    {
+        "question": "Discuss the concept of reliability in statistical measurements.",
+        "option1": "Reliability refers to the consistency and stability of a measurement over time.",
+        "option2": "Reliability is the same as validity in statistical analysis.",
+        "option3": "Reliability only applies to qualitative research.",
+        "option4": "Reliability is not a concern in statistical measurements.",
+        "correctOption": "1"
+    },
+    {
+        "question": "Explain the purpose of a Mann-Whitney U test and provide an example of its application.",
+        "option1": "It is used to compare means of two independent groups.",
+        "option2": "It is used to test the association between categorical variables.",
+        "option3": "It is used to compare medians of two independent groups.",
+        "option4": "It is used for hypothesis testing in regression analysis.",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the variance of a dataset is 25, what is the standard deviation?",
+        "option1": "2",
+        "option2": "5",
+        "option3": "10",
+        "option4": "15",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a normal distribution, what is the z-score for the 90th percentile?",
+        "option1": "0.67",
+        "option2": "1.28",
+        "option3": "1.65",
+        "option4": "2.33",
+        "correctOption": "1.28"
+    },
+    {
+        "question": "A set of data has a skewness of -0.5. What can be said about the distribution?",
+        "option1": "Positively skewed",
+        "option2": "Negatively skewed",
+        "option3": "Symmetric",
+        "option4": "Cannot be determined",
+        "correctOption": "2"
+    },
+    {
+        "question": "If two events are mutually exclusive, what is the probability of either event A or event B occurring?",
+        "option1": "P(A) * P(B)",
+        "option2": "P(A) + P(B)",
+        "option3": "P(A) - P(B)",
+        "option4": "Cannot be determined",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the mode of the following dataset: 3, 5, 7, 5, 9, 3, 5, 2?",
+        "option1": "3",
+        "option2": "5",
+        "option3": "7",
+        "option4": "9",
+        "correctOption": "5"
+    },
+    {
+        "question": "If the correlation coefficient between two variables is -0.8, what can be concluded about their relationship?",
+        "option1": "No correlation",
+        "option2": "Weak positive correlation",
+        "option3": "Strong negative correlation",
+        "option4": "Perfect positive correlation",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a Poisson distribution, what parameter represents the average rate of occurrence?",
+        "option1": "Variance",
+        "option2": "Mean",
+        "option3": "Standard deviation",
+        "option4": "Lambda",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the 75th percentile of a dataset is 20, what is the third quartile (Q3)?",
+        "option1": "15",
+        "option2": "20",
+        "option3": "25",
+        "option4": "30",
+        "correctOption": "3"
+    },
+    {
+        "question": "In hypothesis testing, what is the critical region?",
+        "option1": "The region of non-rejection",
+        "option2": "The region of acceptance",
+        "option3": "The range of values for the test statistic",
+        "option4": "The region beyond the critical value(s)",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the expected value of a discrete random variable?",
+        "option1": "The most likely value",
+        "option2": "The average value",
+        "option3": "The highest value",
+        "option4": "The lowest value",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the null hypothesis is rejected in a significance test, what does this indicate?",
+        "option1": "The null hypothesis is true",
+        "option2": "Insufficient evidence to reject the null hypothesis",
+        "option3": "The alternative hypothesis is true",
+        "option4": "Cannot be determined",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a chi-square test, what is the degrees of freedom for a 3x4 contingency table?",
+        "option1": "6",
+        "option2": "7",
+        "option3": "10",
+        "option4": "11",
+        "correctOption": "6"
+    },
+    {
+        "question": "If the p-value in a hypothesis test is less than the significance level, what is the appropriate action?",
+        "option1": "Fail to reject the null hypothesis",
+        "option2": "Reject the null hypothesis",
+        "option3": "No conclusion can be drawn",
+        "option4": "Retest with a larger sample size",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the purpose of a t-test in statistics?",
+        "option1": "To test for normality",
+        "option2": "To compare variances",
+        "option3": "To compare means of two groups",
+        "option4": "To perform regression analysis",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a normal distribution, what percentage of data falls within two standard deviations of the mean?",
+        "option1": "34%",
+        "option2": "50%",
+        "option3": "68%",
+        "option4": "95%",
+        "correctOption": "95%"
+    },
+    {
+        "question": "What is the probability distribution function of a continuous random variable?",
+        "option1": "Histogram",
+        "option2": "Probability mass function",
+        "option3": "Cumulative distribution function",
+        "option4": "Probability density function",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the covariance between two variables is negative, what can be concluded about their relationship?",
+        "option1": "No correlation",
+        "option2": "Weak positive correlation",
+        "option3": "Strong negative correlation",
+        "option4": "Perfect positive correlation",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the purpose of regression analysis in statistics?",
+        "option1": "To predict future values",
+        "option2": "To test for normality",
+        "option3": "To compare means of two groups",
+        "option4": "To perform hypothesis testing",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a 2x2 contingency table, what is the formula for the odds ratio?",
+        "option1": "(ad) / (bc)",
+        "option2": "(a + b) / (c + d)",
+        "option3": "(a + c) / (b + d)",
+        "option4": "(a * d) / (b * c)",
+        "correctOption": "(ad) / (bc)"
+    },
+    {
+        "question": "What is the mean of the numbers 4, 7, 10, and 13?",
+        "option1": "8",
+        "option2": "9",
+        "option3": "10",
+        "option4": "11",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a data set has an even number of values, what is the median?",
+        "option1": "The average of the two middle values",
+        "option2": "The middle value",
+        "option3": "The sum of all values",
+        "option4": "The range",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a set of exam scores, if the mode is 75 and the median is 80, what can you conclude?",
+        "option1": "The data is negatively skewed",
+        "option2": "The data is positively skewed",
+        "option3": "The data is symmetric",
+        "option4": "Cannot be determined",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the range of a data set is 15 and the lowest value is 10, what is the highest value?",
+        "option1": "15",
+        "option2": "20",
+        "option3": "25",
+        "option4": "30",
+        "correctOption": "4"
+    },
+    {
+        "question": "Calculate the mean of the following data set: 2, 4, 6, 8, 10.",
+        "option1": "6",
+        "option2": "7",
+        "option3": "8",
+        "option4": "9",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the probability of event A is 0.3 and the probability of event B is 0.5, what is the probability of both events occurring?",
+        "option1": "0.15",
+        "option2": "0.3",
+        "option3": "0.5",
+        "option4": "Cannot be determined",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the probability of rolling a prime number on a six-sided die?",
+        "option1": "1/2",
+        "option2": "1/3",
+        "option3": "1/6",
+        "option4": "2/3",
+        "correctOption": "2"
+    },
+    {
+        "question": "If two events are independent, what is the probability of event A or event B occurring?",
+        "option1": "P(A) + P(B)",
+        "option2": "P(A) * P(B)",
+        "option3": "P(A) / P(B)",
+        "option4": "P(A) - P(B)",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a deck of cards, what is the probability of drawing a black card or a face card?",
+        "option1": "3/13",
+        "option2": "5/13",
+        "option3": "9/26",
+        "option4": "1/2",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the mean of a data set is 20 and there are 5 values, what is the sum of the values?",
+        "option1": "80",
+        "option2": "90",
+        "option3": "100",
+        "option4": "110",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the probability of getting tails on the second flip of a fair coin, given that the first flip was heads?",
+        "option1": "0",
+        "option2": "0.25",
+        "option3": "0.5",
+        "option4": "1",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a normal distribution, what percentage of data falls within one standard deviation of the mean?",
+        "option1": "34%",
+        "option2": "50%",
+        "option3": "68%",
+        "option4": "95%",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the probability of event A is 0.4 and the probability of event B is 0.3, what is the probability of neither A nor B occurring?",
+        "option1": "0.12",
+        "option2": "0.18",
+        "option3": "0.28",
+        "option4": "0.42",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the probability of drawing a heart or a spade from a standard deck of playing cards?",
+        "option1": "1/4",
+        "option2": "1/2",
+        "option3": "3/4",
+        "option4": "1",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the standard deviation of a data set is 5, what is the variance?",
+        "option1": "5",
+        "option2": "10",
+        "option3": "15",
+        "option4": "25",
+        "correctOption": "4"
+    },
+    {
+        "question": "In a binomial distribution, what is the probability of exactly 3 successes in 5 trials?",
+        "option1": "1/16",
+        "option2": "5/16",
+        "option3": "10/32",
+        "option4": "10/16",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the probability of event A is 0.6 and the probability of event B is 0.7, what is the probability of both events occurring?",
+        "option1": "0.12",
+        "option2": "0.42",
+        "option3": "0.6",
+        "option4": "Cannot be determined",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the probability of rolling a sum of 7 with two six-sided dice?",
+        "option1": "1/6",
+        "option2": "1/8",
+        "option3": "1/12",
+        "option4": "1/36",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the range of a data set is 20 and the mean is 15, what is the sum of the highest and lowest values?",
+        "option1": "25",
+        "option2": "30",
+        "option3": "35",
+        "option4": "40",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a standard normal distribution, what is the Z-score for the mean?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "-1",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the measure of central tendency that represents the average of a set of data?",
+        "option1": "Mode",
+        "option2": "Median",
+        "option3": "Mean",
+        "option4": "Range",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which measure of central tendency is not affected by extreme values or outliers?",
+        "option1": "Mode",
+        "option2": "Median",
+        "option3": "Mean",
+        "option4": "Standard Deviation",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a bimodal data set, how many modes are present?",
+        "option1": "One",
+        "option2": "Two",
+        "option3": "Three",
+        "option4": "Cannot be determined",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the range of a data set represent?",
+        "option1": "Average",
+        "option2": "Spread of data",
+        "option3": "Middle value",
+        "option4": "Sum of values",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which measure is the middle value of an ordered data set?",
+        "option1": "Mode",
+        "option2": "Median",
+        "option3": "Mean",
+        "option4": "Variance",
+        "correctOption": "2"
+    },
+    {
+        "question": "When dealing with grouped data, what does the mean represent?",
+        "option1": "Sum of values",
+        "option2": "Frequency distribution",
+        "option3": "Average",
+        "option4": "Standard deviation",
+        "correctOption": "3"
+    },
+    {
+        "question": "In statistics, what term is used for a situation where there are two modes in a data set?",
+        "option1": "Unimodal",
+        "option2": "Bimodal",
+        "option3": "Multimodal",
+        "option4": "Modal",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the classical definition of probability?",
+        "option1": "Frequency distribution",
+        "option2": "Empirical probability",
+        "option3": "Subjective probability",
+        "option4": "Theoretical probability",
+        "correctOption": "4"
+    },
+    {
+        "question": "In probability, what is the likelihood of an event occurring?",
+        "option1": "Odds",
+        "option2": "Outcome",
+        "option3": "Probability",
+        "option4": "Variance",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which probability is based on personal judgment or experience?",
+        "option1": "Theoretical probability",
+        "option2": "Empirical probability",
+        "option3": "Subjective probability",
+        "option4": "Conditional probability",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the probability of an event is 0.25, what is the likelihood of its complement?",
+        "option1": "0.25",
+        "option2": "0.75",
+        "option3": "1.0",
+        "option4": "Cannot be determined",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the probability of rolling an even number on a six-sided die?",
+        "option1": "1/6",
+        "option2": "1/3",
+        "option3": "1/2",
+        "option4": "2/3",
+        "correctOption": "2"
+    },
+    {
+        "question": "In probability, what is the term for the intersection of two independent events?",
+        "option1": "Union",
+        "option2": "Complement",
+        "option3": "Intersection",
+        "option4": "Conditional probability",
+        "correctOption": "3"
+    },
+    {
+        "question": "If two events are mutually exclusive, what is the probability of both occurring?",
+        "option1": "0",
+        "option2": "0.5",
+        "option3": "1",
+        "option4": "Cannot be determined",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the sum of probabilities for all possible outcomes in a sample space?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "Cannot be determined",
+        "correctOption": "2"
+    },
+    {
+        "question": "In probability, what is the term for the probability of event A given that event B has occurred?",
+        "option1": "Joint probability",
+        "option2": "Conditional probability",
+        "option3": "Marginal probability",
+        "option4": "Mutual probability",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the probability of selecting a red card from a standard deck of playing cards?",
+        "option1": "1/13",
+        "option2": "1/26",
+        "option3": "1/52",
+        "option4": "1/2",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a binomial distribution, how many possible outcomes are there for each trial?",
+        "option1": "One",
+        "option2": "Two",
+        "option3": "Three",
+        "option4": "Four",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the probability of flipping a fair coin and getting heads?",
+        "option1": "0",
+        "option2": "0.25",
+        "option3": "0.5",
+        "option4": "1",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the probability of drawing an ace or a king from a standard deck of playing cards?",
+        "option1": "1/13",
+        "option2": "1/26",
+        "option3": "1/52",
+        "option4": "1/4",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the measure of central tendency that represents the average of a set of data?",
+        "option1": "Mode",
+        "option2": "Median",
+        "option3": "Mean",
+        "option4": "Range",
+        "correctOption": "option3"
+    },
+    {
+        "question": "Which measure of central tendency is not affected by extreme values or outliers?",
+        "option1": "Mode",
+        "option2": "Median",
+        "option3": "Mean",
+        "option4": "Standard Deviation",
+        "correctOption": "option2"
+    },
+    {
+        "question": "In a bimodal data set, how many modes are present?",
+        "option1": "One",
+        "option2": "Two",
+        "option3": "Three",
+        "option4": "Cannot be determined",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What does the range of a data set represent?",
+        "option1": "Average",
+        "option2": "Spread of data",
+        "option3": "Middle value",
+        "option4": "Sum of values",
+        "correctOption": "option2"
+    },
+    {
+        "question": "Which measure is the middle value of an ordered data set?",
+        "option1": "Mode",
+        "option2": "Median",
+        "option3": "Mean",
+        "option4": "Variance",
+        "correctOption": "option2"
+    },
+    {
+        "question": "When dealing with grouped data, what does the mean represent?",
+        "option1": "Sum of values",
+        "option2": "Frequency distribution",
+        "option3": "Average",
+        "option4": "Standard deviation",
+        "correctOption": "option3"
+    },
+    {
+        "question": "In statistics, what term is used for a situation where there are two modes in a data set?",
+        "option1": "Unimodal",
+        "option2": "Bimodal",
+        "option3": "Multimodal",
+        "option4": "Modal",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the classical definition of probability?",
+        "option1": "Frequency distribution",
+        "option2": "Empirical probability",
+        "option3": "Subjective probability",
+        "option4": "Theoretical probability",
+        "correctOption": "option4"
+    },
+    {
+        "question": "In probability, what is the likelihood of an event occurring?",
+        "option1": "Odds",
+        "option2": "Outcome",
+        "option3": "Probability",
+        "option4": "Variance",
+        "correctOption": "option3"
+    },
+    {
+        "question": "Which probability is based on personal judgment or experience?",
+        "option1": "Theoretical probability",
+        "option2": "Empirical probability",
+        "option3": "Subjective probability",
+        "option4": "Conditional probability",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If the probability of an event is 0.25, what is the likelihood of its complement?",
+        "option1": "0.25",
+        "option2": "0.75",
+        "option3": "1.0",
+        "option4": "Cannot be determined",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the probability of rolling an even number on a six-sided die?",
+        "option1": "1/6",
+        "option2": "1/3",
+        "option3": "1/2",
+        "option4": "2/3",
+        "correctOption": "option2"
+    },
+    {
+        "question": "In probability, what is the term for the intersection of two independent events?",
+        "option1": "Union",
+        "option2": "Complement",
+        "option3": "Intersection",
+        "option4": "Conditional probability",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If two events are mutually exclusive, what is the probability of both occurring?",
+        "option1": "0",
+        "option2": "0.5",
+        "option3": "1",
+        "option4": "Cannot be determined",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the sum of probabilities for all possible outcomes in a sample space?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "Cannot be determined",
+        "correctOption": "option2"
+    },
+    {
+        "question": "In probability, what is the term for the probability of event A given that event B has occurred?",
+        "option1": "Joint probability",
+        "option2": "Conditional probability",
+        "option3": "Marginal probability",
+        "option4": "Mutual probability",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the probability of selecting a red card from a standard deck of playing cards?",
+        "option1": "1/13",
+        "option2": "1/26",
+        "option3": "1/52",
+        "option4": "1/2",
+        "correctOption": "option3"
+    },
+    {
+        "question": "In a binomial distribution, how many possible outcomes are there for each trial?",
+        "option1": "One",
+        "option2": "Two",
+        "option3": "Three",
+        "option4": "Four",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the probability of flipping a fair coin and getting heads?",
+        "option1": "0",
+        "option2": "0.25",
+        "option3": "0.5",
+        "option4": "1",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the probability of drawing an ace or a king from a standard deck of playing cards?",
+        "option1": "1/13",
+        "option2": "1/26",
+        "option3": "1/52",
+        "option4": "1/4",
+        "correctOption": "option4"
+    }
+]

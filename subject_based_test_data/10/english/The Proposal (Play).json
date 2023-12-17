@@ -1,0 +1,802 @@
+[
+    {
+        "question": "What role does the play assign to societal expectations on marriage?",
+        "option1": "Defying Marriage Norms",
+        "option2": "Conforming to Marriage Norms",
+        "option3": "Ignoring Marriage Norms",
+        "option4": "Creating New Marriage Norms",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the play address the theme of ambition and its consequences?",
+        "option1": "Celebrating Ambition",
+        "option2": "Condemning Ambition",
+        "option3": "Ignoring Ambition",
+        "option4": "Balancing Ambition",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who serves as the mediator in resolving conflicts among characters?",
+        "option1": "The Romantic Interest",
+        "option2": "The Wise Elder",
+        "option3": "The Butler",
+        "option4": "The Clergyman",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the thematic significance of the play's title in relation to personal growth?",
+        "option1": "Stagnation",
+        "option2": "Transformation",
+        "option3": "Regression",
+        "option4": "Immaturity",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the play address the theme of societal judgment and prejudice?",
+        "option1": "Condemning Prejudice",
+        "option2": "Perpetuating Prejudice",
+        "option3": "Ignoring Prejudice",
+        "option4": "Overcoming Prejudice",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the symbolic significance of the play's title in the context of love and sacrifice?",
+        "option1": "A Sacrificial Love",
+        "option2": "A Selfish Love",
+        "option3": "A Requited Love",
+        "option4": "A Forbidden Love",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who serves as the moral guide for the main character?",
+        "option1": "The Romantic Interest",
+        "option2": "The Parental Figure",
+        "option3": "The Wise Elder",
+        "option4": "The Best Friend",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the play explore the theme of societal pressure on individuals to conform?",
+        "option1": "Resisting Pressure",
+        "option2": "Conforming to Pressure",
+        "option3": "Ignoring Pressure",
+        "option4": "Overcoming Pressure",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the thematic significance of the play's title in relation to social expectations?",
+        "option1": "Challenging Expectations",
+        "option2": "Conforming to Expectations",
+        "option3": "Ignoring Expectations",
+        "option4": "Creating New Expectations",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who serves as the embodiment of societal values in the play?",
+        "option1": "The Romantic Interest",
+        "option2": "The Parental Figure",
+        "option3": "The Antagonist",
+        "option4": "The Wise Elder",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the play address the theme of societal change?",
+        "option1": "Embracing Change",
+        "option2": "Resisting Change",
+        "option3": "Creating Change",
+        "option4": "Ignoring Change",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of fate or destiny in shaping characters' lives?",
+        "option1": "Determining Fate",
+        "option2": "Being Defied by Characters",
+        "option3": "Serving as a Warning",
+        "option4": "Remaining Ambiguous",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who serves as the moral foil to the main character?",
+        "option1": "The Mentor",
+        "option2": "The Romantic Interest",
+        "option3": "The Antagonist",
+        "option4": "The Comic Relief",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the thematic significance of the play's title in relation to societal values?",
+        "option1": "Challenging Values",
+        "option2": "Conforming to Values",
+        "option3": "Ignoring Values",
+        "option4": "Creating New Values",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the play explore the theme of individuality vs. conformity?",
+        "option1": "Celebrating Individuality",
+        "option2": "Condemning Conformity",
+        "option3": "Balancing Individuality and Conformity",
+        "option4": "Ignoring Individuality",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the symbolic significance of the play's title in relation to societal expectations on women?",
+        "option1": "Defying Expectations",
+        "option2": "Conforming to Expectations",
+        "option3": "Ignoring Expectations",
+        "option4": "Creating New Expectations",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who serves as the voice of reason and morality in 'The Proposal'?",
+        "option1": "The Clergyman",
+        "option2": "The Parental Figure",
+        "option3": "The Wise Friend",
+        "option4": "The Innocent Child",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the thematic significance of the play's title in relation to personal relationships?",
+        "option1": "Building Relationships",
+        "option2": "Breaking Relationships",
+        "option3": "Ignoring Relationships",
+        "option4": "Rebuilding Relationships",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the play explore the theme of societal expectations on marriage?",
+        "option1": "Defying Marriage Norms",
+        "option2": "Conforming to Marriage Norms",
+        "option3": "Ignoring Marriage Norms",
+        "option4": "Creating New Marriage Norms",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who serves as the mediator in resolving conflicts among characters?",
+        "option1": "The Romantic Interest",
+        "option2": "The Wise Elder",
+        "option3": "The Butler",
+        "option4": "The Clergyman",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the play assign to societal norms in shaping characters' decisions?",
+        "option1": "Guiding Decisions",
+        "option2": "Challenging Decisions",
+        "option3": "Ignored by Characters",
+        "option4": "Creating New Norms",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the play explore the theme of class distinction?",
+        "option1": "Perpetuating Class Division",
+        "option2": "Challenging Class Division",
+        "option3": "Ignoring Class Division",
+        "option4": "Overcoming Class Division",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who serves as the moral foil to the main character?",
+        "option1": "The Mentor",
+        "option2": "The Romantic Interest",
+        "option3": "The Antagonist",
+        "option4": "The Comic Relief",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the thematic significance of the play's title in relation to societal expectations?",
+        "option1": "Defying Social Expectations",
+        "option2": "Conforming to Social Expectations",
+        "option3": "Ignoring Social Expectations",
+        "option4": "Creating New Social Expectations",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which character undergoes the most significant internal conflict?",
+        "option1": "The Protagonist",
+        "option2": "The Antagonist",
+        "option3": "The Best Friend",
+        "option4": "The Sidekick",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the play's resolution in the context of societal change?",
+        "option1": "Embracing Change",
+        "option2": "Resisting Change",
+        "option3": "Creating Change",
+        "option4": "Ignoring Change",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the play address the theme of betrayal among friends?",
+        "option1": "Celebrating Betrayal",
+        "option2": "Condemning Betrayal",
+        "option3": "Forgiving Betrayal",
+        "option4": "Ignoring Betrayal",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central metaphorical object in 'The Proposal'?",
+        "option1": "A Ring",
+        "option2": "A Letter",
+        "option3": "A Mirror",
+        "option4": "A Key",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the play explore the theme of identity and self-discovery?",
+        "option1": "Embracing Identity",
+        "option2": "Rejecting Identity",
+        "option3": "Discovering Identity",
+        "option4": "Hiding Identity",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who serves as the voice of rebellion against societal norms?",
+        "option1": "The Romantic Interest",
+        "option2": "The Wise Elder",
+        "option3": "The Rebel",
+        "option4": "The Sidekick",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the play address the theme of forgiveness?",
+        "option1": "Granting Forgiveness",
+        "option2": "Seeking Forgiveness",
+        "option3": "Withholding Forgiveness",
+        "option4": "Ignoring Forgiveness",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic significance of the play's title in the context of power dynamics?",
+        "option1": "Exerting Power",
+        "option2": "Challenging Power",
+        "option3": "Submitting to Power",
+        "option4": "Ignoring Power",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which character serves as the catalyst for positive change in the play?",
+        "option1": "The Romantic Interest",
+        "option2": "The Wise Elder",
+        "option3": "The Innocent Child",
+        "option4": "The Antagonist",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of societal expectations on marriage in the play?",
+        "option1": "Challenging Marriage Norms",
+        "option2": "Conforming to Marriage Norms",
+        "option3": "Ignoring Marriage Norms",
+        "option4": "Creating New Marriage Norms",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the play address the theme of self-deception?",
+        "option1": "Acknowledging Deception",
+        "option2": "Embracing Deception",
+        "option3": "Condemning Deception",
+        "option4": "Ignoring Deception",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of societal prejudice in shaping characters' destinies?",
+        "option1": "Perpetuating Prejudice",
+        "option2": "Challenging Prejudice",
+        "option3": "Ignoring Prejudice",
+        "option4": "Overcoming Prejudice",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who serves as the embodiment of societal expectations on women in the play?",
+        "option1": "The Romantic Interest",
+        "option2": "The Wise Elder",
+        "option3": "The Antagonist",
+        "option4": "The Parental Figure",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the play explore the theme of individual vs. collective happiness?",
+        "option1": "Prioritizing Individual Happiness",
+        "option2": "Prioritizing Collective Happiness",
+        "option3": "Balancing Individual and Collective Happiness",
+        "option4": "Ignoring Happiness",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the symbolic significance of the play's title in the context of societal values?",
+        "option1": "Challenging Values",
+        "option2": "Conforming to Values",
+        "option3": "Ignoring Values",
+        "option4": "Creating New Values",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the play address the theme of generational conflict?",
+        "option1": "Reconciling Generations",
+        "option2": "Perpetuating Generational Conflict",
+        "option3": "Ignoring Generational Conflict",
+        "option4": "Creating New Generational Norms",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the main character's primary motivation for the proposal?",
+        "option1": "Love",
+        "option2": "Financial Stability",
+        "option3": "Social Status",
+        "option4": "Revenge",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which character serves as the voice of reason throughout the play?",
+        "option1": "The Maid",
+        "option2": "The Best Friend",
+        "option3": "The Butler",
+        "option4": "The Parental Figure",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does the weather play in the play's symbolism?",
+        "option1": "Foreshadowing",
+        "option2": "Pathetic Fallacy",
+        "option3": "Metaphor",
+        "option4": "Allegory",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the play address societal norms and expectations?",
+        "option1": "Challenging Conventions",
+        "option2": "Conforming to Norms",
+        "option3": "Ignoring Society",
+        "option4": "Creating New Norms",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the play's title in the resolution?",
+        "option1": "A Rejected Proposal",
+        "option2": "A Surprising Proposal",
+        "option3": "A Resolved Proposal",
+        "option4": "A Second Proposal",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which character represents the voice of modernity and progress?",
+        "option1": "The Younger Sibling",
+        "option2": "The Innovator",
+        "option3": "The Romantic Interest",
+        "option4": "The Rebel",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the play's setting play in the unfolding of events?",
+        "option1": "Aiding the Characters",
+        "option2": "Hindering the Characters",
+        "option3": "Remaining Neutral",
+        "option4": "Being Insignificant",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the play address the theme of deception?",
+        "option1": "Revealing Deceptions",
+        "option2": "Celebrating Deceptions",
+        "option3": "Condemning Deceptions",
+        "option4": "Ignoring Deceptions",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who serves as the moral compass for the main character?",
+        "option1": "The Best Friend",
+        "option2": "The Parental Figure",
+        "option3": "The Romantic Interest",
+        "option4": "The Wise Elder",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central metaphor used in 'The Proposal'?",
+        "option1": "A Journey",
+        "option2": "A Chess Game",
+        "option3": "A Garden",
+        "option4": "A Mirror",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the play explore the theme of societal expectations on women?",
+        "option1": "Reinforcing Stereotypes",
+        "option2": "Challenging Stereotypes",
+        "option3": "Ignoring Stereotypes",
+        "option4": "Creating New Stereotypes",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the play's secondary characters?",
+        "option1": "Providing Comic Relief",
+        "option2": "Advancing the Plot",
+        "option3": "Symbolizing Themes",
+        "option4": "Being Inconsequential",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the play address the theme of personal growth and development?",
+        "option1": "Stagnation",
+        "option2": "Regression",
+        "option3": "Transformation",
+        "option4": "Immaturity",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of coincidence or fate in the play's resolution?",
+        "option1": "Resolving Conflicts",
+        "option2": "Complicating Events",
+        "option3": "Remaining Ambiguous",
+        "option4": "Being Ignored",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who serves as the catalyst for the play's major conflict?",
+        "option1": "The Romantic Interest",
+        "option2": "The Parental Figure",
+        "option3": "The Best Friend",
+        "option4": "The Antagonist",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does the play assign to cultural or societal expectations?",
+        "option1": "Overcoming Expectations",
+        "option2": "Conforming to Expectations",
+        "option3": "Challenging Expectations",
+        "option4": "Ignoring Expectations",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the play address the theme of personal sacrifice?",
+        "option1": "Celebrating Sacrifice",
+        "option2": "Rejecting Sacrifice",
+        "option3": "Forcing Sacrifice",
+        "option4": "Questioning Sacrifice",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of humor in 'The Proposal'?",
+        "option1": "Sarcasm",
+        "option2": "Slapstick",
+        "option3": "Satire",
+        "option4": "Irony",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the play address the theme of societal pressure on individuals?",
+        "option1": "Resisting Pressure",
+        "option2": "Conforming to Pressure",
+        "option3": "Ignoring Pressure",
+        "option4": "Overcoming Pressure",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic significance of the play's title in the context of love?",
+        "option1": "A Rekindled Love",
+        "option2": "A Lost Love",
+        "option3": "A Misunderstood Love",
+        "option4": "A New Love",
+        "correctOption": "4"
+    },
+    {
+        "question": "Who is the antagonist in 'The Proposal'?",
+        "option1": "The Main Character's Parent",
+        "option2": "The Main Character's Rival",
+        "option3": "The Main Character's Best Friend",
+        "option4": "The Main Character's Spouse",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the central conflict in 'The Proposal'?",
+        "option1": "Love vs. Duty",
+        "option2": "Ambition vs. Morality",
+        "option3": "Friendship vs. Betrayal",
+        "option4": "Individual vs. Society",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which character serves as a mediator in resolving conflicts?",
+        "option1": "The Priest",
+        "option2": "The Lawyer",
+        "option3": "The Therapist",
+        "option4": "The Matchmaker",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the turning point in the play's plot?",
+        "option1": "The Marriage Proposal",
+        "option2": "The Discovery of a Secret",
+        "option3": "The Death of a Character",
+        "option4": "The Climactic Showdown",
+        "correctOption": "3"
+    },
+    {
+        "question": "In which season does the major part of the play take place?",
+        "option1": "Spring",
+        "option2": "Summer",
+        "option3": "Autumn",
+        "option4": "Winter",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary motivator for the main character's actions?",
+        "option1": "Love",
+        "option2": "Revenge",
+        "option3": "Ambition",
+        "option4": "Fear",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who provides comic relief through witty remarks and sarcasm?",
+        "option1": "The Main Character",
+        "option2": "The Sidekick",
+        "option3": "The Antagonist",
+        "option4": "The Wise Elder",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolism behind the recurring motif in the play?",
+        "option1": "Love Conquers All",
+        "option2": "The Fragility of Life",
+        "option3": "The Passage of Time",
+        "option4": "The Illusion of Happiness",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who is the voice of reason and morality in 'The Proposal'?",
+        "option1": "The Clergyman",
+        "option2": "The Parental Figure",
+        "option3": "The Wise Friend",
+        "option4": "The Innocent Child",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the ultimate lesson or moral of 'The Proposal'?",
+        "option1": "Honesty is the Best Policy",
+        "option2": "Money Can't Buy Happiness",
+        "option3": "Forgiveness Heals All Wounds",
+        "option4": "Appearances Can Be Deceptive",
+        "correctOption": "4"
+    },
+    {
+        "question": "Which literary device is prominently used in 'The Proposal'?",
+        "option1": "Foreshadowing",
+        "option2": "Metaphor",
+        "option3": "Irony",
+        "option4": "Symbolism",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the social commentary embedded in the play?",
+        "option1": "Class Inequality",
+        "option2": "Gender Roles",
+        "option3": "Political Corruption",
+        "option4": "Racial Discrimination",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who is the confidante of the main character?",
+        "option1": "The Sibling",
+        "option2": "The Best Friend",
+        "option3": "The Mentor",
+        "option4": "The Romantic Interest",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary setting for the climactic scene?",
+        "option1": "A Ballroom",
+        "option2": "A Garden",
+        "option3": "A Courtroom",
+        "option4": "A Battlefield",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which character undergoes a tragic downfall in the play?",
+        "option1": "The Protagonist",
+        "option2": "The Antagonist",
+        "option3": "The Sidekick",
+        "option4": "The Comic Relief",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary obstacle to the main character's happiness?",
+        "option1": "A Family Secret",
+        "option2": "A Romantic Rival",
+        "option3": "A Personal Flaw",
+        "option4": "An External Threat",
+        "correctOption": "4"
+    },
+    {
+        "question": "Who provides the crucial piece of information that resolves the main conflict?",
+        "option1": "The Butler",
+        "option2": "The Maid",
+        "option3": "The Mysterious Stranger",
+        "option4": "The Wise Old Sage",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the climax of 'The Proposal'?",
+        "option1": "The Marriage Ceremony",
+        "option2": "The Revelation of a Secret",
+        "option3": "The Heroic Sacrifice",
+        "option4": "The Confrontation",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of fate or destiny in 'The Proposal'?",
+        "option1": "Determining the Outcome",
+        "option2": "Being Defied by Characters",
+        "option3": "Serving as a Warning",
+        "option4": "Remaining Ambiguous",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which character represents the voice of tradition and conservatism?",
+        "option1": "The Grandparent",
+        "option2": "The Patriarch",
+        "option3": "The Matriarch",
+        "option4": "The Elder Sibling",
+        "correctOption": "3"
+    },
+    {
+        "question": "Who is the main character in 'The Proposal'?",
+        "option1": "Andrew",
+        "option2": "Margaret",
+        "option3": "Bob",
+        "option4": "Susan",
+        "correctOption": "2"
+    },
+    {
+        "question": "Where does the play 'The Proposal' take place?",
+        "option1": "New York",
+        "option2": "London",
+        "option3": "Paris",
+        "option4": "Chicago",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the central theme of 'The Proposal'?",
+        "option1": "Love and Marriage",
+        "option2": "Political Intrigue",
+        "option3": "Time Travel",
+        "option4": "Friendship",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who wrote 'The Proposal'?",
+        "option1": "Anton Chekhov",
+        "option2": "William Shakespeare",
+        "option3": "Oscar Wilde",
+        "option4": "Jane Austen",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the profession of the main character?",
+        "option1": "Doctor",
+        "option2": "Lawyer",
+        "option3": "Writer",
+        "option4": "Business Executive",
+        "correctOption": "3"
+    },
+    {
+        "question": "In which century is 'The Proposal' set?",
+        "option1": "19th Century",
+        "option2": "20th Century",
+        "option3": "18th Century",
+        "option4": "21st Century",
+        "correctOption": "1"
+    },
+    {
+        "question": "What event triggers the main conflict in the play?",
+        "option1": "A Marriage Proposal",
+        "option2": "A Business Deal",
+        "option3": "A Duel",
+        "option4": "A Scandal",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who opposes the main character's marriage proposal initially?",
+        "option1": "The Father",
+        "option2": "The Mother",
+        "option3": "The Best Friend",
+        "option4": "The Sibling",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the comedic element in 'The Proposal'?",
+        "option1": "Slapstick Humor",
+        "option2": "Witty Dialogue",
+        "option3": "Situational Irony",
+        "option4": "Satirical Commentary",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which character provides comic relief in the play?",
+        "option1": "The Maid",
+        "option2": "The Butler",
+        "option3": "The Eccentric Neighbor",
+        "option4": "The Clown",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the resolution of the main conflict in 'The Proposal'?",
+        "option1": "The Marriage is Cancelled",
+        "option2": "The Characters Elope",
+        "option3": "The Marriage Proceeds Smoothly",
+        "option4": "The Characters Decide to Remain Single",
+        "correctOption": "3"
+    },
+    {
+        "question": "What genre does 'The Proposal' belong to?",
+        "option1": "Tragedy",
+        "option2": "Comedy",
+        "option3": "Drama",
+        "option4": "Romance",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who is the director of the play's most famous production?",
+        "option1": "Steven Spielberg",
+        "option2": "Woody Allen",
+        "option3": "Alfred Hitchcock",
+        "option4": "Martin Scorsese",
+        "correctOption": "2"
+    },
+    {
+        "question": "In which year was 'The Proposal' first performed?",
+        "option1": "1890",
+        "option2": "1920",
+        "option3": "1950",
+        "option4": "1980",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic significance of the title 'The Proposal'?",
+        "option1": "Marriage as a Business Transaction",
+        "option2": "Love Conquers All",
+        "option3": "The Power of Persuasion",
+        "option4": "Rejecting Tradition",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which character undergoes the most significant transformation in the play?",
+        "option1": "The Protagonist",
+        "option2": "The Antagonist",
+        "option3": "The Sidekick",
+        "option4": "The Mentor",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the social setting of 'The Proposal'?",
+        "option1": "High Society",
+        "option2": "Middle Class",
+        "option3": "Working Class",
+        "option4": "Bohemian Lifestyle",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who provides the voice-over narration in the play?",
+        "option1": "The Protagonist",
+        "option2": "The Antagonist",
+        "option3": "An Omniscient Narrator",
+        "option4": "A Chorus",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary source of conflict in 'The Proposal'?",
+        "option1": "Personal Ambition",
+        "option2": "Family Opposition",
+        "option3": "Political Intrigue",
+        "option4": "Financial Crisis",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the play's title in the context of the storyline?",
+        "option1": "A Formal Request",
+        "option2": "A Surprise Revelation",
+        "option3": "A Life-Changing Decision",
+        "option4": "A Business Proposition",
+        "correctOption": "4"
+    }
+]

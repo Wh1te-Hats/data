@@ -1,0 +1,786 @@
+[
+    {
+        "question": "What is the slope of a line perpendicular to the x-axis?",
+        "option1": "Undefined",
+        "option2": "Zero",
+        "option3": "Infinity",
+        "option4": "One",
+        "correctOption": "1"
+    },
+    {
+        "question": "For the ellipse with equation (x^2/9) + (y^2/4) = 1, what are the coordinates of the foci?",
+        "option1": "(±3, 0)",
+        "option2": "(0, ±4)",
+        "option3": "(±2, 0)",
+        "option4": "(0, ±3)",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the line 2x + 3y = 6 is parallel to the line 4x + 6y = k, what is the value of 'k'?",
+        "option1": "12",
+        "option2": "6",
+        "option3": "18",
+        "option4": "24",
+        "correctOption": "2"
+    },
+    {
+        "question": "For the circle with center at (-1, 2) and radius 5, what is the equation of the circle?",
+        "option1": "(x + 1)^2 + (y - 2)^2 = 5^2",
+        "option2": "(x - 1)^2 + (y + 2)^2 = 5^2",
+        "option3": "(x + 1)^2 + (y + 2)^2 = 5^2",
+        "option4": "(x - 1)^2 + (y - 2)^2 = 5^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the condition for three points (x1, y1), (x2, y2), and (x3, y3) to be collinear?",
+        "option1": "x1(y2 - y3) - x2(y1 - y3) + x3(y1 - y2) = 0",
+        "option2": "x1(y2 - y3) + x2(y1 - y3) - x3(y1 - y2) = 0",
+        "option3": "x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2) = 0",
+        "option4": "x1(y2 - y3) - x2(y3 - y1) + x3(y1 - y2) = 0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a line passes through the point (2, -3) and has a slope of -2, what is the y-intercept?",
+        "option1": "1",
+        "option2": "5",
+        "option3": "7",
+        "option4": "-7",
+        "correctOption": "3"
+    },
+    {
+        "question": "For the parabola y^2 = 16x, what are the coordinates of the focus?",
+        "option1": "(4, 0)",
+        "option2": "(-4, 0)",
+        "option3": "(0, 4)",
+        "option4": "(0, -4)",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the lines 2x - y + 3 = 0 and 4x + ky - 5 = 0 are perpendicular, what is the value of 'k'?",
+        "option1": "1/2",
+        "option2": "-1/2",
+        "option3": "2",
+        "option4": "-2",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the area of the triangle formed by the points (1, 2), (3, 5), and (6, 3)?",
+        "option1": "3 square units",
+        "option2": "6 square units",
+        "option3": "9 square units",
+        "option4": "12 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "For the hyperbola with equation (x^2/16) - (y^2/9) = 1, what are the coordinates of the vertices?",
+        "option1": "(±4, 0)",
+        "option2": "(0, ±3)",
+        "option3": "(±3, 0)",
+        "option4": "(0, ±4)",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the distance between the points (a, b) and (c, d) is d, what is the formula for the distance?",
+        "option1": "√((c - a)^2 + (d - b)^2)",
+        "option2": "(c - a)^2 + (d - b)^2",
+        "option3": "|c - a| + |d - b|",
+        "option4": "(c - a) + (d - b)",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the equation of the line passing through the points (2, 5) and (-3, 1)?",
+        "option1": "4x - y = 6",
+        "option2": "4x + y = 6",
+        "option3": "4x - y = -6",
+        "option4": "4x + y = -6",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the equation of a line is 3x - 4y = 12, what is the y-intercept?",
+        "option1": "-3",
+        "option2": "3",
+        "option3": "-4",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "The distance between the parallel lines 2x + 3y - 4 = 0 and 2x + 3y + 6 = 0 is:",
+        "option1": "5",
+        "option2": "6",
+        "option3": "7",
+        "option4": "8",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the line 2x - 3y = 9 is reflected about the y-axis, what is the equation of the reflected line?",
+        "option1": "3x - 2y = 9",
+        "option2": "-3x + 2y = 9",
+        "option3": "3y - 2x = 9",
+        "option4": "-3y + 2x = 9",
+        "correctOption": "2"
+    },
+    {
+        "question": "For the ellipse with equation (x^2/25) + (y^2/16) = 1, what are the coordinates of the foci?",
+        "option1": "(±4, 0)",
+        "option2": "(0, ±5)",
+        "option3": "(±3, 0)",
+        "option4": "(0, ±4)",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the equation of a circle is (x - a)^2 + (y - b)^2 = r^2, what are the coordinates of the center of the circle?",
+        "option1": "(a, -b)",
+        "option2": "(-a, b)",
+        "option3": "(b, -a)",
+        "option4": "(-b, a)",
+        "correctOption": "2"
+    },
+    {
+        "question": "For the parabola y^2 = 36x, what is the latus rectum of the parabola?",
+        "option1": "6",
+        "option2": "9",
+        "option3": "12",
+        "option4": "18",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the lines 3x - 4y = 7 and 6x - 8y = 14 are coincident, what can be said about them?",
+        "option1": "Parallel",
+        "option2": "Intersecting at a point",
+        "option3": "Perpendicular",
+        "option4": "Coincident",
+        "correctOption": "4"
+    },
+    {
+        "question": "The circle x^2 + y^2 = 16 intersects the line y = mx at two distinct points. What is the range of values for 'm'?",
+        "option1": "m < -4 or m > 4",
+        "option2": "-4 < m < 4",
+        "option3": "m < -4 or m > 4",
+        "option4": "-∞ < m < ∞",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a coordinate plane, if the slope of a line is negative, how does the line slant in relation to the x-axis?",
+        "option1": "Upward",
+        "option2": "Downward",
+        "option3": "Horizontal",
+        "option4": "Vertical",
+        "correctOption": "2"
+    },
+    {
+        "question": "For the circle with center at (3, -4) and radius 5, what is the equation of the circle?",
+        "option1": "(x - 3)^2 + (y + 4)^2 = 5^2",
+        "option2": "(x + 3)^2 + (y - 4)^2 = 5^2",
+        "option3": "(x - 3)^2 + (y - 4)^2 = 5^2",
+        "option4": "(x + 3)^2 + (y + 4)^2 = 5^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a line has a slope of 0, how does it slant in relation to the x-axis?",
+        "option1": "Upward",
+        "option2": "Downward",
+        "option3": "Horizontal",
+        "option4": "Vertical",
+        "correctOption": "3"
+    },
+    {
+        "question": "For the lines 2x + 3y - 4 = 0 and 4x + 6y - 8 = 0, what can be said about them?",
+        "option1": "Coincident",
+        "option2": "Parallel",
+        "option3": "Perpendicular",
+        "option4": "Intersecting at a point",
+        "correctOption": "1"
+    },
+    {
+        "question": "The point (p, q) divides the line segment joining the points (a, b) and (c, d) in the ratio m:n. What are the coordinates of point (p, q)?",
+        "option1": "((ma + nc)/(m + n), (mb + nd)/(m + n))",
+        "option2": "((ma - nc)/(m - n), (mb - nd)/(m - n))",
+        "option3": "((ma + nc)/(n - m), (mb + nd)/(n - m))",
+        "option4": "((ma - nc)/(n + m), (mb - nd)/(n + m))",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the line 2x - y = 5 is reflected about the y-axis, what is the equation of the reflected line?",
+        "option1": "2x + y = 5",
+        "option2": "-2x - y = 5",
+        "option3": "2x - y = -5",
+        "option4": "-2x + y = -5",
+        "correctOption": "3"
+    },
+    {
+        "question": "The line segment joining the points (1, -2) and (5, 8) is divided into two equal parts by a point (p, q). What are the coordinates of (p, q)?",
+        "option1": "(3, 3)",
+        "option2": "(4, 3)",
+        "option3": "(2, 3)",
+        "option4": "(3, 4)",
+        "correctOption": "1"
+    },
+    {
+        "question": "For the parabola y^2 = 4ax, what is the focus of the parabola?",
+        "option1": "(0, a)",
+        "option2": "(a, 0)",
+        "option3": "(0, -a)",
+        "option4": "(-a, 0)",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the line 3x - 2y = 6 is parallel to the line 9x - 6y = k, what is the value of 'k'?",
+        "option1": "18",
+        "option2": "12",
+        "option3": "24",
+        "option4": "36",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the area of the triangle formed by the points (1, 2), (3, 5), and (5, 3)?",
+        "option1": "4 square units",
+        "option2": "6 square units",
+        "option3": "8 square units",
+        "option4": "10 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the equation of a circle is (x - a)^2 + (y - b)^2 = r^2, what are the coordinates of the center of the circle?",
+        "option1": "(a, -b)",
+        "option2": "(-a, b)",
+        "option3": "(b, -a)",
+        "option4": "(-b, a)",
+        "correctOption": "2"
+    },
+    {
+        "question": "The distance between the parallel lines 2x + 3y - 4 = 0 and 2x + 3y + 6 = 0 is:",
+        "option1": "5",
+        "option2": "6",
+        "option3": "7",
+        "option4": "8",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the line 2x + ky = 8 is perpendicular to the line x - 3y = 5, what is the value of 'k'?",
+        "option1": "2",
+        "option2": "-2",
+        "option3": "4",
+        "option4": "-4",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the condition for the three points (x1, y1), (x2, y2), and (x3, y3) to be collinear?",
+        "option1": "x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2) = 0",
+        "option2": "x1(y2 - y3) - x2(y3 - y1) + x3(y1 - y2) = 0",
+        "option3": "x1(y2 - y3) + x2(y3 - y1) - x3(y1 - y2) = 0",
+        "option4": "x1(y2 - y3) + x2(y3 - y1) + x3(y1 + y2) = 0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the lines 3x - 2y = 7 and 6x - 4y = 14 are coincident, what can be said about them?",
+        "option1": "Parallel",
+        "option2": "Intersecting at a point",
+        "option3": "Perpendicular",
+        "option4": "Coincident",
+        "correctOption": "4"
+    },
+    {
+        "question": "The circle x^2 + y^2 = 25 intersects the line y = mx at two distinct points. What is the range of values for 'm'?",
+        "option1": "m < -5 or m > 5",
+        "option2": "-5 < m < 5",
+        "option3": "m < -5 or m > 5",
+        "option4": "-∞ < m < ∞",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the equation of a line is ax + by + c = 0, what is the slope of the line?",
+        "option1": "a/b",
+        "option2": "b/a",
+        "option3": "-a/b",
+        "option4": "-b/a",
+        "correctOption": "3"
+    },
+    {
+        "question": "For the parabola y^2 = 4ax, what is the latus rectum of the parabola?",
+        "option1": "a",
+        "option2": "2a",
+        "option3": "4a",
+        "option4": "8a",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the line 2x - 3y = 9 is reflected about the line y = x, what is the equation of the reflected line?",
+        "option1": "3x - 2y = 9",
+        "option2": "-3x + 2y = 9",
+        "option3": "3y - 2x = 9",
+        "option4": "-3y + 2x = 9",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the distance between the points (p, 4) and (5, 10) is 3 units, what is the value of 'p'?",
+        "option1": "-3",
+        "option2": "3",
+        "option3": "6",
+        "option4": "-6",
+        "correctOption": "2"
+    },
+    {
+        "question": "Consider the lines 3x + 2y - 5 = 0 and 6x + 4y - k = 0. For what value of 'k' will the lines be coincident?",
+        "option1": "2",
+        "option2": "5",
+        "option3": "10",
+        "option4": "15",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the coordinates of the centroid of a triangle are (1, 2), and two vertices are (4, 5) and (7, 10), what are the coordinates of the third vertex?",
+        "option1": "(2, -1)",
+        "option2": "(3, 3)",
+        "option3": "(5, 8)",
+        "option4": "(8, 14)",
+        "correctOption": "1"
+    },
+    {
+        "question": "The line 2x + y = k is a normal to the curve y = x^2 - 3x + 5. What is the value of 'k'?",
+        "option1": "2",
+        "option2": "-2",
+        "option3": "1",
+        "option4": "-1",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the slope of a line is 3 times its y-intercept, what is the equation of the line?",
+        "option1": "y = 3x",
+        "option2": "y = 3x + 1",
+        "option3": "y = x/3",
+        "option4": "y = -x/3",
+        "correctOption": "2"
+    },
+    {
+        "question": "For the line 3x + 2y = 7, find the equation of the line parallel to it passing through the point (1, 2).",
+        "option1": "3x + 2y = 4",
+        "option2": "3x + 2y = 5",
+        "option3": "3x + 2y = 6",
+        "option4": "3x + 2y = 8",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the line 4x - 3y + 5 = 0 is tangent to the circle x^2 + y^2 = 25, what is the point of tangency?",
+        "option1": "(3, 4)",
+        "option2": "(-3, -4)",
+        "option3": "(4, 3)",
+        "option4": "(-4, -3)",
+        "correctOption": "1"
+    },
+    {
+        "question": "The perpendicular from the origin to the line 2x - 3y + 1 = 0 intersects it at the point (a, b). What is the value of a + b?",
+        "option1": "-1",
+        "option2": "1",
+        "option3": "2",
+        "option4": "-2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the lines ax + by + c = 0 and cx + dy + e = 0 are perpendicular, what is the relationship between a, b, c, d?",
+        "option1": "ad = bc",
+        "option2": "ac = bd",
+        "option3": "ae + bd = 0",
+        "option4": "ae - bd = 0",
+        "correctOption": "1"
+    },
+    {
+        "question": "The point of intersection of the lines x + 2y - 3 = 0 and 3x - 4y + 5 = 0 is the vertex of an isosceles triangle. What is the area of the triangle?",
+        "option1": "5 square units",
+        "option2": "10 square units",
+        "option3": "15 square units",
+        "option4": "20 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the line 2x - y + 3 = 0 is parallel to the line 4x - ky + 5 = 0, what is the value of 'k'?",
+        "option1": "1",
+        "option2": "-1",
+        "option3": "2",
+        "option4": "-2",
+        "correctOption": "1"
+    },
+    {
+        "question": "For the lines 2x - y + 1 = 0 and 3x + ky - 4 = 0, what is the condition for them to be perpendicular?",
+        "option1": "k = -2",
+        "option2": "k = 2",
+        "option3": "k = 1/2",
+        "option4": "k = -1/2",
+        "correctOption": "3"
+    },
+    {
+        "question": "The line 2x - 3y + 5 = 0 is a normal to the curve y = ax^2 + bx + c. What is the value of 'b'?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "-3",
+        "option4": "-2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the line 4x + 3y = 7 is reflected about the y-axis, what is the equation of the reflected line?",
+        "option1": "4x - 3y = 7",
+        "option2": "-4x + 3y = 7",
+        "option3": "-4x - 3y = 7",
+        "option4": "4x + 3y = -7",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the equation of the circle passing through the points (1, 2), (3, 4), and (5, 6)?",
+        "option1": "(x - 2)^2 + (y - 4)^2 = 2",
+        "option2": "(x - 2)^2 + (y - 4)^2 = 8",
+        "option3": "(x - 2)^2 + (y - 4)^2 = 16",
+        "option4": "(x - 2)^2 + (y - 4)^2 = 4",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the equation of the line joining the points (a, b) and (c, d) is (x - a)/(c - a) = (y - b)/(d - b), what is the value of (c + d)/(a + b)?",
+        "option1": "1",
+        "option2": "-1",
+        "option3": "2",
+        "option4": "-2",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the area of the triangle formed by the lines x + y - 1 = 0, x - y + 1 = 0, and x + 2y - 3 = 0?",
+        "option1": "2 square units",
+        "option2": "4 square units",
+        "option3": "6 square units",
+        "option4": "8 square units",
+        "correctOption": "3"
+    },
+    {
+        "question": "For the parabola y^2 = 4ax, if the distance between the focus and the directrix is 8 units, what is the value of 'a'?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "8",
+        "option4": "16",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the line 2x + 3y - 4 = 0 is reflected about the line x - 3y + 1 = 0, what is the equation of the reflected line?",
+        "option1": "3x - 2y + 5 = 0",
+        "option2": "-3x + 2y - 5 = 0",
+        "option3": "-3x - 2y + 5 = 0",
+        "option4": "3x + 2y - 5 = 0",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the slope of a line parallel to the x-axis?",
+        "option1": "Undefined",
+        "option2": "Zero",
+        "option3": "Infinity",
+        "option4": "One",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a line has a positive slope, how does it slant in relation to the x-axis?",
+        "option1": "Upward",
+        "option2": "Downward",
+        "option3": "Horizontal",
+        "option4": "Vertical",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a line with equation y = mx + b, what does 'm' represent?",
+        "option1": "Y-intercept",
+        "option2": "Slope",
+        "option3": "X-intercept",
+        "option4": "Constant term",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a line has a negative slope, how does it slant in relation to the x-axis?",
+        "option1": "Upward",
+        "option2": "Downward",
+        "option3": "Horizontal",
+        "option4": "Vertical",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the condition for two lines to be perpendicular in the coordinate plane?",
+        "option1": "They have the same slope.",
+        "option2": "They have opposite slopes.",
+        "option3": "Their product is -1.",
+        "option4": "Their sum is 1.",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a line passes through the point (3, -5) and has a slope of 2, what is the y-intercept?",
+        "option1": "11",
+        "option2": "-11",
+        "option3": "9",
+        "option4": "-9",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the equation of a line perpendicular to y = 3x + 2 and passing through the point (1, -1)?",
+        "option1": "y = -1/3x - 2",
+        "option2": "y = 3x - 1",
+        "option3": "y = -3x + 1",
+        "option4": "y = 1/3x + 2",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the equation of the bisector of the acute angle formed by the lines 2x - y + 3 = 0 and 4x + 5y - 1 = 0?",
+        "option1": "2x - y + 3 = 0",
+        "option2": "4x + 5y - 1 = 0",
+        "option3": "3x - 4y + 1 = 0",
+        "option4": "3x + 4y - 1 = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the slope of the line passing through the points (-2, 5) and (3, -1)?",
+        "option1": "1/2",
+        "option2": "-2/5",
+        "option3": "-1/5",
+        "option4": "2/5",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the line 3x - y + 5 = 0 is perpendicular to another line, what is the slope of the other line?",
+        "option1": "3",
+        "option2": "-3",
+        "option3": "1/3",
+        "option4": "-1/3",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the area of the triangle formed by the points (1, 2), (4, 6), and (-3, 5)?",
+        "option1": "8 square units",
+        "option2": "12 square units",
+        "option3": "15 square units",
+        "option4": "18 square units",
+        "correctOption": "2"
+    },
+    {
+        "question": "For a line with equation 2x + 3y = 6, what is the y-intercept?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "6",
+        "option4": "-2",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the equation of a line passing through the points (1, -3) and (2, 4)?",
+        "option1": "y = 7x - 10",
+        "option2": "y = -7x + 10",
+        "option3": "y = 7x + 10",
+        "option4": "y = -7x - 10",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the line 2x + ky = 8 is parallel to the y-axis, what is the value of 'k'?",
+        "option1": "2",
+        "option2": "-2",
+        "option3": "4",
+        "option4": "-4",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the distance between the parallel lines 3x - 4y + 7 = 0 and 3x - 4y - 5 = 0?",
+        "option1": "6",
+        "option2": "12",
+        "option3": "4",
+        "option4": "8",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the lines 2x + 3y - 5 = 0 and 4x + 6y - 10 = 0 are coincident, what can be said about their slopes?",
+        "option1": "Equal",
+        "option2": "Perpendicular",
+        "option3": "Parallel",
+        "option4": "Undefined",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the equation of the perpendicular bisector of the line segment joining the points (2, 3) and (6, 5)?",
+        "option1": "x + 2y = 10",
+        "option2": "x - 2y = 10",
+        "option3": "2x + y = 10",
+        "option4": "2x - y = 10",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the centroid of the triangle with vertices at (1, 3), (5, 7), and (9, 1)?",
+        "option1": "(5, 3)",
+        "option2": "(5, 5)",
+        "option3": "(7, 3)",
+        "option4": "(7, 5)",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the line x - 3y + 9 = 0 is parallel to the line 2x - ky - 4 = 0, what is the value of 'k'?",
+        "option1": "3",
+        "option2": "-3",
+        "option3": "2",
+        "option4": "-2",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the equation of the circle with center at (2, -3) and radius 4?",
+        "option1": "(x - 2)^2 + (y + 3)^2 = 16",
+        "option2": "(x + 2)^2 + (y - 3)^2 = 16",
+        "option3": "(x - 2)^2 + (y - 3)^2 = 16",
+        "option4": "(x + 2)^2 + (y + 3)^2 = 16",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the primary purpose of coordinate geometry?",
+        "option1": "To study the properties of shapes and sizes.",
+        "option2": "To analyze geometric figures using algebraic methods.",
+        "option3": "To explore the properties of numbers.",
+        "option4": "To understand the principles of calculus.",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the coordinate plane, what do the x and y axes represent?",
+        "option1": "Angles",
+        "option2": "Numbers",
+        "option3": "Variables",
+        "option4": "Directions",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the formula for calculating the distance between two points (x1, y1) and (x2, y2)?",
+        "option1": "sqrt((x2 - x1)^2 + (y2 - y1)^2)",
+        "option2": "(x2 - x1) * (y2 - y1)",
+        "option3": "(x2 + x1) * (y2 + y1)",
+        "option4": "(x2 - x1) / (y2 - y1)",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the internal division formula, what does the point (x, y) represent?",
+        "option1": "Midpoint",
+        "option2": "Endpoint",
+        "option3": "Intersection",
+        "option4": "Section",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the slope of a vertical line in the coordinate plane?",
+        "option1": "Undefined",
+        "option2": "Zero",
+        "option3": "Infinity",
+        "option4": "One",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which quadrant is characterized by positive x and y values?",
+        "option1": "Quadrant I",
+        "option2": "Quadrant II",
+        "option3": "Quadrant III",
+        "option4": "Quadrant IV",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the equation of a vertical line?",
+        "option1": "y = mx + b",
+        "option2": "x = c",
+        "option3": "y = c",
+        "option4": "x = mx + b",
+        "correctOption": "2"
+    },
+    {
+        "question": "If two lines are parallel, what can be said about their slopes?",
+        "option1": "They are equal.",
+        "option2": "They are perpendicular.",
+        "option3": "They have opposite slopes.",
+        "option4": "They have the same sign slopes.",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the midpoint formula for a line segment with endpoints (x1, y1) and (x2, y2)?",
+        "option1": "((x1 + x2)/2, (y1 + y2)/2)",
+        "option2": "((x1 - x2)/2, (y1 - y2)/2)",
+        "option3": "((x2 - x1)/2, (y2 - y1)/2)",
+        "option4": "((x2 + x1)/2, (y2 + y1)/2)",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the coordinate plane, what is the y-intercept of a line?",
+        "option1": "The point where the line intersects the x-axis.",
+        "option2": "The point where the line intersects the y-axis.",
+        "option3": "The point where the line intersects the origin.",
+        "option4": "The point where the line intersects another line.",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the equation of a horizontal line?",
+        "option1": "y = mx + b",
+        "option2": "x = c",
+        "option3": "y = c",
+        "option4": "x = mx + b",
+        "correctOption": "3"
+    },
+    {
+        "question": "If two lines are perpendicular, what is the relationship between their slopes?",
+        "option1": "They are equal.",
+        "option2": "They are parallel.",
+        "option3": "Their product is -1.",
+        "option4": "Their sum is 1.",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the general form of the equation of a line?",
+        "option1": "y = mx + b",
+        "option2": "ax + by = c",
+        "option3": "y = c",
+        "option4": "x = mx + b",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which formula is used for finding the point dividing a line segment into two given ratios?",
+        "option1": "Midpoint formula",
+        "option2": "Distance formula",
+        "option3": "Internal division formula",
+        "option4": "Slope formula",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the slope of a horizontal line in the coordinate plane?",
+        "option1": "Zero",
+        "option2": "Undefined",
+        "option3": "Infinity",
+        "option4": "One",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which quadrant is characterized by negative x and positive y values?",
+        "option1": "Quadrant I",
+        "option2": "Quadrant II",
+        "option3": "Quadrant III",
+        "option4": "Quadrant IV",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the condition for two lines to be parallel in the coordinate plane?",
+        "option1": "They have the same slope.",
+        "option2": "They have opposite slopes.",
+        "option3": "Their product is -1.",
+        "option4": "Their sum is 1.",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a line passes through the points (2, 3) and (4, 7), what is its slope?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "1",
+        "option4": "3",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the equation of a line with slope m and y-intercept b?",
+        "option1": "y = mx",
+        "option2": "y = mx + b",
+        "option3": "y = b",
+        "option4": "y = x + b",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the coordinate plane, what is the x-intercept of a line?",
+        "option1": "The point where the line intersects the x-axis.",
+        "option2": "The point where the line intersects the y-axis.",
+        "option3": "The point where the line intersects the origin.",
+        "option4": "The point where the line intersects another line.",
+        "correctOption": "1"
+    }
+]

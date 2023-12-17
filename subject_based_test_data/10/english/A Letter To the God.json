@@ -1,0 +1,802 @@
+[
+    {
+        "question": "What role does the postmaster's skepticism play in the narrative?",
+        "option1": "It challenges Lencho's beliefs",
+        "option2": "It reinforces Lencho's faith",
+        "option3": "It has no impact on the story",
+        "option4": "It leads to the postmaster's redemption",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho's letter impact the theme of human resilience?",
+        "option1": "It highlights the resilience of the human spirit",
+        "option2": "It diminishes the importance of resilience",
+        "option3": "It portrays resilience as futile",
+        "option4": "It has no bearing on the theme of resilience",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of Lencho's insistence on written communication with God?",
+        "option1": "It emphasizes the power of language",
+        "option2": "It underscores the importance of formal communication",
+        "option3": "It highlights the limitations of verbal communication",
+        "option4": "It is a humorous aspect of the story",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho's letter impact the theme of human agency?",
+        "option1": "It emphasizes the role of human agency in shaping one's destiny",
+        "option2": "It diminishes the significance of human agency",
+        "option3": "It suggests that human agency is irrelevant",
+        "option4": "It portrays human agency as a source of suffering",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does the postmaster play in the theme of religious skepticism?",
+        "option1": "He reinforces religious skepticism",
+        "option2": "He challenges religious skepticism",
+        "option3": "He is indifferent to religious skepticism",
+        "option4": "He represents blind faith",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho's letter impact the theme of community judgment?",
+        "option1": "It challenges community judgment",
+        "option2": "It reinforces community judgment",
+        "option3": "It has no impact on community judgment",
+        "option4": "It leads to the community's redemption",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of hope in Lencho's character?",
+        "option1": "Hope motivates Lencho's actions",
+        "option2": "Hope has no impact on Lencho",
+        "option3": "Hope diminishes Lencho's resolve",
+        "option4": "Hope leads to Lencho's downfall",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho's letter impact the theme of social norms?",
+        "option1": "It challenges social norms",
+        "option2": "It reinforces social norms",
+        "option3": "It has no impact on social norms",
+        "option4": "It leads to the transformation of social norms",
+        "correctOption": "1"
+    },
+    {
+        "question": "What role does divine intervention play in the story?",
+        "option1": "Divine intervention is absent",
+        "option2": "Divine intervention rewards Lencho",
+        "option3": "Divine intervention punishes Lencho",
+        "option4": "Divine intervention is unpredictable",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho's letter impact the theme of human humility?",
+        "option1": "It emphasizes the importance of humility",
+        "option2": "It diminishes the significance of humility",
+        "option3": "It has no impact on the theme of humility",
+        "option4": "It portrays humility as a weakness",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic significance of the destroyed crops in the story?",
+        "option1": "They symbolize the unpredictability of nature",
+        "option2": "They represent divine punishment",
+        "option3": "They signify the failure of human effort",
+        "option4": "They have no symbolic meaning",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the letter-writing process impact Lencho's emotional state?",
+        "option1": "It provides him with solace",
+        "option2": "It makes him more anxious",
+        "option3": "It has no effect on his emotions",
+        "option4": "It makes him more hopeful",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the role of the postmaster in the story's resolution?",
+        "option1": "He plays a crucial role in resolving the conflict",
+        "option2": "He remains a passive observer",
+        "option3": "He exacerbates the conflict",
+        "option4": "He disappears from the narrative",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho's perspective on faith differ from that of the villagers?",
+        "option1": "He is more devout than the villagers",
+        "option2": "He is more skeptical than the villagers",
+        "option3": "He is indifferent to faith",
+        "option4": "He follows the same faith as the villagers",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the story suggest about the limitations of human understanding?",
+        "option1": "Humans can comprehend everything",
+        "option2": "There are inherent limits to human understanding",
+        "option3": "Understanding is irrelevant to the story",
+        "option4": "Understanding is subjective",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Lencho's letter challenge the concept of divine justice?",
+        "option1": "It affirms the concept of divine justice",
+        "option2": "It questions the fairness of divine justice",
+        "option3": "It suggests that divine justice is arbitrary",
+        "option4": "It ignores the concept of divine justice",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the rain play in Lencho's worldview?",
+        "option1": "It is a source of life and abundance",
+        "option2": "It is a symbol of destruction",
+        "option3": "It is irrelevant to his beliefs",
+        "option4": "It is a manifestation of God's anger",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho's letter impact the narrative's pacing?",
+        "option1": "It accelerates the pace of the story",
+        "option2": "It slows down the pace of the story",
+        "option3": "It has no effect on the pacing",
+        "option4": "It creates a sense of suspense",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of doubt in Lencho's character development?",
+        "option1": "Doubt strengthens Lencho's faith",
+        "option2": "Doubt weakens Lencho's resolve",
+        "option3": "Doubt has no impact on Lencho",
+        "option4": "Doubt leads to Lencho's redemption",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the story address the theme of community solidarity?",
+        "option1": "The community unites in support of Lencho",
+        "option2": "The community isolates Lencho",
+        "option3": "The community is indifferent to Lencho",
+        "option4": "The community actively opposes Lencho",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the postmaster play in the community?",
+        "option1": "He is highly respected",
+        "option2": "He is indifferent to the community",
+        "option3": "He is disliked by the community",
+        "option4": "He is an outsider",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho's character challenge traditional religious beliefs?",
+        "option1": "He adheres strictly to religious doctrines",
+        "option2": "He questions the legitimacy of organized religion",
+        "option3": "He is an atheist",
+        "option4": "He is a religious leader",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of divine justice in the story?",
+        "option1": "Divine justice is absent",
+        "option2": "Divine justice rewards Lencho",
+        "option3": "Divine justice punishes Lencho",
+        "option4": "Divine justice is unpredictable",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the story convey about the human response to hardship?",
+        "option1": "It emphasizes resilience in the face of hardship",
+        "option2": "It highlights the inevitability of suffering",
+        "option3": "It suggests that hardship is a result of personal choices",
+        "option4": "It dismisses the concept of hardship",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho's letter challenge the notion of God as an all-powerful deity?",
+        "option1": "It reinforces the idea of God's omnipotence",
+        "option2": "It questions God's ability to intervene",
+        "option3": "It portrays God as a distant figure",
+        "option4": "It suggests that God is subject to human requests",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the natural world play in Lencho's worldview?",
+        "option1": "It is a source of inspiration",
+        "option2": "It is a symbol of divine power",
+        "option3": "It is indifferent to human concerns",
+        "option4": "It is a tool for human progress",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho's letter impact the social dynamics of the village?",
+        "option1": "It unites the villagers in faith",
+        "option2": "It causes division and skepticism",
+        "option3": "It has no effect on the villagers",
+        "option4": "It leads to social reform",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does symbolism play in Lencho's letter?",
+        "option1": "The letter itself is a symbol",
+        "option2": "The paper symbolizes wealth",
+        "option3": "The writing symbolizes prayer",
+        "option4": "The envelope symbolizes secrecy",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the story explore the theme of human pride?",
+        "option1": "Pride leads to Lencho's downfall",
+        "option2": "Pride is portrayed as a virtue",
+        "option3": "Pride is irrelevant to the story",
+        "option4": "Pride is a necessary quality",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of fate in Lencho's life?",
+        "option1": "Fate determines Lencho's actions",
+        "option2": "Lencho defies fate",
+        "option3": "Fate is indifferent to Lencho",
+        "option4": "Lencho embraces fate",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho react when he discovers the money in the letter?",
+        "option1": "He is overjoyed",
+        "option2": "He is disappointed",
+        "option3": "He is suspicious",
+        "option4": "He is indifferent",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does the theme of trust play in the story?",
+        "option1": "Lencho trusts everyone",
+        "option2": "Lencho is betrayed by trust",
+        "option3": "Trust is irrelevant to the plot",
+        "option4": "Trust is the central theme",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Lencho's attitude toward God change after receiving the money?",
+        "option1": "He becomes more devout",
+        "option2": "He becomes more skeptical",
+        "option3": "He becomes more demanding",
+        "option4": "He becomes more humble",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does Lencho's family play in the resolution of the story?",
+        "option1": "They support Lencho's actions",
+        "option2": "They discourage Lencho",
+        "option3": "They question Lencho's beliefs",
+        "option4": "They remain indifferent",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the central conflict between Lencho and the postmaster?",
+        "option1": "Distrust",
+        "option2": "Miscommunication",
+        "option3": "Religious differences",
+        "option4": "A power struggle",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the story suggest about the nature of miracles?",
+        "option1": "Miracles are predictable",
+        "option2": "Miracles are random and unexpected",
+        "option3": "Miracles are a result of hard work",
+        "option4": "Miracles are a test of faith",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Lencho's letter impact the postmaster's life?",
+        "option1": "It brings the postmaster fame",
+        "option2": "It leads to the postmaster's downfall",
+        "option3": "It has no effect on the postmaster",
+        "option4": "It inspires the postmaster to write his own letter",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of irony in 'A Letter to God'?",
+        "option1": "The story is devoid of irony",
+        "option2": "Irony adds humor to the narrative",
+        "option3": "Irony underscores the tragedy of Lencho's situation",
+        "option4": "Irony is used to mock religious beliefs",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho's letter impact the relationship between the villagers and God?",
+        "option1": "It strengthens their faith",
+        "option2": "It creates doubt in their minds",
+        "option3": "It has no effect on them",
+        "option4": "It leads to a collective prayer",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the story suggest about the human need for reassurance?",
+        "option1": "It is a sign of weakness",
+        "option2": "It is a natural desire",
+        "option3": "It is irrelevant",
+        "option4": "It is a religious duty",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Lencho's family perceive his actions and beliefs?",
+        "option1": "They support him unconditionally",
+        "option2": "They are skeptical but respectful",
+        "option3": "They disapprove of him",
+        "option4": "They are indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the letter-writing process play in Lencho's life?",
+        "option1": "It is a routine practice",
+        "option2": "It is a form of therapy",
+        "option3": "It is a desperate plea for help",
+        "option4": "It is a religious ritual",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the story comment on the theme of poverty?",
+        "option1": "It portrays poverty as a result of personal choices",
+        "option2": "It romanticizes poverty",
+        "option3": "It critiques the socio-economic system",
+        "option4": "It ignores the issue of poverty",
+        "correctOption": "3"
+    },
+    {
+        "question": "What role does humor play in 'A Letter to God'?",
+        "option1": "It is absent; the story is serious",
+        "option2": "It lightens the tone of the story",
+        "option3": "It is used to mock Lencho",
+        "option4": "It is used to mock God",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does Lencho's letter impact the postmaster's beliefs?",
+        "option1": "It strengthens his faith",
+        "option2": "It challenges his skepticism",
+        "option3": "It has no effect on him",
+        "option4": "It makes him question God's existence",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does faith play in Lencho's resilience?",
+        "option1": "Faith is the source of his strength",
+        "option2": "Faith is irrelevant to his resilience",
+        "option3": "Faith weakens his resolve",
+        "option4": "Faith leads to his downfall",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho's letter challenge societal norms?",
+        "option1": "It reinforces traditional beliefs",
+        "option2": "It challenges the authority of the church",
+        "option3": "It questions the existing social order",
+        "option4": "It upholds societal norms",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of the postmaster in the resolution of the story?",
+        "option1": "He returns the money to God",
+        "option2": "He becomes Lencho's ally",
+        "option3": "He betrays Lencho",
+        "option4": "He remains indifferent",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho's view of the world change after receiving the money?",
+        "option1": "He becomes more trusting",
+        "option2": "He becomes more cynical",
+        "option3": "He becomes more religious",
+        "option4": "He becomes more charitable",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central message or moral of 'A Letter to God'?",
+        "option1": "The power of human resilience",
+        "option2": "The unpredictability of life",
+        "option3": "The consequences of blind faith",
+        "option4": "The importance of communication",
+        "correctOption": "3"
+    },
+    {
+        "question": "What motivates Lencho to write the letter to God?",
+        "option1": "A sudden revelation",
+        "option2": "A conversation with a friend",
+        "option3": "A natural disaster",
+        "option4": "A dream",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the village react to the news of Lencho's letter?",
+        "option1": "They support him",
+        "option2": "They laugh at him",
+        "option3": "They feel pity for him",
+        "option4": "They are indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Lencho believe about the nature of God's intervention?",
+        "option1": "God directly intervenes in human affairs",
+        "option2": "God works through people",
+        "option3": "God only helps the deserving",
+        "option4": "God does not intervene",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the letter from God reach Lencho?",
+        "option1": "It falls from the sky",
+        "option2": "A stranger delivers it",
+        "option3": "The postman brings it",
+        "option4": "Lencho finds it in his mailbox",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the title 'A Letter to God'?",
+        "option1": "Lencho's letter is physically sent to God",
+        "option2": "It is a metaphor for human communication with the divine",
+        "option3": "God actually receives the letter",
+        "option4": "The title is ironic",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the community respond when Lencho receives the money?",
+        "option1": "They celebrate",
+        "option2": "They express disbelief",
+        "option3": "They accuse Lencho of deceit",
+        "option4": "They remain indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the story suggest about the role of miracles in daily life?",
+        "option1": "Miracles happen regularly",
+        "option2": "Miracles are rare and extraordinary",
+        "option3": "Miracles are a result of human effort",
+        "option4": "Miracles are illusions",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central moral or ethical dilemma faced by Lencho?",
+        "option1": "Whether to share the money with others",
+        "option2": "Whether to believe in God's existence",
+        "option3": "Whether to trust the postmaster",
+        "option4": "Whether to deceive his family",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does Lencho's reaction to the destroyed crops reveal about his character?",
+        "option1": "He is resilient",
+        "option2": "He is fatalistic",
+        "option3": "He is optimistic",
+        "option4": "He is vengeful",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic significance of the rain in the story?",
+        "option1": "It represents purification",
+        "option2": "It symbolizes the unpredictable nature of life",
+        "option3": "It foreshadows a positive change",
+        "option4": "It signifies divine intervention",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the weather play in 'A Letter to God'?",
+        "option1": "It is a symbol of divine intervention",
+        "option2": "It is a metaphor for Lencho's emotions",
+        "option3": "It is a plot device",
+        "option4": "It is a reflection of the characters' moods",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho's perception of God change throughout the story?",
+        "option1": "He becomes more faithful",
+        "option2": "He loses his faith",
+        "option3": "He realizes God's benevolence",
+        "option4": "He questions God's existence",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role does the postmaster play in the resolution of the story?",
+        "option1": "He delivers Lencho's letter to God",
+        "option2": "He provides financial assistance to Lencho",
+        "option3": "He represents skepticism and disbelief",
+        "option4": "He interprets the letter for the villagers",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does Lencho believe about the power of written communication?",
+        "option1": "He thinks it has no power",
+        "option2": "He believes it can change the world",
+        "option3": "He considers it a form of prayer",
+        "option4": "He sees it as a means of self-expression",
+        "correctOption": "3"
+    },
+    {
+        "question": "How do the villagers react when they learn about the letter from God?",
+        "option1": "They mock Lencho",
+        "option2": "They are inspired by his faith",
+        "option3": "They ignore it",
+        "option4": "They report it to the authorities",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the central irony in 'A Letter to God'?",
+        "option1": "Lencho's faith is rewarded",
+        "option2": "God directly intervenes",
+        "option3": "The postmaster believes in the letter",
+        "option4": "The money is not from God",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the story explore the theme of human agency?",
+        "option1": "Lencho has control over his fate",
+        "option2": "God determines everything",
+        "option3": "Fate is arbitrary and unpredictable",
+        "option4": "Human actions have no consequences",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the story suggest about the relationship between faith and reason?",
+        "option1": "They are incompatible",
+        "option2": "Reason is superior to faith",
+        "option3": "Faith complements reason",
+        "option4": "They are unrelated",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho's character evolve over the course of the story?",
+        "option1": "He becomes more cynical",
+        "option2": "He becomes more trusting",
+        "option3": "He remains unchanged",
+        "option4": "He becomes disillusioned",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does the setting play in 'A Letter to God'?",
+        "option1": "It is a generic backdrop",
+        "option2": "It influences the characters' actions",
+        "option3": "It is insignificant to the plot",
+        "option4": "It is symbolic of a specific time and place",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Lencho intend to do with the money he expects from God?",
+        "option1": "Buy new seeds for the next crop",
+        "option2": "Build a church in the village",
+        "option3": "Donate it to charity",
+        "option4": "Go on a pilgrimage",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the community view Lencho's letter to God?",
+        "option1": "They mock him",
+        "option2": "They admire his faith",
+        "option3": "They are indifferent",
+        "option4": "They consider him a fool",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the role of symbolism in 'A Letter to God'?",
+        "option1": "The rain symbolizes divine intervention",
+        "option2": "Lencho's letter symbolizes hope",
+        "option3": "The money symbolizes God's generosity",
+        "option4": "The postmaster symbolizes skepticism",
+        "correctOption": "2"
+    },
+    {
+        "question": "What lesson does Lencho learn by the end of the story?",
+        "option1": "The importance of hard work",
+        "option2": "The power of prayer",
+        "option3": "The unpredictability of nature",
+        "option4": "The futility of faith",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho's family react when they discover the contents of the letter?",
+        "option1": "They are overjoyed",
+        "option2": "They are disappointed",
+        "option3": "They are angry",
+        "option4": "They are indifferent",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the narrative point of view in 'A Letter to God'?",
+        "option1": "First-person",
+        "option2": "Second-person",
+        "option3": "Third-person limited",
+        "option4": "Third-person omniscient",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the postmaster think when he sees Lencho's letter addressed to God?",
+        "option1": "He believes it's a joke",
+        "option2": "He considers it blasphemy",
+        "option3": "He thinks it's a mistake",
+        "option4": "He is touched by Lencho's faith",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho react to the destruction of his crops?",
+        "option1": "He remains optimistic",
+        "option2": "He blames God",
+        "option3": "He becomes despondent",
+        "option4": "He seeks help from his neighbors",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the primary conflict in Lencho's relationship with God?",
+        "option1": "Lack of communication",
+        "option2": "Misunderstanding",
+        "option3": "Distrust",
+        "option4": "Different expectations",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the postmaster do after reading Lencho's letter?",
+        "option1": "He ignores it",
+        "option2": "He laughs",
+        "option3": "He shares it with others",
+        "option4": "He responds on behalf of God",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does Lencho plant in his field?",
+        "option1": "Wheat",
+        "option2": "Corn",
+        "option3": "Rice",
+        "option4": "Barley",
+        "correctOption": "2"
+    },
+    {
+        "question": "Who serves as the mailman delivering Lencho's letter to God?",
+        "option1": "The postmaster",
+        "option2": "Lencho's son",
+        "option3": "The village priest",
+        "option4": "A passing traveler",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does Lencho describe the rain in his letter to God?",
+        "option1": "Like a storm",
+        "option2": "Like a gentle shower",
+        "option3": "Like a drizzle",
+        "option4": "Like a hurricane",
+        "correctOption": "2"
+    },
+    {
+        "question": "What material does Lencho use to write his letter to God?",
+        "option1": "Papyrus",
+        "option2": "Stone tablet",
+        "option3": "Paper",
+        "option4": "Birch bark",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the main conflict in 'A Letter to God'?",
+        "option1": "Man vs. Nature",
+        "option2": "Man vs. Society",
+        "option3": "Man vs. God",
+        "option4": "Man vs. Himself",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the postmaster think about Lencho's letter to God?",
+        "option1": "He finds it amusing",
+        "option2": "He thinks it's disrespectful",
+        "option3": "He believes it's sincere",
+        "option4": "He ignores it",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the tone of the story 'A Letter to God'?",
+        "option1": "Comedic",
+        "option2": "Tragic",
+        "option3": "Serious",
+        "option4": "Hopeful",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role does faith play in Lencho's character?",
+        "option1": "He is a devout believer",
+        "option2": "He is an atheist",
+        "option3": "His faith is tested",
+        "option4": "He has no faith",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the title 'A Letter to God'?",
+        "option1": "Lencho's letter changes God's plans",
+        "option2": "God personally responds to the letter",
+        "option3": "The letter represents human communication with the divine",
+        "option4": "Lencho's letter is ignored by God",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho react when he finds the money in the letter from God?",
+        "option1": "He is grateful",
+        "option2": "He is confused",
+        "option3": "He is disappointed",
+        "option4": "He is angry",
+        "correctOption": "4"
+    },
+    {
+        "question": "Who is the author of 'A Letter to God'?",
+        "option1": "Gabriel Garcia Marquez",
+        "option2": "Leo Tolstoy",
+        "option3": "Gregorio Lopez y Fuentes",
+        "option4": "Nikolai Gogol",
+        "correctOption": "3"
+    },
+    {
+        "question": "Where does the story 'A Letter to God' take place?",
+        "option1": "Mexico City",
+        "option2": "Moscow",
+        "option3": "Havana",
+        "option4": "Rural village",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does Lencho request in his letter to God?",
+        "option1": "A new house",
+        "option2": "A new job",
+        "option3": "A hundred pesos",
+        "option4": "Good health",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does Lencho feel when he receives the reply from God?",
+        "option1": "Happy",
+        "option2": "Angry",
+        "option3": "Disappointed",
+        "option4": "Confused",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does Lencho believe about God's response?",
+        "option1": "God is mistaken",
+        "option2": "God has a plan",
+        "option3": "God is testing him",
+        "option4": "God doesn't exist",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary theme of 'A Letter to God'?",
+        "option1": "Faith and belief",
+        "option2": "Love and romance",
+        "option3": "War and conflict",
+        "option4": "Social justice",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who helps Lencho financially after his crops are destroyed?",
+        "option1": "The government",
+        "option2": "Neighbors",
+        "option3": "God",
+        "option4": "Lencho himself",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the occupation of the main character, Lencho?",
+        "option1": "Teacher",
+        "option2": "Farmer",
+        "option3": "Doctor",
+        "option4": "Engineer",
+        "correctOption": "2"
+    },
+    {
+        "question": "Why does Lencho write a letter to God?",
+        "option1": "To complain about his neighbors",
+        "option2": "To ask for help after a disaster",
+        "option3": "To express gratitude for a good harvest",
+        "option4": "To seek forgiveness for his sins",
+        "correctOption": "2"
+    },
+    {
+        "question": "What natural disaster affects Lencho's crops?",
+        "option1": "Earthquake",
+        "option2": "Flood",
+        "option3": "Drought",
+        "option4": "Tornado",
+        "correctOption": "3"
+    }
+]

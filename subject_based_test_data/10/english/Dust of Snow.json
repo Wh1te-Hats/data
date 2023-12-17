@@ -1,0 +1,794 @@
+[
+    {
+        "question": "What is the mood of the poem 'Dust of Snow'?",
+        "option1": "Melancholic",
+        "option2": "Energetic",
+        "option3": "Tranquil",
+        "option4": "Humorous",
+        "correctOption": "1"
+    },
+    {
+        "question": "What emotion does the speaker associate with the crow's call?",
+        "option1": "Hope",
+        "option2": "Despair",
+        "option3": "Joy",
+        "option4": "Sorrow",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'a hemlock tree'?",
+        "option1": "A poisonous plant",
+        "option2": "A weeping willow",
+        "option3": "A tall pine tree",
+        "option4": "A flowering shrub",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the dust of snow symbolize in the poem?",
+        "option1": "Forgiveness",
+        "option2": "Joy",
+        "option3": "Regret",
+        "option4": "Transformation",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the speaker describe the crow's flight?",
+        "option1": "Graceful",
+        "option2": "Erratic",
+        "option3": "Swift",
+        "option4": "Languid",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker mean by 'a change of mood'?",
+        "option1": "Physical change",
+        "option2": "Emotional change",
+        "option3": "Seasonal change",
+        "option4": "Mental change",
+        "correctOption": "2"
+    },
+    {
+        "question": "What literary device is used in the line 'Has given my heart a change of mood'?",
+        "option1": "Metaphor",
+        "option2": "Simile",
+        "option3": "Personification",
+        "option4": "Alliteration",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic meaning of the 'crow' in the poem?",
+        "option1": "Death",
+        "option2": "Joy",
+        "option3": "Transformation",
+        "option4": "Guidance",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the dust of snow do to the speaker's day?",
+        "option1": "Brightens it",
+        "option2": "Darkens it",
+        "option3": "Leaves it unchanged",
+        "option4": "Confuses it",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker do with the 'change of mood'?",
+        "option1": "Rejects it",
+        "option2": "Ignores it",
+        "option3": "Embraces it",
+        "option4": "Questions it",
+        "correctOption": "3"
+    },
+    {
+        "question": "What element of nature is personified in the poem?",
+        "option1": "Snow",
+        "option2": "Crow",
+        "option3": "Hemlock tree",
+        "option4": "Wind",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic significance of the 'dust of snow' in relation to the speaker?",
+        "option1": "Purification",
+        "option2": "Inspiration",
+        "option3": "Redemption",
+        "option4": "Illumination",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker acknowledge about the snowy incident?",
+        "option1": "Its simplicity",
+        "option2": "Its complexity",
+        "option3": "Its significance",
+        "option4": "Its insignificance",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker compare the dust of snow to?",
+        "option1": "A whisper",
+        "option2": "A sigh",
+        "option3": "A breath",
+        "option4": "A secret",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the speaker feel about the crow's flight?",
+        "option1": "Enchanted",
+        "option2": "Disturbed",
+        "option3": "Amused",
+        "option4": "Indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker realize about the snowy incident?",
+        "option1": "It's a curse",
+        "option2": "It's a blessing",
+        "option3": "It's inevitable",
+        "option4": "It's avoidable",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the speaker's emotional state before the snowy incident?",
+        "option1": "Happy",
+        "option2": "Sad",
+        "option3": "Angry",
+        "option4": "Calm",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the crow's call symbolize in the poem?",
+        "option1": "Hope",
+        "option2": "Despair",
+        "option3": "Joy",
+        "option4": "Sorrow",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'a hemlock tree'?",
+        "option1": "A poisonous plant",
+        "option2": "A weeping willow",
+        "option3": "A tall pine tree",
+        "option4": "A flowering shrub",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the dust of snow symbolize in the poem?",
+        "option1": "Forgiveness",
+        "option2": "Joy",
+        "option3": "Regret",
+        "option4": "Transformation",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does the speaker feel about the impact of the crow's flight?",
+        "option1": "Inspired",
+        "option2": "Disturbed",
+        "option3": "Indifferent",
+        "option4": "Amused",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central metaphor used in the poem?",
+        "option1": "Snow as a cleanser",
+        "option2": "Crow as a messenger",
+        "option3": "Heart as a vessel",
+        "option4": "Hemlock tree as a symbol",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the speaker physically react to the dust of snow?",
+        "option1": "Laughs",
+        "option2": "Cries",
+        "option3": "Shakes",
+        "option4": "Dances",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the dust of snow transform into, according to the poem?",
+        "option1": "A pearl",
+        "option2": "A diamond",
+        "option3": "A jewel",
+        "option4": "A crystal",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker mean by 'the crow shook down on me'?",
+        "option1": "The crow attacked the speaker",
+        "option2": "The crow landed on the speaker",
+        "option3": "The crow dropped something on the speaker",
+        "option4": "The crow flew over the speaker",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the crow's call symbolize in the poem?",
+        "option1": "A warning",
+        "option2": "A celebration",
+        "option3": "A lament",
+        "option4": "A prophecy",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the effect of the snowy incident on the speaker's surroundings?",
+        "option1": "It transforms them",
+        "option2": "It darkens them",
+        "option3": "It lightens them",
+        "option4": "It freezes them",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the speaker's initial response to the dust of snow falling on him?",
+        "option1": "Anger",
+        "option2": "Joy",
+        "option3": "Apathy",
+        "option4": "Confusion",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker mean by 'the crow shook down on me'?",
+        "option1": "The crow physically shook the speaker",
+        "option2": "The crow dropped something on the speaker",
+        "option3": "The crow flew away from the speaker",
+        "option4": "The crow perched on the speaker",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the speaker's emotional state before the snowy incident?",
+        "option1": "Happy",
+        "option2": "Sad",
+        "option3": "Angry",
+        "option4": "Calm",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the crow's call sound like according to the speaker?",
+        "option1": "Harsh",
+        "option2": "Melodious",
+        "option3": "Whispering",
+        "option4": "Echoing",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker realize about the snowy incident?",
+        "option1": "It's insignificant",
+        "option2": "It's life-changing",
+        "option3": "It's predictable",
+        "option4": "It's amusing",
+        "correctOption": "2"
+    },
+    {
+        "question": "What element of nature is most prominent in the poem?",
+        "option1": "Snow",
+        "option2": "Crow",
+        "option3": "Tree",
+        "option4": "Wind",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the dust of snow represent metaphorically in the poem?",
+        "option1": "A burden lifted",
+        "option2": "A burden added",
+        "option3": "A revelation",
+        "option4": "A memory",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker mean by 'on the hemlock tree'?",
+        "option1": "At the top of the tree",
+        "option2": "Under the tree",
+        "option3": "Inside the tree",
+        "option4": "Around the tree",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does the speaker appreciate about the crow's presence?",
+        "option1": "Its beauty",
+        "option2": "Its symbolism",
+        "option3": "Its company",
+        "option4": "Its intelligence",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the symbolic significance of the 'dust of snow'?",
+        "option1": "Purity",
+        "option2": "Joy",
+        "option3": "Regret",
+        "option4": "Transformation",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the speaker's attitude towards nature in the poem?",
+        "option1": "Fearful",
+        "option2": "Admiring",
+        "option3": "Indifferent",
+        "option4": "Hostile",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the speaker feel about the crow's flight?",
+        "option1": "Enchanted",
+        "option2": "Disturbed",
+        "option3": "Amused",
+        "option4": "Indifferent",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker realize about the snowy incident?",
+        "option1": "It's a curse",
+        "option2": "It's a blessing",
+        "option3": "It's inevitable",
+        "option4": "It's avoidable",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the 'hemlock tree' in the poem?",
+        "option1": "Symbol of life",
+        "option2": "Symbol of death",
+        "option3": "Symbol of love",
+        "option4": "Symbol of growth",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker compare the dust of snow to?",
+        "option1": "A diamond",
+        "option2": "A pearl",
+        "option3": "A gem",
+        "option4": "A crystal",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the speaker doing when the incident with the hemlock tree occurs?",
+        "option1": "Walking",
+        "option2": "Sitting",
+        "option3": "Running",
+        "option4": "Standing",
+        "correctOption": "1"
+    },
+    {
+        "question": "What effect does the snow have on the speaker's day?",
+        "option1": "Brightens it",
+        "option2": "Darkens it",
+        "option3": "Leaves it unchanged",
+        "option4": "Confuses it",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the crow's call represent in the poem?",
+        "option1": "A warning",
+        "option2": "A blessing",
+        "option3": "A curse",
+        "option4": "A greeting",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the predominant color mentioned in the poem?",
+        "option1": "White",
+        "option2": "Black",
+        "option3": "Red",
+        "option4": "Green",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the mood of the speaker before the incident with the hemlock tree?",
+        "option1": "Depressed",
+        "option2": "Happy",
+        "option3": "Calm",
+        "option4": "Anxious",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker mean by 'a crow shook down on me'?",
+        "option1": "The crow physically shook the speaker",
+        "option2": "The crow dropped something on the speaker",
+        "option3": "The crow flew away from the speaker",
+        "option4": "The crow perched on the speaker",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the dust of snow do to the speaker's heart?",
+        "option1": "Lightens it",
+        "option2": "Burdens it",
+        "option3": "Freezes it",
+        "option4": "Breaks it",
+        "correctOption": "1"
+    },
+    {
+        "question": "How would you characterize the relationship between the speaker and nature in the poem?",
+        "option1": "Harmonious",
+        "option2": "Hostile",
+        "option3": "Indifferent",
+        "option4": "Fearful",
+        "correctOption": "1"
+    },
+    {
+        "question": "What emotion is expressed through the phrase 'a change of mood'?",
+        "option1": "Joy",
+        "option2": "Regret",
+        "option3": "Surprise",
+        "option4": "Anger",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the speaker's attitude towards the snow in the poem?",
+        "option1": "Appreciative",
+        "option2": "Disdainful",
+        "option3": "Apathetic",
+        "option4": "Fearful",
+        "correctOption": "1"
+    },
+    {
+        "question": "What season is suggested by the phrase 'dust of snow'?",
+        "option1": "Summer",
+        "option2": "Autumn",
+        "option3": "Spring",
+        "option4": "Winter",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the poetic structure of 'Dust of Snow'?",
+        "option1": "Sonnet",
+        "option2": "Blank verse",
+        "option3": "Rhymed couplets",
+        "option4": "Free verse",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the speaker's reaction to the crow's flight?",
+        "option1": "Fear",
+        "option2": "Amusement",
+        "option3": "Awe",
+        "option4": "Indifference",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker realize about the snowy incident?",
+        "option1": "It's insignificant",
+        "option2": "It's life-changing",
+        "option3": "It's predictable",
+        "option4": "It's amusing",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the crow's call symbolize in the poem?",
+        "option1": "Hope",
+        "option2": "Despair",
+        "option3": "Fate",
+        "option4": "Time",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker appreciate about the snowy incident?",
+        "option1": "Its beauty",
+        "option2": "Its rarity",
+        "option3": "Its symbolism",
+        "option4": "Its sound",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the dust of snow do to the speaker's perspective?",
+        "option1": "Darkens it",
+        "option2": "Illuminates it",
+        "option3": "Distorts it",
+        "option4": "Alters it",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the color of the hemlock tree mentioned in the poem?",
+        "option1": "Green",
+        "option2": "Brown",
+        "option3": "White",
+        "option4": "Black",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which sense is emphasized when the speaker mentions 'on the hemlock tree'?",
+        "option1": "Sight",
+        "option2": "Touch",
+        "option3": "Smell",
+        "option4": "Taste",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the 'crow' in the poem?",
+        "option1": "A symbol of wisdom",
+        "option2": "A messenger of joy",
+        "option3": "A harbinger of sorrow",
+        "option4": "A companion of the speaker",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker feel towards the crow's presence?",
+        "option1": "Fear",
+        "option2": "Joy",
+        "option3": "Indifference",
+        "option4": "Anger",
+        "correctOption": "3"
+    },
+    {
+        "question": "What poetic device is used in the line 'Has given my heart a change of mood'?",
+        "option1": "Metaphor",
+        "option2": "Personification",
+        "option3": "Simile",
+        "option4": "Hyperbole",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the speaker's initial reaction to the snowfall?",
+        "option1": "Joy",
+        "option2": "Sadness",
+        "option3": "Apathy",
+        "option4": "Anger",
+        "correctOption": "2"
+    },
+    {
+        "question": "What emotion is suggested by the phrase 'a change of mood'?",
+        "option1": "Excitement",
+        "option2": "Melancholy",
+        "option3": "Nostalgia",
+        "option4": "Amusement",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker feel about the impact of the snowfall?",
+        "option1": "It's insignificant",
+        "option2": "It's profound",
+        "option3": "It's frightening",
+        "option4": "It's irritating",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which word best describes the speaker's mood after the incident with the hemlock tree?",
+        "option1": "Gloomy",
+        "option2": "Jubilant",
+        "option3": "Serene",
+        "option4": "Lively",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker do with the 'dust of snow'?",
+        "option1": "Throws it away",
+        "option2": "Keeps it as a memento",
+        "option3": "Ignores it",
+        "option4": "Examines it closely",
+        "correctOption": "1"
+    },
+    {
+        "question": "What season is suggested by the phrase 'dust of snow'?",
+        "option1": "Autumn",
+        "option2": "Spring",
+        "option3": "Winter",
+        "option4": "Summer",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the crow symbolize in the context of the poem?",
+        "option1": "Death",
+        "option2": "Joy",
+        "option3": "Freedom",
+        "option4": "Loneliness",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the speaker describe the crow's call?",
+        "option1": "Harsh",
+        "option2": "Melodious",
+        "option3": "Whispering",
+        "option4": "Echoing",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker ultimately feel about the snowy incident?",
+        "option1": "Gratitude",
+        "option2": "Disgust",
+        "option3": "Indifference",
+        "option4": "Amusement",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the dust of snow transform into, according to the poem?",
+        "option1": "A jewel",
+        "option2": "A tear",
+        "option3": "A song",
+        "option4": "A memory",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the predominant emotion in the poem?",
+        "option1": "Anger",
+        "option2": "Joy",
+        "option3": "Sorrow",
+        "option4": "Fear",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'a hemlock tree'?",
+        "option1": "A poisonous plant",
+        "option2": "A weeping willow",
+        "option3": "A tall pine tree",
+        "option4": "A flowering shrub",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the symbolic significance of the crow's flight in the poem?",
+        "option1": "Freedom",
+        "option2": "Danger",
+        "option3": "Fate",
+        "option4": "Sorrow",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the speaker react to the crow's presence?",
+        "option1": "Welcomes it",
+        "option2": "Ignores it",
+        "option3": "Fears it",
+        "option4": "Chases it away",
+        "correctOption": "3"
+    },
+    {
+        "question": "What time of day is suggested by the poem's setting?",
+        "option1": "Morning",
+        "option2": "Afternoon",
+        "option3": "Evening",
+        "option4": "Night",
+        "correctOption": "3"
+    },
+    {
+        "question": "In 'Dust of Snow,' what does the speaker shake off from a hemlock tree?",
+        "option1": "Rain",
+        "option2": "Snow",
+        "option3": "Leaves",
+        "option4": "Dust",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the poem, what change occurs in the speaker's mood after the incident with the hemlock tree?",
+        "option1": "Joyful",
+        "option2": "Sorrowful",
+        "option3": "Indifferent",
+        "option4": "Angry",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic significance of the hemlock tree in the poem?",
+        "option1": "Purity",
+        "option2": "Danger",
+        "option3": "Regret",
+        "option4": "Inspiration",
+        "correctOption": "4"
+    },
+    {
+        "question": "What season is mentioned in 'Dust of Snow'?",
+        "option1": "Spring",
+        "option2": "Summer",
+        "option3": "Winter",
+        "option4": "Autumn",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the snow represent in the poem?",
+        "option1": "Burden",
+        "option2": "Joy",
+        "option3": "Renewal",
+        "option4": "Sadness",
+        "correctOption": "1"
+    },
+    {
+        "question": "What emotion is described as being 'changed' by the dust of snow?",
+        "option1": "Love",
+        "option2": "Hope",
+        "option3": "Anger",
+        "option4": "Despair",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the speaker's initial reaction to the incident with the hemlock tree?",
+        "option1": "Laughter",
+        "option2": "Crying",
+        "option3": "Surprise",
+        "option4": "Fear",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which word best describes the tone of the poem 'Dust of Snow'?",
+        "option1": "Melancholic",
+        "option2": "Joyful",
+        "option3": "Serious",
+        "option4": "Playful",
+        "correctOption": "1"
+    },
+    {
+        "question": "What type of poem is 'Dust of Snow'?",
+        "option1": "Sonnet",
+        "option2": "Haiku",
+        "option3": "Free Verse",
+        "option4": "Limerick",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker describe as 'on the hemlock tree'?",
+        "option1": "Snow",
+        "option2": "Dust",
+        "option3": "Leaves",
+        "option4": "Sunlight",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the dust of snow represent metaphorically in the poem?",
+        "option1": "New beginnings",
+        "option2": "Unexpected joy",
+        "option3": "Tragedy",
+        "option4": "Forgiveness",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the setting of 'Dust of Snow'?",
+        "option1": "A beach",
+        "option2": "A forest",
+        "option3": "A city",
+        "option4": "A mountain",
+        "correctOption": "2"
+    },
+    {
+        "question": "What literary device is used in the line 'Has given my heart a change of mood'?",
+        "option1": "Simile",
+        "option2": "Metaphor",
+        "option3": "Alliteration",
+        "option4": "Personification",
+        "correctOption": "2"
+    },
+    {
+        "question": "What emotion does the speaker feel after the dust of snow falls on him?",
+        "option1": "Anger",
+        "option2": "Happiness",
+        "option3": "Sadness",
+        "option4": "Surprise",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the central theme of 'Dust of Snow'?",
+        "option1": "Nature's beauty",
+        "option2": "The impact of small events",
+        "option3": "Loss and grief",
+        "option4": "Love and romance",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the significance of the 'crow' in the poem?",
+        "option1": "Good luck",
+        "option2": "Bad omen",
+        "option3": "Messenger of joy",
+        "option4": "Symbol of death",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which season is suggested by the phrase 'dust of snow'?",
+        "option1": "Winter",
+        "option2": "Spring",
+        "option3": "Autumn",
+        "option4": "Summer",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker do with the 'change of mood' in the poem?",
+        "option1": "Ignores it",
+        "option2": "Embraces it",
+        "option3": "Rejects it",
+        "option4": "Fears it",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the overall tone of the poem?",
+        "option1": "Hopeful",
+        "option2": "Regretful",
+        "option3": "Neutral",
+        "option4": "Optimistic",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the speaker's relationship with nature in the poem?",
+        "option1": "Fearful",
+        "option2": "Indifferent",
+        "option3": "Harmonious",
+        "option4": "Destructive",
+        "correctOption": "3"
+    }
+]

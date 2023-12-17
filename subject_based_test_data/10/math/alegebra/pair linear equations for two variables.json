@@ -1,0 +1,1242 @@
+[
+    {
+        "question": "If two lines are parallel, what can be said about their slopes in the context of linear equations?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the pair of equations 2x - 3y = 7 and 4x - 6y = 14, are the lines coincident, parallel, or intersecting?",
+        "option1": "Coincident",
+        "option2": "Parallel",
+        "option3": "Intersecting",
+        "option4": "Insufficient information",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the graphical representation of a pair of coincident lines in the context of linear equations?",
+        "option1": "Lines intersecting at one point",
+        "option2": "Lines coincident",
+        "option3": "Lines never meeting",
+        "option4": "Lines intersecting at two points",
+        "correctOption": "2"
+    },
+    {
+        "question": "For the pair of equations x + 2y = 5 and 2x + 4y = 10, what is the relationship between the lines?",
+        "option1": "Parallel",
+        "option2": "Coincident",
+        "option3": "Perpendicular",
+        "option4": "Intersecting at one point",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a pair of linear equations has no solution, what can be said about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are perpendicular",
+        "option4": "They intersect at one point",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the pair of equations 3x - 2y = 8 and 6x - 4y = 16, are the lines coincident, parallel, or intersecting?",
+        "option1": "Coincident",
+        "option2": "Parallel",
+        "option3": "Intersecting",
+        "option4": "Insufficient information",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the condition for a system of linear equations to have infinitely many solutions?",
+        "option1": "Rank of the coefficient matrix is less than the number of variables",
+        "option2": "Determinant of the coefficient matrix is zero",
+        "option3": "Rank of the augmented matrix is less than the number of equations",
+        "option4": "Rank of the coefficient matrix is equal to the number of equations",
+        "correctOption": "4"
+    },
+    {
+        "question": "If a system of linear equations has a unique solution, what can be said about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the graphical representation of a pair of parallel lines in the context of linear equations?",
+        "option1": "Lines intersecting at one point",
+        "option2": "Lines coincident",
+        "option3": "Lines never meeting",
+        "option4": "Lines intersecting at two points",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a pair of linear equations has infinitely many solutions, what is the relationship between the lines?",
+        "option1": "Parallel",
+        "option2": "Perpendicular",
+        "option3": "Coincident",
+        "option4": "Intersecting at one point",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a consistent system of linear equations, what does it mean if the lines are parallel?",
+        "option1": "They have no solution",
+        "option2": "They have a unique solution",
+        "option3": "They have infinitely many solutions",
+        "option4": "They intersect at one point",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of finding the point of intersection in the solution of a pair of linear equations?",
+        "option1": "It represents a unique solution",
+        "option2": "It represents no solution",
+        "option3": "It represents infinitely many solutions",
+        "option4": "It represents exactly two solutions",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a pair of linear equations with slopes m1 and m2, when are the lines perpendicular?",
+        "option1": "m1 = m2",
+        "option2": "m1 < m2",
+        "option3": "m1 > m2",
+        "option4": "m1 * m2 = -1",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the condition for a consistent system of linear equations to have no solution?",
+        "option1": "The lines are coincident",
+        "option2": "The lines are parallel",
+        "option3": "The lines are perpendicular",
+        "option4": "The lines intersect at one point",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the pair of equations 4x + 3y = 12 and 8x + 6y = 24, are the lines coincident, parallel, or intersecting?",
+        "option1": "Coincident",
+        "option2": "Parallel",
+        "option3": "Intersecting",
+        "option4": "Insufficient information",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the determinant of the coefficient matrix in the context of linear equations?",
+        "option1": "It determines the type of solutions",
+        "option2": "It represents the slope of the lines",
+        "option3": "It indicates the number of variables",
+        "option4": "It determines if the system is consistent or inconsistent",
+        "correctOption": "4"
+    },
+    {
+        "question": "If a pair of linear equations has a unique solution, what is the relationship between the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the condition for a consistent system of linear equations to have no solution?",
+        "option1": "The lines are coincident",
+        "option2": "The lines are parallel",
+        "option3": "The lines are perpendicular",
+        "option4": "The lines intersect at one point",
+        "correctOption": "2"
+    },
+    {
+        "question": "For the pair of equations 5x - 2y = 8 and 10x - 4y = 16, what is the value of x?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the solution to a pair of perpendicular lines in the context of linear equations?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinite solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a pair of linear equations, if the slopes of the lines are equal, what can be said about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They intersect at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a pair of linear equations to represent perpendicular lines, what is the relationship between their slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are negative reciprocals",
+        "option4": "Slopes are zero",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the condition for a pair of linear equations to have no solution?",
+        "option1": "The lines are parallel",
+        "option2": "The lines are coincident",
+        "option3": "The lines intersect at one point",
+        "option4": "The slopes are equal",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are coincident, what can be said about their slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are negative reciprocals",
+        "option4": "Slopes are zero",
+        "correctOption": "1"
+    },
+    {
+        "question": "How is the system of equations classified if the lines represented by a pair of equations are parallel?",
+        "option1": "Consistent with a unique solution",
+        "option2": "Consistent with infinitely many solutions",
+        "option3": "Inconsistent with no solution",
+        "option4": "Inconsistent with exactly two solutions",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the graphical representation of a pair of coincident lines?",
+        "option1": "Lines intersecting at one point",
+        "option2": "Lines parallel",
+        "option3": "Lines coincident",
+        "option4": "Lines never meeting",
+        "correctOption": "3"
+    },
+    {
+        "question": "For a consistent system of linear equations with infinitely many solutions, what is the relationship between the lines?",
+        "option1": "Parallel",
+        "option2": "Perpendicular",
+        "option3": "Coincident",
+        "option4": "Intersecting at one point",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the lines represented by a pair of linear equations are intersecting at one point, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Exactly two",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the pair of equations 4x - 3y = 7 and 2x + 5y = 8, what is the value of y?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the 'Elimination Method' involve in solving a system of linear equations?",
+        "option1": "Substituting one equation into the other",
+        "option2": "Adding or subtracting equations to eliminate one variable",
+        "option3": "Finding the slopes of the lines",
+        "option4": "Graphical representation",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of linear equations, what is the 'Substitution Method'?",
+        "option1": "Solving for one variable in one equation and substituting it into the other",
+        "option2": "Adding or subtracting equations to eliminate one variable",
+        "option3": "Finding the slopes of the lines",
+        "option4": "Graphical representation",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the solution to a pair of inconsistent linear equations?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinite solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "2"
+    },
+    {
+        "question": "How can you identify a pair of parallel lines in the graphical representation of linear equations?",
+        "option1": "Lines intersecting at one point",
+        "option2": "Lines coincident",
+        "option3": "Lines parallel",
+        "option4": "Lines never meeting",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the solution to a pair of coincident linear equations?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinite solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the condition for a system of linear equations to have a unique solution?",
+        "option1": "The lines are coincident",
+        "option2": "The lines are parallel",
+        "option3": "The lines intersect at one point",
+        "option4": "The slopes are equal",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a pair of linear equations has no solution, how would the lines appear graphically?",
+        "option1": "Parallel",
+        "option2": "Coincident",
+        "option3": "Intersecting at one point",
+        "option4": "Never meeting",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the solution to a pair of parallel lines?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinite solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the pair of equations 2x + 3y = 10 and x - y = 2, what is the value of x?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the term 'Intersecting Lines' mean in the context of linear equations?",
+        "option1": "Lines with no common point",
+        "option2": "Lines with exactly one common point",
+        "option3": "Lines that never meet",
+        "option4": "Lines with infinite common points",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of linear equations, what does the term 'Cramer's Rule' refer to?",
+        "option1": "A method for solving a system of linear equations using determinants",
+        "option2": "A method for graphically representing equations",
+        "option3": "A method for finding the slopes of lines",
+        "option4": "A method for solving quadratic equations",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the 'Rank' of a matrix in the context of systems of linear equations?",
+        "option1": "It determines the type of solutions",
+        "option2": "It indicates the number of variables",
+        "option3": "It determines if the system is consistent or inconsistent",
+        "option4": "It represents the number of equations",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the condition for a consistent system of linear equations to have a unique solution?",
+        "option1": "Rank of the coefficient matrix is equal to the rank of the augmented matrix",
+        "option2": "Determinant of the coefficient matrix is zero",
+        "option3": "Number of variables is equal to the number of equations",
+        "option4": "Rank of the augmented matrix is zero",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the context of linear algebra, what is the purpose of Gaussian elimination?",
+        "option1": "To find the determinant of a matrix",
+        "option2": "To solve systems of linear equations",
+        "option3": "To compute eigenvalues",
+        "option4": "To perform matrix multiplication",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the condition for a system of linear equations to have no solution?",
+        "option1": "Determinant of the coefficient matrix is zero",
+        "option2": "Rank of the augmented matrix is less than the rank of the coefficient matrix",
+        "option3": "Rank of the coefficient matrix is greater than the rank of the augmented matrix",
+        "option4": "Number of variables is less than the number of equations",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of linear algebra, what is meant by the 'Inverse' of a matrix?",
+        "option1": "The transpose of the matrix",
+        "option2": "The reciprocal of the matrix",
+        "option3": "The matrix multiplied by its cofactor matrix",
+        "option4": "The matrix that, when multiplied, gives the identity matrix",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the geometric interpretation of a consistent system of linear equations with infinitely many solutions?",
+        "option1": "Parallel lines",
+        "option2": "Coincident lines",
+        "option3": "Intersecting lines at one point",
+        "option4": "Lines lying on the same plane",
+        "correctOption": "4"
+    },
+    {
+        "question": "In linear algebra, what does the 'Null Space' of a matrix represent?",
+        "option1": "The space spanned by the row vectors",
+        "option2": "The space spanned by the column vectors",
+        "option3": "The solution space of the homogeneous system of equations",
+        "option4": "The space spanned by the eigenvectors",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the condition for a consistent system of linear equations to have infinitely many solutions?",
+        "option1": "Rank of the augmented matrix is less than the number of variables",
+        "option2": "Determinant of the coefficient matrix is zero",
+        "option3": "Rank of the coefficient matrix is equal to the number of variables",
+        "option4": "Rank of the augmented matrix is less than the number of equations",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the role of the 'Augmented Matrix' in the context of systems of linear equations?",
+        "option1": "It represents the coefficients of the variables",
+        "option2": "It includes the constants on the right-hand side of the equations",
+        "option3": "It is used to find the inverse of the matrix",
+        "option4": "It determines the rank of the matrix",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of linear algebra, what does the 'Eigenvalue' of a matrix represent?",
+        "option1": "The sum of the diagonal elements",
+        "option2": "The determinant of the matrix",
+        "option3": "A scalar that represents scaling factor in linear transformations",
+        "option4": "The inverse of the matrix",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the purpose of the 'Row Reduction' method in solving systems of linear equations?",
+        "option1": "To find the determinant of the matrix",
+        "option2": "To transform a matrix into row-echelon form",
+        "option3": "To compute the inverse of the matrix",
+        "option4": "To calculate the eigenvalues of the matrix",
+        "correctOption": "2"
+    },
+    {
+        "question": "In linear algebra, what does the 'Cofactor' of a matrix represent?",
+        "option1": "The product of the elements of a row",
+        "option2": "The product of the elements of a column",
+        "option3": "The determinant of a submatrix",
+        "option4": "The sum of the elements of a row",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the role of 'Gauss-Jordan Elimination' in solving systems of linear equations?",
+        "option1": "To find the determinant of the matrix",
+        "option2": "To transform a matrix into reduced row-echelon form",
+        "option3": "To compute the inverse of the matrix",
+        "option4": "To calculate the eigenvalues of the matrix",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the context of linear algebra, what is the 'Identity Matrix'?",
+        "option1": "A matrix with all elements equal to zero",
+        "option2": "A square matrix with ones on the main diagonal and zeros elsewhere",
+        "option3": "A matrix with all elements equal to one",
+        "option4": "A matrix with random elements",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the 'Row Echelon Form' of a matrix?",
+        "option1": "A form where all elements below the main diagonal are zero",
+        "option2": "A form where all elements above the main diagonal are zero",
+        "option3": "A form where each leading entry of a row is to the right of the leading entry of the row above it",
+        "option4": "A form where each leading entry of a row is to the left of the leading entry of the row above it",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the purpose of the 'Characteristic Equation' in the context of eigenvalues?",
+        "option1": "To find the rank of the matrix",
+        "option2": "To find the null space of the matrix",
+        "option3": "To calculate the eigenvalues of the matrix",
+        "option4": "To determine the inverse of the matrix",
+        "correctOption": "3"
+    },
+    {
+        "question": "In linear algebra, what is the 'Homogeneous System' of linear equations?",
+        "option1": "A system with non-zero constants on the right-hand side",
+        "option2": "A system with zero constants on the right-hand side",
+        "option3": "A system with more variables than equations",
+        "option4": "A system with more equations than variables",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the 'Determinant' of a 2x2 matrix [a b; c d]?",
+        "option1": "ad - bc",
+        "option2": "a + b + c + d",
+        "option3": "a^2 + b^2 + c^2 + d^2",
+        "option4": "(a + d)(b + c)",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is a pair of linear equations?",
+        "option1": "One equation with two variables",
+        "option2": "Two equations with one variable each",
+        "option3": "Two equations with two variables each",
+        "option4": "Three equations with three variables each",
+        "correctOption": "3"
+    },
+    {
+        "question": "How many variables are typically present in a pair of linear equations?",
+        "option1": "One",
+        "option2": "Two",
+        "option3": "Three",
+        "option4": "Four",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the solution to a pair of parallel lines?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinite solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the pair of equations 3x + 2y = 8 and 2x - y = 4, what is the value of y?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the term 'Consistent System' mean in the context of linear equations?",
+        "option1": "The system has no solution",
+        "option2": "The system has a unique solution",
+        "option3": "The system has infinitely many solutions",
+        "option4": "The system has exactly two solutions",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are intersecting at one point, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does a consistent system of linear equations with a unique solution imply about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the lines represented by a pair of linear equations are coincident, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the solution to a pair of coincident linear equations?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinite solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are parallel, what can be said about the slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a pair of linear equations to have no solution, what must be true about the slopes of the lines?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the condition for a system of linear equations to have infinitely many solutions?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a system of linear equations has infinitely many solutions, what is the relationship between the lines?",
+        "option1": "Parallel",
+        "option2": "Perpendicular",
+        "option3": "Coincident",
+        "option4": "Intersecting at one point",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are perpendicular, what can be said about the slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the solution to a pair of linear equations with no solution?",
+        "option1": "An ordered pair",
+        "option2": "Infinite solutions",
+        "option3": "No solution",
+        "option4": "Unique solution",
+        "correctOption": "3"
+    },
+    {
+        "question": "If a pair of linear equations has a unique solution, what does that imply about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the graphical representation of a pair of parallel lines?",
+        "option1": "Lines intersecting at one point",
+        "option2": "Lines coincident",
+        "option3": "Lines never meeting",
+        "option4": "Lines intersecting at two points",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the lines represented by a pair of equations are parallel, what can be said about their slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "1"
+    },
+    {
+        "question": "How can you determine if a point lies on the graph of a given linear equation?",
+        "option1": "Substitute the values into the equation",
+        "option2": "Check if the point is on the x-axis",
+        "option3": "Check if the point is on the y-axis",
+        "option4": "Use the graphical method",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of finding the point of intersection in the solution of a pair of linear equations?",
+        "option1": "It represents a unique solution",
+        "option2": "It represents no solution",
+        "option3": "It represents infinitely many solutions",
+        "option4": "It represents exactly two solutions",
+        "correctOption": "1"
+    },
+    {
+        "question": "How can you identify inconsistent lines in a graphical representation of a pair of linear equations?",
+        "option1": "Lines never meeting",
+        "option2": "Lines coincident",
+        "option3": "Lines intersecting at one point",
+        "option4": "Lines parallel",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a system of linear equations has exactly two solutions, what does that imply about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the condition for a system of linear equations to have no solution?",
+        "option1": "The lines are coincident",
+        "option2": "The lines are parallel",
+        "option3": "The lines are perpendicular",
+        "option4": "The lines intersect at one point",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are coincident, what can be said about their coefficients?",
+        "option1": "Coefficients are equal",
+        "option2": "Coefficients are not equal",
+        "option3": "Coefficients are zero",
+        "option4": "Coefficients are infinite",
+        "correctOption": "1"
+    },
+    {
+        "question": "How can you determine if a system of linear equations is inconsistent?",
+        "option1": "By checking the slopes",
+        "option2": "By checking if the lines are parallel",
+        "option3": "By checking if the lines are coincident",
+        "option4": "By checking if there is no common solution",
+        "correctOption": "4"
+    },
+    {
+        "question": "If a pair of linear equations has a unique solution, what is the relationship between the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does it mean when a pair of linear equations has infinitely many solutions?",
+        "option1": "The lines are coincident",
+        "option2": "The lines are parallel",
+        "option3": "The lines intersect at one point",
+        "option4": "The lines have no common points",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the lines represented by a pair of equations intersect at one point, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Exactly two",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does a pair of perpendicular lines in a consistent system imply about the slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are negative reciprocals",
+        "correctOption": "4"
+    },
+    {
+        "question": "How can you determine if a point lies on the graph of a given linear equation?",
+        "option1": "Substitute the values into the equation",
+        "option2": "Check if the point is on the x-axis",
+        "option3": "Check if the point is on the y-axis",
+        "option4": "Use the graphical method",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the lines represented by a pair of equations are parallel, what can be said about their slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the graphical representation of a pair of parallel lines?",
+        "option1": "Lines intersecting at one point",
+        "option2": "Lines coincident",
+        "option3": "Lines never meeting",
+        "option4": "Lines intersecting at two points",
+        "correctOption": "3"
+    },
+    {
+        "question": "If two lines are coincident, how many solutions does the pair of equations have?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Exactly two",
+        "correctOption": "3"
+    },
+    {
+        "question": "If two lines are coincident, how many solutions does the pair of equations have?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Exactly two",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which method involves substituting one equation into the other to find the values of variables?",
+        "option1": "Substitution",
+        "option2": "Elimination",
+        "option3": "Graphical method",
+        "option4": "Matrix method",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the term 'Intersecting Lines' mean in the context of linear equations?",
+        "option1": "Lines with no common point",
+        "option2": "Lines with exactly one common point",
+        "option3": "Lines that never meet",
+        "option4": "Lines with infinite common points",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a pair of linear equations is inconsistent, what does that mean?",
+        "option1": "They have no solution",
+        "option2": "They have a unique solution",
+        "option3": "They have infinitely many solutions",
+        "option4": "They have exactly two solutions",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the pair of equations 2x + 3y = 10 and x - y = 2, what is the value of x?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "3"
+    },
+    {
+        "question": "How many solutions can a consistent system of linear equations have?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Exactly two",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is a pair of linear equations in two variables?",
+        "option1": "Two unrelated equations",
+        "option2": "Two equations with two variables each",
+        "option3": "Two equations with one variable each",
+        "option4": "Two equations with three variables each",
+        "correctOption": "2"
+    },
+    {
+        "question": "What role do linear equations in two variables play in climate modeling and environmental sustainability?",
+        "option1": "Temperature trend analysis",
+        "option2": "Carbon footprint estimation",
+        "option3": "Ecosystem modeling",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the field of education, how can linear equations be utilized for resource allocation in schools?",
+        "option1": "Teacher scheduling",
+        "option2": "Classroom allocation",
+        "option3": "Educational program planning",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "How are systems of linear equations employed in the energy sector for optimal resource utilization?",
+        "option1": "Power grid optimization",
+        "option2": "Renewable energy planning",
+        "option3": "Energy consumption analysis",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the field of architecture, how can linear equations be used for structural analysis?",
+        "option1": "Load distribution analysis",
+        "option2": "Material strength analysis",
+        "option3": "Construction cost estimation",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the application of pair of equations in two variables in the automotive industry?",
+        "option1": "Fuel efficiency analysis",
+        "option2": "Vehicle dynamics modeling",
+        "option3": "Supply chain optimization",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the realm of data science, how are systems of linear equations used for feature engineering?",
+        "option1": "Dimensionality reduction",
+        "option2": "Variable selection",
+        "option3": "Data preprocessing",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "How can linear equations be utilized in the field of marketing for campaign optimization?",
+        "option1": "Target audience analysis",
+        "option2": "Budget allocation",
+        "option3": "Return on investment analysis",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "What role do pair of equations in two variables play in risk management in finance?",
+        "option1": "Portfolio optimization",
+        "option2": "Credit risk analysis",
+        "option3": "Derivative pricing",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "How are systems of linear equations applied in the healthcare industry for resource planning?",
+        "option1": "Staff scheduling",
+        "option2": "Equipment allocation",
+        "option3": "Patient flow analysis",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the field of telecommunications, how do linear equations in two variables contribute to network optimization?",
+        "option1": "Bandwidth allocation",
+        "option2": "Signal propagation analysis",
+        "option3": "Resource allocation",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "How can linear equations be employed in logistics and supply chain management?",
+        "option1": "Inventory management",
+        "option2": "Route optimization",
+        "option3": "Demand forecasting",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "In aerospace engineering, how are pair of equations in two variables used for trajectory analysis?",
+        "option1": "Flight path optimization",
+        "option2": "Fuel consumption analysis",
+        "option3": "Aerodynamic design",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "How can linear equations be applied in urban planning and development?",
+        "option1": "Traffic flow analysis",
+        "option2": "Land use planning",
+        "option3": "Infrastructure design",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the significance of solving systems of linear equations in the pharmaceutical industry?",
+        "option1": "Drug formulation",
+        "option2": "Clinical trial design",
+        "option3": "Supply chain optimization",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "In environmental science, how can linear equations help in modeling ecological systems?",
+        "option1": "Population dynamics",
+        "option2": "Energy flow analysis",
+        "option3": "Climate modeling",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "How are pair of equations in two variables used in the field of machine learning?",
+        "option1": "Feature selection",
+        "option2": "Model training",
+        "option3": "Predictive analytics",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "In engineering, what role do pair of equations in two variables play in system design?",
+        "option1": "Circuit analysis",
+        "option2": "Control systems",
+        "option3": "Structural analysis",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "How can linear equations in two variables be applied in project management?",
+        "option1": "Resource scheduling",
+        "option2": "Task prioritization",
+        "option3": "Timeline optimization",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "In financial modeling, what does a consistent system of linear equations imply?",
+        "option1": "Profitability",
+        "option2": "Financial stability",
+        "option3": "Risk diversification",
+        "option4": "Budget constraints",
+        "correctOption": "2"
+    },
+    {
+        "question": "In business analytics, how are systems of linear equations used to model real-world scenarios?",
+        "option1": "Optimizing resource allocation",
+        "option2": "Analyzing customer behavior",
+        "option3": "Forecasting market trends",
+        "option4": "All of the above",
+        "correctOption": "4"
+    },
+    {
+        "question": "If a pair of linear equations has a unique solution, what does that imply about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the solution to a pair of linear equations with no solution?",
+        "option1": "An ordered pair",
+        "option2": "Infinite solutions",
+        "option3": "No solution",
+        "option4": "Unique solution",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are perpendicular, what can be said about the slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "4"
+    },
+    {
+        "question": "If a system of linear equations has infinitely many solutions, what is the relationship between the lines?",
+        "option1": "Parallel",
+        "option2": "Perpendicular",
+        "option3": "Coincident",
+        "option4": "Intersecting at one point",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the condition for a system of linear equations to have infinitely many solutions?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a pair of linear equations to have no solution, what must be true about the slopes of the lines?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "2"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are parallel, what can be said about the slopes?",
+        "option1": "Slopes are equal",
+        "option2": "Slopes are not equal",
+        "option3": "Slopes are zero",
+        "option4": "Slopes are infinite",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the solution to a pair of coincident linear equations?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinitely many solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the lines represented by a pair of linear equations are perpendicular, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does a pair of parallel lines in a consistent system imply about the solution?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinitely many solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a system of linear equations has exactly two solutions, what can be said about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are coincident, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the graphical representation of a pair of linear equations with no solution?",
+        "option1": "Parallel lines",
+        "option2": "Coincident lines",
+        "option3": "Intersecting lines",
+        "option4": "No lines are drawn",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the coefficients of x and y are equal in a pair of linear equations, the lines represented by them are:",
+        "option1": "Parallel",
+        "option2": "Perpendicular",
+        "option3": "Coincident",
+        "option4": "Intersecting at one point",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the term 'System of Equations' refer to in the context of algebra?",
+        "option1": "A single linear equation",
+        "option2": "Two linear equations",
+        "option3": "Multiple linear equations",
+        "option4": "A quadratic equation",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the lines represented by a pair of linear equations are neither parallel nor coincident, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the solution to a pair of parallel linear equations?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinitely many solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the lines represented by a pair of linear equations are coincident, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does a consistent system of linear equations with a unique solution imply about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "3"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are intersecting at one point, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the term 'Consistent System' mean in the context of linear equations?",
+        "option1": "The system has no solution",
+        "option2": "The system has a unique solution",
+        "option3": "The system has infinitely many solutions",
+        "option4": "The system has exactly two solutions",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the coefficients of x and y are proportional in a pair of linear equations, the lines represented by them are:",
+        "option1": "Parallel",
+        "option2": "Perpendicular",
+        "option3": "Coincident",
+        "option4": "Intersecting at one point",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the condition for a system of linear equations to be inconsistent?",
+        "option1": "The lines are coincident",
+        "option2": "The lines are parallel",
+        "option3": "The lines are perpendicular",
+        "option4": "The lines intersect at one point",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which of the following statements is true for a pair of linear equations that are coincident?",
+        "option1": "They have no solution",
+        "option2": "They have a unique solution",
+        "option3": "They have infinitely many solutions",
+        "option4": "They have exactly two solutions",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does a system of linear equations with exactly two solutions imply about the lines?",
+        "option1": "They are parallel",
+        "option2": "They are coincident",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the lines represented by a pair of linear equations are perpendicular, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the solution to a pair of coincident linear equations?",
+        "option1": "Unique solution",
+        "option2": "No solution",
+        "option3": "Infinitely many solutions",
+        "option4": "Exactly two solutions",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which method involves adding or subtracting the equations to eliminate one of the variables in a pair of linear equations?",
+        "option1": "Substitution",
+        "option2": "Elimination",
+        "option3": "Matrix method",
+        "option4": "Graphical method",
+        "correctOption": "2"
+    },
+    {
+        "question": "For a pair of linear equations to have a unique solution, the lines represented by them must be:",
+        "option1": "Parallel",
+        "option2": "Perpendicular",
+        "option3": "Intersecting at one point",
+        "option4": "Coincident",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the term 'Inconsistent System' mean in the context of linear equations?",
+        "option1": "The system has no solution",
+        "option2": "The system has a unique solution",
+        "option3": "The system has infinitely many solutions",
+        "option4": "The system has exactly two solutions",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a pair of linear equations has infinitely many solutions, what can be said about the lines?",
+        "option1": "They are coincident",
+        "option2": "They are parallel",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which of the following is a consistent system of linear equations?",
+        "option1": "2x + 3y = 7, 4x + 6y = 14",
+        "option2": "3x - y = 5, 6x - 2y = 10",
+        "option3": "2x + y = 8, 4x + 2y = 16",
+        "option4": "5x + 2y = 11, 3x - y = 4",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a pair of linear equations has no solution, what can be said about the lines?",
+        "option1": "They are coincident",
+        "option2": "They are parallel",
+        "option3": "They are intersecting at one point",
+        "option4": "They are perpendicular",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which method is used to solve a pair of linear equations graphically?",
+        "option1": "Substitution",
+        "option2": "Elimination",
+        "option3": "Matrix method",
+        "option4": "Graphical method",
+        "correctOption": "4"
+    },
+    {
+        "question": "In a pair of linear equations, if the lines are parallel, how many solutions exist?",
+        "option1": "Zero",
+        "option2": "One",
+        "option3": "Infinite",
+        "option4": "Two",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a pair of linear equations has a unique solution, it means the lines represented by the equations are:",
+        "option1": "Parallel",
+        "option2": "Perpendicular",
+        "option3": "Intersecting at one point",
+        "option4": "Coincident",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which of the following represents a pair of linear equations in two variables?",
+        "option1": "y = 2x + 3",
+        "option2": "x^2 + y^2 = 25",
+        "option3": "3x + 2y = 7",
+        "option4": "xy = 8",
+        "correctOption": "1"
+    }
+]

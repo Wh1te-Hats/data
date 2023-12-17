@@ -1,0 +1,1074 @@
+[
+    {
+        "question": "Consider the quadratic equation ax^2 + bx + c = 0. If the roots are complex conjugates, what is the relationship between the coefficients a, b, and c?",
+        "option1": "a = b = c",
+        "option2": "a = 0",
+        "option3": "b^2 - 4ac < 0",
+        "option4": "b^2 - 4ac = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "For what values of 'k' does the quadratic equation (k - 1)x^2 + (2k + 3)x + (k + 1) = 0 have no real roots?",
+        "option1": "k < 1",
+        "option2": "1 < k < 2",
+        "option3": "k > 2",
+        "option4": "k < 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation (p^2 - 1)x^2 + (2pq - p)x + (q^2 - 1) = 0 has complex roots. What is the relationship between p and q?",
+        "option1": "p = q",
+        "option2": "p = -q",
+        "option3": "p = 1/q",
+        "option4": "p^2 + q^2 = 2",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation (2k - 1)x^2 - (k + 2)x + 1 = 0 has real and distinct roots, what is the value of k?",
+        "option1": "k < 1/2",
+        "option2": "k > 2",
+        "option3": "1/2 < k < 2",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation (m - 1)x^2 - (2m + 1)x + (m + 2) = 0 has equal roots. What is the value of 'm'?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation (3k - 2)x^2 + (k - 1)x + 2 = 0 has real roots, what is the range of values for 'k'?",
+        "option1": "k < 2/3",
+        "option2": "k > 2/3",
+        "option3": "1/2 < k < 2",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "Consider the quadratic equation ax^2 + bx + c = 0. If the sum of the roots is 4 and the product of the roots is 3, what are the values of a, b, and c?",
+        "option1": "a = 1, b = -4, c = 3",
+        "option2": "a = 1, b = 4, c = 3",
+        "option3": "a = 1, b = -2, c = 1",
+        "option4": "a = 2, b = -4, c = 2",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation (k^2 - 4)x^2 - (2k + 3)x + (k + 1) = 0 has real and distinct roots, what is the range of values for 'k'?",
+        "option1": "k < -1",
+        "option2": "k > 2",
+        "option3": "-1 < k < 2",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation x^2 - (2p + 1)x + p^2 - 4 = 0 has roots in the ratio 1:2. What is the value of p?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation (m^2 - 1)x^2 + (m + 1)x + m = 0 has equal roots, what is the value of 'm'?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation 2x^2 - (k - 2)x + k - 4 = 0 has roots in the ratio 2:1. What is the value of k?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "correctOption": "3"
+    },
+    {
+        "question": "For what values of a and b does the quadratic equation ax^2 + bx + 1 = 0 have complex roots?",
+        "option1": "a = 1, b = -1",
+        "option2": "a = -1, b = 1",
+        "option3": "a = 2, b = 2",
+        "option4": "a = -2, b = -2",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation x^2 + (m^2 - 3)x + m^2 - 4 = 0 has real roots, what is the range of values for 'm'?",
+        "option1": "m < 0",
+        "option2": "0 < m < 2",
+        "option3": "m > 2",
+        "option4": "m = 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation (2p - 1)x^2 + (p + 2)x + 1 = 0 has roots in the ratio 1:2. What is the value of p?",
+        "option1": "1/2",
+        "option2": "1",
+        "option3": "2",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation 4x^2 - 3x + k = 0 has equal roots, what is the value of 'k'?",
+        "option1": "1/4",
+        "option2": "3/4",
+        "option3": "3",
+        "option4": "9/4",
+        "correctOption": "1"
+    },
+    {
+        "question": "The quadratic equation (k - 1)x^2 - (2k + 1)x + (k + 1) = 0 has roots in the ratio 2:1. What is the value of k?",
+        "option1": "1/2",
+        "option2": "1",
+        "option3": "2",
+        "option4": "4",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the roots of the quadratic equation 5x^2 - 4x + 1 = 0 are p and q, what is the value of p^2 + q^2?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "5",
+        "option4": "8",
+        "correctOption": "1"
+    },
+    {
+        "question": "The quadratic equation (k^2 - 1)x^2 - (2k + 3)x + (k + 1) = 0 has no real roots. What is the range of values for 'k'?",
+        "option1": "k < -1",
+        "option2": "k > 2",
+        "option3": "-1 < k < 2",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "Consider the quadratic equation 3x^2 - (2k + 1)x + (k + 2) = 0. If it has roots of opposite signs, what is the range of values for 'k'?",
+        "option1": "k < 0",
+        "option2": "0 < k < 2",
+        "option3": "k > 2",
+        "option4": "k = 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the roots of the quadratic equation ax^2 - 4x + 3 = 0 are p and q, what is the value of p + q?",
+        "option1": "2",
+        "option2": "3/2",
+        "option3": "4",
+        "option4": "2/3",
+        "correctOption": "1"
+    },
+    {
+        "question": "For what values of 'k' does the quadratic equation 2x^2 - kx + 1 = 0 have real and distinct roots?",
+        "option1": "k > 4",
+        "option2": "k < -4",
+        "option3": "-4 < k < 4",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 + (a - 1)x + a = 0 are integers, what is the possible range for 'a'?",
+        "option1": "a < 0",
+        "option2": "a = 0",
+        "option3": "0 < a < 1",
+        "option4": "a > 1",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the condition for a quadratic equation ax^2 + bx + c = 0 to have imaginary roots?",
+        "option1": "Δ > 0",
+        "option2": "Δ = 0",
+        "option3": "Δ < 0",
+        "option4": "a = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation px^2 + qx + r = 0 has roots in the ratio 1:2, what is the value of p/r?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "1/2",
+        "option4": "2/3",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation x^2 - (m - 2)x + (m - 1) = 0 has roots in the ratio 3:1. What is the value of m?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the roots of the quadratic equation ax^2 + bx + c = 0 are p and q, what is the value of pq/(p + q)?",
+        "option1": "c/a",
+        "option2": "b/a",
+        "option3": "a/b",
+        "option4": "c/b",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the sum of the roots of the quadratic equation 3x^2 - 7x + 2 = 0?",
+        "option1": "7/3",
+        "option2": "2/3",
+        "option3": "7/2",
+        "option4": "1",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation 2x^2 - 5x + k = 0 has equal roots, what is the value of 'k'?",
+        "option1": "6",
+        "option2": "8",
+        "option3": "10",
+        "option4": "12",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation (2p - 1)x^2 + (p + 2)x + 1 = 0 has roots in the ratio 1:2. What is the value of p?",
+        "option1": "1/2",
+        "option2": "1",
+        "option3": "2",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation x^2 - (k - 2)x + k - 4 = 0 has real and equal roots, what is the range of values for 'k'?",
+        "option1": "k < 1",
+        "option2": "1 < k < 2",
+        "option3": "k > 2",
+        "option4": "k = 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "For what values of a and b does the quadratic equation ax^2 - 2(a + b)x + (a - b)^2 = 0 have equal roots?",
+        "option1": "a = 1, b = 1",
+        "option2": "a = 2, b = -2",
+        "option3": "a = 3, b = 3",
+        "option4": "a = 4, b = -4",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation x^2 + mx + n = 0 has roots 3 and 4, what is the value of m * n?",
+        "option1": "12",
+        "option2": "21",
+        "option3": "25",
+        "option4": "7",
+        "correctOption": "1"
+    },
+    {
+        "question": "The quadratic equation (k - 1)x^2 - (2k + 1)x + (k + 1) = 0 has no real roots. What is the range of values for 'k'?",
+        "option1": "k < 1",
+        "option2": "1 < k < 2",
+        "option3": "k > 2",
+        "option4": "k < 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 - 2x + k = 0 are the reciprocals of each other, what is the value of k?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation (k - 1)x^2 - (3k + 1)x + (k + 2) = 0 has equal roots. What is the value of k?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the quadratic equation x^2 - (m - 1)x + m = 0 has one root greater than 1 and the other less than 1, what is the range of values for 'm'?",
+        "option1": "m < 0",
+        "option2": "0 < m < 2",
+        "option3": "m > 2",
+        "option4": "m = 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "Consider the quadratic equation ax^2 + bx + c = 0. If one root is the reciprocal of the other, what is the value of b/c?",
+        "option1": "1",
+        "option2": "a",
+        "option3": "a/b",
+        "option4": "c/b",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation 4x^2 + mx + 4 = 0 has real roots, what is the possible range for 'm'?",
+        "option1": "m < -8",
+        "option2": "-8 < m < 8",
+        "option3": "m > 8",
+        "option4": "m = 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the standard form of a quadratic equation?",
+        "option1": "ax + by = c",
+        "option2": "y = mx + b",
+        "option3": "ax^2 + bx + c = 0",
+        "option4": "y = ax^2 + bx + c",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the discriminant (Δ) of a quadratic equation ax^2 + bx + c = 0?",
+        "option1": "b^2 - 4ac",
+        "option2": "b^2 + 4ac",
+        "option3": "2ab - c",
+        "option4": "a^2 - b^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a quadratic equation has two real and equal roots, what can be said about the discriminant (Δ)?",
+        "option1": "Δ > 0",
+        "option2": "Δ = 0",
+        "option3": "Δ < 0",
+        "option4": "Δ can be any value",
+        "correctOption": "2"
+    },
+    {
+        "question": "The sum of the roots of a quadratic equation ax^2 + bx + c = 0 is given by:",
+        "option1": "-b/a",
+        "option2": "b/a",
+        "option3": "c/a",
+        "option4": "-c/a",
+        "correctOption": "-b/a"
+    },
+    {
+        "question": "If the discriminant (Δ) is negative, what can be said about the roots of a quadratic equation?",
+        "option1": "Real and equal",
+        "option2": "Real and distinct",
+        "option3": "Complex conjugates",
+        "option4": "No roots",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the formula to find the roots of a quadratic equation ax^2 + bx + c = 0?",
+        "option1": "x = (-b ± √Δ) / 2a",
+        "option2": "x = (b ± √Δ) / 2a",
+        "option3": "x = -b/2a",
+        "option4": "x = √(b^2 - 4ac)",
+        "correctOption": "1"
+    },
+    {
+        "question": "For a quadratic equation ax^2 + bx + c = 0, where Δ = 0, what can be said about the roots?",
+        "option1": "Real and distinct",
+        "option2": "Real and equal",
+        "option3": "Complex conjugates",
+        "option4": "No real roots",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 - 5x + 6 = 0 are p and q, what is the sum of the reciprocals of the roots (1/p + 1/q)?",
+        "option1": "5/6",
+        "option2": "6/5",
+        "option3": "1",
+        "option4": "11/6",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the vertex form of a quadratic equation?",
+        "option1": "y = ax^2 + bx + c",
+        "option2": "y = a(x - h)^2 + k",
+        "option3": "y = mx + b",
+        "option4": "ax^2 + bx + c = 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the roots of the quadratic equation 2x^2 - 7x + 3 = 0 are p and q, what is the product of the roots (pq)?",
+        "option1": "1/2",
+        "option2": "3/2",
+        "option3": "7/2",
+        "option4": "3",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the condition for a quadratic equation ax^2 + bx + c = 0 to have real roots?",
+        "option1": "Δ > 0",
+        "option2": "Δ = 0",
+        "option3": "Δ < 0",
+        "option4": "a ≠ 0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the quadratic equation x^2 + 2px + p^2 - 4 = 0 has real and distinct roots, what is the range of values for 'p'?",
+        "option1": "p > 2",
+        "option2": "p < -2",
+        "option3": "-2 < p < 2",
+        "option4": "p = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation 3x^2 - 2x - 5 = 0 has roots p and q. What is the value of p + q?",
+        "option1": "2/3",
+        "option2": "2",
+        "option3": "-2/3",
+        "option4": "-2",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the quadratic equation 4x^2 - kx + 9 = 0 has equal roots, what is the value of 'k'?",
+        "option1": "6",
+        "option2": "8",
+        "option3": "12",
+        "option4": "16",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation (m - 1)x^2 - (2m + 1)x + (m + 2) = 0 has equal roots. What is the value of 'm'?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation ax^2 - 3x + 2 = 0 has roots p and q, what is the value of p^2 + q^2?",
+        "option1": "5/2",
+        "option2": "1",
+        "option3": "9/4",
+        "option4": "2",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the value of 'p' if the quadratic equation (p - 1)x^2 - (2p + 1)x + 1 = 0 has no real roots?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the roots of the quadratic equation 5x^2 - 4x - 3 = 0 are p and q, what is the value of pq?",
+        "option1": "-3/5",
+        "option2": "3/5",
+        "option3": "-4/5",
+        "option4": "4/5",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation (k - 1)x^2 + (2k + 1)x + (k + 1) = 0 has real and distinct roots. What is the value of 'k'?",
+        "option1": "k < 1/2",
+        "option2": "k > 2",
+        "option3": "1/2 < k < 2",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "Consider the quadratic equation ax^2 + bx + c = 0. If the sum of the roots is equal to the product of the roots, what can be said about the coefficients a, b, and c?",
+        "option1": "a = b = c",
+        "option2": "a = 1, b = 0, c = 1",
+        "option3": "a + b + c = 0",
+        "option4": "a = 0, b = 1, c = 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation px^2 + qx + r = 0 has equal roots, what is the relationship between the coefficients p, q, and r?",
+        "option1": "q = p = r",
+        "option2": "q^2 = 4pr",
+        "option3": "q^2 = 4rp",
+        "option4": "2p = r = q",
+        "correctOption": "2"
+    },
+    {
+        "question": "For what values of k does the quadratic equation (k + 1)x^2 + (2k - 3)x + (k - 2) = 0 have real and distinct roots?",
+        "option1": "k < -1",
+        "option2": "k > 2",
+        "option3": "-1 < k < 2",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 + (a - 1)x + a = 0 are integers, what is the possible range for 'a'?",
+        "option1": "a < 0",
+        "option2": "a = 0",
+        "option3": "0 < a < 1",
+        "option4": "a > 1",
+        "correctOption": "4"
+    },
+    {
+        "question": "The quadratic equation (2k - 1)x^2 + (k + 2)x + 1 = 0 has no real roots. What is the range of values for 'k'?",
+        "option1": "k < 1/2",
+        "option2": "k > 2",
+        "option3": "1/2 < k < 2",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation x^2 + (2m - 1)x + m^2 - m - 6 = 0 has roots of opposite signs, what is the range of values for 'm'?",
+        "option1": "m < 0",
+        "option2": "0 < m < 2",
+        "option3": "m > 2",
+        "option4": "m = 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation x^2 - (2k + 1)x + k^2 - 4 = 0 has roots in the ratio 1:2. What is the value of k?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation ax^2 + bx + c = 0 has roots p and q, what is the value of (p^2 + q^2)/(p + q)?",
+        "option1": "a",
+        "option2": "b",
+        "option3": "c",
+        "option4": "2a",
+        "correctOption": "4"
+    },
+    {
+        "question": "Consider the quadratic equation x^2 + (m - 3)x + (m^2 - 3m - 4) = 0. If one root is positive and the other is negative, what is the range of values for 'm'?",
+        "option1": "m < 0",
+        "option2": "0 < m < 2",
+        "option3": "m > 2",
+        "option4": "m = 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the roots of the quadratic equation 3x^2 - 5x + k = 0 are in the ratio 2:1, what is the value of k?",
+        "option1": "6",
+        "option2": "8",
+        "option3": "10",
+        "option4": "12",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation x^2 - (k - 2)x + k - 4 = 0 has real and equal roots. What is the range of values for 'k'?",
+        "option1": "k < 1",
+        "option2": "1 < k < 2",
+        "option3": "k > 2",
+        "option4": "k = 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation (2p - 1)x^2 + (p + 2)x + 1 = 0 has roots in the ratio 1:2, what is the value of p?",
+        "option1": "1/2",
+        "option2": "1",
+        "option3": "2",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation x^2 - (k - 1)x + (k + 1) = 0 has no real roots. What is the range of values for 'k'?",
+        "option1": "k < 0",
+        "option2": "0 < k < 1",
+        "option3": "k > 1",
+        "option4": "k = 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "For what values of p and q does the quadratic equation (p^2 - 1)x^2 + (2pq - p)x + (q^2 - 1) = 0 have real and equal roots?",
+        "option1": "p = q = 1",
+        "option2": "p = q = 0",
+        "option3": "p = -q = 1",
+        "option4": "p = q = 2",
+        "correctOption": "1"
+    },
+    {
+        "question": "The quadratic equation (2k - 1)x^2 - (k + 2)x + 1 = 0 has real and distinct roots. What is the value of k?",
+        "option1": "k < 1/2",
+        "option2": "k > 2",
+        "option3": "1/2 < k < 2",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the roots of the quadratic equation ax^2 + bx + c = 0 are in the ratio 2:3, what is the relationship between the coefficients a, b, and c?",
+        "option1": "a = 2b = 3c",
+        "option2": "a = 3b = 2c",
+        "option3": "2a = 3b = c",
+        "option4": "3a = 2b = c",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation x^2 + mx + n = 0 has roots 3 and 4. What is the value of m + n?",
+        "option1": "7",
+        "option2": "12",
+        "option3": "21",
+        "option4": "25",
+        "correctOption": "4"
+    },
+    {
+        "question": "Consider the quadratic equation ax^2 + bx + c = 0. If both roots are positive, what can be said about the coefficients a, b, and c?",
+        "option1": "a > 0, b > 0, c > 0",
+        "option2": "a > 0, b < 0, c > 0",
+        "option3": "a < 0, b > 0, c < 0",
+        "option4": "a < 0, b < 0, c > 0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the quadratic equation x^2 + (a - 2)x + a - 3 = 0 has roots of opposite signs, what is the range of values for 'a'?",
+        "option1": "a < 0",
+        "option2": "0 < a < 2",
+        "option3": "a > 2",
+        "option4": "a = 1",
+        "correctOption": "3"
+    },
+    {
+        "question": "Consider the quadratic equation ax^2 + bx + c = 0. If both roots are negative, what can be said about the coefficients a, b, and c?",
+        "option1": "a > 0, b > 0, c > 0",
+        "option2": "a > 0, b < 0, c > 0",
+        "option3": "a < 0, b > 0, c < 0",
+        "option4": "a < 0, b < 0, c < 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 + (a - 2)x + a - 3 = 0 are of opposite signs, what is the range of values for 'a'?",
+        "option1": "a > 3",
+        "option2": "1 < a < 3",
+        "option3": "a = 1",
+        "option4": "a < 1",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation 2x^2 - 3x + k = 0 has roots in the ratio 3:2. What is the value of k?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "correctOption": "1"
+    },
+    {
+        "question": "For what values of k does the quadratic equation x^2 - 2kx + k^2 - 1 = 0 have real and distinct roots?",
+        "option1": "k < 1",
+        "option2": "k = 1",
+        "option3": "k > 1",
+        "option4": "k = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation ax^2 + bx + c = 0 has roots p and q, what is the quadratic equation with roots 1/p and 1/q?",
+        "option1": "ax^2 + (b - a) x + 1 = 0",
+        "option2": "ax^2 + (b + a) x + 1 = 0",
+        "option3": "ax^2 + (a - b) x + 1 = 0",
+        "option4": "ax^2 + (a + b) x + 1 = 0",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation x^2 - (m - 1)x + m = 0 has one root greater than 1 and the other less than 1, what is the range of values for 'm'?",
+        "option1": "m < 0",
+        "option2": "0 < m < 1",
+        "option3": "1 < m < 2",
+        "option4": "m > 2",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation (p - 1)x^2 - (2p + 1)x + (p + 2) = 0 has real and equal roots. What is the value of p?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation x^2 + kx + 9 = 0 has roots in the ratio 2:3, what is the value of k?",
+        "option1": "12",
+        "option2": "9",
+        "option3": "6",
+        "option4": "3",
+        "correctOption": "3"
+    },
+    {
+        "question": "Consider the quadratic equation x^2 - (m - 2)x + (m - 1) = 0. If one root is twice the other, what is the value of m?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 - px + q = 0 are in the ratio 3:4, what is the value of p/q?",
+        "option1": "4/3",
+        "option2": "3/4",
+        "option3": "1/7",
+        "option4": "7/1",
+        "correctOption": "1"
+    },
+    {
+        "question": "The quadratic equation x^2 + px + q = 0 has roots in the ratio 1:2. What is the value of 2p - q?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 - 2x + k = 0 are the reciprocals of each other, what is the value of k?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation (2k - 1)x^2 - (k + 2)x + 1 = 0 has equal roots. What is the value of k?",
+        "option1": "1/2",
+        "option2": "1",
+        "option3": "2",
+        "option4": "4",
+        "correctOption": "1"
+    },
+    {
+        "question": "For what values of a and b does the quadratic equation ax^2 - 2(a + b)x + (a - b)^2 = 0 have equal roots?",
+        "option1": "a = 1, b = 1",
+        "option2": "a = 2, b = -2",
+        "option3": "a = 3, b = 3",
+        "option4": "a = 4, b = -4",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation x^2 + px + q = 0 has roots a and b, what is the value of (a^2 + 1)(b^2 + 1)?",
+        "option1": "p^2 + q^2 + 2",
+        "option2": "p^2 + q^2 + 1",
+        "option3": "p^2 + q^2",
+        "option4": "p^2 + q^2 - 2",
+        "correctOption": "2"
+    },
+    {
+        "question": "Consider the quadratic equation ax^2 + bx + c = 0. If one root is the reciprocal of the other, what is the value of b/c?",
+        "option1": "1",
+        "option2": "a",
+        "option3": "a/b",
+        "option4": "c/b",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation x^2 - (k - 2)x + k - 4 = 0 has roots in the ratio 3:1. What is the value of k?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the quadratic equation ax^2 + bx + c = 0 has roots p and q, what is the value of (p + q)^2 - (p - q)^2?",
+        "option1": "4ab",
+        "option2": "2ab",
+        "option3": "a^2 + b^2",
+        "option4": "2a^2 + 2b^2",
+        "correctOption": "1"
+    },
+    {
+        "question": "The quadratic equation (k - 1)x^2 - (2k + 1)x + (k + 1) = 0 has no real roots. What is the range of values for 'k'?",
+        "option1": "k < 1",
+        "option2": "1 < k < 2",
+        "option3": "k > 2",
+        "option4": "k < 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the roots of the quadratic equation ax^2 + bx + c = 0 are real and positive, what can be said about the coefficients a, b, and c?",
+        "option1": "a > 0, b > 0, c > 0",
+        "option2": "a > 0, b < 0, c > 0",
+        "option3": "a > 0, b > 0, c < 0",
+        "option4": "a < 0, b > 0, c > 0",
+        "correctOption": "1"
+    },
+    {
+        "question": "The product of the roots of the quadratic equation ax^2 + bx + c = 0 is given by:",
+        "option1": "c/a",
+        "option2": "b/a",
+        "option3": "1/c",
+        "option4": "a/c",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the roots of a quadratic equation are complex conjugates, what can be said about the discriminant (Δ)?",
+        "option1": "Δ > 0",
+        "option2": "Δ = 0",
+        "option3": "Δ < 0",
+        "option4": "Δ can be any value",
+        "correctOption": "3"
+    },
+    {
+        "question": "For what values of k does the quadratic equation kx^2 - 4x + 4 = 0 have real and equal roots?",
+        "option1": "k > 0",
+        "option2": "k < 0",
+        "option3": "k = 4",
+        "option4": "k = 1",
+        "correctOption": "4"
+    },
+    {
+        "question": "The quadratic equation 2x^2 - 5x + k = 0 has roots in the ratio 2:1. What is the value of k?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "correctOption": "2"
+    },
+    {
+        "question": "If one root of the quadratic equation x^2 - 3x + k = 0 is 2, what is the other root?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "For what values of k does the quadratic equation x^2 - 2kx + 1 = 0 have equal roots?",
+        "option1": "k = 1",
+        "option2": "k = 2",
+        "option3": "k = 4",
+        "option4": "k = 0",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the roots of the quadratic equation px^2 + qx + r = 0 are reciprocal of each other, what can be said about the coefficients p, q, and r?",
+        "option1": "p = 1, q = 1, r = 1",
+        "option2": "p = 1, q = 2, r = 1",
+        "option3": "p = 1, q = -1, r = 1",
+        "option4": "p = 1, q = -2, r = 1",
+        "correctOption": "3"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 + px + 64 = 0 are real and differ by 2, what is the value of p?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic equation x^2 - mx + n = 0 has roots 3 and 4. What is the value of m + n?",
+        "option1": "7",
+        "option2": "12",
+        "option3": "21",
+        "option4": "25",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation x^2 + 5x + k = 0 has equal roots, what is the value of k?",
+        "option1": "5",
+        "option2": "10",
+        "option3": "15",
+        "option4": "20",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation 2x^2 + 3x + k = 0 has roots a and b, what is the value of a + b?",
+        "option1": "-3/2",
+        "option2": "-3",
+        "option3": "-2/3",
+        "option4": "-2",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation (p - 1)x^2 - (2p + 1)x + (p + 1) = 0 has equal roots. What is the value of p?",
+        "option1": "0",
+        "option2": "1",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation x^2 - (k - 1)x + k - 2 = 0 has equal roots, what is the value of k?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "3"
+    },
+    {
+        "question": "For what values of p and q does the quadratic equation x^2 - (p - q)x + p^2 - q^2 = 0 have equal roots?",
+        "option1": "p = 0, q = 0",
+        "option2": "p = 1, q = -1",
+        "option3": "p = 2, q = 2",
+        "option4": "p = 3, q = -3",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the quadratic equation x^2 + 6x + k = 0 has roots p and q, what is the value of p^2 + q^2?",
+        "option1": "36",
+        "option2": "12",
+        "option3": "18",
+        "option4": "24",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the quadratic equation x^2 - 2x - 8 = 0 has roots a and b, what is the value of a^2 + b^2?",
+        "option1": "12",
+        "option2": "16",
+        "option3": "20",
+        "option4": "24",
+        "correctOption": "2"
+    },
+    {
+        "question": "For what values of a, b, and c does the quadratic equation ax^2 + bx + c = 0 have equal roots?",
+        "option1": "a = 1, b = 2, c = 1",
+        "option2": "a = 1, b = -2, c = 1",
+        "option3": "a = 1, b = 1, c = 1",
+        "option4": "a = 2, b = -2, c = 1",
+        "correctOption": "1"
+    },
+    {
+        "question": "If the roots of the quadratic equation x^2 - (p + 1)x + p = 0 are prime numbers, what is the value of p?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "5",
+        "option4": "7",
+        "correctOption": "3"
+    },
+    {
+        "question": "The quadratic equation (k - 1)x^2 - (3k + 1)x + (k + 2) = 0 has equal roots. What is the value of k?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the general form of a quadratic equation?",
+        "option1": "ax + b = 0",
+        "option2": "ax^2 + bx + c = 0",
+        "option3": "ax^3 + bx^2 + c = 0",
+        "option4": "a + b + c = 0",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the quadratic equation ax^2 + bx + c = 0, what does 'a' represent?",
+        "option1": "Coefficient of x",
+        "option2": "Coefficient of x^2",
+        "option3": "Constant term",
+        "option4": "Roots",
+        "correctOption": "2"
+    },
+    {
+        "question": "The quadratic formula is used to find the roots of a quadratic equation. What is the quadratic formula?",
+        "option1": "x = (-b ± √(b^2 - 4ac)) / 2a",
+        "option2": "x = -b ± √(b^2 - 4ac) / 2a",
+        "option3": "x = (b ± √(b^2 + 4ac)) / 2a",
+        "option4": "x = -b ± √(b^2 + 4ac) / a",
+        "correctOption": "1"
+    },
+    {
+        "question": "How many roots does a quadratic equation have?",
+        "option1": "One",
+        "option2": "Two",
+        "option3": "Three",
+        "option4": "None",
+        "correctOption": "2"
+    },
+    {
+        "question": "If the discriminant (Δ) of a quadratic equation is negative, what does it indicate about the roots?",
+        "option1": "Real and Equal",
+        "option2": "Real and Different",
+        "option3": "Imaginary",
+        "option4": "No roots",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the discriminant (Δ) in the quadratic formula?",
+        "option1": "b^2 - 4ac",
+        "option2": "2ab - c",
+        "option3": "a^2 + b^2",
+        "option4": "a + b + c",
+        "correctOption": "1"
+    },
+    {
+        "question": "Which method is commonly used to factorize a quadratic equation?",
+        "option1": "Completing the Square",
+        "option2": "Long Division",
+        "option3": "Synthetic Division",
+        "option4": "Cross Multiplication",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the relationship between the roots (x1 and x2) of a quadratic equation and its coefficients (a, b, c)?",
+        "option1": "x1 + x2 = a",
+        "option2": "x1 * x2 = c",
+        "option3": "x1 - x2 = b",
+        "option4": "x1 / x2 = a",
+        "correctOption": "2"
+    },
+    {
+        "question": "If a quadratic equation has only one real root, what can be said about its discriminant (Δ)?",
+        "option1": "Δ > 0",
+        "option2": "Δ = 0",
+        "option3": "Δ < 0",
+        "option4": "Δ can be any value",
+        "correctOption": "2"
+    },
+    {
+        "question": "When graphing a quadratic equation, what is the shape of the graph?",
+        "option1": "Line",
+        "option2": "Parabola",
+        "option3": "Circle",
+        "option4": "Ellipse",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the axis of symmetry in a quadratic equation?",
+        "option1": "x = -b/2a",
+        "option2": "x = b/2a",
+        "option3": "x = c/2a",
+        "option4": "x = -c/2a",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a quadratic equation has no real roots, what can be said about its discriminant (Δ)?",
+        "option1": "Δ > 0",
+        "option2": "Δ = 0",
+        "option3": "Δ < 0",
+        "option4": "Δ can be any value",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the significance of the discriminant (Δ) in the quadratic formula?",
+        "option1": "Determines the number of roots and their nature",
+        "option2": "Determines the value of 'a'",
+        "option3": "Determines the vertex of the parabola",
+        "option4": "Determines the y-intercept",
+        "correctOption": "1"
+    },
+    {
+        "question": "In a quadratic equation, if the coefficient 'a' is negative, what can be said about the direction of the parabola?",
+        "option1": "Opens upward",
+        "option2": "Opens downward",
+        "option3": "No effect on the direction",
+        "option4": "Depends on the value of 'b'",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the relationship between the solutions and the x-intercepts of a quadratic equation?",
+        "option1": "They are always equal",
+        "option2": "They are always different",
+        "option3": "They are always imaginary",
+        "option4": "No relationship",
+        "correctOption": "1"
+    },
+    {
+        "question": "If a quadratic equation has two real and equal roots, what can be said about its discriminant (Δ)?",
+        "option1": "Δ > 0",
+        "option2": "Δ = 0",
+        "option3": "Δ < 0",
+        "option4": "Δ can be any value",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the sum of the roots (x1 and x2) in a quadratic equation?",
+        "option1": "a",
+        "option2": "b",
+        "option3": "c",
+        "option4": "-b/a",
+        "correctOption": "4"
+    },
+    {
+        "question": "If the discriminant (Δ) is zero in a quadratic equation, what can be said about the roots?",
+        "option1": "Real and Equal",
+        "option2": "Real and Different",
+        "option3": "Imaginary",
+        "option4": "No roots",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the formula for finding the vertex of a quadratic equation in the form ax^2 + bx + c?",
+        "option1": "x = -b/2a",
+        "option2": "x = b/2a",
+        "option3": "x = -c/2a",
+        "option4": "x = c/2a",
+        "correctOption": "1"
+    }
+]

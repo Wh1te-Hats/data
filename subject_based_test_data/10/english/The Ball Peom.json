@@ -1,0 +1,802 @@
+[
+    {
+        "question": "What does the speaker mean by 'I would not intrude on him' in the poem?",
+        "option1": "I would not disrupt his play",
+        "option2": "I would not interfere with his emotions",
+        "option3": "I would not disturb his thoughts",
+        "option4": "I would not impose on his time",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker mean by 'for I knew the message that he would not hear'?",
+        "option1": "The child is deaf",
+        "option2": "The child is unresponsive",
+        "option3": "The child is inattentive",
+        "option4": "The child is emotionally closed off",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the loss of the ball impact the child's worldview?",
+        "option1": "It makes the child cynical",
+        "option2": "It reinforces the child's optimism",
+        "option3": "It fosters the child's curiosity",
+        "option4": "It shapes the child's sense of security",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker want the reader to understand about the child's experience with the ball?",
+        "option1": "It is a trivial incident",
+        "option2": "It is a common occurrence",
+        "option3": "It is a profound and personal journey",
+        "option4": "It is a forgettable memory",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the speaker view the child's loss of the ball in retrospect?",
+        "option1": "As a momentary setback",
+        "option2": "As a pivotal life event",
+        "option3": "As a predictable outcome",
+        "option4": "As an avoidable mistake",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'I knew pretty well he would miss it'?",
+        "option1": "The child would physically miss the ball",
+        "option2": "The child would not understand the loss",
+        "option3": "The child would emotionally miss the ball",
+        "option4": "The child would forget about the ball",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the poem explore the theme of resilience?",
+        "option1": "Through the child's ability to recover quickly",
+        "option2": "Through the speaker's encouragement",
+        "option3": "Through the permanence of the ball's loss",
+        "option4": "Through the inevitability of suffering",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the girder in the poem?",
+        "option1": "It represents an obstacle in life",
+        "option2": "It symbolizes the child's strength",
+        "option3": "It signifies the passage of time",
+        "option4": "It represents the child's emotional state",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the speaker view the child's attachment to the ball?",
+        "option1": "As a sign of immaturity",
+        "option2": "As a fleeting emotion",
+        "option3": "As a natural and meaningful connection",
+        "option4": "As a hindrance to growth",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the child lose when the ball goes behind the girder?",
+        "option1": "The ball itself",
+        "option2": "The memory of the ball",
+        "option3": "The opportunity to play",
+        "option4": "The chance to retrieve the ball",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the loss of the ball impact the child emotionally?",
+        "option1": "It makes the child happy",
+        "option2": "It makes the child indifferent",
+        "option3": "It causes the child to cry",
+        "option4": "It makes the child angry",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker mean by 'I would not intrude on him' in the poem?",
+        "option1": "I would not disrupt his play",
+        "option2": "I would not interfere with his emotions",
+        "option3": "I would not disturb his thoughts",
+        "option4": "I would not impose on his time",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker mean by 'for I knew the message that he would not hear'?",
+        "option1": "The child is deaf",
+        "option2": "The child is unresponsive",
+        "option3": "The child is inattentive",
+        "option4": "The child is emotionally closed off",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the loss of the ball impact the child's worldview?",
+        "option1": "It makes the child cynical",
+        "option2": "It reinforces the child's optimism",
+        "option3": "It fosters the child's curiosity",
+        "option4": "It shapes the child's sense of security",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker want the reader to understand about the child's experience with the ball?",
+        "option1": "It is a trivial incident",
+        "option2": "It is a common occurrence",
+        "option3": "It is a profound and personal journey",
+        "option4": "It is a forgettable memory",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the speaker view the child's loss of the ball in retrospect?",
+        "option1": "As a momentary setback",
+        "option2": "As a pivotal life event",
+        "option3": "As a predictable outcome",
+        "option4": "As an avoidable mistake",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'I knew pretty well he would miss it'?",
+        "option1": "The child would physically miss the ball",
+        "option2": "The child would not understand the loss",
+        "option3": "The child would emotionally miss the ball",
+        "option4": "The child would forget about the ball",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the poem explore the theme of resilience?",
+        "option1": "Through the child's ability to recover quickly",
+        "option2": "Through the speaker's encouragement",
+        "option3": "Through the permanence of the ball's loss",
+        "option4": "Through the inevitability of suffering",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the girder in the poem?",
+        "option1": "It represents an obstacle in life",
+        "option2": "It symbolizes the child's strength",
+        "option3": "It signifies the passage of time",
+        "option4": "It represents the child's emotional state",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the speaker view the child's attachment to the ball?",
+        "option1": "As a sign of immaturity",
+        "option2": "As a fleeting emotion",
+        "option3": "As a natural and meaningful connection",
+        "option4": "As a hindrance to growth",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the child lose when the ball goes behind the girder?",
+        "option1": "The ball itself",
+        "option2": "The memory of the ball",
+        "option3": "The opportunity to play",
+        "option4": "The chance to retrieve the ball",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the loss of the ball impact the child emotionally?",
+        "option1": "It makes the child happy",
+        "option2": "It makes the child indifferent",
+        "option3": "It causes the child to cry",
+        "option4": "It makes the child angry",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the speaker's attitude towards the child's experience with the ball?",
+        "option1": "Empathetic",
+        "option2": "Critical",
+        "option3": "Detached",
+        "option4": "Supportive",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the speaker characterize the feeling of 'staying to watch it darken' in 'The Ball Poem'?",
+        "option1": "A joyful experience",
+        "option2": "A melancholic experience",
+        "option3": "An exciting adventure",
+        "option4": "A mundane occurrence",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'the ball itself' in the poem?",
+        "option1": "The physical appearance of the ball",
+        "option2": "The essence or nature of the ball",
+        "option3": "The history of the ball",
+        "option4": "The importance of the ball",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the child lose when the ball goes behind a girder?",
+        "option1": "The ball itself",
+        "option2": "The memory of the ball",
+        "option3": "The opportunity to play",
+        "option4": "The chance to retrieve the ball",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the loss of the ball impact the child emotionally?",
+        "option1": "It makes the child happy",
+        "option2": "It makes the child indifferent",
+        "option3": "It causes the child to cry",
+        "option4": "It makes the child angry",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker find hard to believe in 'The Ball Poem'?",
+        "option1": "The child's ability to recover",
+        "option2": "The durability of the ball",
+        "option3": "The inevitability of loss",
+        "option4": "The child's attachment to the ball",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the poem, what does the act of losing the ball symbolize?",
+        "option1": "Loss of innocence",
+        "option2": "Freedom from attachment",
+        "option3": "Rejection of materialism",
+        "option4": "Embracing change",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary emotion expressed by the child after losing the ball?",
+        "option1": "Happiness",
+        "option2": "Sorrow",
+        "option3": "Anger",
+        "option4": "Indifference",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'I would not intrude on him' in the poem?",
+        "option1": "I would not disrupt his play",
+        "option2": "I would not interfere with his emotions",
+        "option3": "I would not disturb his thoughts",
+        "option4": "I would not impose on his time",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker mean by 'for I knew the message that he would not hear'?",
+        "option1": "The child is deaf",
+        "option2": "The child is unresponsive",
+        "option3": "The child is inattentive",
+        "option4": "The child is emotionally closed off",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the loss of the ball impact the child's worldview?",
+        "option1": "It makes the child cynical",
+        "option2": "It reinforces the child's optimism",
+        "option3": "It fosters the child's curiosity",
+        "option4": "It shapes the child's sense of security",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker want the reader to understand about the child's experience with the ball?",
+        "option1": "It is a trivial incident",
+        "option2": "It is a common occurrence",
+        "option3": "It is a profound and personal journey",
+        "option4": "It is a forgettable memory",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the speaker view the child's loss of the ball in retrospect?",
+        "option1": "As a momentary setback",
+        "option2": "As a pivotal life event",
+        "option3": "As a predictable outcome",
+        "option4": "As an avoidable mistake",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'I knew pretty well he would miss it'?",
+        "option1": "The child would physically miss the ball",
+        "option2": "The child would not understand the loss",
+        "option3": "The child would emotionally miss the ball",
+        "option4": "The child would forget about the ball",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the poem explore the theme of resilience?",
+        "option1": "Through the child's ability to recover quickly",
+        "option2": "Through the speaker's encouragement",
+        "option3": "Through the permanence of the ball's loss",
+        "option4": "Through the inevitability of suffering",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the girder in the poem?",
+        "option1": "It represents an obstacle in life",
+        "option2": "It symbolizes the child's strength",
+        "option3": "It signifies the passage of time",
+        "option4": "It represents the child's emotional state",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the speaker view the child's attachment to the ball?",
+        "option1": "As a sign of immaturity",
+        "option2": "As a fleeting emotion",
+        "option3": "As a natural and meaningful connection",
+        "option4": "As a hindrance to growth",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the child lose when the ball goes behind the girder?",
+        "option1": "The ball itself",
+        "option2": "The memory of the ball",
+        "option3": "The opportunity to play",
+        "option4": "The chance to retrieve the ball",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the loss of the ball impact the child emotionally?",
+        "option1": "It makes the child happy",
+        "option2": "It makes the child indifferent",
+        "option3": "It causes the child to cry",
+        "option4": "It makes the child angry",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the speaker characterize the feeling of 'staying to watch it darken' in 'The Ball Poem'?",
+        "option1": "A joyful experience",
+        "option2": "A melancholic experience",
+        "option3": "An exciting adventure",
+        "option4": "A mundane occurrence",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'the ball itself' in the poem?",
+        "option1": "The physical appearance of the ball",
+        "option2": "The essence or nature of the ball",
+        "option3": "The history of the ball",
+        "option4": "The importance of the ball",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the child lose when the ball goes behind a girder?",
+        "option1": "The ball itself",
+        "option2": "The memory of the ball",
+        "option3": "The opportunity to play",
+        "option4": "The chance to retrieve the ball",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the loss of the ball impact the child emotionally?",
+        "option1": "It makes the child happy",
+        "option2": "It makes the child indifferent",
+        "option3": "It causes the child to cry",
+        "option4": "It makes the child angry",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker find hard to believe in 'The Ball Poem'?",
+        "option1": "The child's ability to recover",
+        "option2": "The durability of the ball",
+        "option3": "The inevitability of loss",
+        "option4": "The child's attachment to the ball",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the poem, what does the act of losing the ball symbolize?",
+        "option1": "Loss of innocence",
+        "option2": "Freedom from attachment",
+        "option3": "Rejection of materialism",
+        "option4": "Embracing change",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the primary emotion expressed by the child after losing the ball?",
+        "option1": "Happiness",
+        "option2": "Sorrow",
+        "option3": "Anger",
+        "option4": "Indifference",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'I would not intrude on him' in the poem?",
+        "option1": "I would not disrupt his play",
+        "option2": "I would not interfere with his emotions",
+        "option3": "I would not disturb his thoughts",
+        "option4": "I would not impose on his time",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker mean by 'for I knew the message that he would not hear'?",
+        "option1": "The child is deaf",
+        "option2": "The child is unresponsive",
+        "option3": "The child is inattentive",
+        "option4": "The child is emotionally closed off",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the loss of the ball impact the child's worldview?",
+        "option1": "It makes the child cynical",
+        "option2": "It reinforces the child's optimism",
+        "option3": "It fosters the child's curiosity",
+        "option4": "It shapes the child's sense of security",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker want the reader to understand about the child's experience with the ball?",
+        "option1": "It is a trivial incident",
+        "option2": "It is a common occurrence",
+        "option3": "It is a profound and personal journey",
+        "option4": "It is a forgettable memory",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the speaker view the child's loss of the ball in retrospect?",
+        "option1": "As a momentary setback",
+        "option2": "As a pivotal life event",
+        "option3": "As a predictable outcome",
+        "option4": "As an avoidable mistake",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'I knew pretty well he would miss it'?",
+        "option1": "The child would physically miss the ball",
+        "option2": "The child would not understand the loss",
+        "option3": "The child would emotionally miss the ball",
+        "option4": "The child would forget about the ball",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the poem explore the theme of resilience?",
+        "option1": "Through the child's ability to recover quickly",
+        "option2": "Through the speaker's encouragement",
+        "option3": "Through the permanence of the ball's loss",
+        "option4": "Through the inevitability of suffering",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the girder in the poem?",
+        "option1": "It represents an obstacle in life",
+        "option2": "It symbolizes the child's strength",
+        "option3": "It signifies the passage of time",
+        "option4": "It represents the child's emotional state",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the speaker view the child's attachment to the ball?",
+        "option1": "As a sign of immaturity",
+        "option2": "As a fleeting emotion",
+        "option3": "As a natural and meaningful connection",
+        "option4": "As a hindrance to growth",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the child lose when the ball goes behind the girder?",
+        "option1": "The ball itself",
+        "option2": "The memory of the ball",
+        "option3": "The opportunity to play",
+        "option4": "The chance to retrieve the ball",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the loss of the ball impact the child emotionally?",
+        "option1": "It makes the child happy",
+        "option2": "It makes the child indifferent",
+        "option3": "It causes the child to cry",
+        "option4": "It makes the child angry",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker find hard to believe in 'The Ball Poem'?",
+        "option1": "The child's ability to recover",
+        "option2": "The durability of the ball",
+        "option3": "The inevitability of loss",
+        "option4": "The child's attachment to the ball",
+        "correctOption": "4"
+    },
+    {
+        "question": "In the poem, what does the act of losing the ball symbolize?",
+        "option1": "Loss of innocence",
+        "option2": "Freedom from attachment",
+        "option3": "Rejection of materialism",
+        "option4": "Embracing change",
+        "correctOption": "1"
+    },
+    {
+        "question": "According to the poem, what is the child's initial attitude towards the ball?",
+        "option1": "Indifference",
+        "option2": "Excitement",
+        "option3": "Fear",
+        "option4": "Anger",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'the school is over' in 'The Ball Poem'?",
+        "option1": "The child has graduated from school",
+        "option2": "The child has dropped out of school",
+        "option3": "The child's academic journey is complete",
+        "option4": "The child's playtime is finished",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the child react immediately after losing the ball in the poem?",
+        "option1": "Cries uncontrollably",
+        "option2": "Laughs hysterically",
+        "option3": "Stares at the ball in shock",
+        "option4": "Runs after the ball to retrieve it",
+        "correctOption": "3"
+    },
+    {
+        "question": "In 'The Ball Poem,' what emotion does the child experience as a result of losing the ball?",
+        "option1": "Elation",
+        "option2": "Sorrow",
+        "option3": "Anger",
+        "option4": "Apathy",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the speaker describe the child's experience with the ball?",
+        "option1": "A fleeting moment of joy",
+        "option2": "An enduring source of happiness",
+        "option3": "A burden to be carried",
+        "option4": "An insignificant event",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the title 'The Ball Poem' in relation to the poem's content?",
+        "option1": "The poem is an ode to various types of balls",
+        "option2": "The poem is about a specific ball game",
+        "option3": "The poem explores the symbolic nature of a ball",
+        "option4": "The poem describes the physical characteristics of a ball",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the loss of the ball impact the child's perspective on life?",
+        "option1": "Makes the child more carefree",
+        "option2": "Teaches the child the value of possessions",
+        "option3": "Erodes the child's innocence",
+        "option4": "Strengthens the child's determination",
+        "correctOption": "3"
+    },
+    {
+        "question": "According to the poem, what is the child's initial attitude towards the ball?",
+        "option1": "Indifference",
+        "option2": "Excitement",
+        "option3": "Fear",
+        "option4": "Anger",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'the school is over' in 'The Ball Poem'?",
+        "option1": "The child has graduated from school",
+        "option2": "The child has dropped out of school",
+        "option3": "The child's academic journey is complete",
+        "option4": "The child's playtime is finished",
+        "correctOption": "4"
+    },
+    {
+        "question": "How does the child react immediately after losing the ball in the poem?",
+        "option1": "Cries uncontrollably",
+        "option2": "Laughs hysterically",
+        "option3": "Stares at the ball in shock",
+        "option4": "Runs after the ball to retrieve it",
+        "correctOption": "3"
+    },
+    {
+        "question": "In 'The Ball Poem,' what emotion does the child experience as a result of losing the ball?",
+        "option1": "Elation",
+        "option2": "Sorrow",
+        "option3": "Anger",
+        "option4": "Apathy",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the speaker describe the child's experience with the ball?",
+        "option1": "A fleeting moment of joy",
+        "option2": "An enduring source of happiness",
+        "option3": "A burden to be carried",
+        "option4": "An insignificant event",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the significance of the title 'The Ball Poem' in relation to the poem's content?",
+        "option1": "The poem is an ode to various types of balls",
+        "option2": "The poem is about a specific ball game",
+        "option3": "The poem explores the symbolic nature of a ball",
+        "option4": "The poem describes the physical characteristics of a ball",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the loss of the ball impact the child's perspective on life?",
+        "option1": "Makes the child more carefree",
+        "option2": "Teaches the child the value of possessions",
+        "option3": "Erodes the child's innocence",
+        "option4": "Strengthens the child's determination",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the speaker's attitude towards the child's loss of the ball?",
+        "option1": "Sympathetic",
+        "option2": "Critical",
+        "option3": "Indifferent",
+        "option4": "Amused",
+        "correctOption": "1"
+    },
+    {
+        "question": "How does the poem 'The Ball Poem' explore the theme of impermanence?",
+        "option1": "Through the constant change of the ball's location",
+        "option2": "Through the fleeting nature of childhood",
+        "option3": "Through the permanence of the ball's loss",
+        "option4": "Through the everlasting impact of the ball",
+        "correctOption": "2"
+    },
+    {
+        "question": "What lesson does the speaker want the child to learn from the loss of the ball?",
+        "option1": "The importance of material possessions",
+        "option2": "The inevitability of suffering",
+        "option3": "The fleeting nature of happiness",
+        "option4": "The value of education",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the speaker view the act of losing the ball?",
+        "option1": "As a tragedy",
+        "option2": "As a rite of passage",
+        "option3": "As a common occurrence",
+        "option4": "As an avoidable mistake",
+        "correctOption": "2"
+    },
+    {
+        "question": "What is the symbolic significance of the ball in 'The Ball Poem'?",
+        "option1": "Ephemeral nature of joy",
+        "option2": "Stability and security",
+        "option3": "Childhood memories",
+        "option4": "Achievement and success",
+        "correctOption": "1"
+    },
+    {
+        "question": "In 'The Ball Poem,' what does the act of holding the ball represent?",
+        "option1": "Joyful play",
+        "option2": "Fear of loss",
+        "option3": "Resistance to change",
+        "option4": "Childhood innocence",
+        "correctOption": "4"
+    },
+    {
+        "question": "What is the central theme of 'The Ball Poem'?",
+        "option1": "The joy of playing with a ball",
+        "option2": "The inevitability of loss and suffering",
+        "option3": "The importance of teamwork",
+        "option4": "The beauty of nature",
+        "correctOption": "2"
+    },
+    {
+        "question": "In 'The Ball Poem,' what does the ball symbolize?",
+        "option1": "Childhood innocence",
+        "option2": "Eternal happiness",
+        "option3": "Material wealth",
+        "option4": "Educational achievement",
+        "correctOption": "1"
+    },
+    {
+        "question": "Who is the speaker in 'The Ball Poem'?",
+        "option1": "A parent",
+        "option2": "A teacher",
+        "option3": "A friend",
+        "option4": "The child",
+        "correctOption": "1"
+    },
+    {
+        "question": "What does the speaker advise the child in 'The Ball Poem'?",
+        "option1": "Hold on to the ball at all costs",
+        "option2": "Let go of the ball and learn from the experience",
+        "option3": "Always share the ball with others",
+        "option4": "Ignore the ball and focus on studies",
+        "correctOption": "2"
+    },
+    {
+        "question": "Which literary device is prominently used in 'The Ball Poem'?",
+        "option1": "Metaphor",
+        "option2": "Simile",
+        "option3": "Personification",
+        "option4": "Hyperbole",
+        "correctOption": "3"
+    },
+    {
+        "question": "What is the tone of 'The Ball Poem'?",
+        "option1": "Joyful",
+        "option2": "Solemn",
+        "option3": "Humorous",
+        "option4": "Energetic",
+        "correctOption": "2"
+    },
+    {
+        "question": "In the poem, what does the child experience after losing the ball?",
+        "option1": "Laughter and amusement",
+        "option2": "Sadness and contemplation",
+        "option3": "Anger and frustration",
+        "option4": "Indifference and apathy",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the title 'The Ball Poem' suggest about the poem's content?",
+        "option1": "The poem is about various types of balls",
+        "option2": "The poem is a celebration of sports",
+        "option3": "The poem explores the significance of a ball",
+        "option4": "The poem discusses a specific ball game",
+        "correctOption": "3"
+    },
+    {
+        "question": "Which emotion is most strongly conveyed in 'The Ball Poem'?",
+        "option1": "Joy",
+        "option2": "Regret",
+        "option3": "Excitement",
+        "option4": "Anguish",
+        "correctOption": "4"
+    },
+    {
+        "question": "What does the child learn from the loss of the ball?",
+        "option1": "The importance of material possessions",
+        "option2": "The inevitability of suffering",
+        "option3": "The fleeting nature of happiness",
+        "option4": "The value of education",
+        "correctOption": "3"
+    },
+    {
+        "question": "How does the speaker describe the ball in 'The Ball Poem'?",
+        "option1": "As a burden",
+        "option2": "As a treasure",
+        "option3": "As a distraction",
+        "option4": "As a nuisance",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the child initially feel towards the ball in the poem?",
+        "option1": "Indifference",
+        "option2": "Excitement",
+        "option3": "Fear",
+        "option4": "Anger",
+        "correctOption": "2"
+    },
+    {
+        "question": "According to the poem, why does the child initially choose to keep the ball?",
+        "option1": "For personal enjoyment",
+        "option2": "To impress others",
+        "option3": "Peer pressure",
+        "option4": "Parental insistence",
+        "correctOption": "1"
+    },
+    {
+        "question": "What is the symbolic significance of the ball in 'The Ball Poem'?",
+        "option1": "Ephemeral nature of joy",
+        "option2": "Stability and security",
+        "option3": "Childhood memories",
+        "option4": "Achievement and success",
+        "correctOption": "1"
+    },
+    {
+        "question": "In the poem, what does the act of losing the ball represent?",
+        "option1": "Failure",
+        "option2": "Growth and learning",
+        "option3": "Rebellion",
+        "option4": "Isolation",
+        "correctOption": "2"
+    },
+    {
+        "question": "What does the speaker mean by 'the hardest thing of all' in 'The Ball Poem'?",
+        "option1": "Physically holding the ball",
+        "option2": "Accepting loss and learning from it",
+        "option3": "Sharing the ball with others",
+        "option4": "Ignoring the ball",
+        "correctOption": "2"
+    },
+    {
+        "question": "What lesson does the child ultimately learn in 'The Ball Poem'?",
+        "option1": "The pursuit of happiness is futile",
+        "option2": "Loss is an integral part of life",
+        "option3": "Material possessions bring lasting joy",
+        "option4": "Success requires sacrifice",
+        "correctOption": "2"
+    },
+    {
+        "question": "How does the tone of 'The Ball Poem' change towards the end of the poem?",
+        "option1": "From sorrowful to joyful",
+        "option2": "From serious to humorous",
+        "option3": "From reflective to optimistic",
+        "option4": "From indifferent to passionate",
+        "correctOption": "3"
+    },
+    {
+        "question": "What does the speaker advise the child to do with the loss of the ball?",
+        "option1": "Forget about it and move on",
+        "option2": "Seek revenge for the loss",
+        "option3": "Avoid playing with balls in the future",
+        "option4": "Hold onto the memory and cherish it",
+        "correctOption": "1"
+    }
+]

@@ -1,0 +1,1290 @@
+[
+    {
+        "question": "What is the product of the first 5 prime numbers?",
+        "option1": "105",
+        "option2": "231",
+        "option3": "315",
+        "option4": "385",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₄(x) - log₂(x) = 1, what is the value of x?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "8",
+        "option4": "16",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the 12th term in the sequence: 1, 3, 6, 10, ...?",
+        "option1": "56",
+        "option2": "66",
+        "option3": "78",
+        "option4": "91",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is divisible by 7, 11, and 13, what is the smallest such number?",
+        "option1": "77",
+        "option2": "143",
+        "option3": "231",
+        "option4": "273",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the value of cos(45°) * tan(30°) + sin(60°)?",
+        "option1": "1",
+        "option2": "√3",
+        "option3": "2",
+        "option4": "√2",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 17 and 19, what is the smallest such number?",
+        "option1": "323",
+        "option2": "323",
+        "option3": "323",
+        "option4": "323",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the remainder when 5^100 is divided by 7?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If n is an even integer, what is the sum of the first n even positive integers?",
+        "option1": "n^2",
+        "option2": "n^2 + n",
+        "option3": "n^2 + 2n",
+        "option4": "n^2 + 3n",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the value of tan(75°) + cot(15°)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "√3",
+        "option4": "√2",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is divisible by 31 and 37, what is the smallest such number?",
+        "option1": "1147",
+        "option2": "1157",
+        "option3": "1167",
+        "option4": "1177",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the remainder when 2^2019 is divided by 2017?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "2016",
+        "option4": "2017",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If x is a real number such that x^2 + 5x + 6 = 0, what is the sum of all possible values of x?",
+        "option1": "-5",
+        "option2": "-6",
+        "option3": "5",
+        "option4": "6",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of cos(π/7) * cos(2π/7) * cos(3π/7)?",
+        "option1": "1/2",
+        "option2": "√3/2",
+        "option3": "√2/2",
+        "option4": "1",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If n is a positive integer, what is the sum of the first n terms of the series: 1 - 1/2 + 1/3 - 1/4 + ...?",
+        "option1": "ln(2)",
+        "option2": "ln(3)",
+        "option3": "ln(4)",
+        "option4": "ln(5)",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of tan(15°) * tan(75°) * tan(105°)?",
+        "option1": "1",
+        "option2": "√3",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 9 and 11, what is the smallest such number?",
+        "option1": "99",
+        "option2": "108",
+        "option3": "117",
+        "option4": "126",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the value of sin(π/9) * sin(2π/9) * sin(4π/9)?",
+        "option1": "√3/8",
+        "option2": "√3/4",
+        "option3": "√3/2",
+        "option4": "√2/2",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₃(x) - log₃(2x) + log₃(3x) = 2, what is the value of x?",
+        "option1": "3",
+        "option2": "9",
+        "option3": "27",
+        "option4": "81",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the product of the roots of the equation x^2 - 3x + 2 = 0?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "4",
+        "correctOption": "option4"
+    },
+    {
+        "question": "If a number is divisible by 13 and 17, what is the smallest such number?",
+        "option1": "221",
+        "option2": "231",
+        "option3": "247",
+        "option4": "255",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the smallest positive integer that is both a perfect square and a perfect cube?",
+        "option1": "1",
+        "option2": "8",
+        "option3": "64",
+        "option4": "125",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₃(x) + log₃(x^2) = 4, what is the value of x?",
+        "option1": "3",
+        "option2": "9",
+        "option3": "27",
+        "option4": "81",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the value of sin(30°) * tan(45°) * cos(60°)?",
+        "option1": "1/2",
+        "option2": "√3/2",
+        "option3": "1",
+        "option4": "√2/2",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If a number is divisible by 23 and 29, what is the smallest such number?",
+        "option1": "667",
+        "option2": "713",
+        "option3": "841",
+        "option4": "899",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the remainder when 2^50 is divided by 101?",
+        "option1": "1",
+        "option2": "25",
+        "option3": "50",
+        "option4": "75",
+        "correctOption": "option4"
+    },
+    {
+        "question": "If log₂(x) + log₄(x) = 5, what is the value of x?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "8",
+        "option4": "16",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the sum of the first 100 positive even integers?",
+        "option1": "10,000",
+        "option2": "12,500",
+        "option3": "15,000",
+        "option4": "17,500",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is divisible by 37 and 41, what is the smallest such number?",
+        "option1": "1,517",
+        "option2": "1,601",
+        "option3": "1,683",
+        "option4": "1,771",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of tan(75°) + cot(15°)?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "√3",
+        "option4": "√2",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If log₅(x) - log₂(x) = 3, what is the value of x?",
+        "option1": "5",
+        "option2": "10",
+        "option3": "20",
+        "option4": "25",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the sum of the first 50 natural numbers?",
+        "option1": "1225",
+        "option2": "1275",
+        "option3": "1325",
+        "option4": "1375",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If log₃(x) + log₃(x^2) = 3, what is the value of x?",
+        "option1": "3",
+        "option2": "9",
+        "option3": "27",
+        "option4": "81",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the value of sin(45°) * cos(45°) + tan(30°)?",
+        "option1": "1",
+        "option2": "√2",
+        "option3": "2",
+        "option4": "√3",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the remainder when 3^100 is divided by 101?",
+        "option1": "1",
+        "option2": "50",
+        "option3": "75",
+        "option4": "100",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is divisible by 7 and 11, what is the smallest such number?",
+        "option1": "77",
+        "option2": "121",
+        "option3": "143",
+        "option4": "154",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of log₂(2) + log₄(4) + log₈(8) + log₁₆(16)?",
+        "option1": "4",
+        "option2": "2",
+        "option3": "1",
+        "option4": "0",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is divisible by 13 and 17, what is the smallest such number?",
+        "option1": "221",
+        "option2": "225",
+        "option3": "231",
+        "option4": "241",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of cos(60°) * cot(30°)?",
+        "option1": "1/2",
+        "option2": "√3/2",
+        "option3": "1",
+        "option4": "√2/2",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₅(x) - log₂(x) = 2, what is the value of x?",
+        "option1": "5",
+        "option2": "10",
+        "option3": "20",
+        "option4": "25",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the 12th term in the Fibonacci sequence?",
+        "option1": "144",
+        "option2": "233",
+        "option3": "377",
+        "option4": "610",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the smallest prime number that is also a Fibonacci number?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "5",
+        "option4": "7",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If n is an even integer, what is the sum of the first n even positive integers?",
+        "option1": "n^2",
+        "option2": "n^2 + n",
+        "option3": "n^2 + 2n",
+        "option4": "n^2 + 3n",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the 10th term in the series: 2, 5, 10, 17, ...?",
+        "option1": "98",
+        "option2": "99",
+        "option3": "100",
+        "option4": "101",
+        "correctOption": "option4"
+    },
+    {
+        "question": "If log₃(x) - log₃(2x) = 1, what is the value of x?",
+        "option1": "3",
+        "option2": "9",
+        "option3": "27",
+        "option4": "81",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the 15th term in the sequence: 1, 4, 9, 16, ...?",
+        "option1": "144",
+        "option2": "169",
+        "option3": "196",
+        "option4": "225",
+        "correctOption": "option4"
+    },
+    {
+        "question": "If a number is divisible by 13 and 17, what is the smallest such number?",
+        "option1": "221",
+        "option2": "225",
+        "option3": "231",
+        "option4": "241",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the remainder when 2^100 is divided by 101?",
+        "option1": "1",
+        "option2": "50",
+        "option3": "75",
+        "option4": "100",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 19 and 23, what is the smallest such number?",
+        "option1": "437",
+        "option2": "441",
+        "option3": "451",
+        "option4": "457",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the value of tan(45°) + cot(30°)?",
+        "option1": "√2",
+        "option2": "2",
+        "option3": "3",
+        "option4": "√3",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₂(x) + log₄(x) = 3, what is the value of x?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "8",
+        "option4": "16",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the result of 9 + 6?",
+        "option1": "14",
+        "option2": "15",
+        "option3": "16",
+        "option4": "17",
+        "correctOption": "option3"
+    },
+    {
+        "question": "Which of the following is a prime number?",
+        "option1": "4",
+        "option2": "7",
+        "option3": "10",
+        "option4": "12",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the product of 5 and 8?",
+        "option1": "30",
+        "option2": "35",
+        "option3": "40",
+        "option4": "45",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the square of 7?",
+        "option1": "42",
+        "option2": "49",
+        "option3": "56",
+        "option4": "63",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the result of 12 divided by 4?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a rectangle has a length of 10 and a width of 3, what is its area?",
+        "option1": "20",
+        "option2": "25",
+        "option3": "30",
+        "option4": "35",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the next number in the sequence: 3, 6, 9, 12, ...?",
+        "option1": "15",
+        "option2": "16",
+        "option3": "18",
+        "option4": "21",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If a number is divisible by both 3 and 5, what is it also divisible by?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "10",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the sum of the first four natural numbers?",
+        "option1": "8",
+        "option2": "10",
+        "option3": "12",
+        "option4": "14",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the result of 7 multiplied by 3, minus 5?",
+        "option1": "16",
+        "option2": "18",
+        "option3": "20",
+        "option4": "22",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the sum of the first 10 positive integers?",
+        "option1": "45",
+        "option2": "50",
+        "option3": "55",
+        "option4": "60",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If a number is divisible by 8 and 12, what is the smallest such number?",
+        "option1": "16",
+        "option2": "24",
+        "option3": "32",
+        "option4": "48",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the value of 5 × 7 - 3 ÷ 3?",
+        "option1": "34",
+        "option2": "35",
+        "option3": "36",
+        "option4": "37",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a rectangle has a length of 12 and a width of 8, what is its area?",
+        "option1": "80",
+        "option2": "90",
+        "option3": "96",
+        "option4": "100",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the product of 3 prime numbers between 10 and 20?",
+        "option1": "231",
+        "option2": "323",
+        "option3": "357",
+        "option4": "391",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If x + 4 = 10, what is the value of x?",
+        "option1": "4",
+        "option2": "5",
+        "option3": "6",
+        "option4": "7",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the value of 2³ × 3²?",
+        "option1": "48",
+        "option2": "54",
+        "option3": "64",
+        "option4": "72",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is divisible by 6 and 9, what is the smallest such number?",
+        "option1": "18",
+        "option2": "24",
+        "option3": "36",
+        "option4": "54",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the square root of 169?",
+        "option1": "11",
+        "option2": "12",
+        "option3": "13",
+        "option4": "14",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If 2x + 5 = 15, what is the value of x?",
+        "option1": "5",
+        "option2": "6",
+        "option3": "7",
+        "option4": "8",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of the infinite sum: 1 + 1/2 + 1/3! + 1/4! + ...?",
+        "option1": "e",
+        "option2": "π",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If a number is divisible by 11, 13, and 17, what is the smallest such number?",
+        "option1": "2431",
+        "option2": "2437",
+        "option3": "2441",
+        "option4": "2447",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the 100th digit after the decimal point in the decimal representation of 1/7?",
+        "option1": "1",
+        "option2": "4",
+        "option3": "2",
+        "option4": "8",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If logₓ(2) + logₓ(3) + logₓ(4) + logₓ(5) = 5, what is the value of x?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the 15th term in the sequence: 2, 6, 12, 20, ...?",
+        "option1": "512",
+        "option2": "648",
+        "option3": "720",
+        "option4": "864",
+        "correctOption": "option4"
+    },
+    {
+        "question": "If a number is divisible by 31 and 37, what is the smallest such number?",
+        "option1": "1147",
+        "option2": "1157",
+        "option3": "1167",
+        "option4": "1177",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the remainder when 7^100 is divided by 13?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "5",
+        "option4": "9",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If n is a positive integer, what is the sum of the first n prime numbers?",
+        "option1": "n²",
+        "option2": "n² + n",
+        "option3": "n² + 2n",
+        "option4": "n² + 3n",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the value of sin(75°) + cos(75°)?",
+        "option1": "√2/2",
+        "option2": "1/√2",
+        "option3": "√3/2",
+        "option4": "1/2",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 29 and 41, what is the smallest such number?",
+        "option1": "1189",
+        "option2": "1199",
+        "option3": "1209",
+        "option4": "1219",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the smallest prime number that is also a perfect square?",
+        "option1": "1",
+        "option2": "4",
+        "option3": "9",
+        "option4": "16",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 3, 5, and 7, what is the smallest such number?",
+        "option1": "35",
+        "option2": "105",
+        "option3": "315",
+        "option4": "525",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the product of the first 5 prime numbers excluding 2?",
+        "option1": "105",
+        "option2": "231",
+        "option3": "315",
+        "option4": "385",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₄(x) - log₂(x) = 1, what is the value of x?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "8",
+        "option4": "16",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the 12th term in the sequence: 1, 4, 9, 16, ...?",
+        "option1": "144",
+        "option2": "169",
+        "option3": "196",
+        "option4": "225",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is divisible by 13 and 17, what is the smallest such number?",
+        "option1": "221",
+        "option2": "221",
+        "option3": "221",
+        "option4": "221",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of tan(60°) + cot(30°)?",
+        "option1": "√3",
+        "option2": "3",
+        "option3": "2√3",
+        "option4": "√3/3",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If n is an odd integer, what is the sum of three consecutive odd integers?",
+        "option1": "3n",
+        "option2": "3n + 3",
+        "option3": "3n + 6",
+        "option4": "3n + 9",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the value of sin(30°) * tan(45°) * cos(60°)?",
+        "option1": "1/2",
+        "option2": "√3/2",
+        "option3": "1",
+        "option4": "√2/2",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₅(x) + log₂(x) = 4, what is the value of x?",
+        "option1": "5",
+        "option2": "10",
+        "option3": "20",
+        "option4": "25",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the sum of the first 100 positive integers?",
+        "option1": "5050",
+        "option2": "5150",
+        "option3": "5250",
+        "option4": "5350",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of the infinite sum: 1 + 1/2! + 1/3! + 1/4! + ...?",
+        "option1": "e",
+        "option2": "π",
+        "option3": "2",
+        "option4": "3",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₃(x) + log₃(x^2) = 3, what is the value of x?",
+        "option1": "3",
+        "option2": "9",
+        "option3": "27",
+        "option4": "81",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the 10th term in the Fibonacci sequence?",
+        "option1": "34",
+        "option2": "55",
+        "option3": "89",
+        "option4": "144",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is divisible by 15 and 18, what is the smallest such number?",
+        "option1": "90",
+        "option2": "120",
+        "option3": "135",
+        "option4": "180",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of 2^(2^2) + 2^(2^3) + 2^(2^4)?",
+        "option1": "256",
+        "option2": "512",
+        "option3": "1024",
+        "option4": "2048",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a number is a perfect cube and a perfect square, what is the number?",
+        "option1": "1",
+        "option2": "4",
+        "option3": "9",
+        "option4": "16",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of sin(45°) + cos(45°)?",
+        "option1": "1",
+        "option2": "√2",
+        "option3": "2",
+        "option4": "√3",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 17 and 19, what is the smallest such number?",
+        "option1": "323",
+        "option2": "361",
+        "option3": "391",
+        "option4": "437",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the remainder when 2^100 is divided by 101?",
+        "option1": "1",
+        "option2": "50",
+        "option3": "75",
+        "option4": "100",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the smallest positive integer that is both a square and a cube?",
+        "option1": "1",
+        "option2": "4",
+        "option3": "8",
+        "option4": "16",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If a number is divisible by 9, what is the sum of its digits?",
+        "option1": "9",
+        "option2": "18",
+        "option3": "27",
+        "option4": "36",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the value of 4 factorial (4!)?",
+        "option1": "12",
+        "option2": "24",
+        "option3": "48",
+        "option4": "96",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 6 and 8, what is the smallest such number?",
+        "option1": "12",
+        "option2": "24",
+        "option3": "36",
+        "option4": "48",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of 0.75 as a fraction in simplest form?",
+        "option1": "3/4",
+        "option2": "2/3",
+        "option3": "4/5",
+        "option4": "5/6",
+        "correctOption": "option1"
+    },
+    {
+        "question": "In the Roman numeral system, what is the value of 'D'?",
+        "option1": "500",
+        "option2": "1000",
+        "option3": "50",
+        "option4": "100",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the sum of the first 50 natural numbers?",
+        "option1": "1225",
+        "option2": "1275",
+        "option3": "1325",
+        "option4": "1375",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 4 and 5, what is it also divisible by?",
+        "option1": "2",
+        "option2": "3",
+        "option3": "6",
+        "option4": "10",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the product of the first five prime numbers?",
+        "option1": "30",
+        "option2": "120",
+        "option3": "210",
+        "option4": "300",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 11 and 13, what is the smallest such number?",
+        "option1": "143",
+        "option2": "169",
+        "option3": "187",
+        "option4": "221",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the result of 2 to the power of 4?",
+        "option1": "6",
+        "option2": "8",
+        "option3": "12",
+        "option4": "16",
+        "correctOption": "option4"
+    },
+    {
+        "question": "If a number is divisible by 5 and 7, what is the smallest such number?",
+        "option1": "25",
+        "option2": "35",
+        "option3": "49",
+        "option4": "70",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the value of 3.14 to two decimal places?",
+        "option1": "3.13",
+        "option2": "3.14",
+        "option3": "3.15",
+        "option4": "3.16",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the next prime number after 20?",
+        "option1": "21",
+        "option2": "23",
+        "option3": "25",
+        "option4": "27",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a rectangle has a perimeter of 18 and length of 5, what is its width?",
+        "option1": "3",
+        "option2": "4",
+        "option3": "5",
+        "option4": "6",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the result of 7 multiplied by 9, minus 4?",
+        "option1": "55",
+        "option2": "57",
+        "option3": "59",
+        "option4": "61",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If x + 5 = 12, what is the value of x?",
+        "option1": "5",
+        "option2": "7",
+        "option3": "8",
+        "option4": "12",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "option1": "7",
+        "option2": "8",
+        "option3": "9",
+        "option4": "10",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If 2x + 3 = 11, what is the value of x?",
+        "option1": "3",
+        "option2": "4",
+        "option3": "5",
+        "option4": "6",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the result of 4 divided by 0.5?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "6",
+        "option4": "8",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the value of 5 + 7?",
+        "option1": "10",
+        "option2": "12",
+        "option3": "14",
+        "option4": "16",
+        "correctOption": "option3"
+    },
+    {
+        "question": "Which of the following is a prime number?",
+        "option1": "4",
+        "option2": "7",
+        "option3": "12",
+        "option4": "15",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the result of 8 multiplied by 3?",
+        "option1": "15",
+        "option2": "24",
+        "option3": "32",
+        "option4": "64",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the square of 9?",
+        "option1": "27",
+        "option2": "64",
+        "option3": "81",
+        "option4": "100",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the product of 5 and 6?",
+        "option1": "10",
+        "option2": "20",
+        "option3": "30",
+        "option4": "40",
+        "correctOption": "option3"
+    },
+    {
+        "question": "If a rectangle has length 8 and width 5, what is its area?",
+        "option1": "13",
+        "option2": "35",
+        "option3": "40",
+        "option4": "45",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the next number in the sequence: 2, 4, 6, 8, ...?",
+        "option1": "10",
+        "option2": "12",
+        "option3": "14",
+        "option4": "16",
+        "correctOption": "option4"
+    },
+    {
+        "question": "If a number is divisible by both 2 and 3, what is it also divisible by?",
+        "option1": "4",
+        "option2": "6",
+        "option3": "8",
+        "option4": "9",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the result of 15 divided by 3?",
+        "option1": "3",
+        "option2": "5",
+        "option3": "7",
+        "option4": "15",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the sum of the first five natural numbers?",
+        "option1": "10",
+        "option2": "15",
+        "option3": "20",
+        "option4": "25",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the smallest prime number greater than one million?",
+        "option1": "1000003",
+        "option2": "10000019",
+        "option3": "10000079",
+        "option4": "10000121",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If n! represents the factorial of a number, what is the units digit of 50!?",
+        "option1": "0",
+        "option2": "2",
+        "option3": "4",
+        "option4": "8",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the value of the infinite sum: 1 + 1/2 + 1/4 + 1/8 + ...?",
+        "option1": "2",
+        "option2": "1.5",
+        "option3": "1.75",
+        "option4": "2.5",
+        "correctOption": "option1"
+    },
+    {
+        "question": "In a geometric progression, if the first term is 3 and the common ratio is 2, what is the 8th term?",
+        "option1": "1536",
+        "option2": "768",
+        "option3": "384",
+        "option4": "192",
+        "correctOption": "option1"
+    },
+    {
+        "question": "If log₄(x) + log₈(x) = 2, what is the value of x?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "8",
+        "option4": "16",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the sum of the first 100 prime numbers?",
+        "option1": "2412",
+        "option2": "5410",
+        "option3": "7684",
+        "option4": "10433",
+        "correctOption": "option3"
+    },
+    {
+        "question": "In base-8 (octal), what is the product of 23 and 34?",
+        "option1": "754",
+        "option2": "1160",
+        "option3": "1422",
+        "option4": "1665",
+        "correctOption": "option4"
+    },
+    {
+        "question": "If log₂(x) = 3, what is the value of x?",
+        "option1": "6",
+        "option2": "8",
+        "option3": "12",
+        "option4": "16",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the remainder when 3^15 is divided by 7?",
+        "option1": "1",
+        "option2": "2",
+        "option3": "3",
+        "option4": "6",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is a perfect square and ends with the digit 6, what is its unit digit?",
+        "option1": "2",
+        "option2": "4",
+        "option3": "6",
+        "option4": "8",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the hexadecimal representation of the binary number 110110?",
+        "option1": "1A",
+        "option2": "16",
+        "option3": "36",
+        "option4": "1B",
+        "correctOption": "option4"
+    },
+    {
+        "question": "Which of the following is a composite number?",
+        "option1": "11",
+        "option2": "13",
+        "option3": "15",
+        "option4": "21",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the value of π (pi) to two decimal places?",
+        "option1": "3.14",
+        "option2": "3.15",
+        "option3": "3.16",
+        "option4": "3.13",
+        "correctOption": "option1"
+    },
+    {
+        "question": "In the octal system, what does the digit '7' represent?",
+        "option1": "4",
+        "option2": "5",
+        "option3": "6",
+        "option4": "7",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the LCM (Least Common Multiple) of 4 and 6?",
+        "option1": "8",
+        "option2": "10",
+        "option3": "12",
+        "option4": "24",
+        "correctOption": "option3"
+    },
+    {
+        "question": "Simplify: (2/3) * (5/4)",
+        "option1": "5/6",
+        "option2": "5/8",
+        "option3": "5/12",
+        "option4": "10/12",
+        "correctOption": "option2"
+    },
+    {
+        "question": "Which of the following is an irrational number?",
+        "option1": "√9",
+        "option2": "√16",
+        "option3": "√25",
+        "option4": "√27",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the value of 2^5 (2 raised to the power of 5)?",
+        "option1": "32",
+        "option2": "64",
+        "option3": "128",
+        "option4": "256",
+        "correctOption": "option2"
+    },
+    {
+        "question": "If a number is divisible by 9, what is the sum of its digits?",
+        "option1": "9",
+        "option2": "18",
+        "option3": "27",
+        "option4": "36",
+        "correctOption": "option1"
+    },
+    {
+        "question": "What is the binary representation of the decimal number 25?",
+        "option1": "11001",
+        "option2": "10011",
+        "option3": "11101",
+        "option4": "10101",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the decimal representation of the binary number 1101?",
+        "option1": "10",
+        "option2": "13",
+        "option3": "15",
+        "option4": "17",
+        "correctOption": "option2"
+    },
+    {
+        "question": "Which of the following is a prime number?",
+        "option1": "4",
+        "option2": "7",
+        "option3": "12",
+        "option4": "15",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "option1": "6",
+        "option2": "8",
+        "option3": "10",
+        "option4": "12",
+        "correctOption": "option2"
+    },
+    {
+        "question": "In Roman numerals, what does 'X' represent?",
+        "option1": "5",
+        "option2": "10",
+        "option3": "15",
+        "option4": "20",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the product of the first three prime numbers?",
+        "option1": "2",
+        "option2": "6",
+        "option3": "30",
+        "option4": "210",
+        "correctOption": "option3"
+    },
+    {
+        "question": "Convert the decimal number 25 to binary.",
+        "option1": "10001",
+        "option2": "11001",
+        "option3": "11101",
+        "option4": "10101",
+        "correctOption": "option4"
+    },
+    {
+        "question": "What is the sum of the first 10 natural numbers?",
+        "option1": "45",
+        "option2": "55",
+        "option3": "65",
+        "option4": "75",
+        "correctOption": "option2"
+    },
+    {
+        "question": "Express the fraction 3/4 as a decimal.",
+        "option1": "0.25",
+        "option2": "0.5",
+        "option3": "0.75",
+        "option4": "1.0",
+        "correctOption": "option3"
+    },
+    {
+        "question": "Which of the following is not a rational number?",
+        "option1": "0.75",
+        "option2": "√2",
+        "option3": "1.5",
+        "option4": "2.25",
+        "correctOption": "option2"
+    },
+    {
+        "question": "What is the next number in the sequence: 2, 5, 10, 17, ...?",
+        "option1": "24",
+        "option2": "25",
+        "option3": "26",
+        "option4": "27",
+        "correctOption": "option3"
+    },
+    {
+        "question": "What is the decimal representation of the binary number 1101?",
+        "option1": "10",
+        "option2": "13",
+        "option3": "15",
+        "option4": "17",
+        "correctOption": "option2"
+    }
+]
